@@ -1,0 +1,438 @@
+{
+ "slug": "legacy-restaurants",
+ "section": "discover",
+ "title": "Legacy tables",
+ "headline": "Where Italy has eaten for generations",
+ "tagline": "Grand cafés, century-old trattorie, Neapolitan pizzerias, pastry shops and wine bars that have fed Italians for generations, and still open their doors every morning.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Venezia_-_Caff%C3%A8_Florian_-_interior.jpg/1280px-Venezia_-_Caff%C3%A8_Florian_-_interior.jpg",
+  "alt": "A mirrored and gilded room inside Caffè Florian in Venice",
+  "credit": "Jorge Franganillo, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AVenezia_-_Caff%C3%A8_Florian_-_interior.jpg"
+ },
+ "intro": [
+  "Some of the best meals in Italy come with a history lesson on the side. Casanova drank in a Venetian wine cellar that still pours from the same counter; Cavour plotted unification over hot chocolate in Turin; the margherita was named in a Neapolitan pizzeria that still fires the same kind of oven. These places have outlived kingdoms, wars and fashions because they did one thing well and kept doing it.",
+  "Every address here is still open and serving, verified for 2026, with the year its story began. Many belong to the Locali Storici d'Italia association, which has championed historic cafés and restaurants since the 1970s. Go for breakfast at the counter rather than an expensive table, order the house speciality, and look up at the ceilings: some of Italy's finest interiors come with a cappuccino."
+ ],
+ "sections": [
+  {
+   "heading": "The grand cafés",
+   "intro": "Mirrors, marble and two centuries of conversation. These are the most famous, and they're worth the table price at least once.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Caffè Florian",
+     "subtitle": "Venice, Veneto",
+     "desc": "Opened under the arcades of Piazza San Marco in 1720 as 'Alla Venezia Trionfante', Florian is Italy's oldest café still in business. Casanova, Goethe, Byron and Dickens all took a table in its little mirrored and frescoed rooms. Order a hot chocolate in winter, and in summer listen to the orchestra playing on the square.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/9623_-_Venezia_-_Caff%C3%A8_Florian_-_Foto_Giovanni_Dall%27Orto%2C_12-Aug-2007.jpg/1280px-9623_-_Venezia_-_Caff%C3%A8_Florian_-_Foto_Giovanni_Dall%27Orto%2C_12-Aug-2007.jpg",
+      "alt": "The shopfront of Caffè Florian under the arcades of Piazza San Marco",
+      "credit": "Unknown author, Attribution, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A9623_-_Venezia_-_Caff%C3%A8_Florian_-_Foto_Giovanni_Dall%27Orto%2C_12-Aug-2007.jpg"
+     },
+     "meta": "Since 1720",
+     "region": "veneto",
+     "url": "https://caffeflorian.com/",
+     "url_label": "Caffè Florian"
+    },
+    {
+     "title": "Caffè Al Bicerin",
+     "subtitle": "Turin, Piedmont",
+     "desc": "A tiny room of wood panelling, mirrors and eight marble tables, facing the Consolata sanctuary since 1763. Its namesake drink layers chocolate, coffee and cream in a small glass. Cavour came here while waiting for the royal family to finish Mass; you'll wait for a table on Sunday mornings.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Torino_2007_83_%288192127259%29.jpg/1280px-Torino_2007_83_%288192127259%29.jpg",
+      "alt": "Caffè Al Bicerin's shopfront and outdoor tables on Piazza della Consolata in Turin",
+      "credit": "Alain Rouiller, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATorino_2007_83_%288192127259%29.jpg"
+     },
+     "meta": "Since 1763",
+     "region": "piedmont",
+     "url": "https://bicerin.it/",
+     "url_label": "Caffè Al Bicerin"
+    },
+    {
+     "title": "Caffè Pedrocchi",
+     "subtitle": "Padua, Veneto",
+     "desc": "A neoclassical temple to coffee opened by Antonio Pedrocchi in 1831, with red, white and green salons. It stayed open day and night for decades, earning the name 'the café without doors', and Padua's students rose against Austrian rule here in 1848. Order the minty caffè Pedrocchi and don't stir it.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Padova%2C_caff%C3%A9_pedrocchi.JPG/1280px-Padova%2C_caff%C3%A9_pedrocchi.JPG",
+      "alt": "Caffè Pedrocchi and its Gothic-revival Pedrocchino wing in Padua",
+      "credit": "sailko, CC BY 2.5, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APadova%2C_caff%C3%A9_pedrocchi.JPG"
+     },
+     "meta": "Since 1831",
+     "region": "veneto",
+     "url": "https://www.caffepedrocchi.it/",
+     "url_label": "Caffè Pedrocchi"
+    },
+    {
+     "title": "Gran Caffè Gambrinus",
+     "subtitle": "Naples, Campania",
+     "desc": "Naples' grand salon on Piazza del Plebiscito, opened in 1860 and dressed in Belle Époque stucco and paintings. D'Annunzio and Oscar Wilde were regulars. Stand at the bar for a scalding espresso and a sfogliatella, and leave a caffè sospeso, a prepaid coffee for the next person who can't afford one.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Napoli_-_Il_Bar_Gambrinus.jpg/1280px-Napoli_-_Il_Bar_Gambrinus.jpg",
+      "alt": "The terrace of Gran Caffè Gambrinus on Piazza Trieste e Trento in Naples",
+      "credit": "Armando Mancini, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANapoli_-_Il_Bar_Gambrinus.jpg"
+     },
+     "meta": "Since 1860",
+     "region": "campania"
+    },
+    {
+     "title": "Caffè degli Specchi",
+     "subtitle": "Trieste, Friuli-Venezia Giulia",
+     "desc": "Opened in 1839 on Piazza Unità d'Italia, the vast square that opens straight onto the Adriatic. The 'café of mirrors' has watched Trieste pass from Habsburg port to Italian city. Order a 'capo in b' in local coffee code and sit outside facing the sea.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Caffe_degli_Specchi.JPG/1280px-Caffe_degli_Specchi.JPG",
+      "alt": "Rows of outdoor tables of Caffè degli Specchi on Piazza Unità d'Italia in Trieste",
+      "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACaffe_degli_Specchi.JPG"
+     },
+     "meta": "Since 1839",
+     "region": "friuli-venezia-giulia",
+     "url": "https://www.caffespecchi.it/",
+     "url_label": "Caffè degli Specchi"
+    }
+   ]
+  },
+  {
+   "heading": "More historic cafés",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Caffè Gilli",
+     "subtitle": "Florence, Tuscany",
+     "desc": "Started by a Swiss family in 1733 as a sweet bakery near the Duomo, Gilli moved to Piazza della Repubblica in the early twentieth century. Mirrors, chocolates in glass cabinets and the city's classic terrace for an aperitivo.",
+     "meta": "Since 1733",
+     "region": "tuscany",
+     "url": "https://www.caffegilli.com/en"
+    },
+    {
+     "title": "Antico Caffè San Marco",
+     "subtitle": "Trieste, Friuli-Venezia Giulia",
+     "desc": "A Viennese-style coffee house of 1914, with dark wood, mask-painted walls and a bookshop inside. Writers still work at its marble tables; Claudio Magris made it famous in his essays.",
+     "meta": "Since 1914",
+     "region": "friuli-venezia-giulia",
+     "url": "https://www.caffesanmarco.com/"
+    },
+    {
+     "title": "Baratti & Milano",
+     "subtitle": "Turin, Piedmont",
+     "desc": "Confectioners since 1858 and in the glass-roofed Galleria Subalpina since 1875. Buy gianduiotti from the carved wooden counters, then take a vermouth in the gilded café.",
+     "meta": "Since 1858",
+     "region": "piedmont",
+     "url": "https://www.barattiemilano.it/"
+    },
+    {
+     "title": "Caffè Mulassano",
+     "subtitle": "Turin, Piedmont",
+     "desc": "A jewel box of marble, mirrors and coffered ceiling on Piazza Castello, open since 1907. A plaque inside says the tramezzino, Italy's crustless sandwich, was invented here in 1926.",
+     "meta": "Since 1907",
+     "region": "piedmont",
+     "url": "https://www.caffemulassano.com/"
+    },
+    {
+     "title": "Caffè Rivoire",
+     "subtitle": "Florence, Tuscany",
+     "desc": "Founded in 1872 by a chocolatier to the House of Savoy, facing the Palazzo Vecchio on Piazza della Signoria. Its thick hot chocolate, with or without cream, is the reason to come.",
+     "meta": "Since 1872",
+     "region": "tuscany",
+     "url": "https://rivoire.it/"
+    },
+    {
+     "title": "Sant'Eustachio Il Caffè",
+     "subtitle": "Rome, Lazio",
+     "desc": "Since 1938 a few steps from the Pantheon, still roasting its beans over wood. The famous 'gran caffè' comes pre-sweetened with a dense crema made behind a screen: ask for it 'amaro' if you don't take sugar.",
+     "meta": "Since 1938",
+     "region": "lazio"
+    },
+    {
+     "title": "Caffè Meletti",
+     "subtitle": "Ascoli Piceno, Marche",
+     "desc": "An Art Nouveau café on one of Italy's loveliest squares, Piazza del Popolo, open since 1907. Order the house anisetta 'con la mosca', with a few coffee beans floating in it.",
+     "meta": "Since 1907",
+     "region": "marche",
+     "url": "https://www.caffemeletti.it/"
+    },
+    {
+     "title": "Antico Caffè Spinnato",
+     "subtitle": "Palermo, Sicily",
+     "desc": "On pedestrian Via Principe di Belmonte since 1860, Spinnato is where Palermitans go for granita and brioche in summer, and for cassata and cannoli all year round.",
+     "meta": "Since 1860",
+     "region": "sicily",
+     "url": "https://www.spinnato.it/"
+    },
+    {
+     "title": "Antico Caffè",
+     "subtitle": "Cagliari, Sardinia",
+     "desc": "Cagliari's historic café on Piazza Costituzione, below the Bastione di Saint Remy. Its story begins in 1838 and its name in 1855, when it became the Caffè Genovese; the panelled rooms still keep that era's charm.",
+     "meta": "Since 1855",
+     "region": "sardinia",
+     "url": "https://anticocaffe1855.it/"
+    }
+   ]
+  },
+  {
+   "heading": "Trattorie, osterie and restaurants",
+   "intro": "Tablecloths, old waiters and the dishes the house has been making for a century or more.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Del Cambio",
+     "subtitle": "Turin, Piedmont",
+     "desc": "Turin's grandest dining room, opposite the Palazzo Carignano where Italy's first parliament met. Red velvet, crystal and a plaque at Cavour's table. Today it's a Michelin-starred restaurant with a more casual bistro and bar alongside.",
+     "meta": "Since 1757",
+     "region": "piedmont",
+     "url": "https://delcambio.it/"
+    },
+    {
+     "title": "Antica Trattoria della Pesa",
+     "subtitle": "Milan, Lombardy",
+     "desc": "A wood-panelled trattoria near Porta Garibaldi serving Milan's classics since 1880: saffron risotto, ossobuco with gremolata and a cotoletta alla milanese pounded thin and fried in butter.",
+     "meta": "Since 1880",
+     "region": "lombardy",
+     "url": "https://www.anticatrattoriadellapesa.com/"
+    },
+    {
+     "title": "Hosteria Giusti",
+     "subtitle": "Modena, Emilia-Romagna",
+     "desc": "The Giusti deli has sold salumi on the same street since 1605, often called the oldest in the world. In 1989 the old curing room behind it became a tiny hosteria of a few tables; book weeks ahead for tortellini, cotechino and aged balsamic.",
+     "meta": "Since 1605",
+     "region": "emilia-romagna",
+     "url": "https://hosteriagiusti.it/"
+    },
+    {
+     "title": "Trattoria Sostanza",
+     "subtitle": "Florence, Tuscany",
+     "desc": "A narrow room of shared marble tables, white tiles and old photographs, cooking since 1869. Order the butter chicken, sizzling in its own pan, and the artichoke tortino. Book ahead and bring cash.",
+     "meta": "Since 1869",
+     "region": "tuscany"
+    },
+    {
+     "title": "Buca Lapi",
+     "subtitle": "Florence, Tuscany",
+     "desc": "In the vaulted cellars of Palazzo Antinori since 1880, under walls papered with old travel posters. Come hungry for a bistecca alla fiorentina sold by weight.",
+     "meta": "Since 1880",
+     "region": "tuscany",
+     "url": "http://www.bucalapi.com/it/"
+    },
+    {
+     "title": "La Campana",
+     "subtitle": "Rome, Lazio",
+     "desc": "Often called Rome's oldest restaurant, on the lane near Piazza Navona that took its name, with records going back to the early sixteenth century. Waiters in white jackets bring carciofi alla romana, vignarola in spring and coda alla vaccinara.",
+     "meta": "Since c. 1518",
+     "region": "lazio",
+     "url": "https://www.turismoroma.it/en/hospitality/la-campana-ristorante-dal-1518",
+     "url_label": "Turismo Roma"
+    },
+    {
+     "title": "Checchino dal 1887",
+     "subtitle": "Rome, Lazio",
+     "desc": "Facing Testaccio's old slaughterhouse, the Mariani family have cooked the quinto quarto, Rome's offal tradition, since 1887. The wine cellar is dug into Monte Testaccio, an ancient hill of broken Roman amphorae.",
+     "meta": "Since 1887",
+     "region": "lazio",
+     "url": "https://checchinodal1887.com/"
+    },
+    {
+     "title": "Antica Focacceria San Francesco",
+     "subtitle": "Palermo, Sicily",
+     "desc": "Facing the church of San Francesco d'Assisi since 1834, with marble tables and a cast-iron stove. Eat pani ca' meusa, arancine and panelle; the owners famously refused to pay mafia protection money.",
+     "meta": "Since 1834",
+     "region": "sicily",
+     "url": "https://www.anticafocacceria.it/"
+    }
+   ]
+  },
+  {
+   "heading": "Pizzerias of Naples",
+   "intro": "The four addresses that tell pizza's story. Expect queues, paper tickets and the best fifteen minutes of your trip.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Antica Pizzeria Port'Alba",
+     "subtitle": "Naples, Campania",
+     "desc": "Under the old city gate of Port'Alba, among the booksellers, this began in 1738 as a stand supplying street vendors with marinara pizzas to sell around town. Often called the world's oldest pizzeria.",
+     "meta": "Since 1738",
+     "region": "campania",
+     "url": "https://www.anticapizzeriaportalba.com/"
+    },
+    {
+     "title": "Pizzeria Brandi",
+     "subtitle": "Naples, Campania",
+     "desc": "Founded in 1760, this is where pizzaiolo Raffaele Esposito made a pizza in the colours of the flag, tomato, mozzarella and basil, for Queen Margherita in 1889. A plaque by the door marks the birth of the margherita.",
+     "meta": "Since 1760",
+     "region": "campania",
+     "url": "https://pizzeriabrandi.com/"
+    },
+    {
+     "title": "L'Antica Pizzeria da Michele",
+     "subtitle": "Naples, Campania",
+     "desc": "Since 1870 the Condurro family have served just two pizzas, marinara and margherita, on marble tables near Forcella. Take a number at the door; the wait is part of the ritual.",
+     "meta": "Since 1870",
+     "region": "campania",
+     "url": "https://www.damichele.net/"
+    },
+    {
+     "title": "Pizzeria Starita a Materdei",
+     "subtitle": "Naples, Campania",
+     "desc": "A neighbourhood institution since 1901, where Sophia Loren sold fried pizza in the 1954 film 'L'oro di Napoli'. Try the pizza fritta, then a classic from the wood oven.",
+     "meta": "Since 1901",
+     "region": "campania",
+     "url": "https://pizzeriestarita.it/"
+    }
+   ]
+  },
+  {
+   "heading": "Pastry shops and confectioners",
+   "intro": "Sweet shops that have kept their recipes, and often their counters, for generations.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Pasticceria Cova",
+     "subtitle": "Milan, Lombardy",
+     "desc": "Founded near La Scala in 1817 and now on Via Montenapoleone. Elegant cakes, panettone at Christmas and a stand-up coffee among Milan's best-dressed shoppers.",
+     "meta": "Since 1817",
+     "region": "lombardy",
+     "url": "https://www.pasticceriacova.com/"
+    },
+    {
+     "title": "Pietro Romanengo fu Stefano",
+     "subtitle": "Genoa, Liguria",
+     "desc": "Genoa's confectioners since 1780, making candied fruit, sugared almonds, rose syrup and violet sweets by hand, sold in a nineteenth-century shop in Via Soziglia.",
+     "meta": "Since 1780",
+     "region": "liguria",
+     "url": "https://romanengo.com/"
+    },
+    {
+     "title": "Klainguti",
+     "subtitle": "Genoa, Liguria",
+     "desc": "Opened by Swiss pastry makers in 1828 on Piazza Soziglia. Try the 'Falstaff' brioche, which Giuseppe Verdi is said to have praised as better than his own opera.",
+     "meta": "Since 1828",
+     "region": "liguria",
+     "url": "https://www.klainguti.it/"
+    },
+    {
+     "title": "Pasticceria Sandri",
+     "subtitle": "Perugia, Umbria",
+     "desc": "On Perugia's main street, Corso Vannucci, since 1860, with a frescoed vaulted ceiling, walnut cabinets and waiters in bow ties. Buy torcolo or seasonal sweets.",
+     "meta": "Since 1860",
+     "region": "umbria",
+     "url": "https://sandridal1860.it/"
+    },
+    {
+     "title": "Confetti Pelino",
+     "subtitle": "Sulmona, Abruzzo",
+     "desc": "Sulmona is Italy's capital of confetti, the sugared almonds given at weddings, and the Pelino family has made them since 1783. Visit the factory museum, then buy them shaped into flowers.",
+     "meta": "Since 1783",
+     "region": "abruzzo",
+     "url": "https://www.pelino.it/"
+    },
+    {
+     "title": "Pasticceria Regoli",
+     "subtitle": "Rome, Lazio",
+     "desc": "A family pastry shop near Piazza Vittorio since 1916, the benchmark for maritozzi, soft buns split and filled with whipped cream to order. On weekends they're gone by late morning.",
+     "meta": "Since 1916",
+     "region": "lazio"
+    },
+    {
+     "title": "Pintauro",
+     "subtitle": "Naples, Campania",
+     "desc": "The name most linked with the sfogliatella, on Via Toledo since 1785. After a long closure it reopened in spring 2026 with its historic interior restored; order a riccia, still warm.",
+     "meta": "Since 1785",
+     "region": "campania"
+    },
+    {
+     "title": "Gay-Odin",
+     "subtitle": "Naples, Campania",
+     "desc": "Naples' chocolate makers since 1894. The Via Toledo shop keeps its Liberty-style furnishings; buy the 'Foresta', chocolate shaped like a gnarled tree branch.",
+     "meta": "Since 1894",
+     "region": "campania",
+     "url": "https://gay-odin.it/"
+    },
+    {
+     "title": "Pasticceria Ascalone",
+     "subtitle": "Galatina, Puglia",
+     "desc": "Family tradition says the pasticciotto, Salento's custard-filled shortcrust pastry, was born in this shop in 1745. Whatever the date, eat one warm for breakfast.",
+     "meta": "Since 1745 (by tradition)",
+     "region": "puglia"
+    },
+    {
+     "title": "Caffè Sicilia",
+     "subtitle": "Noto, Sicily",
+     "desc": "On Noto's Baroque main street since 1892, famous for almond granita, cassata and honey-and-citrus creations by pastry chef Corrado Assenza.",
+     "meta": "Since 1892",
+     "region": "sicily",
+     "url": "https://www.caffesicilia.it/"
+    },
+    {
+     "title": "Café Konditorei König",
+     "subtitle": "Merano, Trentino-Alto Adige",
+     "desc": "Founded in 1893 by a pastry chef trained at Vienna's court confectioners, and run by the König family ever since. Viennese cakes and house-made pralines in a spa town that still feels Habsburg.",
+     "meta": "Since 1893",
+     "region": "trentino-alto-adige"
+    }
+   ]
+  },
+  {
+   "heading": "Wine bars, bacari and buffets",
+   "intro": "The oldest places of all are the ones that mostly served wine.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Al Brindisi",
+     "subtitle": "Ferrara, Emilia-Romagna",
+     "desc": "Behind Ferrara cathedral, documented as a tavern in 1435 and often called the oldest osteria in the world. Legend says Copernicus lodged here as a student. Sit under the hams with a glass of local wine and cappellacci di zucca.",
+     "meta": "Since 1435",
+     "region": "emilia-romagna",
+     "url": "https://www.albrindisi.net/"
+    },
+    {
+     "title": "Cantina Do Mori",
+     "subtitle": "Venice, Veneto",
+     "desc": "Venice's oldest bacaro, in business near the Rialto since 1462, with copper pots hanging from dark beams. Stand at the counter for an ombra of wine and 'francobolli', stamp-sized sandwiches. Cash only.",
+     "meta": "Since 1462",
+     "region": "veneto"
+    },
+    {
+     "title": "Osteria del Sole",
+     "subtitle": "Bologna, Emilia-Romagna",
+     "desc": "A wine-only osteria in the Quadrilatero since 1465. It sells nothing but wine: bring your own mortadella, cheese and bread from the market stalls outside, as Bolognese have done for centuries.",
+     "meta": "Since 1465",
+     "region": "emilia-romagna",
+     "url": "https://osteriadelsole.it/"
+    },
+    {
+     "title": "Buffet da Pepi",
+     "subtitle": "Trieste, Friuli-Venezia Giulia",
+     "desc": "Trieste's classic 'buffet' since 1897, where pork of every cut simmers in a steaming caldaia. Point at what you want and have it carved with mustard, freshly grated horseradish and sauerkraut, with a beer.",
+     "meta": "Since 1897",
+     "region": "friuli-venezia-giulia"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Many historic cafés charge much more at a table than at the counter; for the experience without the bill, drink standing at the bar.",
+  "The famous pizzerias of Naples don't take bookings: go at opening time, around noon or 7pm, or expect to queue.",
+  "Old trattorie often close one or two days a week and for part of August; check before you travel across town.",
+  "Small historic places often prefer cash, so carry some euros.",
+  "Look for the Locali Storici d'Italia plaque by the door: it's a reliable sign of a place with real history."
+ ],
+ "links": [
+  {
+   "label": "Locali Storici d'Italia",
+   "url": "https://www.localistorici.it/",
+   "desc": "The association of Italy's historic cafés, restaurants and hotels, with a searchable guide"
+  },
+  {
+   "label": "Turismo Roma: La Campana",
+   "url": "https://www.turismoroma.it/en/hospitality/la-campana-ristorante-dal-1518",
+   "desc": "Rome tourism board listing for one of the city's oldest restaurants"
+  },
+  {
+   "label": "Antico Caffè 1855, Cagliari",
+   "url": "https://www.italia.it/en/sardegna/cagliari/where-to-eat/antico-caffe-1855",
+   "desc": "Italy's official tourism portal on Cagliari's historic café"
+  }
+ ]
+}

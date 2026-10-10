@@ -1,0 +1,317 @@
+{
+ "slug": "umbria",
+ "name": "Umbria",
+ "italian_name": "Umbria",
+ "area": "central",
+ "capital": "Perugia",
+ "tagline": "Italy's green heart: saints, truffles and hill towns floating above the morning mist.",
+ "intro": [
+  "Umbria is the only region of mainland Italy with neither a coastline nor a foreign border, and it makes up for it with hills. A medieval town crowns almost every ridge: Assisi glowing pink above the Spoleto valley, Perugia sprawled across its acropolis, Orvieto stranded on a block of volcanic tuff. In between run olive groves, sunflower fields and oak woods where black truffles grow, threaded by the slow green Tiber.",
+  "It is quieter and slower than neighbouring Tuscany, and people come for exactly that. Lunch is Castelluccio lentils, strangozzi under shaved truffle and a glass of Sagrantino; evenings are for the passeggiata along Perugia's Corso Vannucci or a late set at Umbria Jazz. Spring brings the flowering of the Piano Grande, summer the Spoleto festival, and autumn the olive harvest and the first green oil from the mills around Trevi."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_fioritura_di_Castelluccio_da_Norcia.jpg/1280px-La_fioritura_di_Castelluccio_da_Norcia.jpg",
+  "alt": "Fields of red poppies, blue cornflowers and yellow flowers blooming on the Piano Grande at Castelluccio di Norcia",
+  "credit": "Marcobranchi, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ALa_fioritura_di_Castelluccio_da_Norcia.jpg"
+ },
+ "known_for": [
+  "Saint Francis and Assisi",
+  "Black truffles",
+  "Sagrantino di Montefalco",
+  "Medieval hill towns",
+  "Norcia's pork butchers",
+  "Umbria Jazz",
+  "Lake Trasimeno"
+ ],
+ "best_time": "Late May to mid-July for the Castelluccio flowering, the Corpus Domini flower carpets and the Spoleto festival; October and November for truffles, chestnuts, new olive oil and Eurochocolate in Perugia. Winter is quiet and atmospheric, especially in Assisi.",
+ "getting_there": "Perugia's small San Francesco d'Assisi airport has limited flights, so most visitors fly into Rome or Florence. Orvieto sits on the main Florence-Rome rail line, and regional trains link Perugia, Assisi, Spello, Foligno, Spoleto and Terni. For Montefalco, Norcia, the Valnerina and the countryside, rent a car.",
+ "places": [
+  {
+   "name": "Assisi",
+   "desc": "Saint Francis's hometown moves even visitors who aren't religious. See the fresco cycle of the saint's life in the Upper Basilica, walk across town to Santa Chiara and the Romanesque cathedral of San Rufino, then climb to the Rocca Maggiore for the view over the valley. Stay the night: once the coaches leave, the pink stone lanes fall silent.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BasilicaDiSanFrancescoAssisiMar262024_03.jpg/1280px-BasilicaDiSanFrancescoAssisiMar262024_03.jpg",
+    "alt": "Assisi and the Basilica of San Francesco on the slope of Monte Subasio above olive groves, seen from the air",
+    "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABasilicaDiSanFrancescoAssisiMar262024_03.jpg"
+   }
+  },
+  {
+   "name": "Perugia",
+   "desc": "Umbria's lively capital is a university city on a hilltop, reached by escalators that run through the buried streets of the Rocca Paolina. Corso Vannucci runs from the Palazzo dei Priori, with Perugino's frescoed Collegio del Cambio, to the Fontana Maggiore. Come in the evening, when the whole town walks it, and see the Etruscan Arch.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Perugia_-_palazzo_priori_1.jpg/1280px-Perugia_-_palazzo_priori_1.jpg",
+    "alt": "Palazzo dei Priori and the Fontana Maggiore on Perugia's main square",
+    "credit": "Greymouser, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APerugia_-_palazzo_priori_1.jpg"
+   }
+  },
+  {
+   "name": "Orvieto",
+   "desc": "Orvieto rises from a cliff of volcanic tuff above the vineyards that make its white wine. The cathedral façade glitters with gold mosaic, and inside, the San Brizio chapel holds Luca Signorelli's apocalyptic frescoes. Below the town lies a warren of Etruscan and medieval caves, and you can walk down the 248 steps of the Pozzo di San Patrizio.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Panorama_di_Orvieto.jpg/1280px-Panorama_di_Orvieto.jpg",
+    "alt": "Orvieto perched on its tuff cliff above vineyards and cypresses",
+    "credit": "NikonZ7II, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanorama_di_Orvieto.jpg"
+   }
+  },
+  {
+   "name": "Spoleto",
+   "desc": "Home of the Festival dei Due Mondi, Spoleto wears its Roman, medieval and baroque layers lightly. Follow the path around the Rocca Albornoz to the Ponte delle Torri, a 14th-century aqueduct bridge some 80 metres above the gorge, and see Filippo Lippi's frescoed apse in the cathedral. The holm-oak woods of Monteluco rise just above town.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Spoleto023.jpg/1280px-Spoleto023.jpg",
+    "alt": "The tall stone arches of the Ponte delle Torri spanning a wooded gorge in Spoleto",
+    "credit": "JoJan, CC BY 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASpoleto023.jpg"
+   }
+  },
+  {
+   "name": "Gubbio",
+   "desc": "A grey-stone town climbing the slopes of Monte Ingino, all steep lanes and the vast Palazzo dei Consoli looming over a hanging piazza. Ride the funivia, an open standing basket on a cable, up to the basilica of Sant'Ubaldo, and see the Eugubine Tables, bronze tablets inscribed in the ancient Umbrian language.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gubbio_panorama.jpg/1280px-Gubbio_panorama.jpg",
+    "alt": "Panorama of Gubbio's stone houses and palazzi at the foot of Monte Ingino",
+    "credit": "Labicanense, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGubbio_panorama.jpg"
+   }
+  },
+  {
+   "name": "Montefalco",
+   "desc": "Nicknamed the 'balcony of Umbria', this small walled town looks across the whole valley from Perugia to Spoleto, with Sagrantino vineyards on every side. In the church-museum of San Francesco, Benozzo Gozzoli's fresco cycle of the saint's life is a quiet marvel; afterwards, taste Sagrantino and Montefalco Rosso at a family cantina.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/MontefalcoMar272024_07.jpg/1280px-MontefalcoMar272024_07.jpg",
+    "alt": "Aerial view of the walled hill town of Montefalco surrounded by vineyards and olive groves",
+    "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMontefalcoMar272024_07.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Watch the Marmore Falls switched on",
+   "desc": "The Romans built this 165-metre, three-tier waterfall near Terni by diverting the Velino river, and today the flow is regulated for hydroelectric power. Check the schedule and be there when the sluices open: the roar is the point."
+  },
+  {
+   "title": "Go truffle hunting near Norcia",
+   "desc": "Head into the oak woods around Norcia or Spoleto with a truffle hunter and his dog. Black winter truffles are in season roughly December to March; the milder summer scorzone from late spring."
+  },
+  {
+   "title": "Walk up to the Eremo delle Carceri",
+   "desc": "Francis's hermitage hides in the holm-oak woods of Monte Subasio, about 4 km uphill from Assisi's Porta Cappuccini. Continue onto the bare summit meadows for views stretching to Perugia and Lake Trasimeno."
+  },
+  {
+   "title": "Shop the norcinerie of Norcia",
+   "desc": "Norcia gave Italy the word norcino, pork butcher. Browse the shops along Corso Sertorio hung with prosciutto di Norcia, wild boar salami and coglioni di mulo, and buy lentils from the Piano Grande."
+  },
+  {
+   "title": "Visit the springs of Clitunno",
+   "desc": "Willow-shaded spring pools near Campello sul Clitunno that Virgil and Byron praised, and just up the road the Tempietto del Clitunno, a tiny early-medieval temple-church that is part of the UNESCO Longobard sites."
+  },
+  {
+   "title": "Sail to Isola Polvese",
+   "desc": "A short ferry ride from San Feliciano takes you to Isola Polvese, the largest island on Lake Trasimeno and a nature park with a ruined castle, olive groves and a garden of aquatic plants designed by Pietro Porcinai."
+  },
+  {
+   "title": "Cycle the old Spoleto-Norcia railway",
+   "desc": "The narrow-gauge line closed in 1968 and is now a cycling and walking path through the Valnerina, with tunnels, spiral loops and viaducts. Bring lights for the long tunnels."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Strangozzi al tartufo nero",
+   "type": "dish",
+   "desc": "Hand-cut, square-edged pasta like thick bootlaces, tossed with olive oil, garlic and plenty of grated black truffle from Norcia or Spoleto."
+  },
+  {
+   "name": "Lenticchia di Castelluccio IGP",
+   "type": "dish",
+   "desc": "Tiny, thin-skinned lentils grown on the Piano Grande at around 1,400 metres. They need no soaking and are best in a simple soup or alongside sausages."
+  },
+  {
+   "name": "Prosciutto di Norcia IGP",
+   "type": "cured meat",
+   "desc": "A pear-shaped, peppery mountain ham, salted and aged in the cool, dry air of the Valnerina. Firmer and more savoury than Parma."
+  },
+  {
+   "name": "Torta al testo",
+   "type": "bread",
+   "desc": "Flat, unleavened bread cooked on a hot iron or stone 'testo', split and stuffed with sausage and greens or prosciutto and cheese. In Gubbio they call it crescia."
+  },
+  {
+   "name": "Porchetta",
+   "type": "dish",
+   "desc": "Whole pig boned, rubbed with wild fennel, garlic and pepper and slow-roasted; sold in crusty rolls from market vans all over Umbria."
+  },
+  {
+   "name": "Sagrantino di Montefalco DOCG",
+   "type": "wine",
+   "desc": "One of the world's most tannic reds, from a grape grown almost only around Montefalco: blackberry, spice and leather. Look out for the sweet passito version too."
+  },
+  {
+   "name": "Orvieto Classico",
+   "type": "wine",
+   "desc": "Fresh, gently almondy white from Grechetto and Procanico grapes grown on volcanic soils around Orvieto; once aged in the town's tuff caves."
+  },
+  {
+   "name": "Umbria DOP extra virgin olive oil",
+   "type": "olive oil",
+   "desc": "Pressed from Moraiolo olives on slopes like those between Assisi and Spoleto around Trevi: intensely green, bitter and peppery when new."
+  },
+  {
+   "name": "Baci Perugina",
+   "type": "sweet",
+   "desc": "Chocolate-and-hazelnut 'kisses' wrapped with love notes, made in Perugia since 1922. The Casa del Cioccolato Perugina at San Sisto has a museum and tours."
+  },
+  {
+   "name": "Rocciata",
+   "type": "sweet",
+   "desc": "Assisi and Foligno's rolled pastry filled with apples, walnuts, raisins and cinnamon, tinted red with alchermes and baked until crisp; an autumn and Christmas treat."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Granaro del Monte",
+   "city": "Norcia",
+   "since": "1850",
+   "desc": "Run by the same family since 1850 in the old Monte di Pietà and grain store, once a border inn for Neapolitan merchants. Come for Castelluccio lentils, farro soup and black truffle in almost every course.",
+   "url": "https://www.granarodelmonte.com/"
+  },
+  {
+   "name": "Pasticceria Sandri",
+   "city": "Perugia",
+   "since": "1860",
+   "desc": "Founded by a Swiss confectioner from the Engadine, with frescoed vaults and carved walnut cabinets on Corso Vannucci, still run by the founding family's descendants. Stand at the bar for a cappuccino and a pastry.",
+   "url": "https://sandridal1860.it/"
+  },
+  {
+   "name": "Taverna del Lupo",
+   "city": "Gubbio",
+   "since": "1968",
+   "desc": "In a 13th-century palazzo where legend says Saint Francis's tamed wolf came to eat, the Mencarelli family has served truffle-rich Umbrian cooking since 1968. A Locali Storici d'Italia member.",
+   "url": "https://www.tavernadellupo.it/"
+  },
+  {
+   "name": "La Palomba",
+   "city": "Orvieto",
+   "since": "1965",
+   "desc": "A classic trattoria in the old centre, run by the Cinti family for three generations. The house speciality is hand-rolled umbrichelli pasta, served with a choice of sauces."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Restored medieval village in the Valnerina",
+   "desc": "Castello di Postignano, near Sellano, is a whole hill village brought back to life, with suites spread through the old stone houses, a frescoed church, Umbrian cooking and a summer music festival. Rafting, walking and Norcia are close by.",
+   "url": "https://www.castellodipostignano.it/"
+  },
+  {
+   "title": "Wine-estate agriturismo around Montefalco",
+   "desc": "Around Montefalco and Bevagna, Sagrantino estates and olive farms rent rooms and apartments among the vines. Wake to the view across the valley, join the September grape harvest and buy oil straight from the mill in November."
+  },
+  {
+   "title": "Convent guesthouses in Assisi",
+   "desc": "Religious houses around Assisi offer simple, spotless rooms at modest prices to anyone, pilgrim or not. Many have gardens over the valley, and their evening curfews encourage early, quiet mornings in town."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Perugia",
+   "to": "Assisi",
+   "how": "About 20 min by regional train, then a short bus ride up",
+   "desc": "Stop first at Santa Maria degli Angeli for the tiny Porziuncola chapel, then ride up to the old town for the basilicas and a late lunch."
+  },
+  {
+   "from": "Orvieto",
+   "to": "Civita di Bagnoregio",
+   "how": "About 30 min by car",
+   "desc": "Just over the border in Lazio, a crumbling village on an eroding clay pinnacle, reached only by a long pedestrian bridge. Go early or late in the day."
+  },
+  {
+   "from": "Spoleto",
+   "to": "Norcia and Castelluccio",
+   "how": "About 1h by car to Norcia, 30 min more to Castelluccio",
+   "desc": "Drive the Valnerina to Norcia's butchers, then climb to the Piano Grande, timing it for the flowering in June or early July."
+  },
+  {
+   "from": "Perugia",
+   "to": "Lake Trasimeno",
+   "how": "About 30 min by train to Passignano",
+   "desc": "Take the ferry from Passignano to Isola Maggiore, eat lake fish like tegamaccio stew, and watch the sunset from the walls of Castiglione del Lago."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Castelluccio di Norcia",
+   "desc": "A tiny village at 1,452 metres on a knoll above the Piano Grande, a vast high plain in the Sibillini mountains. From late May to mid-July the lentil fields flower in waves of red poppies, blue cornflowers and yellow mustard. Badly hit by the 2016 earthquake, it is slowly rebuilding.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/I_Piani_di_Castelluccio_durante_la_fioritura_della_lenticchia_%284%29.jpg/1280px-I_Piani_di_Castelluccio_durante_la_fioritura_della_lenticchia_%284%29.jpg",
+    "alt": "Flowering lentil fields of the Piano Grande below Castelluccio di Norcia",
+    "credit": "JacquiDebono, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AI_Piani_di_Castelluccio_durante_la_fioritura_della_lenticchia_%284%29.jpg"
+   }
+  },
+  {
+   "name": "Bevagna",
+   "desc": "A flat, walled Roman town on the plain below Montefalco, with one of Italy's most harmonious medieval squares, Piazza Silvestri, and a Roman bath mosaic of sea creatures. In late June the Mercato delle Gaite revives medieval trades like papermaking and silk-spinning in the old workshops.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bevagna_-_Comune_di_Bevagna_-_2023-09-17_23-49-23_001.jpg/1280px-Bevagna_-_Comune_di_Bevagna_-_2023-09-17_23-49-23_001.jpg",
+    "alt": "Piazza Silvestri in Bevagna with its Romanesque church and fountain",
+    "credit": "Chiara saffioti, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABevagna_-_Comune_di_Bevagna_-_2023-09-17_23-49-23_001.jpg"
+   }
+  },
+  {
+   "name": "Isola Maggiore",
+   "desc": "The only inhabited island on Lake Trasimeno: one cobbled street, a handful of residents, and lace-makers keeping alive the Irish-style lace introduced in 1904. Saint Francis is said to have spent Lent here in 1211; a path circles the island past his landing place.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lago_Trasimeno_Isola_Maggiore_-_Villa_Isabella_2.jpg/1280px-Lago_Trasimeno_Isola_Maggiore_-_Villa_Isabella_2.jpg",
+    "alt": "Castle of Villa Isabella on Isola Maggiore among autumn trees on the shore of Lake Trasimeno",
+    "credit": "Wolfgang Sauber, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALago_Trasimeno_Isola_Maggiore_-_Villa_Isabella_2.jpg"
+   }
+  },
+  {
+   "name": "Spello",
+   "desc": "A pink-stone town just north of Foligno, all flowered balconies and Roman gates, with Pinturicchio's frescoed Baglioni Chapel in Santa Maria Maggiore. On the night before Corpus Domini, residents lay carpets of petals along the streets for the Infiorata.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SpelloDec122023_01.jpg/1280px-SpelloDec122023_01.jpg",
+    "alt": "Aerial view of the pink-stone hill town of Spello below Monte Subasio",
+    "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASpelloDec122023_01.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Corsa dei Ceri",
+   "when": "15 May",
+   "where": "Gubbio",
+   "desc": "Three teams shoulder giant wooden 'candles', each topped with a saint, and race them through the streets and up Monte Ingino to the basilica of Sant'Ubaldo. The whole town wears the team colours.",
+   "url": "https://www.ceri.it/"
+  },
+  {
+   "name": "Festival dei Due Mondi",
+   "when": "Late June to mid-July",
+   "where": "Spoleto",
+   "desc": "Founded by Gian Carlo Menotti in 1958, a festival of opera, theatre, dance and music staged in the Roman theatre, the cathedral square and the town's churches.",
+   "url": "https://www.festivaldispoleto.com/"
+  },
+  {
+   "name": "Umbria Jazz",
+   "when": "About ten days in July",
+   "where": "Perugia",
+   "desc": "Free concerts in the streets and on Corso Vannucci, big names in the Arena Santa Giuliana, and late-night jams. There is also a winter edition in Orvieto over New Year.",
+   "url": "https://www.umbriajazz.it/"
+  },
+  {
+   "name": "Eurochocolate",
+   "when": "October",
+   "where": "Perugia",
+   "desc": "Italy's big chocolate festival fills the historic centre with stalls, tastings and chocolate sculptures, drawing crowds from across the country. Go on a weekday if you can.",
+   "url": "https://www.eurochocolate.com/"
+  }
+ ],
+ "culture": "Umbria's identity is woven from Saint Francis and the Middle Ages: his Canticle of the Creatures, written in Umbrian vernacular, is among the first great poems in Italian. Gubbio's Ceri, Assisi's Calendimaggio and Bevagna's Gaite keep medieval rivalries alive. Deruta and Gualdo Tadino have made painted maiolica for centuries, Perugian linens are still woven with ancient griffin patterns, and Città di Castello has its handmade paper and Alberto Burri's museums. The Università per Stranieri gives Perugia a young, multilingual buzz.",
+ "official_site": "https://www.umbriatourism.it/en/"
+}

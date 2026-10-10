@@ -1,0 +1,186 @@
+{
+ "slug": "amalfi-naples-7-days",
+ "title": "Naples, Pompeii & the Amalfi Coast",
+ "headline": "Pizza, ruins and a coast built on cliffs",
+ "days": 7,
+ "style": "Coast",
+ "tagline": "A week from the noisy, glorious streets of Naples to the lemon terraces above Amalfi, by train, ferry and footpath.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg/1280px-Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg",
+  "alt": "Pastel houses of Atrani stacked above a small harbour, with the Amalfi Coast mountains behind",
+  "credit": "Paolo Costa Baldi, CC BY 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AAtrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg"
+ },
+ "summary": "This week gives you the full sweep of the Bay of Naples without a car. Start with two days in Naples, the most alive city in Italy, eating pizza where it was invented and taking a hydrofoil to pastel-painted Procida. Walk the streets of Herculaneum and Pompeii on the way to Sorrento, spend a day on Capri, then cross to the Amalfi Coast for the Path of the Gods, Ravello's gardens and swims off rocky beaches. Ferries do the heavy lifting in season, the SITA bus fills the gaps, and the trip ends with a boat to Salerno and its fast trains north.",
+ "route": [
+  "Naples",
+  "Procida",
+  "Herculaneum",
+  "Pompeii",
+  "Sorrento",
+  "Capri",
+  "Positano",
+  "Amalfi",
+  "Ravello",
+  "Salerno"
+ ],
+ "regions": [
+  "campania"
+ ],
+ "best_season": "May, June, September and early October: the sea is warm, ferries run full timetables and the heat is bearable on the trails. From November to March many coastal hotels close and ferries are sparse.",
+ "getting_around": "No car needed (and in summer you would not want one: an odd/even number-plate rule limits traffic on the coast road on busy dates). Use the EAV Circumvesuviana train from Naples to Herculaneum, Pompeii and Sorrento; hydrofoils from Naples and Sorrento to Procida and Capri; and Travelmar, Alilauro or Positano Jet ferries between Sorrento, Positano, Amalfi and Salerno. SITA buses link the coastal towns and the Path of the Gods trailhead.",
+ "budget_note": "Naples is good value at €130-180 per person per day mid-range; on the Amalfi Coast and Capri plan on €220-350, as hotels and boat trips cost more.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Naples: the old centre",
+   "base": "Naples",
+   "desc": "Walk Spaccanapoli and Via dei Tribunali, the straight Greek streets that cut through the centro storico. See the Veiled Christ in the Cappella Sansevero (timed tickets, book online), the cloister of majolica tiles at Santa Chiara, and the crib-makers of Via San Gregorio Armeno. In the afternoon take the funicular up to the Vomero for Castel Sant'Elmo and the view of Vesuvius across the bay, then come down for a sunset walk along the Lungomare to Castel dell'Ovo.",
+   "highlights": [
+    "Veiled Christ at Cappella Sansevero",
+    "Santa Chiara's majolica cloister",
+    "Sunset on the Lungomare"
+   ],
+   "eat": "Pizza margherita at L'Antica Pizzeria da Michele (two pizzas on the menu, queue with a ticket) or Gino e Toto Sorbillo on Via dei Tribunali.",
+   "stay": "Centro storico or Chiaia: atmospheric old lanes, or the calmer, smarter seafront district."
+  },
+  {
+   "day": "2",
+   "title": "Procida and the Archaeological Museum",
+   "base": "Naples",
+   "desc": "Take a morning SNAV or Caremar hydrofoil from Molo Beverello to Procida (about 40 minutes). Walk up from the harbour to Terra Murata and the abbey, then down to the fishing harbour of Corricella, whose pastel houses tumble into the sea. Swim at Chiaiolella and be back in Naples by mid-afternoon for the National Archaeological Museum, which holds the best mosaics and frescoes from Pompeii, including the Alexander Mosaic.",
+   "highlights": [
+    "Marina di Corricella",
+    "Terra Murata viewpoint",
+    "Alexander Mosaic at the Archaeological Museum"
+   ],
+   "eat": "Lemon salad (insalata di limoni) and fresh fish on Procida; back in Naples, a sfogliatella from a pasticceria for the evening.",
+   "stay": "Same base in Naples."
+  },
+  {
+   "day": "3",
+   "title": "Herculaneum and Pompeii",
+   "base": "Sorrento",
+   "desc": "Leave your bags at the station deposit or send them ahead, and take the Circumvesuviana to Ercolano Scavi (about 20 minutes). Herculaneum is smaller and better preserved than Pompeii, with carbonised wooden beams and frescoed houses; give it two hours. Continue to Pompei Scavi and enter on a named, timed ticket: Pompeii caps visitors at 20,000 a day and the morning window is the safer bet in season. Finish on the train to Sorrento.",
+   "highlights": [
+    "Herculaneum's two-storey houses",
+    "Pompeii's Forum and Villa of the Mysteries",
+    "Arriving in Sorrento by train"
+   ],
+   "eat": "Gnocchi alla sorrentina (baked with tomato and mozzarella) in Sorrento's old town.",
+   "stay": "Sorrento, near Piazza Tasso and the ferry lift down to Marina Piccola."
+  },
+  {
+   "day": "4",
+   "title": "Capri",
+   "base": "Sorrento",
+   "desc": "Take an early hydrofoil from Sorrento to Marina Grande (about 20-25 minutes). Go straight up to Anacapri and ride the chairlift to Monte Solaro for the best view on the island. The Blue Grotto only opens in calm seas and the queues are long; a boat trip around the island is often the better choice. In the afternoon walk from Capri town to the Gardens of Augustus and the Via Krupp viewpoint over the Faraglioni rocks, and catch an early-evening boat back.",
+   "highlights": [
+    "Monte Solaro chairlift",
+    "Boat trip around the island",
+    "Gardens of Augustus over the Faraglioni"
+   ],
+   "eat": "Ravioli capresi (with caciotta cheese and marjoram) and torta caprese, the flourless almond-chocolate cake.",
+   "stay": "Same base in Sorrento."
+  },
+  {
+   "day": "5",
+   "title": "Positano and the Path of the Gods",
+   "base": "Amalfi or Praiano",
+   "desc": "Take the morning ferry from Sorrento to Positano, then a ferry or SITA bus on to Amalfi to drop bags. Catch the SITA bus up to Bomerano (Agerola, about 40 minutes; buy tickets at a tabacchi before boarding) and walk the Path of the Gods to Nocelle, around three hours of cliff-edge path with sea views all the way. Descend the steps to Positano for a swim at Spiaggia Grande and take an evening ferry or bus back.",
+   "highlights": [
+    "Sentiero degli Dei",
+    "The descent into Positano",
+    "Swim at Spiaggia Grande"
+   ],
+   "eat": "A lemon granita in Nocelle at the end of the walk, then scialatielli ai frutti di mare back on the coast.",
+   "stay": "Amalfi or Praiano: better connected and cheaper than Positano, with good ferry and bus links."
+  },
+  {
+   "day": "6",
+   "title": "Amalfi and Ravello",
+   "base": "Amalfi or Praiano",
+   "desc": "Climb the steps of Amalfi's Duomo and walk through its Cloister of Paradise, then up the Valle delle Ferriere path past old paper mills and waterfalls. In the afternoon take the bus up to Ravello (about 25 minutes) for Villa Rufolo's gardens and the Terrace of Infinity at Villa Cimbrone, the finest viewpoint on the coast. In summer, check the Ravello Festival programme for a concert on Villa Rufolo's cliff-edge stage.",
+   "highlights": [
+    "Amalfi Cathedral and Cloister of Paradise",
+    "Valle delle Ferriere",
+    "Villa Cimbrone's Terrace of Infinity"
+   ],
+   "eat": "Pasticceria Pansa on Amalfi's cathedral square, run by the same family since 1830, for delizia al limone and candied citrus peel.",
+   "stay": "Same base."
+  },
+  {
+   "day": "7",
+   "title": "Atrani, then a ferry to Salerno",
+   "base": "Salerno",
+   "desc": "Walk ten minutes through the tunnel or along the cliff path to Atrani, a tiny fishing village with a piazza straight out of a film set, and have a last swim. Take a midday ferry from Amalfi to Salerno (about 35 minutes), passing Minori, Maiori and Cetara. From Salerno station, high-speed trains reach Naples in about 40 minutes and Rome in about two hours.",
+   "highlights": [
+    "Atrani's piazza",
+    "Ferry along the coast to Salerno",
+    "Colatura di alici in Cetara"
+   ],
+   "eat": "Spaghetti with colatura di alici, the anchovy essence made in Cetara.",
+   "stay": "Depart from Salerno, or add a night on its lively seafront."
+  }
+ ],
+ "tips": [
+  "Pompeii tickets are named and checked against ID, with a daily cap; buy them only from the official channels and bring your passport.",
+  "Ferries on the coast run roughly April to October; outside that window, rely on SITA buses and check timetables daily.",
+  "Buy SITA bus tickets at bars and tabacchi before boarding, and stand on the right (sea side) going from Sorrento to Positano.",
+  "The coast road has an odd/even number-plate restriction on busy dates in season; another reason to leave the car behind.",
+  "Wear proper shoes for the Path of the Gods: the descent from Nocelle to Positano is about 1,700 steps.",
+  "Book Cappella Sansevero online; same-day slots sell out in spring."
+ ],
+ "book": [
+  {
+   "label": "Pompeii archaeological park",
+   "url": "https://pompeiisites.org/en/",
+   "desc": "Opening hours, rules and the link to official named tickets"
+  },
+  {
+   "label": "Herculaneum archaeological park",
+   "url": "https://ercolano.cultura.gov.it/",
+   "desc": "Herculaneum hours and tickets"
+  },
+  {
+   "label": "Cappella Sansevero",
+   "url": "https://www.museosansevero.it/en/",
+   "desc": "Timed tickets for the Veiled Christ"
+  },
+  {
+   "label": "SNAV",
+   "url": "https://www.snav.it/en",
+   "desc": "Hydrofoils from Naples to Procida and Capri"
+  },
+  {
+   "label": "Caremar",
+   "url": "https://www.caremar.it/",
+   "desc": "Ferries and hydrofoils to Procida, Capri and Ischia"
+  },
+  {
+   "label": "Alilauro",
+   "url": "https://www.alilauro.it/en/",
+   "desc": "Hydrofoils on the Gulf and the Amalfi Coast"
+  },
+  {
+   "label": "Travelmar",
+   "url": "https://www.travelmar.it/en/",
+   "desc": "Ferries between Salerno, Amalfi and Positano"
+  },
+  {
+   "label": "SITA Sud",
+   "url": "https://www.sitasudtrasporti.it/",
+   "desc": "Amalfi Coast bus timetables"
+  },
+  {
+   "label": "Villa Rufolo",
+   "url": "https://www.villarufolo.com/",
+   "desc": "Gardens and Ravello Festival concerts"
+  },
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Fast trains to and from Naples and Salerno"
+  }
+ ]
+}

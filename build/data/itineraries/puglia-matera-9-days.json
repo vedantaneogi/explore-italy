@@ -1,0 +1,187 @@
+{
+ "slug": "puglia-matera-9-days",
+ "title": "Puglia & Matera",
+ "headline": "Trulli, baroque Lecce and the cave city",
+ "days": 9,
+ "style": "Food & coast",
+ "tagline": "Nine days of white towns, orecchiette, clear Adriatic water and the ancient cave dwellings of Matera.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ostuni_-_View_from_Northwest_-_1.jpg/1280px-Ostuni_-_View_from_Northwest_-_1.jpg",
+  "alt": "Ostuni's whitewashed old town piled on its hill above the olive groves",
+  "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AOstuni_-_View_from_Northwest_-_1.jpg"
+ },
+ "summary": "Puglia is the heel of Italy's boot: flat, sunny, fringed with limestone coves and covered in olive trees, some of them older than Christianity. This route starts in Bari's old town, where women still make orecchiette in the street, follows the coast to clifftop Polignano and Monopoli, then heads inland to the Valle d'Itria's whitewashed towns and cone-roofed trulli. It goes south to baroque Lecce and the wild Salento coast before finishing in Matera, across the border in Basilicata, where whole neighbourhoods are carved into a ravine. A car makes the countryside easy, though the main hops also work by train.",
+ "route": [
+  "Bari",
+  "Polignano a Mare",
+  "Monopoli",
+  "Alberobello",
+  "Locorotondo",
+  "Cisternino",
+  "Martina Franca",
+  "Lecce",
+  "Otranto",
+  "Matera"
+ ],
+ "regions": [
+  "puglia",
+  "basilicata"
+ ],
+ "best_season": "May, June, September and early October: warm sea, open beach clubs, and none of the August crowds. Spring brings wildflowers in the olive groves; autumn brings the olive harvest from late October.",
+ "getting_around": "Hire a car at Bari airport for the Valle d'Itria, Salento and Matera; distances are short and roads are good. Without a car: regional trains run Bari to Polignano (about 35 minutes) and Bari to Lecce (about 1h30 by Frecciarossa); the private Ferrovie del Sud Est line serves Alberobello, Locorotondo and Martina Franca (often with replacement buses), and the Ferrovie Appulo Lucane line runs Bari to Matera in about 1h30.",
+ "budget_note": "Puglia is good value: around €120-190 per person per day mid-range, more for a night in a restored masseria.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Bari Vecchia",
+   "base": "Bari",
+   "desc": "Bari's old town is a maze of whitewashed lanes on a peninsula. See the Basilica of San Nicola, where the relics of St Nicholas draw Orthodox pilgrims, and the Swabian castle. On Strada Arco Basso, women roll orecchiette on wooden boards outside their front doors every morning; buy a bag for home. Walk the seafront Lungomare at sunset, then join the evening passeggiata on Via Sparano.",
+   "highlights": [
+    "Basilica of San Nicola",
+    "Orecchiette makers on Strada Arco Basso",
+    "Lungomare at sunset"
+   ],
+   "eat": "Focaccia barese with tomatoes and olives from Panificio Fiore, a bakery in a former church in Bari Vecchia, and sgagliozze (fried polenta squares) from a street stall.",
+   "stay": "Bari Vecchia or the Murat district next to it."
+  },
+  {
+   "day": "2",
+   "title": "Polignano a Mare and Monopoli",
+   "base": "Monopoli",
+   "desc": "Drive or take the regional train to Polignano a Mare (about 35 minutes), a town built on limestone cliffs above sea caves. The cove of Lama Monachile, framed by a Bourbon bridge, is the famous view; see it early before the crowds. Continue 10 minutes to Monopoli, a working fishing town with a walled old centre and small rocky coves south of the harbour for an afternoon swim.",
+   "highlights": [
+    "Lama Monachile beach",
+    "Polignano's clifftop terraces",
+    "Monopoli's old port"
+   ],
+   "eat": "Caffè speciale at Il Super Mago del Gelo in Polignano: espresso with lemon zest, sugar, amaretto and cream, invented on the premises.",
+   "stay": "Monopoli's centro storico: more relaxed than Polignano and good for evening walks."
+  },
+  {
+   "day": "3",
+   "title": "Alberobello and Locorotondo",
+   "base": "Valle d'Itria",
+   "desc": "Drive inland to Alberobello, a UNESCO site with more than a thousand trulli, the round, dry-stone houses with conical roofs. Go early to the Rione Monti quarter, then cross to the quieter Aia Piccola. In the afternoon drive 15 minutes to Locorotondo, a circular white town above vineyards, and taste its crisp white wine. The countryside between the towns is dotted with trulli farms and masserie.",
+   "highlights": [
+    "Trulli of Rione Monti and Aia Piccola",
+    "Trullo Sovrano",
+    "Locorotondo's balcony view"
+   ],
+   "eat": "Bombette: little rolls of pork stuffed with cheese, grilled to order at a butcher's fornello in the Valle d'Itria.",
+   "stay": "A trullo or a masseria in the countryside between Locorotondo and Cisternino."
+  },
+  {
+   "day": "4",
+   "title": "Cisternino and Martina Franca",
+   "base": "Valle d'Itria",
+   "desc": "Explore Cisternino's lanes in the morning and the baroque streets of Martina Franca in the afternoon, where Palazzo Ducale and the Basilica di San Martino give the town a grander air. Pick up capocollo di Martina Franca, a cured pork neck smoked over oak, and stop at an olive oil mill for a tasting. In July and August Martina Franca hosts the Festival della Valle d'Itria, an opera festival in the ducal palace courtyard.",
+   "highlights": [
+    "Cisternino's whitewashed lanes",
+    "Baroque Martina Franca",
+    "Olive oil tasting at a frantoio"
+   ],
+   "eat": "Eat at a fornello pronto in Cisternino: pick meat at the butcher's counter and they grill it for you to eat at outside tables.",
+   "stay": "Same Valle d'Itria base."
+  },
+  {
+   "day": "5",
+   "title": "Lecce",
+   "base": "Lecce",
+   "desc": "Drive about 1h30 south to Lecce, the 'Florence of the South', built in soft golden limestone carved into curling baroque facades. See the Basilica di Santa Croce, Piazza del Duomo and the half-excavated Roman amphitheatre in Piazza Sant'Oronzo. Visit a cartapesta (papier-mâché) workshop, a local craft used for church statues. In the evening the whole city strolls the old town. In the early evening, sit on the steps of the amphitheatre with a caffè leccese, espresso poured over ice with almond syrup.",
+   "highlights": [
+    "Basilica di Santa Croce",
+    "Piazza del Duomo at night",
+    "Cartapesta workshops"
+   ],
+   "eat": "A warm pasticciotto (custard tart) at Pasticceria Natale for breakfast, and ciceri e tria (pasta and chickpeas, half of it fried) at Trattoria Le Zie, a family dining room; ring the bell and book by phone.",
+   "stay": "Lecce centro storico: B&Bs in old palazzi."
+  },
+  {
+   "day": "6",
+   "title": "Otranto and the Adriatic coast",
+   "base": "Lecce",
+   "desc": "Drive 45 minutes to Otranto, a walled town on the easternmost point of Italy. Its cathedral floor is a vast 12th-century mosaic of the Tree of Life, populated with elephants, kings and zodiac signs. On the way, swim at the Grotta della Poesia near Roca Vecchia, a natural sea pool in the rock. South of Otranto, the coast road to Santa Cesarea Terme passes cliffs, towers and the Punta Palascia lighthouse.",
+   "highlights": [
+    "Otranto Cathedral's mosaic floor",
+    "Grotta della Poesia",
+    "Punta Palascia lighthouse"
+   ],
+   "eat": "Raw sea urchins and fish crudo at a seafront stall in Salento, with a cold Negroamaro rosato.",
+   "stay": "Same base in Lecce."
+  },
+  {
+   "day": "7",
+   "title": "Salento's Ionian side or a beach day",
+   "base": "Lecce",
+   "desc": "Choose a slow day: drive to Gallipoli, an island old town with fish markets and sunsets over the Ionian Sea, or swim at the sandy beaches of Porto Cesareo or Punta Prosciutto, with water clear enough to look Caribbean. Return to Lecce for a final evening and a glass of Primitivo or Salice Salentino. Avoid the midday sun on the sand from June to August, and finish the day with an ice cream on Lecce's Piazza Sant'Oronzo.",
+   "highlights": [
+    "Gallipoli's old town and fish market",
+    "Punta Prosciutto beach",
+    "Sunset over the Ionian Sea"
+   ],
+   "eat": "Rustico leccese, a puff pastry filled with béchamel, mozzarella and tomato, from a Lecce bakery.",
+   "stay": "Same base in Lecce."
+  },
+  {
+   "day": "8",
+   "title": "Matera",
+   "base": "Matera",
+   "desc": "Drive about 2h15 northwest to Matera. The Sassi, two districts of cave houses and rock churches carved into the side of a ravine, were inhabited for thousands of years and evacuated in the 1950s; today they hold hotels, restaurants and museums. Visit a Casa Grotta to see how families lived with their animals, and the frescoed rock churches of Santa Maria de Idris and San Pietro Barisano. At dusk, watch the lights come on from the Belvedere Luigi Guerricchio.",
+   "highlights": [
+    "Sasso Caveoso and Sasso Barisano",
+    "Rock churches and a Casa Grotta",
+    "Belvedere at dusk"
+   ],
+   "eat": "Crapiata (a peasant soup of pulses and grains), peperoni cruschi (crisp dried sweet peppers) and pane di Matera.",
+   "stay": "A cave hotel in the Sassi."
+  },
+  {
+   "day": "9",
+   "title": "Murgia park and departure",
+   "base": "Matera",
+   "desc": "Cross the ravine at first light on the Tibetan bridge and walk into the Parco della Murgia Materana, where cave churches and Neolithic villages face the city across the gorge. The view of the Sassi from the Belvedere di Murgia Timone is the classic shot. Head back to Bari airport (about 1h) or take the FAL train to Bari. If you have an extra hour, the Palombaro Lungo, a vast underground cistern beneath Piazza Vittorio Veneto, is a short guided visit.",
+   "highlights": [
+    "Tibetan bridge over the Gravina",
+    "Murgia Timone viewpoint",
+    "Cave churches of the Murgia"
+   ],
+   "eat": "A last coffee and a slice of focaccia before the drive to Bari.",
+   "stay": "Depart."
+  }
+ ],
+ "tips": [
+  "Book a cave hotel in Matera and a masseria in the Valle d'Itria well ahead for May, June and September.",
+  "Ferrovie del Sud Est trains often run as buses on Sundays and holidays; check timetables carefully if you go without a car.",
+  "Many beach clubs (lidi) open from June to mid-September; outside that, the free beaches are almost empty.",
+  "Drivers: historic centres in Lecce, Monopoli and Polignano are ZTL zones, so park outside and walk in.",
+  "On Sundays, much of southern Italy stops for lunch; book a table by Saturday."
+ ],
+ "book": [
+  {
+   "label": "Viaggiare in Puglia",
+   "url": "https://www.viaggiareinpuglia.it/",
+   "desc": "Official Puglia tourism site"
+  },
+  {
+   "label": "Ferrovie del Sud Est",
+   "url": "https://www.fssudest.it/",
+   "desc": "Trains and buses to the Valle d'Itria and Salento"
+  },
+  {
+   "label": "Ferrovie Appulo Lucane",
+   "url": "https://ferrovieappulolucane.it/",
+   "desc": "Bari to Matera trains"
+  },
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Bari to Polignano, Monopoli and Lecce"
+  },
+  {
+   "label": "Matera tourism",
+   "url": "https://www.materaturismo.it/",
+   "desc": "Sassi sights, cave churches and tours"
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "slug": "nature",
+ "section": "experiences",
+ "title": "Scenic Italy",
+ "headline": "Cliffs, lakes, peaks and smoking volcanoes",
+ "tagline": "Thousands of kilometres of coast, lakes in the shadow of the Alps, the Dolomites at sunset and three live volcanoes: Italy's landscapes are as good as its art.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tre_cime_di_Lavaredo.jpg/1280px-Tre_cime_di_Lavaredo.jpg",
+  "alt": "The three sheer peaks of the Tre Cime di Lavaredo above a green alpine meadow",
+  "credit": "Daniele Bonaldo, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATre_cime_di_Lavaredo.jpg"
+ },
+ "intro": [
+  "It is easy to come to Italy for the cities and leave without seeing how wild and varied the country is. Within a day's travel you can swim off pink granite in Sardinia, walk a glacier in the Alps, smell the sulphur on Etna's flanks and watch wolves' tracks in the Abruzzo snow. More than a third of the country is mountainous, the coast runs for some 7,500 kilometres, and national and regional parks protect around a tenth of the land.",
+  "The best of it rewards a little effort: a dawn start for the Dolomites, a ferry rather than the coast road, the slow train instead of the motorway. Here are the coasts, lakes, mountains, volcanoes and countryside that we would plan a trip around, with links to the national parks and the scenic railways that cross them."
+ ],
+ "sections": [
+  {
+   "heading": "Coasts",
+   "intro": "Go in May, June or September for warm water without the August crush.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Amalfi Coast",
+     "subtitle": "Campania",
+     "desc": "Lemon terraces and pastel towns clinging to cliffs above a deep blue sea. Skip the traffic by using the ferries between Salerno, Amalfi and Positano, and walk the Path of the Gods from Bomerano to Nocelle for the view the gods presumably enjoyed.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg/1280px-Atrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg",
+      "alt": "The village of Atrani tucked into a cliff-lined cove on the Amalfi Coast",
+      "credit": "Paolo Costa Baldi, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAtrani_%28Costiera_Amalfitana%2C_23-8-2011%29.jpg"
+     },
+     "meta": "Best: May-June, Sept",
+     "region": "campania"
+    },
+    {
+     "title": "Cinque Terre",
+     "subtitle": "Liguria",
+     "desc": "Five fishing villages linked by cliff paths, a coastal train and vineyards planted on terraces so steep they need little monorails. Walk the coastal Blue Path early in the day, swim off the rocks at Manarola and end with focaccia and a glass of Sciacchetrà.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg/1280px-Cinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg",
+      "alt": "Vernazza's colourful houses on a rocky point above turquoise sea in the Cinque Terre",
+      "credit": "Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACinque_Terre_%28Italy%2C_October_2020%29_-_24_%2850543603956%29.jpg"
+     },
+     "meta": "National park since 1999",
+     "region": "liguria",
+     "url": "https://www.parconazionale5terre.it/",
+     "url_label": "Cinque Terre National Park"
+    },
+    {
+     "title": "Costa Smeralda and La Maddalena",
+     "subtitle": "North-east Sardinia",
+     "desc": "Water in every shade of emerald and turquoise around wind-carved granite. Beyond the glamour of Porto Cervo, take a boat day trip through the islands of the Maddalena archipelago national park, swimming off empty coves.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/La_maddalena_Port.JPG/1280px-La_maddalena_Port.JPG",
+      "alt": "Pastel houses and boats in the harbour of La Maddalena under a clear blue sky",
+      "credit": "Danny Towin, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALa_maddalena_Port.JPG"
+     },
+     "meta": "Best: June, September",
+     "region": "sardinia",
+     "url": "https://www.parks.it/parco.nazionale.arcip.maddalena/",
+     "url_label": "La Maddalena park"
+    },
+    {
+     "title": "Salento",
+     "subtitle": "Puglia",
+     "desc": "The heel of Italy has two seas: Adriatic cliffs and sea caves around Otranto, Torre Sant'Andrea and the Grotta della Poesia, and long Caribbean-pale sand on the Ionian side. Base yourself in baroque Lecce or a masseria among the olive trees.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Otranto_-_Seafront_-_01.jpg/1280px-Otranto_-_Seafront_-_01.jpg",
+      "alt": "Otranto's seafront and clear turquoise water on the Salento coast",
+      "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AOtranto_-_Seafront_-_01.jpg"
+     },
+     "meta": "Best: June, September",
+     "region": "puglia"
+    },
+    {
+     "title": "Tropea and Capo Vaticano",
+     "subtitle": "Calabria",
+     "desc": "A clifftop town above white sand, with the church of Santa Maria dell'Isola on its own rock just offshore. On clear evenings you can see Stromboli smoking on the horizon. Eat the sweet red onions of Tropea, raw in salad or in jam.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg/1280px-Tropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg",
+      "alt": "The church of Santa Maria dell'Isola on its rock above the beach at Tropea",
+      "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg"
+     },
+     "meta": "Stromboli on the horizon",
+     "region": "calabria"
+    },
+    {
+     "title": "Polignano a Mare",
+     "subtitle": "Puglia",
+     "desc": "A whitewashed old town built right on the edge of limestone cliffs, with a tiny pebble cove between them. Swim at Lama Monachile in the early morning before the day-trippers arrive.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg/1280px-70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg",
+      "alt": "Whitewashed houses of Polignano a Mare on limestone cliffs above the Adriatic",
+      "credit": "Luca Margheriti, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg"
+     },
+     "meta": "40 min from Bari",
+     "region": "puglia"
+    }
+   ]
+  },
+  {
+   "heading": "Lakes",
+   "intro": "The great lakes at the foot of the Alps have soft light, grand villas and ferries that make the car unnecessary.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Lake Como",
+     "subtitle": "Lombardy",
+     "desc": "A deep, narrow lake ringed by mountains, villas and gardens. Base yourself in Bellagio or Varenna, use the ferries, and visit Villa del Balbianello on its wooded promontory. The Greenway path links lakeside villages on foot.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Villa_Balbianello_on_Como_Lake_8.jpg/1280px-Villa_Balbianello_on_Como_Lake_8.jpg",
+      "alt": "Villa del Balbianello on its wooded promontory above Lake Como",
+      "credit": "Scott Thompson, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVilla_Balbianello_on_Como_Lake_8.jpg"
+     },
+     "meta": "Ferries link every town",
+     "region": "lombardy",
+     "url": "https://www.fondoambiente.it/luoghi/villa-del-balbianello",
+     "url_label": "Villa del Balbianello"
+    },
+    {
+     "title": "Lake Garda",
+     "subtitle": "Lombardy, Veneto and Trentino",
+     "desc": "Italy's largest lake is two lakes in one: Mediterranean in the south, with olive groves and Sirmione's castle and Roman villa; fjord-like in the north, where the afternoon wind makes Riva and Torbole a windsurfing paradise. Ride the cable car from Malcesine up Monte Baldo.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Malcesine%2C_Castello_Scaligero_-_panoramio.jpg/1280px-Malcesine%2C_Castello_Scaligero_-_panoramio.jpg",
+      "alt": "The Scaliger castle of Malcesine above a small harbour on Lake Garda",
+      "credit": "qwesy qwesy, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMalcesine%2C_Castello_Scaligero_-_panoramio.jpg"
+     },
+     "meta": "Italy's largest lake",
+     "region": "veneto"
+    },
+    {
+     "title": "Lake Maggiore",
+     "subtitle": "Piedmont and Lombardy",
+     "desc": "Belle Epoque hotels in Stresa and the Borromean Islands floating offshore: Isola Bella's terraced Baroque garden with white peacocks, Isola Madre's botanical rarities and the fishermen's island in between, where you can eat lake fish by the water.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/GolfoBorromeoFeb202026.jpg/1280px-GolfoBorromeoFeb202026.jpg",
+      "alt": "The Borromean Gulf of Lake Maggiore with islands and mountains",
+      "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGolfoBorromeoFeb202026.jpg"
+     },
+     "meta": "Gardens open spring to autumn",
+     "region": "piedmont"
+    },
+    {
+     "title": "Lake Orta",
+     "subtitle": "Piedmont",
+     "desc": "Small, quiet and enchanting. Orta San Giulio's piazza looks out to the island of San Giulio, where a path called the Way of Silence circles a Benedictine convent. Above town, the chapels of the Sacro Monte are on the World Heritage list.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/OrtaSanGiulioAug132024_03.jpg/1280px-OrtaSanGiulioAug132024_03.jpg",
+      "alt": "Orta San Giulio's lakeside houses looking out over Lake Orta",
+      "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AOrtaSanGiulioAug132024_03.jpg"
+     },
+     "meta": "1h30 from Milan",
+     "region": "piedmont"
+    }
+   ]
+  },
+  {
+   "heading": "Mountains and volcanoes",
+   "intro": "From the highest Alps to Europe's most active volcano.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "The Dolomites",
+     "subtitle": "Trentino-Alto Adige and Veneto",
+     "desc": "Walk the loop around the Tre Cime di Lavaredo, ride up from Ortisei to the knife-edge meadow of Seceda, or sit by the emerald water of Lago di Braies at dawn. In summer the huts serve dumplings and strudel; in winter the Sella Ronda links four valleys on skis.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frea_pass_Sella_group_Dolomites.jpg/1280px-Frea_pass_Sella_group_Dolomites.jpg",
+      "alt": "Green summer meadows and a winding road below the Sella group's rock walls in the Dolomites",
+      "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFrea_pass_Sella_group_Dolomites.jpg"
+     },
+     "meta": "Best: late June-September",
+     "region": "trentino-alto-adige",
+     "url": "https://www.dolomitiunesco.info/?lang=en",
+     "url_label": "Dolomites UNESCO"
+    },
+    {
+     "title": "Gran Paradiso",
+     "subtitle": "Valle d'Aosta and Piedmont",
+     "desc": "Italy's first national park, founded in 1922 to save the Alpine ibex, which you will now see grazing calmly by the trail. Walk up Valnontey from Cogne to glacier views; the Gran Paradiso itself is the only 4,000-metre peak entirely in Italy.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Le_prime_luci_dell%27alba_in_Valle_Orco_-_Ceresole_Reale%2C_Colle_del_Nivolet.jpg/1280px-Le_prime_luci_dell%27alba_in_Valle_Orco_-_Ceresole_Reale%2C_Colle_del_Nivolet.jpg",
+      "alt": "First light on the mountains of the Valle Orco in Gran Paradiso National Park",
+      "credit": "Alberto Peracchio, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALe_prime_luci_dell%27alba_in_Valle_Orco_-_Ceresole_Reale%2C_Colle_del_Nivolet.jpg"
+     },
+     "meta": "National park since 1922",
+     "region": "valle-daosta",
+     "url": "https://www.pngp.it/en",
+     "url_label": "Gran Paradiso National Park"
+    },
+    {
+     "title": "Gran Sasso and Campo Imperatore",
+     "subtitle": "Abruzzo",
+     "desc": "The highest peak of the Apennines, Corno Grande at 2,912 metres, rises above Campo Imperatore, a vast grassy plateau with wild horses called Italy's 'little Tibet'. Drive on to the castle of Rocca Calascio for sunset.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Corno_grande_da_campo_imperatore.jpg/1280px-Corno_grande_da_campo_imperatore.jpg",
+      "alt": "The rocky peak of Corno Grande above the grassland of Campo Imperatore",
+      "credit": "Fiat 500e, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACorno_grande_da_campo_imperatore.jpg"
+     },
+     "meta": "Highest Apennine peak",
+     "region": "abruzzo",
+     "url": "https://www.gransassolagapark.it/",
+     "url_label": "Gran Sasso park"
+    },
+    {
+     "title": "Mount Etna",
+     "subtitle": "Sicily",
+     "desc": "Europe's highest active volcano, over 3,300 metres and always changing. Take the cable car from Rifugio Sapienza and a 4x4 higher still, walk among old craters and lava flows, then taste the mineral wines made on its slopes. Summit areas require an authorised guide.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mount_Etna_from_the_south_060313.JPG/1280px-Mount_Etna_from_the_south_060313.JPG",
+      "alt": "Mount Etna seen from the south with smoke rising from its summit",
+      "credit": "Wilson44691, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMount_Etna_from_the_south_060313.JPG"
+     },
+     "meta": "UNESCO-listed 2013",
+     "region": "sicily",
+     "url": "https://parcoetna.it/",
+     "url_label": "Etna Park"
+    },
+    {
+     "title": "Vesuvius",
+     "subtitle": "Campania",
+     "desc": "The volcano that buried Pompeii is quiet for now. A gravel path climbs from the car park to the rim of the crater, with the Bay of Naples spread out below. Tickets for the crater trail are sold online only, and the trail closes in bad weather.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Il_cratere_del_Vulcano_-_panoramio.jpg/1280px-Il_cratere_del_Vulcano_-_panoramio.jpg",
+      "alt": "The twin summits of Vesuvius rising above the Bay of Naples",
+      "credit": "pietro scerrato, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIl_cratere_del_Vulcano_-_panoramio.jpg"
+     },
+     "meta": "1,281 metres",
+     "region": "campania",
+     "url": "https://www.parconazionaledelvesuvio.it/",
+     "url_label": "Vesuvius National Park"
+    },
+    {
+     "title": "Stromboli",
+     "subtitle": "Aeolian Islands, Sicily",
+     "desc": "A perfect cone in the sea that has been erupting in small bursts for thousands of years. Watch the fireworks from a boat below the Sciara del Fuoco after dark, or join a licensed guide for a trek when access is open; rules change with the volcano's mood.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg/1280px-Aerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg",
+      "alt": "Aerial view of the volcanic cone of Stromboli rising from the sea",
+      "credit": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAerial_image_of_Stromboli_%28view_from_the_northeast%29.jpg"
+     },
+     "meta": "Erupting continuously",
+     "region": "sicily"
+    }
+   ]
+  },
+  {
+   "heading": "Countryside",
+   "intro": "Farmed landscapes that are as beautiful as any wilderness.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Val d'Orcia",
+     "subtitle": "Tuscany",
+     "desc": "Green velvet in spring, gold in summer, with cypress avenues leading to lonely farmhouses. Soak in the hot springs of Bagno Vignoni and taste Brunello in Montalcino. The famous zigzag cypress road is near Monticchiello; go at first light for mist in the valleys.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vineyards_Val_D%27Orcia.jpg/1280px-Vineyards_Val_D%27Orcia.jpg",
+      "alt": "Sangiovese vineyards in the Val d'Orcia with Monte Amiata on the horizon",
+      "credit": "Adbar, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVineyards_Val_D%27Orcia.jpg"
+     },
+     "meta": "Best: April-June, October",
+     "region": "tuscany"
+    },
+    {
+     "title": "Langhe",
+     "subtitle": "Piedmont",
+     "desc": "Vine-striped hills crowned with castles and villages: Barolo, La Morra, Barbaresco, Serralunga. Come in autumn for the harvest colours and white truffles, and in spring when the hazelnut groves are green.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Near_Mount_Lupo._Langhe._Italy.jpg/1280px-Near_Mount_Lupo._Langhe._Italy.jpg",
+      "alt": "Vineyards turning gold and red in autumn on a hillside in the Langhe",
+      "credit": "Ida Astrid, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANear_Mount_Lupo._Langhe._Italy.jpg"
+     },
+     "meta": "Best: October",
+     "region": "piedmont"
+    },
+    {
+     "title": "Castelluccio and the Piano Grande",
+     "subtitle": "Umbria",
+     "desc": "A vast upland plain in the Monti Sibillini where lentil fields burst into a patchwork of red poppies, blue cornflowers and yellow mustard each summer. The village, damaged in the 2016 earthquake, is slowly coming back to life.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_fioritura_di_Castelluccio_da_Norcia.jpg/1280px-La_fioritura_di_Castelluccio_da_Norcia.jpg",
+      "alt": "Bands of red poppies, blue cornflowers and yellow mustard flowering on the Piano Grande at Castelluccio",
+      "credit": "Marcobranchi, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALa_fioritura_di_Castelluccio_da_Norcia.jpg"
+     },
+     "meta": "Flowering: June-early July",
+     "region": "umbria",
+     "url": "https://www.parks.it/parco.nazionale.monti.sibillini/",
+     "url_label": "Monti Sibillini park"
+    }
+   ]
+  },
+  {
+   "heading": "National parks and scenic railways",
+   "intro": "Italy has around two dozen national parks, plus hundreds of regional reserves. These are some of the best, followed by the train rides that show off the scenery best.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Abruzzo, Lazio and Molise National Park",
+     "subtitle": "Abruzzo",
+     "desc": "Beech forests home to wolves, chamois and the rare Marsican brown bear. Base in Pescasseroli or Civitella Alfedena and walk with a local guide at dawn.",
+     "region": "abruzzo",
+     "url": "https://www.parcoabruzzo.it/",
+     "url_label": "Park website"
+    },
+    {
+     "title": "Stelvio National Park",
+     "subtitle": "Lombardy and Trentino-Alto Adige",
+     "desc": "Glaciers, larch forests and the Stelvio Pass, whose 48 hairpin bends on the Prato side are a cyclist's pilgrimage.",
+     "region": "lombardy",
+     "url": "https://www.stelviopark.it/",
+     "url_label": "Park website"
+    },
+    {
+     "title": "Gran Paradiso National Park",
+     "subtitle": "Valle d'Aosta and Piedmont",
+     "desc": "Ibex, chamois and marmots, and well-marked paths between alpine huts.",
+     "region": "valle-daosta",
+     "url": "https://www.pngp.it/en",
+     "url_label": "Park website"
+    },
+    {
+     "title": "Gargano National Park",
+     "subtitle": "Puglia",
+     "desc": "The spur of the boot: the ancient beech woods of the Foresta Umbra, white cliffs, sea stacks and the Tremiti islands offshore.",
+     "region": "puglia",
+     "url": "https://www.parcogargano.it/",
+     "url_label": "Park website"
+    },
+    {
+     "title": "Pollino National Park",
+     "subtitle": "Basilicata and Calabria",
+     "desc": "Italy's largest national park, with rare Bosnian pines clinging to the ridges, canyoning in the Raganello gorges and rafting on the Lao river.",
+     "region": "basilicata",
+     "url": "https://www.parks.it/parco.nazionale.pollino/",
+     "url_label": "Park guide"
+    },
+    {
+     "title": "Cinque Terre and Vesuvius national parks",
+     "subtitle": "Liguria and Campania",
+     "desc": "Two small, much-visited parks where entry tickets fund path repairs and conservation.",
+     "url": "https://www.parconazionale5terre.it/",
+     "url_label": "Cinque Terre park"
+    },
+    {
+     "title": "Bernina Express",
+     "subtitle": "Tirano to St Moritz and Chur",
+     "desc": "Red Swiss trains climb from the vineyards of Tirano in Lombardy over the Bernina Pass and its glaciers, crossing 196 bridges and 55 tunnels including the spiral viaduct at Brusio. The line is a World Heritage site; reserve panoramic seats ahead.",
+     "meta": "About 2h15 to St Moritz",
+     "region": "lombardy",
+     "url": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/",
+     "url_label": "Book the Bernina Express"
+    },
+    {
+     "title": "Vigezzina-Centovalli railway",
+     "subtitle": "Domodossola to Locarno",
+     "desc": "A narrow-gauge line through the Val Vigezzo, the 'valley of painters', and the Swiss Centovalli, over gorges and viaducts. Gorgeous in October, when the chestnut woods turn gold.",
+     "meta": "About 2 hours",
+     "region": "piedmont",
+     "url": "https://www.vigezzinacentovalli.com/en/",
+     "url_label": "Vigezzina-Centovalli"
+    },
+    {
+     "title": "Circumetnea railway",
+     "subtitle": "Around Mount Etna, Sicily",
+     "desc": "A slow single-track line circling Etna through lava fields, pistachio groves in Bronte and hill towns, from Catania to Riposto.",
+     "region": "sicily",
+     "url": "https://www.circumetnea.it/",
+     "url_label": "Circumetnea"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Dolomite cable cars and huts mostly open from mid-June to mid-September; check before booking an early or late trip.",
+  "On popular coasts, use ferries and trains rather than a car: parking in Positano or the Cinque Terre is scarce and expensive.",
+  "Volcano access changes with activity and weather; check the park sites the day before you go.",
+  "Some of the most famous beaches and trails now need a booking or entry fee in summer, so check ahead.",
+  "Carry water and a layer: Apennine and Alpine weather changes fast, even in July."
+ ],
+ "links": [
+  {
+   "label": "Parks.it",
+   "url": "https://www.parks.it/",
+   "desc": "The portal of Italy's national and regional parks, with trail and visitor information"
+  },
+  {
+   "label": "Dolomites UNESCO Foundation",
+   "url": "https://www.dolomitiunesco.info/?lang=en",
+   "desc": "The nine Dolomite groups and how to visit them responsibly"
+  },
+  {
+   "label": "Rhaetian Railway",
+   "url": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/",
+   "desc": "Bernina Express tickets and seat reservations"
+  }
+ ]
+}

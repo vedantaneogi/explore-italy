@@ -1,0 +1,314 @@
+{
+ "slug": "abruzzo",
+ "name": "Abruzzo",
+ "italian_name": "Abruzzo",
+ "area": "central",
+ "capital": "L'Aquila",
+ "tagline": "Wolves, shepherds' villages and the Apennines' wildest peaks, an hour from the Adriatic.",
+ "intro": [
+  "About a third of Abruzzo is protected as national or regional park, and its mountains are serious: the Gran Sasso, with Corno Grande, the highest summit in the Apennines, and the vast rounded bulk of the Maiella. Marsican brown bears and wolves still roam the beech forests of the Abruzzo National Park, and for centuries shepherds walked their flocks hundreds of kilometres down the tratturi to the plains of Puglia every autumn.",
+  "The villages they left behind are stone-built and high: Santo Stefano di Sessanio, Castel del Monte, Scanno. Below them the coast is gentler, with long sandy beaches around Pescara and, further south, the Costa dei Trabocchi, where wooden fishing platforms on stilts now serve fish suppers over the sea. Food is honest and generous: arrosticini lamb skewers, saffron from the Navelli plain and Montepulciano d'Abruzzo poured by the jug."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chiesa_di_Santa_Maria_Della_piet%C3%A0_2017.jpg/1280px-Chiesa_di_Santa_Maria_Della_piet%C3%A0_2017.jpg",
+  "alt": "The octagonal church of Santa Maria della Pietà below Rocca Calascio with the snowy Gran Sasso behind",
+  "credit": "kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AChiesa_di_Santa_Maria_Della_piet%C3%A0_2017.jpg"
+ },
+ "known_for": [
+  "Gran Sasso and Maiella",
+  "Bears and wolves",
+  "Costa dei Trabocchi",
+  "Arrosticini",
+  "Montepulciano d'Abruzzo",
+  "Sulmona's confetti",
+  "Mountain villages"
+ ],
+ "best_time": "June to September for hiking, the high plains and the coast, with Sulmona's joust in late July and L'Aquila's Perdonanza at the end of August. Winter brings skiing at Roccaraso and Campo Imperatore and snowbound villages made for long lunches by the fire.",
+ "getting_there": "Abruzzo Airport at Pescara has flights from around Europe, and Rome Fiumicino is roughly two hours' drive from L'Aquila. The A24 and A25 motorways cross the mountains from Rome to the coast, frequent buses link Rome with L'Aquila and Pescara, and trains run along the Adriatic and, slowly, inland to Sulmona. In the mountains you need a car.",
+ "places": [
+  {
+   "name": "L'Aquila",
+   "desc": "The capital was badly damaged by the 2009 earthquake and has been patiently rebuilt; its centre is alive again. See the pink-and-white checkerboard façade of Santa Maria di Collemaggio, where Pope Celestine V was crowned, the medieval Fontana delle 99 Cannelle and the massive 16th-century Spanish fortress. Then buy soft chocolate torrone on Piazza Duomo.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/L%27Aquila_-_basilica_di_Santa_Maria_di_Collemaggio_-_facciata_-_14.jpg/1280px-L%27Aquila_-_basilica_di_Santa_Maria_di_Collemaggio_-_facciata_-_14.jpg",
+    "alt": "The pink-and-white patterned façade of Santa Maria di Collemaggio in L'Aquila",
+    "credit": "Stemonitis, CC BY-SA 2.5, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AL%27Aquila_-_basilica_di_Santa_Maria_di_Collemaggio_-_facciata_-_14.jpg"
+   }
+  },
+  {
+   "name": "Sulmona",
+   "desc": "Ovid's hometown sits in a green basin ringed by mountains and is famous for confetti, sugared almonds shaped into flowers, bouquets and ears of wheat. Walk under the 13th-century aqueduct on Piazza Garibaldi, visit the confetti museum at the Pelino factory and come in late July for the Giostra Cavalleresca.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Panorama_di_Sulmona.jpg/1280px-Panorama_di_Sulmona.jpg",
+    "alt": "Sulmona's rooftops and bell tower below the long ridge of Monte Morrone",
+    "credit": "Lorenzo Testa, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanorama_di_Sulmona.jpg"
+   }
+  },
+  {
+   "name": "Campo Imperatore",
+   "desc": "A high, treeless plateau under the Gran Sasso, nicknamed 'Little Tibet' for its wind-scoured emptiness, with wild horses and grazing sheep. Drive up from Castel del Monte or take the cable car from Fonte Cerreto, hike towards Corno Grande, then eat arrosticini grilled at a roadside ristoro.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Campo_Imperatore.jpg/1280px-Campo_Imperatore.jpg",
+    "alt": "Cows grazing on the Campo Imperatore plateau beneath the rocky peak of Corno Grande",
+    "credit": "MGerety, CC BY-SA 2.5, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACampo_Imperatore.jpg"
+   }
+  },
+  {
+   "name": "Abruzzo National Park",
+   "desc": "One of Italy's oldest national parks, founded in the 1920s and home to the Marsican brown bear, Apennine wolves and Abruzzo chamois. Base yourself in Pescasseroli or Civitella Alfedena, walk the Val di Rose at dawn for chamois, and go out with a licensed guide for the best chance of seeing bears.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Panorama_da_opi.jpg/1280px-Panorama_da_opi.jpg",
+    "alt": "Green beech-covered mountains and a wide valley in the Abruzzo, Lazio and Molise National Park",
+    "credit": "Opi1010, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanorama_da_opi.jpg"
+   }
+  },
+  {
+   "name": "Costa dei Trabocchi",
+   "desc": "South of Ortona the coast turns into pebbly coves and green headlands dotted with trabocchi, spidery wooden fishing machines on stilts, several of them now restaurants. Cycle the Via Verde, a path along the old coastal railway towards Vasto, and book a trabocco dinner for sunset.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trabocco_di_San_Vito_Chietino.jpg/1280px-Trabocco_di_San_Vito_Chietino.jpg",
+    "alt": "A wooden trabocco on stilts over the turquoise Adriatic on the Costa dei Trabocchi",
+    "credit": "Francesca Piersanti, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATrabocco_di_San_Vito_Chietino.jpg"
+   }
+  },
+  {
+   "name": "Scanno",
+   "desc": "A grey-stone village above a heart-shaped lake, made famous by the photographs Henri Cartier-Bresson and Mario Giacomelli took of its women in traditional dress. Walk the path above the lake to see the heart, and look for the presentosa, a filigree pendant crafted by local goldsmiths.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Il_lago_a_forma_di_cuore%2C_lago_di_Scanno_01.jpg/1280px-Il_lago_a_forma_di_cuore%2C_lago_di_Scanno_01.jpg",
+    "alt": "The heart-shaped Lake Scanno among green wooded mountains, seen from above",
+    "credit": "Francesca Piersanti, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AIl_lago_a_forma_di_cuore%2C_lago_di_Scanno_01.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Spend a night on a trabocco",
+   "desc": "Book dinner on one of the converted trabocchi near San Vito Chietino or Fossacesia: raw fish, brodetto and fried calamari served on a wooden platform with the Adriatic under your feet."
+  },
+  {
+   "title": "Walk the Gole del Sagittario",
+   "desc": "The road and trails from Anversa degli Abruzzi to Scanno run through a narrow limestone gorge with a WWF reserve at its foot. Stop for cheese at La Porta dei Parchi, the shepherds' farm just outside Anversa."
+  },
+  {
+   "title": "Climb to Corno Grande",
+   "desc": "From the Campo Imperatore hotel, the normal route to the 2,912-metre summit is a long, rocky day hike; the easier walk to Rifugio Duca degli Abruzzi gives huge views over the plateau."
+  },
+  {
+   "title": "Eat arrosticini by the fire",
+   "desc": "Skewers of mutton or lamb cubes grilled over a long trough-like brazier called a fornacella, eaten by the dozen with bread drizzled with oil and a glass of Montepulciano."
+  },
+  {
+   "title": "See saffron flowering on the Navelli plain",
+   "desc": "In late October and early November the fields below Navelli turn purple with crocus flowers, picked at dawn and stripped by hand for the precious red stigmas of Zafferano dell'Aquila DOP."
+  },
+  {
+   "title": "Ski or snowshoe at Roccaraso",
+   "desc": "The Alto Sangro resorts around Roccaraso and Rivisondoli are the biggest ski area in southern-central Italy; outside the season, the same slopes are good for hiking and mountain biking."
+  },
+  {
+   "title": "Cycle the Via Verde dei Trabocchi",
+   "desc": "A flat cycle path along the old Adriatic railway line, through tunnels and past beaches and trabocchi between Ortona and Vasto. Rent bikes in San Vito Chietino or Fossacesia and stop for a swim."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Arrosticini",
+   "type": "dish",
+   "desc": "Thin skewers of mutton or lamb, grilled over embers and salted at the end; a shepherd's dish that has become the region's emblem."
+  },
+  {
+   "name": "Spaghetti alla chitarra",
+   "type": "dish",
+   "desc": "Square-edged egg pasta cut by pressing the dough through the steel strings of a wooden frame called a chitarra, served with a ragù of tiny meatballs, pallottine."
+  },
+  {
+   "name": "Montepulciano d'Abruzzo",
+   "type": "wine",
+   "desc": "The region's everyday and best red, dark and plummy with soft tannins; the pale-red Cerasuolo d'Abruzzo is made from the same grape and is perfect chilled in summer."
+  },
+  {
+   "name": "Zafferano dell'Aquila DOP",
+   "type": "dish",
+   "desc": "Saffron grown on the Navelli plain since the 13th century, deep red and intensely aromatic. Try it in risotto or with the local pasta."
+  },
+  {
+   "name": "Pecorino di Farindola",
+   "type": "cheese",
+   "desc": "A rare sheep's cheese from the slopes of the Gran Sasso, made with pig's rennet, a Slow Food presidium with a nutty, slightly spicy flavour."
+  },
+  {
+   "name": "Ventricina del Vastese",
+   "type": "cured meat",
+   "desc": "A coarse pork salami seasoned with sweet and hot dried peppers and wild fennel, traditionally aged inside a pig's stomach; a Slow Food presidium."
+  },
+  {
+   "name": "Confetti di Sulmona",
+   "type": "sweet",
+   "desc": "Sugared almonds made in Sulmona since the 15th century, sold plain or wired into flowers, bouquets and rosaries for weddings and christenings."
+  },
+  {
+   "name": "Parrozzo",
+   "type": "sweet",
+   "desc": "Pescara's dome-shaped almond cake covered in dark chocolate, created in 1920 in imitation of rustic corn bread; Gabriele D'Annunzio wrote verses in its praise."
+  },
+  {
+   "name": "Centerbe",
+   "type": "spirit",
+   "desc": "A fierce green herbal liqueur from Tocco da Casauria, flavoured with mountain herbs and drunk as a digestivo; the strong version is around 70% alcohol."
+  },
+  {
+   "name": "Brodetto alla vastese",
+   "type": "dish",
+   "desc": "Vasto's fish stew cooked in a terracotta pot with tomato and sweet peppers, made with a mix of Adriatic fish and never stirred, only shaken."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Confetti Pelino",
+   "city": "Sulmona",
+   "since": "1783",
+   "desc": "Sulmona's most famous confetti maker, still family-run, with a shop and a museum of confectionery art and machinery at its factory. Buy a few sugared-almond flowers and watch how they are made.",
+   "url": "https://pelinostore.com/"
+  },
+  {
+   "name": "Bar Fratelli Nurzia",
+   "city": "L'Aquila",
+   "since": "1835",
+   "desc": "The Nurzia family's soft chocolate-and-hazelnut torrone has been made since 1835; their Liberty-style bar on Piazza Duomo serves coffee with torrone, ferratelle wafers and hot chocolate in winter.",
+   "url": "https://www.torronenurzia.it/"
+  },
+  {
+   "name": "Pasticceria Emo Lullo",
+   "city": "Guardiagrele",
+   "since": "1889",
+   "desc": "Registered in 1889 and still in the same family, this pastry shop is the home of the sise delle monache, the 'nuns' breasts': three soft domes of sponge filled with custard and dusted with sugar.",
+   "url": "https://www.pasticcerialullo.it/"
+  },
+  {
+   "name": "Villa Maiella",
+   "city": "Guardiagrele",
+   "since": "Late 1960s",
+   "desc": "Founded as a trattoria by nonna Ginetta and nonno Arcangelo, now a restaurant with rooms run by the third generation at the foot of the Maiella. Their tripe, snails and sagne e fagioli are a lesson in Abruzzese cooking.",
+   "url": "https://www.villamaiella.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Albergo diffuso in Santo Stefano di Sessanio",
+   "desc": "Sextantio, the albergo diffuso that rescued this half-abandoned village, spreads its rooms through medieval houses with smoke-blackened walls, wool blankets from local looms and no TVs. It is the model that inspired similar projects across Italy."
+  },
+  {
+   "title": "Shepherds' farm stay in Anversa degli Abruzzi",
+   "desc": "La Porta dei Parchi is an organic sheep farm run by a cooperative at the mouth of the Sagittario gorge. Stay in the bioagriturismo, eat their raw-milk cheeses and lamb, and spend a day as a shepherd on transhumance.",
+   "url": "https://laportadeiparchi.com/"
+  },
+  {
+   "title": "Mountain rifugio on the Gran Sasso",
+   "desc": "Hut-to-hut walking is part of Abruzzo life: book a bunk at a staffed rifugio like Duca degli Abruzzi, above Campo Imperatore, for a hearty dinner, a cold night and sunrise over the Adriatic."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "L'Aquila",
+   "to": "Santo Stefano di Sessanio and Rocca Calascio",
+   "how": "About 40 min by car",
+   "desc": "Wander Santo Stefano's lanes and buy lentils, then drive on to Rocca Calascio's ruined castle for the view, ending on Campo Imperatore."
+  },
+  {
+   "from": "Pescara",
+   "to": "Costa dei Trabocchi",
+   "how": "About 30 min by car or train",
+   "desc": "Bike the Via Verde from San Vito Chietino, swim at Punta Aderci reserve near Vasto and finish with dinner on a trabocco."
+  },
+  {
+   "from": "Sulmona",
+   "to": "Scanno",
+   "how": "About 45 min by car",
+   "desc": "Drive the gorge road past Anversa and the Lago di San Domenico hermitage to Scanno, lunch on lamb and walk up to the heart-shaped lake view."
+  },
+  {
+   "from": "Rome",
+   "to": "L'Aquila",
+   "how": "About 1h30 by bus",
+   "desc": "An easy escape from the capital: the rebuilt centre, Collemaggio and the 99 Cannelle fountain, plus torrone and a lunch of local saffron dishes."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Santo Stefano di Sessanio",
+   "desc": "A stone village at 1,250 metres on the edge of Campo Imperatore, once a Medici wool outpost, saved from abandonment by a careful restoration that kept every old wall and doorway. Buy the tiny local lentils and walk the old mule track towards Rocca Calascio.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Santo_Stefano_di_Sessanio_2013_by-RaBoe_013.jpg/1280px-Santo_Stefano_di_Sessanio_2013_by-RaBoe_013.jpg",
+    "alt": "The stone village of Santo Stefano di Sessanio on a green hillside",
+    "credit": "Ra Boe, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASanto_Stefano_di_Sessanio_2013_by-RaBoe_013.jpg"
+   }
+  },
+  {
+   "name": "Rocca Calascio",
+   "desc": "One of the highest castles in Italy, a ruined stone fortress on a ridge at around 1,460 metres, with the octagonal church of Santa Maria della Pietà just below. It was a filming location for Ladyhawke; go at sunset, when the whole ridge glows gold.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rocca_Calascio_3.jpg/1280px-Rocca_Calascio_3.jpg",
+    "alt": "The ruined stone towers of Rocca Calascio against the sky",
+    "credit": "Renano, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARocca_Calascio_3.jpg"
+   }
+  },
+  {
+   "name": "Pacentro",
+   "desc": "A Maiella village crowned by the towers of the Cantelmo-Caldora castle, the ancestral village of Madonna's grandparents. On the first Sunday of September young men race barefoot down a stony slope and up to the church in the Corsa degli Zingari.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Veduta_di_Pacentro.jpg/1280px-Veduta_di_Pacentro.jpg",
+    "alt": "Pacentro's medieval castle towers rising above its stone houses with mountains behind",
+    "credit": "Verdenex84, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVeduta_di_Pacentro.jpg"
+   }
+  },
+  {
+   "name": "Atri",
+   "desc": "A hill town between the Gran Sasso and the sea with a Romanesque cathedral whose apse is covered in Andrea Delitio's 15th-century frescoes. Around it, the Calanchi di Atri reserve protects a strange landscape of eroded clay ridges.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/L%27incantevole_cattedrale_naturale_dei_calanchi_di_Atri.jpg/1280px-L%27incantevole_cattedrale_naturale_dei_calanchi_di_Atri.jpg",
+    "alt": "The eroded clay ridges of the Calanchi di Atri nature reserve",
+    "credit": "Eugenio Panichi, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AL%27incantevole_cattedrale_naturale_dei_calanchi_di_Atri.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Processione dei Serpari",
+   "when": "1 May",
+   "where": "Cocullo",
+   "desc": "The statue of Saint Dominic is draped with live, harmless snakes caught in the surrounding hills and carried through the village, an ancient rite blending pagan and Christian traditions."
+  },
+  {
+   "name": "Giostra Cavalleresca",
+   "when": "Late July",
+   "where": "Sulmona",
+   "desc": "Knights from the town's districts and nearby villages joust in a figure-eight course in Piazza Garibaldi, after a grand parade in Renaissance costume."
+  },
+  {
+   "name": "Perdonanza Celestiniana",
+   "when": "28-29 August",
+   "where": "L'Aquila",
+   "desc": "Since 1294 the Holy Door of Collemaggio has opened for a plenary indulgence granted by Pope Celestine V, with a historic procession and concerts. UNESCO intangible heritage."
+  },
+  {
+   "name": "Le Farchie",
+   "when": "16 January",
+   "where": "Fara Filiorum Petri",
+   "desc": "On the eve of Saint Anthony's day, the village's districts raise and burn huge bundles of reeds up to ten metres tall in front of the saint's church."
+  }
+ ],
+ "culture": "Abruzzo's culture grew out of transhumance, and the tratturi, wool and shepherds' songs still shape it. Zampogna bagpipes and the organetto drive the saltarello, and 'Vola vola vola', a 1922 song, is the unofficial anthem at every feast. Craft traditions are alive: maiolica in Castelli, bobbin lace in Pescocostanzo, wrought iron and copper in Guardiagrele, filigree in Scanno and Sulmona's confetti flowers. Gabriele D'Annunzio was born in Pescara, and his house there is a museum.",
+ "official_site": "https://abruzzoturismo.it/"
+}

@@ -1,0 +1,316 @@
+{
+ "slug": "sardinia",
+ "name": "Sardinia",
+ "italian_name": "Sardegna",
+ "area": "islands",
+ "capital": "Cagliari",
+ "tagline": "Turquoise coves, Bronze Age towers and a mountain heart that keeps its own ways.",
+ "intro": [
+  "Sardinia is an island apart, almost a continent of its own in the middle of the western Mediterranean. Its coastline is famous for good reason: limestone cliffs dropping to coves of improbable turquoise in the Gulf of Orosei, granite boulders and pink-tinged beaches in the north, dunes and wetlands full of flamingos in the west. But most of it is wild interior, of cork oaks, sheep, granite and silence.",
+  "More than 7,000 nuraghi, Bronze Age stone towers, are scattered across the island, along with sacred wells and 'giants' tombs'. In the mountains of the Barbagia, shepherds still sing in four-part harmony, carnival masks are carved from pear wood, and lunch is suckling pig roasted over myrtle. Sardinian is a language, not a dialect, and in Alghero you'll hear Catalan."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cala_Coloritze_vom_Land.JPG/1280px-Cala_Coloritze_vom_Land.JPG",
+  "alt": "Cala Goloritzé on the Gulf of Orosei, a white pebble cove with turquoise water beneath a towering limestone pinnacle",
+  "credit": "Yesuitus2001, CC BY-SA 2.5, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACala_Coloritze_vom_Land.JPG"
+ },
+ "known_for": [
+  "Turquoise beaches",
+  "Nuraghi",
+  "Canto a tenore",
+  "Pecorino and pane carasau",
+  "Cannonau wine",
+  "Barbagia traditions",
+  "Hiking the Supramonte"
+ ],
+ "best_time": "May, June and September are ideal: warm sea, wildflowers in spring and far fewer crowds than in August. Winter and carnival are the time for traditions in the Barbagia.",
+ "getting_there": "Airports at Cagliari, Olbia and Alghero have flights from across Europe. Overnight and day ferries sail from Genoa, Livorno, Civitavecchia, Naples and Piombino to Olbia, Golfo Aranci, Porto Torres and Cagliari. Trains and ARST buses connect the main towns, but you need a car for beaches and the interior.",
+ "places": [
+  {
+   "name": "Cagliari",
+   "desc": "The capital climbs a hill above its port and lagoons. Wander the Castello quarter of Pisan towers and climb the Bastione di Saint Remy for sunset, see the nuragic bronze statuettes at the archaeological museum, shop at the San Benedetto market, and swim at the long Poetto beach. Flamingos feed in the Molentargius salt pans next door.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Panorama_Cagliari.JPG/1280px-Panorama_Cagliari.JPG",
+    "alt": "Rooftops of Cagliari and the port seen from the Bastione di Saint Remy",
+    "credit": "Nicola Rocca, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanorama_Cagliari.JPG"
+   }
+  },
+  {
+   "name": "Gulf of Orosei",
+   "desc": "Forty kilometres of limestone cliffs on the east coast with some of the Mediterranean's most beautiful coves: Cala Luna, Cala Mariolu, Cala Biriola and Cala Goloritzé. Take a boat from Cala Gonone or Santa Maria Navarrese, or hike down from the Supramonte. Visit the Grotta del Bue Marino sea cave.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Arco_naturale_cala_Goloritz%C3%A9.jpg/1280px-Arco_naturale_cala_Goloritz%C3%A9.jpg",
+    "alt": "A natural limestone arch over turquoise water at Cala Goloritzé on the Gulf of Orosei",
+    "credit": "Bakis66, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AArco_naturale_cala_Goloritz%C3%A9.jpg"
+   }
+  },
+  {
+   "name": "Alghero",
+   "desc": "A walled port town on the northwest coast, settled by Catalans in the 14th century, where street signs are bilingual. Walk the sea walls at sunset, eat lobster alla catalana, and drive out to Capo Caccia to descend the 654 steps of the Escala del Cabirol to Neptune's Grotto.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alghero_bastioni_c_o.jpg/1280px-Alghero_bastioni_c_o.jpg",
+    "alt": "The palm-lined sea walls of Alghero's old town beside the blue sea",
+    "credit": "jimmyroq, CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAlghero_bastioni_c_o.jpg"
+   }
+  },
+  {
+   "name": "La Maddalena archipelago",
+   "desc": "A national park of granite islands off the northeast tip, with water in every shade of blue and green. Boat trips from Palau and La Maddalena visit Spargi, Budelli's famous pink beach (now protected and viewed from the water) and the natural pools of Santa Maria.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg/1280px-Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg",
+    "alt": "The curving white-and-pink Spiaggia Rosa on Budelli island, with shallow turquoise water",
+    "credit": "trevis_lu (Luca Giudicatti), CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASpiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg"
+   }
+  },
+  {
+   "name": "Su Nuraxi di Barumini",
+   "desc": "The finest of Sardinia's nuraghi and a UNESCO site: a Bronze Age fortress with a central tower and four corner towers, surrounded by the round stone huts of a village. Guided tours take you up inside the towers. Combine with the Giara di Gesturi plateau and its wild horses.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg/1280px-Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg",
+    "alt": "The great stone mound of the Su Nuraxi nuraghe at Barumini under a blue sky",
+    "credit": "Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ANuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg"
+   }
+  },
+  {
+   "name": "Bosa",
+   "desc": "A river town of pastel houses climbing a hill to the Malaspina castle, on the Temo, Sardinia's only navigable river. Walk along the old tanneries on the riverbank, taste the sweet Malvasia di Bosa, and drive the coast road to Alghero, one of the island's most beautiful.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bosa_e_il_Castello_Malaspina_dal_Fiume_Temo.jpg/1280px-Bosa_e_il_Castello_Malaspina_dal_Fiume_Temo.jpg",
+    "alt": "Bosa's colourful riverside houses and palms reflected in the river Temo, with the Malaspina castle above",
+    "credit": "Viscardo Squartini, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABosa_e_il_Castello_Malaspina_dal_Fiume_Temo.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Hike to Cala Goloritzé",
+   "desc": "From the Golgo plateau above Baunei, a path of about an hour drops through holm oaks to a white-pebble cove beneath a limestone needle over 140 metres tall. Access is limited and ticketed in summer, so book ahead."
+  },
+  {
+   "title": "Hear canto a tenore",
+   "desc": "Look for performances during festivals in the Barbagia, especially in Orgosolo, Bitti and Oliena. Four men stand in a circle and sing in deep guttural harmony."
+  },
+  {
+   "title": "Visit the Mamuthones museum in Mamoiada",
+   "desc": "The Museo delle Maschere Mediterranee explains the black wooden masks and sheepskins of the Mamuthones and similar rituals around the Mediterranean. Then visit a local mask carver's workshop."
+  },
+  {
+   "title": "Go down into Neptune's Grotto",
+   "desc": "A huge sea cave of stalactites and lakes at Capo Caccia, near Alghero. Reach it by boat or by the 654-step staircase down the cliff."
+  },
+  {
+   "title": "Eat at a shepherds' lunch",
+   "desc": "Some shepherds in the Supramonte, around Orgosolo and Oliena, host lunches in the open: roast pork, pecorino, pane carasau, Cannonau and songs. Ask locally or at your agriturismo."
+  },
+  {
+   "title": "Watch flamingos in Cagliari",
+   "desc": "In the Molentargius-Saline park, between the city and the Poetto beach, hundreds of pink flamingos nest and feed. Rent a bike and follow the paths at dawn or dusk."
+  },
+  {
+   "title": "Take the Trenino Verde",
+   "desc": "A slow tourist train on narrow-gauge lines through the mountains of the interior, with stops in tiny villages. It runs only on certain routes in summer."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Culurgiones",
+   "type": "dish",
+   "desc": "Ravioli from the Ogliastra filled with potato, pecorino and mint, closed with a braided seam like an ear of wheat. They have IGP status."
+  },
+  {
+   "name": "Malloreddus",
+   "type": "dish",
+   "desc": "Small ridged saffron gnocchi made from durum wheat, usually served alla campidanese with sausage, tomato and grated pecorino."
+  },
+  {
+   "name": "Porceddu",
+   "type": "dish",
+   "desc": "Suckling pig roasted slowly on a spit over myrtle and juniper wood until the skin crackles, then served on a bed of myrtle leaves."
+  },
+  {
+   "name": "Pane carasau",
+   "type": "bread",
+   "desc": "Paper-thin crisp flatbread, baked twice, which shepherds took to the pastures. Pane guttiau is the same bread with olive oil and salt."
+  },
+  {
+   "name": "Pecorino Sardo and Fiore Sardo DOP",
+   "type": "cheese",
+   "desc": "Sheep's milk cheeses: Fiore Sardo is smoked and aged in the Barbagia, often by shepherds themselves."
+  },
+  {
+   "name": "Bottarga di muggine",
+   "type": "dish",
+   "desc": "Salted and dried grey mullet roe from the lagoons of Cabras, grated over spaghetti or sliced thin with olive oil."
+  },
+  {
+   "name": "Seadas",
+   "type": "sweet",
+   "desc": "Large fried pastries filled with fresh sour pecorino and lemon zest, served hot with bitter honey."
+  },
+  {
+   "name": "Cannonau",
+   "type": "wine",
+   "desc": "Sardinia's main red grape, Grenache under another name, giving warm, spicy wines especially in Nuoro province, around Oliena and Mamoiada."
+  },
+  {
+   "name": "Vermentino di Gallura DOCG",
+   "type": "wine",
+   "desc": "A fresh, salty, aromatic white from the granite soils of the northeast. The ideal match for seafood."
+  },
+  {
+   "name": "Mirto",
+   "type": "spirit",
+   "desc": "A dark liqueur from wild myrtle berries, served cold after dinner. The white version is made from the leaves."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Antico Caffè",
+   "city": "Cagliari",
+   "since": "1855",
+   "desc": "A Liberty-era café on Piazza Costituzione, below the Bastione di Saint Remy, once frequented by Grazia Deledda and D'Annunzio. Good for a breakfast cappuccino or an evening drink on the terrace.",
+   "url": "https://anticocaffe1855.it/"
+  },
+  {
+   "name": "Caffè Pasticceria Rivara",
+   "city": "Cagliari",
+   "since": "1838",
+   "desc": "A pastry shop of Ligurian origin on Via Logudoro, still run by the Rivara family, with Liberty fittings and Gio Ponti tiles. Try the torta marengo and the cannoncini."
+  },
+  {
+   "name": "Caffè Tettamanzi",
+   "city": "Nuoro",
+   "since": "1875",
+   "desc": "The historic café on Corso Garibaldi, the old Via Majore, with red divans that appear in Salvatore Satta's novel The Day of Judgement. Have a coffee where Nuoro's writers met."
+  },
+  {
+   "name": "Su Gologone",
+   "city": "Oliena",
+   "since": "1967",
+   "desc": "Founded by Peppeddu and Pasqua Palimodde as a simple restaurant near the Su Gologone spring, it is now a hotel full of Sardinian art. The kitchen still roasts suckling pig and lamb at the open fire.",
+   "url": "https://www.sugologone.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "A family agriturismo near Oliena",
+   "desc": "Agriturismo Guthiddai, in the countryside at the foot of the Supramonte, has rooms with small loggias and a restaurant using the family's own produce and Cannonau. Perfect for hikes to Tiscali and Gorropu."
+  },
+  {
+   "title": "A farm on the Barbagia plateau",
+   "desc": "Agriturismo Testone sits at 700 metres on a vast plateau near Nuoro, among cork oaks and pastures. Expect dinners of farm-made cheese and roasts, plus pasta-making and cheese workshops for guests."
+  },
+  {
+   "title": "An albergo diffuso in Bosa",
+   "desc": "Corte Fiorita has rooms spread across four restored houses in the lanes of Bosa's old town, one right on the river Temo. Breakfast is served in the main house, and the castle is a short climb away.",
+   "url": "https://www.albergo-diffuso.it/"
+  },
+  {
+   "title": "A stazzo in Gallura",
+   "desc": "Stazzi are traditional granite farmhouses scattered in the countryside of the northeast. Many are now family-run agriturismi, among cork oaks and vineyards of Vermentino, a short drive from the beaches."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Cala Gonone",
+   "to": "Gulf of Orosei coves",
+   "how": "Full day by boat",
+   "desc": "Hire a small boat or join a tour to Cala Luna, Cala Mariolu and Cala Goloritzé, with a stop at the Grotta del Bue Marino."
+  },
+  {
+   "from": "Cagliari",
+   "to": "Su Nuraxi di Barumini",
+   "how": "1h by car",
+   "desc": "Visit the nuraghe with a guide, then drive up to the Giara di Gesturi plateau to see its small wild horses among cork oaks and seasonal ponds."
+  },
+  {
+   "from": "Alghero",
+   "to": "Bosa",
+   "how": "1h by car along the coast",
+   "desc": "One of the island's most scenic drives, with cliffs, griffon vultures and empty coves. Have lunch by the river in Bosa."
+  },
+  {
+   "from": "Oristano",
+   "to": "Tharros and the Sinis",
+   "how": "30 min by car",
+   "desc": "Walk around the Phoenician and Roman ruins on the cape, then swim at Is Arutas, a beach of tiny quartz grains."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Carloforte",
+   "desc": "The only town on San Pietro island, founded in the 18th century by Ligurian coral fishers from Tabarka in Tunisia. They still speak a Genoese dialect, eat tuna in a hundred ways and celebrate it at the Girotonno festival.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Lungomare%2C_Carloforte%2C_Isola_di_San_Pietro%2C_Carbonia-Iglesias%2C_Sardinia%2C_Italy_-_panoramio.jpg/1280px-Lungomare%2C_Carloforte%2C_Isola_di_San_Pietro%2C_Carbonia-Iglesias%2C_Sardinia%2C_Italy_-_panoramio.jpg",
+    "alt": "The seafront and harbour of Carloforte on San Pietro island",
+    "credit": "trolvag, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALungomare%2C_Carloforte%2C_Isola_di_San_Pietro%2C_Carbonia-Iglesias%2C_Sardinia%2C_Italy_-_panoramio.jpg"
+   }
+  },
+  {
+   "name": "Gola di Gorropu",
+   "desc": "One of Europe's deepest canyons, with walls rising several hundred metres, cut by the Flumineddu river in the Supramonte. Hike in from the Genna 'e Silana pass or from Dorgali with a guide.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gola_di_Gorropu_01.jpg/1280px-Gola_di_Gorropu_01.jpg",
+    "alt": "Layered pale limestone walls and white boulders on the floor of the Gorropu canyon",
+    "credit": "Unukorno, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGola_di_Gorropu_01.jpg"
+   }
+  },
+  {
+   "name": "Orgosolo",
+   "desc": "A Barbagia village famous for its murals, painted on house walls since the late 1960s with political and social stories. Walk Corso Repubblica, then eat with shepherds in the hills.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Orgosolo%2C_murales_politici%2C_donne_02.jpg/1280px-Orgosolo%2C_murales_politici%2C_donne_02.jpg",
+    "alt": "Murals of women in traditional dress painted on a stone house wall in Orgosolo",
+    "credit": "Sailko, CC BY 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOrgosolo%2C_murales_politici%2C_donne_02.jpg"
+   }
+  },
+  {
+   "name": "Tharros",
+   "desc": "Phoenician, Punic and Roman ruins at the tip of the Sinis peninsula, with columns against the sea. Nearby are the Cabras lagoon, famous for bottarga, and the quartz-grain beaches of Is Arutas and Mari Ermi.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Colonne_a_tharros.jpg/1280px-Colonne_a_tharros.jpg",
+    "alt": "Two Roman columns standing among the ruins of Tharros against the blue sea",
+    "credit": "Simon.zfn, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AColonne_a_tharros.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Festa di Sant'Efisio",
+   "when": "1-4 May",
+   "where": "Cagliari to Nora",
+   "desc": "A procession of thousands in traditional costume, decorated ox carts and horsemen accompanies the saint's statue from Cagliari to the beach at Nora, and back, since 1657."
+  },
+  {
+   "name": "Sa Sartiglia",
+   "when": "Carnival Sunday and Shrove Tuesday",
+   "where": "Oristano",
+   "desc": "Masked riders gallop at full speed to spear a silver star hanging over the street, followed by acrobatics on horseback."
+  },
+  {
+   "name": "Sant'Antonio and the Mamuthones",
+   "when": "16-17 January, and carnival",
+   "where": "Mamoiada",
+   "desc": "Bonfires are lit across the village and the Mamuthones appear for the first time of the year, in black masks and sheepskins hung with heavy cowbells."
+  },
+  {
+   "name": "I Candelieri",
+   "when": "14 August",
+   "where": "Sassari",
+   "desc": "The 'dance of the candlesticks': the guilds carry huge wooden columns through the city to the church of Santa Maria di Betlem, dancing them to drums and fifes."
+  }
+ ],
+ "culture": "Sardinia's most extraordinary sound is the canto a tenore, recognised by UNESCO: four male voices, two of them deep throat sounds, singing in a circle. The launeddas, a triple pipe played with circular breathing, dates back to the nuragic age and still accompanies the round dance, su ballu tundu. Carnival in the Barbagia is ancient and eerie, with the Mamuthones of Mamoiada and the Boes and Merdules of Ottana. Sardinian is spoken across the island, with Catalan in Alghero and Ligurian in Carloforte. Crafts include filigree gold jewellery, Pattada knives and woven carpets from Samugheo; Nuoro is the hometown of Nobel laureate Grazia Deledda.",
+ "official_site": "https://www.sardegnaturismo.it/en"
+}

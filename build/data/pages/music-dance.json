@@ -1,0 +1,328 @@
+{
+ "slug": "music-dance",
+ "section": "experiences",
+ "title": "Music & dance",
+ "headline": "The country that invented opera still sings",
+ "tagline": "From Monteverdi's court in Mantua to the all-night pizzica of the Salento, follow Italy's music to the places where it was born and still lives.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Monumental_stage_prop_from_the_opera_Aida_-_01.jpg/1280px-Monumental_stage_prop_from_the_opera_Aida_-_01.jpg",
+  "alt": "Giant Aida stage props lined up beside the Roman Arena in Verona's Piazza Bra",
+  "credit": "NorbertNagel, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMonumental_stage_prop_from_the_opera_Aida_-_01.jpg"
+ },
+ "intro": [
+  "Italy gave the world opera, the piano, the violin as we know it and most of the words musicians still use: forte, piano, allegro, crescendo. In 2023 UNESCO recognised Italian opera singing itself as living heritage. You can sit in the theatres where Verdi's and Puccini's works were first heard, or under the stars in a Roman arena with thousands of others holding candles.",
+  "But the music that most Italians grew up with is local. Every region has its dances and instruments: tambourine-driven pizzica in Puglia, the button accordion in Abruzzo, the haunting four-voice canto a tenore of Sardinian shepherds. Summer is when it all comes out, in village squares and on festival stages, often for free and usually until very late."
+ ],
+ "sections": [
+  {
+   "heading": "Where opera was born",
+   "intro": "Follow the story of Italian opera from a Florentine salon to Puccini's lakeside villa.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Florence and the Camerata",
+     "subtitle": "Tuscany, 1580s-1600",
+     "desc": "A circle of Florentine poets and musicians, meeting at Count Giovanni de' Bardi's palace, set out to revive the sung drama of the ancient Greeks. The result was a new art form. Jacopo Peri's Euridice, first performed at Palazzo Pitti in 1600 for a Medici wedding, is the oldest opera whose music survives. The Maggio Musicale Fiorentino keeps the city's musical flame alive every spring.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg/1280px-Dome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg",
+      "alt": "The frescoed interior of Brunelleschi's dome in Florence Cathedral",
+      "credit": "Livioandronico2013, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADome_of_Cattedrale_di_Santa_Maria_del_Fiore_%28Florence%29.jpg"
+     },
+     "meta": "Euridice, 1600",
+     "region": "tuscany",
+     "url": "https://www.maggiofiorentino.com/en/",
+     "url_label": "Maggio Musicale Fiorentino"
+    },
+    {
+     "title": "Monteverdi's Mantua",
+     "subtitle": "Lombardy",
+     "desc": "Claudio Monteverdi, born in Cremona, wrote L'Orfeo for the Gonzaga court in Mantua in 1607: the first operatic masterpiece, still performed today. Wander the enormous Ducal Palace, where it was staged, then hear a concert in the jewel-box Teatro Bibiena, where a 13-year-old Mozart played in 1770.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dsc_1150_Mantua.jpg/1280px-Dsc_1150_Mantua.jpg",
+      "alt": "Aerial view of Mantua's red rooftops surrounded by its lakes",
+      "credit": "EdoM, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADsc_1150_Mantua.jpg"
+     },
+     "meta": "L'Orfeo, 1607",
+     "region": "lombardy"
+    },
+    {
+     "title": "Verdi country",
+     "subtitle": "Parma and Busseto, Emilia-Romagna",
+     "desc": "Giuseppe Verdi was born in 1813 in the hamlet of Le Roncole, near Busseto, among the flat fields and poplars of the Po plain. Visit his birthplace and the little Teatro Verdi in Busseto, see the estate at Sant'Agata where he wrote many of his operas, then come in autumn for the Festival Verdi at Parma's Teatro Regio, where the gallery is famously unforgiving.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Veduta_di_Rocca_Pallavicino_da_Piazza_Giuseppe_Verdi_-_Busseto.JPG/1280px-Veduta_di_Rocca_Pallavicino_da_Piazza_Giuseppe_Verdi_-_Busseto.JPG",
+      "alt": "The Rocca Pallavicino and Verdi's statue in the main square of Busseto",
+      "credit": "IL MORUZ, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVeduta_di_Rocca_Pallavicino_da_Piazza_Giuseppe_Verdi_-_Busseto.JPG"
+     },
+     "meta": "Festival Verdi: Sept-Oct",
+     "region": "emilia-romagna",
+     "url": "https://teatroregioparma.it/en/",
+     "url_label": "Teatro Regio & Festival Verdi"
+    },
+    {
+     "title": "Puccini's Lucca and Torre del Lago",
+     "subtitle": "Tuscany",
+     "desc": "Giacomo Puccini was born in Lucca in 1858; his family home is now a museum. He wrote La Bohème and Tosca at his villa on Lake Massaciuccoli in Torre del Lago, where he is buried. Every summer the Puccini Festival stages his operas in an open-air theatre on the shore, with the lake as the backdrop.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lake_Massaciuccoli_from_Torre_del_Lago.jpg/1280px-Lake_Massaciuccoli_from_Torre_del_Lago.jpg",
+      "alt": "A wooden jetty reaching into the calm water of Lake Massaciuccoli at Torre del Lago",
+      "credit": "Stephencdickson, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALake_Massaciuccoli_from_Torre_del_Lago.jpg"
+     },
+     "meta": "Puccini Festival: July-Aug",
+     "region": "tuscany",
+     "url": "https://www.puccinifestival.it/en/",
+     "url_label": "Puccini Festival"
+    },
+    {
+     "title": "Rossini's Pesaro",
+     "subtitle": "Marche",
+     "desc": "Gioachino Rossini, born here in 1792, left his fortune to his hometown and its music school. Each August the Rossini Opera Festival brings top voices to this relaxed Adriatic beach town; you can swim in the morning and hear a rare Rossini comedy at night.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palazzo_Ducale_di_sera.jpg/1280px-Palazzo_Ducale_di_sera.jpg",
+      "alt": "Pesaro's Palazzo Ducale and fountain in Piazza del Popolo at dusk",
+      "credit": "Italtrucker, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APalazzo_Ducale_di_sera.jpg"
+     },
+     "meta": "Rossini Opera Festival: August",
+     "region": "marche",
+     "url": "https://www.rossinioperafestival.it/en/",
+     "url_label": "Rossini Opera Festival"
+    },
+    {
+     "title": "Naples and the canzone napoletana",
+     "subtitle": "Campania",
+     "desc": "Naples gave the world 'O sole mio and Funiculì, funiculà, and a song tradition that runs from 18th-century comic opera to today's street musicians. Hear it in the Galleria Umberto, on a restaurant terrace in Santa Lucia, or at the Teatro di San Carlo, the oldest working opera house in Europe.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/CastelOvo.jpg/1280px-CastelOvo.jpg",
+      "alt": "Castel dell'Ovo on the Naples waterfront by the Santa Lucia quarter",
+      "credit": "Castel dell'Ovo, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACastelOvo.jpg"
+     },
+     "meta": "Teatro di San Carlo, 1737",
+     "region": "campania",
+     "url": "https://www.teatrosancarlo.it/en/",
+     "url_label": "Teatro di San Carlo"
+    }
+   ]
+  },
+  {
+   "heading": "Folk dances and village sounds",
+   "intro": "Italy's folk music was nearly lost in the 20th century and has roared back. These are the sounds and steps to look for.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Pizzica and the Notte della Taranta",
+     "subtitle": "Salento, Puglia",
+     "desc": "Pizzica grew out of tarantismo, a ritual in which women 'bitten by the tarantula' danced for days to frame drums and violins. Today it is a joyful, whirling dance. All summer, villages hold free concerts that build to the giant Notte della Taranta finale in Melpignano each late August.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Gallipoli_-_Spiaggia_della_Purit%C3%A0.jpg/1280px-Gallipoli_-_Spiaggia_della_Purit%C3%A0.jpg",
+      "alt": "The sea walls and pastel palazzi of Gallipoli's old town on the Salento coast",
+      "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGallipoli_-_Spiaggia_della_Purit%C3%A0.jpg"
+     },
+     "meta": "Concertone: late August",
+     "region": "puglia",
+     "url": "https://www.lanottedellataranta.it/",
+     "url_label": "La Notte della Taranta"
+    },
+    {
+     "title": "Tarantella",
+     "subtitle": "Southern Italy",
+     "desc": "The family of fast 6/8 dances from Campania, Calabria and Sicily, played on tambourines, accordions and the chitarra battente. In Calabria it is often a tense, flirtatious duel inside a ring of watching dancers; at weddings, everyone gets pulled in.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Filippo_Falciatore_-_Tarantella_at_Mergellina_-_80.3_-_Detroit_Institute_of_Arts.jpg/1280px-Filippo_Falciatore_-_Tarantella_at_Mergellina_-_80.3_-_Detroit_Institute_of_Arts.jpg",
+      "alt": "Filippo Falciatore's painting of a tarantella danced to tambourine and mandolin on the shore at Mergellina",
+      "credit": "Filippo Falciatore, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFilippo_Falciatore_-_Tarantella_at_Mergellina_-_80.3_-_Detroit_Institute_of_Arts.jpg"
+     },
+     "meta": "Weddings and summer feste",
+     "region": "campania"
+    },
+    {
+     "title": "Saltarello",
+     "subtitle": "Marche, Lazio and Abruzzo",
+     "desc": "The 'little jump' is one of Europe's oldest recorded dances, with tunes surviving from the 14th century. Couples hop and spin to organetto and tambourine at harvest festivals in the central Apennines.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saltarello_Dance.jpg/1280px-Saltarello_Dance.jpg",
+      "alt": "Dancers' swirling skirts and white stockings on the cobbles during a saltarello in the Marche",
+      "credit": "Cristina Morettini 95, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASaltarello_Dance.jpg"
+     },
+     "meta": "Late summer sagre",
+     "region": "marche"
+    },
+    {
+     "title": "Ballu tundu and launeddas",
+     "subtitle": "Sardinia",
+     "desc": "The 'round dance' of Sardinia: a slow, shuffling chain of linked arms that tightens into a circle in the village square, often to the launeddas, a three-pipe reed instrument played with circular breathing. Catch it at the Cavalcata Sarda in Sassari or any patron saint's festa.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sardinian_dance_2.jpg/1280px-Sardinian_dance_2.jpg",
+      "alt": "Dancers in red and black Sardinian costume linking arms in a ballu tundu circle",
+      "credit": "cristiano cani, CC BY 2.5, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASardinian_dance_2.jpg"
+     },
+     "meta": "Patron saints' days",
+     "region": "sardinia"
+    },
+    {
+     "title": "Canto a tenore",
+     "subtitle": "Inland Sardinia",
+     "desc": "Four men in a tight circle: a solo voice and three throat-sung parts imitating the wind, the sheep and the cattle. UNESCO-listed and still very much part of village life in Barbagia; Orgosolo and Bitti have famous groups.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tenores_di_bitti_mialinu_pira_2.jpg/1280px-Tenores_di_bitti_mialinu_pira_2.jpg",
+      "alt": "The Tenores di Bitti singing in a close circle in traditional Sardinian dress",
+      "credit": "Sardegnabella, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATenores_di_bitti_mialinu_pira_2.jpg"
+     },
+     "meta": "UNESCO-listed 2008",
+     "region": "sardinia"
+    },
+    {
+     "title": "Organetto and zampogna",
+     "subtitle": "The Apennines",
+     "desc": "The little diatonic button accordion drives dancing across central and southern Italy, and Castelfidardo in Le Marche is still the accordion capital of the world. At Christmas, shepherd bagpipers called zampognari walk down from the mountains of Molise and Lazio to play in towns.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Il_saltarello.jpg/1280px-Il_saltarello.jpg",
+      "alt": "A smiling dancer in Marche folk costume with an organetto player and musicians behind her",
+      "credit": "Cristina Morettini 95, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIl_saltarello.jpg"
+     },
+     "meta": "Castelfidardo, Marche",
+     "region": "marche"
+    },
+    {
+     "title": "Furlana",
+     "subtitle": "Friuli and Venice",
+     "desc": "A lively couple dance in 6/8 from Friuli that Venetian gondoliers adopted and made fashionable across Europe in the 1600s. Friulian folk groups still dance it in costume at village fairs.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/DuomoDiSpilimbergo.jpg/1280px-DuomoDiSpilimbergo.jpg",
+      "alt": "The Romanesque cathedral of Spilimbergo in Friuli under a blue sky",
+      "credit": "Aqwis, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADuomoDiSpilimbergo.jpg"
+     },
+     "meta": "Friulian folk festivals",
+     "region": "friuli-venezia-giulia"
+    }
+   ]
+  },
+  {
+   "heading": "Festivals worth planning a trip around",
+   "intro": "Book early for the big opera festivals, especially Verona and Pesaro; the folk and jazz events are often partly free.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Arena di Verona Opera Festival",
+     "subtitle": "Verona, Veneto",
+     "desc": "Aida, Carmen and Turandot in a 2,000-year-old Roman amphitheatre since 1913. The cheap unreserved stone steps are part of the fun; bring a cushion. The 2027 season runs 11 June to 11 September.",
+     "meta": "June-September",
+     "region": "veneto",
+     "url": "https://www.arena.it/en/",
+     "url_label": "Book the Arena"
+    },
+    {
+     "title": "Puccini Festival",
+     "subtitle": "Torre del Lago, Tuscany",
+     "desc": "Puccini's operas performed beside the lake where he wrote them, in an open-air theatre near his villa.",
+     "meta": "July-August",
+     "region": "tuscany",
+     "url": "https://www.puccinifestival.it/en/",
+     "url_label": "Programme and tickets"
+    },
+    {
+     "title": "Rossini Opera Festival",
+     "subtitle": "Pesaro, Marche",
+     "desc": "Two weeks of Rossini, including rediscovered rarities, in the composer's hometown by the sea.",
+     "meta": "August",
+     "region": "marche",
+     "url": "https://www.rossinioperafestival.it/en/",
+     "url_label": "ROF tickets"
+    },
+    {
+     "title": "Festival Verdi",
+     "subtitle": "Parma and Busseto, Emilia-Romagna",
+     "desc": "Verdi's operas in the theatres of his home turf, around his birthday on 10 October.",
+     "meta": "September-October",
+     "region": "emilia-romagna",
+     "url": "https://teatroregioparma.it/en/",
+     "url_label": "Teatro Regio di Parma"
+    },
+    {
+     "title": "Ravenna Festival",
+     "subtitle": "Ravenna, Emilia-Romagna",
+     "desc": "Concerts, opera and dance in mosaic-lined basilicas, cloisters and the city's theatres, with big-name orchestras and conductors.",
+     "meta": "June-July",
+     "region": "emilia-romagna",
+     "url": "https://www.ravennafestival.org/en/",
+     "url_label": "Ravenna Festival"
+    },
+    {
+     "title": "Umbria Jazz",
+     "subtitle": "Perugia, Umbria",
+     "desc": "Ten days of jazz in the medieval hill town, with paid headline gigs in the Arena Santa Giuliana and free concerts and street bands in the squares. A winter edition takes place in Orvieto around New Year.",
+     "meta": "July",
+     "region": "umbria",
+     "url": "https://www.umbriajazz.it/en/",
+     "url_label": "Umbria Jazz"
+    },
+    {
+     "title": "Maggio Musicale Fiorentino",
+     "subtitle": "Florence, Tuscany",
+     "desc": "Italy's oldest music festival, founded in 1933, with opera and concerts at the modern Teatro del Maggio.",
+     "meta": "Spring",
+     "region": "tuscany",
+     "url": "https://www.maggiofiorentino.com/en/",
+     "url_label": "Teatro del Maggio"
+    },
+    {
+     "title": "La Notte della Taranta",
+     "subtitle": "Salento, Puglia",
+     "desc": "A travelling festival of pizzica through Salento's villages, ending with a vast free concert in Melpignano that runs late into the night.",
+     "meta": "August",
+     "region": "puglia",
+     "url": "https://www.lanottedellataranta.it/",
+     "url_label": "Festival site"
+    },
+    {
+     "title": "Sanremo Music Festival",
+     "subtitle": "Sanremo, Liguria",
+     "desc": "Italy's national song contest since 1951, five nights at the Teatro Ariston each February that the whole country watches and argues about. The winner usually goes on to represent Italy at Eurovision.",
+     "meta": "February",
+     "region": "liguria"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "At the Arena di Verona, unreserved stone-step seats are cheap but hard: rent or bring a cushion and arrive early.",
+  "Opera houses sell last-minute and gallery seats on the day; ask at the box office rather than giving up on a sold-out show.",
+  "Village festivals rarely start before 9.30pm in summer. Eat late, as the locals do, and expect the dancing to go on past midnight.",
+  "Dress codes have relaxed, but at La Scala and La Fenice smart clothes are still appreciated, and shorts are not allowed."
+ ],
+ "links": [
+  {
+   "label": "Arena di Verona",
+   "url": "https://www.arena.it/en/",
+   "desc": "Opera festival programme and seat booking"
+  },
+  {
+   "label": "La Notte della Taranta",
+   "url": "https://www.lanottedellataranta.it/",
+   "desc": "Dates for the summer pizzica tour and the Melpignano concert"
+  },
+  {
+   "label": "Puccini Museum, Lucca",
+   "url": "https://www.puccinimuseum.org/en/",
+   "desc": "Puccini's birthplace, now a museum"
+  },
+  {
+   "label": "UNESCO: opera singing in Italy",
+   "url": "https://ich.unesco.org/en/state/italy-IT",
+   "desc": "Italy's intangible heritage entries, including opera singing and canto a tenore"
+  }
+ ]
+}

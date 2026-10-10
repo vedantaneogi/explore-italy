@@ -1,0 +1,309 @@
+{
+ "slug": "puglia",
+ "name": "Puglia",
+ "italian_name": "Puglia",
+ "area": "south",
+ "capital": "Bari",
+ "tagline": "Whitewashed towns, trulli and two seas, all under a huge sky.",
+ "intro": [
+  "Puglia is the heel of Italy's boot, a long, flat-ish peninsula with the Adriatic on one side and the Ionian on the other. Its light is white and hard, bouncing off limestone walls, dry-stone field boundaries and the conical roofs of trulli. Inland, sixty million olive trees grow in red earth, some of them older than the masserie, the fortified farmhouses, that tend them.",
+  "This is a place to slow down and eat. Breakfast is a pasticciotto warm from the oven; lunch might be orecchiette with turnip tops, raw sea urchins on a rocky beach or focaccia from a Bari bakery. Evenings belong to the passeggiata in a baroque square in Lecce or a hilltop town like Ostuni. And on summer nights the whole Salento seems to dance to the tambourine beat of the pizzica."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Alberobello_BW_2016-10-16_13-43-03.jpg/1280px-Alberobello_BW_2016-10-16_13-43-03.jpg",
+  "alt": "A lane of whitewashed trulli with grey conical stone roofs and painted symbols in Alberobello, under a blue sky",
+  "credit": "Berthold Werner, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AAlberobello_BW_2016-10-16_13-43-03.jpg"
+ },
+ "known_for": [
+  "Trulli",
+  "Masserie",
+  "Lecce baroque",
+  "Orecchiette",
+  "Burrata",
+  "Primitivo wine",
+  "Pizzica"
+ ],
+ "best_time": "May, June and September to mid-October are ideal: sea-warm, sunny and calmer than August, when Italian holidaymakers fill the Salento beaches. Autumn brings the olive harvest from October.",
+ "getting_there": "Fly into Bari or Brindisi; both airports have good European links. Trains run down the Adriatic coast from Bari to Brindisi and Lecce, and Ferrovie del Sud Est serves the Valle d'Itria and Salento towns, but a car makes the masserie, beaches and small villages far easier to reach.",
+ "places": [
+  {
+   "name": "Lecce",
+   "desc": "The 'Florence of the south', a whole city carved in soft, honey-coloured stone that ages to gold. Gaze up at the riot of cherubs and beasts on the façade of Santa Croce, step into the enclosed Piazza del Duomo at night, and see the half-excavated Roman amphitheatre in Piazza Sant'Oronzo. Look out for papier-mâché workshops in the side streets.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lecce_-_Santa_Croce_-_17.jpg/1280px-Lecce_-_Santa_Croce_-_17.jpg",
+    "alt": "The ornately carved baroque façade and rose window of the Basilica di Santa Croce in Lecce",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALecce_-_Santa_Croce_-_17.jpg"
+   }
+  },
+  {
+   "name": "Alberobello",
+   "desc": "A UNESCO-listed town of more than a thousand trulli, the dry-stone houses with cone roofs often painted with white symbols. The Rione Monti quarter is the postcard; the quieter Aia Piccola is still mostly lived in. Climb up to the Trullo Sovrano, the only two-storey trullo, and come early or late to dodge the tour buses.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg/1280px-Alberobello_-_Trulli_del_Rione_Monti_-_03.jpg",
+    "alt": "The grey stone cone roofs and pinnacles of trulli in Alberobello's Rione Monti",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAlberobello_-_Trulli_del_Rione_Monti_-_03.jpg"
+   }
+  },
+  {
+   "name": "Ostuni",
+   "desc": "The 'white city' rises on a hill above olive groves that run to the sea. Lose yourself in the lime-washed lanes of the old town, climb to the Gothic cathedral with its great rose window, and have an aperitivo on the ramparts as the walls turn pink at sunset.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%22Ostuni_beeindruckt_mit_einer_malerischen_Altstadt.%22_01.jpg/1280px-%22Ostuni_beeindruckt_mit_einer_malerischen_Altstadt.%22_01.jpg",
+    "alt": "The white houses of Ostuni's old town climbing to the cathedral on the hilltop",
+    "credit": "Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3A%22Ostuni_beeindruckt_mit_einer_malerischen_Altstadt.%22_01.jpg"
+   }
+  },
+  {
+   "name": "Polignano a Mare",
+   "desc": "A town built on the very edge of limestone cliffs riddled with sea caves. The pebble cove of Lama Monachile, under a Bourbon bridge, is where everyone swims; follow the balconies of the old town for views straight down to the water. Try a caffè speciale where it was invented.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg/1280px-70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg",
+    "alt": "Whitewashed houses of Polignano a Mare perched on cliffs above the clear Adriatic",
+    "credit": "Luca Margheriti, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3A70044_Polignano_A_Mare_BA%2C_Italy_-_panoramio_%284%29.jpg"
+   }
+  },
+  {
+   "name": "Otranto",
+   "desc": "Italy's easternmost town, a walled port on clear, turquoise water. Inside the cathedral is a 12th-century floor mosaic of the Tree of Life, full of elephants, kings and monsters. Swim off the town beach, walk the Aragonese castle walls, then drive south along the cliffs past Torre Sant'Emiliano.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Otranto_-_Seafront_-_01.jpg/1280px-Otranto_-_Seafront_-_01.jpg",
+    "alt": "Otranto's old town walls rising above a clear turquoise sea and a small sandy beach",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOtranto_-_Seafront_-_01.jpg"
+   }
+  },
+  {
+   "name": "Gargano and Vieste",
+   "desc": "The spur of the boot is a mountainous promontory of beech forest, the Foresta Umbra, ending in white cliffs and sea caves. Vieste sits on a headland beside the giant Pizzomunno sea stack. Take a boat along the coast to the Grotta Campana and the arch at Architiello di San Felice.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Architiello_of_San_Felice.jpg/1280px-Architiello_of_San_Felice.jpg",
+    "alt": "The natural rock arch of San Felice on the Gargano coast, with pine-covered cliffs and turquoise water",
+    "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AArchitiello_of_San_Felice.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Watch orecchiette being made in Bari Vecchia",
+   "desc": "On Strada Arco Basso, behind the Norman castle, women sit at tables in their doorways shaping orecchiette with a flick of the knife. Buy a bag to take home, then walk to the Basilica di San Nicola."
+  },
+  {
+   "title": "Eat at a fornello pronto in Cisternino",
+   "desc": "Butchers in the Valle d'Itria grill your choice of meat on the spot. Order bombette, little rolls of pork stuffed with caciocavallo, and eat at tables in the lane with a jug of red wine."
+  },
+  {
+   "title": "Swim at the Grotta della Poesia",
+   "desc": "A natural pool in the limestone at Roca Vecchia, north of Otranto, linked to the sea by an underwater tunnel. Locals jump from the rim; go early on a summer morning to have room to float."
+  },
+  {
+   "title": "Cycle the Valle d'Itria",
+   "desc": "Quiet lanes wind between dry-stone walls, trulli and masserie from Locorotondo to Cisternino and Martina Franca. Stop at a dairy for fresh caciocavallo and a farm for olive oil."
+  },
+  {
+   "title": "Visit Castel del Monte",
+   "desc": "Frederick II's mysterious octagonal castle crowns a hill in the Murgia, every tower and room built around the number eight. It is on the 1-cent euro coin."
+  },
+  {
+   "title": "Go down into the Grotte di Castellana",
+   "desc": "A huge cave system near Alberobello, discovered in 1938 and explored on guided walks. The long tour, about three kilometres, ends at the Grotta Bianca, glittering with white alabaster formations."
+  },
+  {
+   "title": "Watch dawn at Punta Palascia",
+   "desc": "The easternmost point of Italy, a lighthouse on a wild cliff south of Otranto, is where the first sunrise in the country is seen. On clear days you can make out the mountains of Albania across the strait."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Orecchiette con cime di rapa",
+   "type": "dish",
+   "desc": "Little ear-shaped pasta with bitter turnip tops, anchovy, garlic, chilli and toasted breadcrumbs. The signature dish of Bari."
+  },
+  {
+   "name": "Burrata di Andria",
+   "type": "cheese",
+   "desc": "A pouch of fresh mozzarella filled with stracciatella, shreds of curd soaked in cream. Born in Andria in the early 20th century and best eaten within a day."
+  },
+  {
+   "name": "Focaccia barese",
+   "type": "bread",
+   "desc": "Thick, oily and crisp at the edges, studded with cherry tomatoes and olives. Bought by the slice from bakery ovens all over Bari."
+  },
+  {
+   "name": "Pasticciotto",
+   "type": "sweet",
+   "desc": "An oval shortcrust pastry made with lard and filled with custard, eaten warm for breakfast across the Salento."
+  },
+  {
+   "name": "Caffè leccese",
+   "type": "coffee",
+   "desc": "Espresso poured over ice with sweet almond milk syrup, stirred until frothy: Lecce's essential summer drink, best at a bar on Piazza Sant'Oronzo."
+  },
+  {
+   "name": "Primitivo di Manduria",
+   "type": "wine",
+   "desc": "A big, ripe, dark-fruited red from the plains near Taranto, the grape that is a genetic twin of California's Zinfandel."
+  },
+  {
+   "name": "Negroamaro",
+   "type": "wine",
+   "desc": "The Salento's own red grape, earthy and slightly bitter, behind Salice Salentino and many of Italy's best rosati."
+  },
+  {
+   "name": "Extra-virgin olive oil",
+   "type": "olive oil",
+   "desc": "Puglia makes more olive oil than any other Italian region. Look for peppery Coratina from the north and gentler Ogliarola in the Salento."
+  },
+  {
+   "name": "Pane di Altamura DOP",
+   "type": "bread",
+   "desc": "A durum-wheat sourdough loaf with a thick crust and yellow crumb that stays fresh for days, still baked in wood-fired ovens in the Murgia."
+  },
+  {
+   "name": "Fave e cicorie",
+   "type": "dish",
+   "desc": "A smooth purée of dried broad beans served with boiled wild chicory and a stream of new olive oil. Peasant food at its best."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Pasticceria Ascalone",
+   "city": "Galatina",
+   "since": "1745",
+   "desc": "The family pastry shop where, by local tradition, the pasticciotto was invented from leftover pastry and custard. Still on Via Vittorio Emanuele II, still turning out trays of them warm from the oven."
+  },
+  {
+   "name": "Il Super Mago del Gelo Mario Campanella",
+   "city": "Polignano a Mare",
+   "since": "1935",
+   "desc": "A gelateria on Piazza Garibaldi credited with inventing the caffè speciale: espresso with lemon zest, sugar, amaretto and cream. Also excellent almond granita."
+  },
+  {
+   "name": "Antonella Ricci (formerly Al Fornello da Ricci)",
+   "city": "Ceglie Messapica",
+   "since": "1966",
+   "desc": "The Ricci family's country restaurant, long one of Puglia's most celebrated, now run by Antonella Ricci and Vinod Sookar. Expect refined Pugliese dishes built on local vegetables and herbs, plus the wood-fired oven."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Sleep in a masseria",
+   "desc": "Masseria Il Frantoio, outside Ostuni, is a whitewashed farmhouse built over an ancient underground olive press, surrounded by organic olive groves. Long dinners use the farm's own produce and oil.",
+   "url": "https://www.masseriailfrantoio.it/"
+  },
+  {
+   "title": "Rent a trullo in the countryside",
+   "desc": "Rather than stay in Alberobello itself, rent a restored trullo among the vineyards around Locorotondo or Martina Franca. Thick stone walls keep them cool in summer, and you'll wake to birdsong and dry-stone walls."
+  },
+  {
+   "title": "A design masseria near the sea",
+   "desc": "Masseria Moroseta, on a hill near Ostuni, is a small guesthouse of six rooms around a courtyard, built in local stone among old olive trees, with communal breakfasts of home-grown produce."
+  },
+  {
+   "title": "A palazzo B&B in Lecce",
+   "desc": "Many baroque townhouses in Lecce's centro storico have become family-run B&Bs with vaulted ceilings of local stone and roof terraces looking over the church domes. You'll be a short stroll from the evening passeggiata."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Bari",
+   "to": "Polignano a Mare",
+   "how": "30 min by regional train",
+   "desc": "Frequent trains run down the coast. Swim at Lama Monachile, walk the cliff-top old town and finish with a caffè speciale."
+  },
+  {
+   "from": "Bari",
+   "to": "Castel del Monte",
+   "how": "1h by car",
+   "desc": "Drive through the Alta Murgia National Park to Frederick II's octagonal castle, and stop in Andria for burrata on the way back."
+  },
+  {
+   "from": "Lecce",
+   "to": "Otranto",
+   "how": "45 min by car or 1h15 by train",
+   "desc": "See the cathedral's mosaic floor, swim in the clear water and drive back via the Grotta della Poesia at Roca Vecchia."
+  },
+  {
+   "from": "Bari",
+   "to": "Matera",
+   "how": "1h30 by FAL train",
+   "desc": "Cross into Basilicata to see the Sassi, the cave districts of Matera, one of the oldest continuously inhabited towns on earth."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Cisternino",
+   "desc": "A tiny white hill town in the Valle d'Itria with arches, outdoor staircases and potted geraniums. Come in the evening, when the smoke from the fornelli pronti drifts across Via Duca d'Aosta and everyone sits down to grilled meat.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cisternino_-_Piazza_Pellegrino_Rossi_-_1.jpg/1280px-Cisternino_-_Piazza_Pellegrino_Rossi_-_1.jpg",
+    "alt": "Whitewashed houses and café tables on Piazza Pellegrino Rossi in the old town of Cisternino",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACisternino_-_Piazza_Pellegrino_Rossi_-_1.jpg"
+   }
+  },
+  {
+   "name": "Tremiti Islands",
+   "desc": "A tiny archipelago off the Gargano, with pine-covered San Domino, the fortified abbey on San Nicola and some of the clearest water in the Adriatic. Ferries and hydrofoils run from Termoli, Vieste and Rodi Garganico in summer.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Isole_Tremiti_2.jpg/1280px-Isole_Tremiti_2.jpg",
+    "alt": "A clifftop building on San Nicola in the Tremiti Islands above a deep blue sea",
+    "credit": "Isago10, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AIsole_Tremiti_2.jpg"
+   }
+  },
+  {
+   "name": "Santa Maria di Leuca",
+   "desc": "The very tip of the heel, called 'de finibus terrae', the end of the earth, where the Adriatic and Ionian are said to meet. Climb to the basilica and lighthouse, admire the 19th-century seaside villas, and take a boat into the sea caves along the cliffs.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Santa_Maria_di_Leuca%2C_Italy.jpg/1280px-Santa_Maria_di_Leuca%2C_Italy.jpg",
+    "alt": "The harbour and town of Santa Maria di Leuca seen from the basilica, with a long breakwater in the blue sea",
+    "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASanta_Maria_di_Leuca%2C_Italy.jpg"
+   }
+  },
+  {
+   "name": "Galatina",
+   "desc": "A Salento town with a jewel: the Basilica of Santa Caterina d'Alessandria, every inch covered in 15th-century frescoes. Galatina is also the home of tarantism, where those 'bitten' by the tarantula came to be healed at the chapel of San Paolo.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Galatina_-_Santa_Caterina_d%27Alessandria_-_04.jpg/1280px-Galatina_-_Santa_Caterina_d%27Alessandria_-_04.jpg",
+    "alt": "Brightly coloured 15th-century frescoes covering the vaults of the Basilica of Santa Caterina in Galatina",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGalatina_-_Santa_Caterina_d%27Alessandria_-_04.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "La Notte della Taranta",
+   "when": "Late August",
+   "where": "Melpignano and towns across the Salento",
+   "desc": "A touring festival of pizzica and Salento folk music that ends with a huge free concert in Melpignano, where thousands dance until dawn.",
+   "url": "https://www.lanottedellataranta.it/"
+  },
+  {
+   "name": "Festa di San Nicola",
+   "when": "7-9 May",
+   "where": "Bari",
+   "desc": "A costumed parade re-enacts the arrival of the saint's relics in 1087, and his statue is carried out to sea on a fishing boat, followed by a flotilla."
+  },
+  {
+   "name": "Carnevale di Putignano",
+   "when": "26 December to Shrove Tuesday",
+   "where": "Putignano",
+   "desc": "One of Europe's oldest carnivals, dating back to 1394, with giant papier-mâché floats satirising politicians and celebrities paraded through the town on the carnival Sundays."
+  },
+  {
+   "name": "Fòcara di Novoli",
+   "when": "16-17 January",
+   "where": "Novoli, near Lecce",
+   "desc": "For Sant'Antonio Abate, the town builds a towering bonfire from vine cuttings and sets it alight with fireworks, followed by music and wine."
+  }
+ ],
+ "culture": "The Salento's heartbeat is the pizzica, a fast, whirling dance driven by frame drums, violins and accordions. It grew out of tarantismo, the belief that the bite of the tarantula could only be cured by days of frenzied dancing, documented by anthropologist Ernesto de Martino in Galatina in 1959. Today it fills the Notte della Taranta. In the Grecìa Salentina villages such as Calimera and Martano, some elders still speak Griko, a Greek dialect. Craft traditions are lively: papier-mâché saints in Lecce, ceramics in the Quartiere delle Ceramiche at Grottaglie, and the trullo-builders' skill in dry stone.",
+ "official_site": "https://www.viaggiareinpuglia.it/"
+}

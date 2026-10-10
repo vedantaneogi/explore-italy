@@ -1,0 +1,389 @@
+{
+ "slug": "stay-local",
+ "section": "discover",
+ "title": "Stay like a local",
+ "headline": "Sleep, eat and live among Italians",
+ "tagline": "Farm stays, scattered village hotels, cave rooms, monastery cells, mountain huts and home-cooked dinners: the ways to swap a hotel lobby for real Italian life.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Agriturismo_Casa_di_Bacco_%28Montepulciano%29_06.jpg/1280px-Agriturismo_Casa_di_Bacco_%28Montepulciano%29_06.jpg",
+  "alt": "A stone farmhouse agriturismo with a pool among vineyards and cypresses near Montepulciano",
+  "credit": "Walter Giannetti, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AAgriturismo_Casa_di_Bacco_%28Montepulciano%29_06.jpg"
+ },
+ "intro": [
+  "Where you sleep shapes the Italy you see. In a city-centre hotel you meet other travellers; on a working farm you meet the family who pressed the oil on your table, and in a village apartment you learn the rhythm of the bakery queue and the evening stroll. Italy has unusually good options for this, many of them protected by law and run by people who are proud of their place.",
+  "Below are the main ways to stay with and among locals, with real examples and the official networks to book through, from farm-stay portals to the association of scattered village hotels. Most cost no more than a mid-range hotel, and many cost less. At the end you will find our short guide to blending in, because a few small courtesies, a greeting at the door or knowing when lunch happens, go a long way."
+ ],
+ "sections": [
+  {
+   "heading": "Stay on a farm",
+   "intro": "Italy's rural stays are rooted in working agriculture, and the best ones feed you from their own land.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Agriturismi",
+     "subtitle": "Farm stays, all over Italy",
+     "desc": "An agriturismo is, by law, a working farm that hosts guests, so the wine, oil, cheese or vegetables at dinner usually come from a few metres away. Many serve a set farmhouse dinner that is the highlight of the day. Look for them through the big farmers' associations as well as the main portal: Agriturist, Terranostra and Coldiretti's Campagna Amica, which also lists farm shops and farmers' markets.",
+     "meta": "From about €70 a night for two, often with breakfast",
+     "url": "https://en.agriturismo.it/",
+     "url_label": "Search agriturismo.it",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Olivi_sul_Lago_di_Garda.jpg/1280px-Olivi_sul_Lago_di_Garda.jpg",
+      "alt": "An olive grove on a hillside above the blue water of Lake Garda",
+      "credit": "Mario GardaGarda, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AOlivi_sul_Lago_di_Garda.jpg"
+     }
+    },
+    {
+     "title": "Masserie in Puglia",
+     "subtitle": "Fortified farmhouses of the south",
+     "desc": "Puglia's masserie are whitewashed farm estates, many with defensive towers built against pirate raids, set among ancient olive trees. Some are still working farms with a handful of rooms; others, like Masseria Moroseta near Ostuni or the grand Masseria Torre Maizza, have become design hotels. Either way, expect long lunches under a pergola and olive oil from the estate.",
+     "meta": "Best in May to June and September",
+     "region": "puglia",
+     "url": "https://www.masseriamoroseta.it/",
+     "url_label": "Example: Masseria Moroseta",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Masseria_Triglie_Crispiano_Puglia_07.jpg/1280px-Masseria_Triglie_Crispiano_Puglia_07.jpg",
+      "alt": "The whitewashed courtyard of Masseria Triglie, a fortified farmhouse near Crispiano in Puglia",
+      "credit": "FrDr, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMasseria_Triglie_Crispiano_Puglia_07.jpg"
+     }
+    },
+    {
+     "title": "Alpine farm holidays",
+     "subtitle": "Roter Hahn / Gallo Rosso, South Tyrol",
+     "desc": "In South Tyrol, more than a thousand mountain farms (masi, or Höfe) take guests under the Roter Hahn (Red Rooster) quality mark. Children feed the animals, breakfasts come with farm butter and speck, and many farms sell their own juice, cheese and schnapps. It is one of the friendliest ways to see the Dolomites.",
+     "meta": "Rooms and apartments, summer and winter",
+     "region": "trentino-alto-adige",
+     "url": "https://www.roterhahn.it/en/",
+     "url_label": "Book with Roter Hahn",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Villn%C3%B6%C3%9F_Esche_beim_Oberantinghof_Pardell_Geisler.jpg/1280px-Villn%C3%B6%C3%9F_Esche_beim_Oberantinghof_Pardell_Geisler.jpg",
+      "alt": "Meadows and a farmhouse below the Odle peaks in Val di Funes, South Tyrol",
+      "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVilln%C3%B6%C3%9F_Esche_beim_Oberantinghof_Pardell_Geisler.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Sleep somewhere with a story",
+   "intro": "Historic buildings brought back to life by people who live there. These are often the most memorable nights of a trip.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Alberghi diffusi",
+     "subtitle": "A hotel spread across a village",
+     "desc": "An idea born in Friuli after the 1976 earthquake to revive emptying villages: one reception in the square, with rooms scattered among restored houses. Sauris in Friuli was among the first; the most celebrated is Sextantio in Santo Stefano di Sessanio, Abruzzo; Corte Fiorita in Bosa, Sardinia, is another favourite.",
+     "meta": "You live in the village, not beside it",
+     "url": "https://www.alberghidiffusi.it/",
+     "url_label": "Alberghi Diffusi association",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sauris_di_Sopra_002.jpg/1280px-Sauris_di_Sopra_002.jpg",
+      "alt": "Wooden chalets of Sauris di Sopra among meadows and mountains in Friuli",
+      "credit": "Mattana, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASauris_di_Sopra_002.jpg"
+     }
+    },
+    {
+     "title": "Cave rooms in the Sassi",
+     "subtitle": "Matera, Basilicata",
+     "desc": "Matera's cave districts were evacuated in the 1950s and are now a UNESCO site full of restored cave homes. Sextantio's Le Grotte della Civita keeps them candlelit and almost bare; many family-run B&Bs offer cosier versions. Waking up inside the rock is unforgettable.",
+     "meta": "Book ahead for spring and autumn weekends",
+     "region": "basilicata",
+     "url": "https://www.sextantio.it/en/legrottedellacivita/matera/",
+     "url_label": "Le Grotte della Civita",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Matera_boenisch_nov_2005.jpg/1280px-Matera_boenisch_nov_2005.jpg",
+      "alt": "The cave houses of Matera's Sassi stacked below the cathedral bell tower",
+      "credit": "Bönisch, CC BY-SA 2.0 de, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMatera_boenisch_nov_2005.jpg"
+     }
+    },
+    {
+     "title": "Trulli",
+     "subtitle": "Valle d'Itria, Puglia",
+     "desc": "The cone-roofed stone houses of the Valle d'Itria are built without mortar, cool in summer and snug in winter. Stay in one in Alberobello's old quarter, or better, in the countryside between Locorotondo, Cisternino and Martina Franca, where trulli sit among vineyards and dry-stone walls.",
+     "meta": "Look for countryside trulli with a pool",
+     "region": "puglia",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Trulli_-_Alberobello%2C_Bari%2C_Italy_-_August_15%2C_2010_01.jpg/1280px-Trulli_-_Alberobello%2C_Bari%2C_Italy_-_August_15%2C_2010_01.jpg",
+      "alt": "Conical stone roofs and whitewashed walls of trulli in Alberobello",
+      "credit": "Giorgio Galeotti, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATrulli_-_Alberobello%2C_Bari%2C_Italy_-_August_15%2C_2010_01.jpg"
+     }
+    },
+    {
+     "title": "Monastery and convent stays",
+     "subtitle": "Guest houses run by religious orders",
+     "desc": "Hundreds of monasteries and convents welcome guests of any faith, from simple rooms near the Vatican to hilltop abbeys in Tuscany and Umbria. Expect peace, spotless rooms, fair prices and sometimes a curfew. Monasterystays.com books a large selection in English.",
+     "meta": "Quiet, central and good value",
+     "url": "https://www.monasterystays.com/",
+     "url_label": "Monastery Stays",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/MonteOlivieto.jpg/1280px-MonteOlivieto.jpg",
+      "alt": "The brick bell tower and church of the Abbey of Monte Oliveto Maggiore among cypresses",
+      "credit": "Adrian Michael, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMonteOlivieto.jpg"
+     }
+    },
+    {
+     "title": "Mountain rifugi",
+     "subtitle": "Huts in the Alps and Apennines",
+     "desc": "Rifugi are staffed mountain huts, many owned by the Club Alpino Italiano (CAI), offering bunks or simple rooms with half board. Dinner with hikers from all over Europe, then sunrise over the peaks, is a rite of passage. Most open from about mid-June to late September; book early.",
+     "meta": "Bring a sleeping-bag liner and cash",
+     "url": "https://rifugi.cai.it/",
+     "url_label": "CAI rifugi",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg/1280px-Drei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg",
+      "alt": "Rifugio Locatelli and its chapel below the Tre Cime di Lavaredo in the Dolomites",
+      "credit": "Je-str, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADrei_Zinnen_mit_Dreizinnenh%C3%BCtte.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Live among locals",
+   "intro": "For a week or more, a home in a residential neighbourhood beats any hotel.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Family-run B&Bs",
+     "subtitle": "A room in someone's home or building",
+     "desc": "Italian B&Bs are usually small, with a host who will tell you where they eat and which bakery opens first. They are especially good value in the south and in smaller cities like Lecce, Siracusa and Bologna. Expect a sweet breakfast: cornetto, cake, coffee.",
+     "meta": "Breakfast is typically sweet, not cooked",
+     "url": "https://www.bed-and-breakfast.it/en",
+     "url_label": "Search B&Bs",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ortigia_dall%27alto.jpg/1280px-Ortigia_dall%27alto.jpg",
+      "alt": "Aerial view of the island of Ortigia, the old centre of Syracuse, surrounded by deep blue sea",
+      "credit": "Agostino Artnoir Sella, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AOrtigia_dall%27alto.jpg"
+     }
+    },
+    {
+     "title": "Apartments in residential neighbourhoods",
+     "subtitle": "Airbnb, Booking.com and local agencies",
+     "desc": "Choose a lived-in district a short ride from the sights, such as Testaccio or Pigneto in Rome, Bolognina in Bologna or Vomero in Naples, and shop at the local market. Every legal short-term rental in Italy must display a national CIN code on its listing and at the door; skip listings without one.",
+     "meta": "Have your passport ready at check-in",
+     "url": "https://bdsr.ministeroturismo.gov.it/",
+     "url_label": "Ministry of Tourism CIN database",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portici_Strada_Maggiore_2.JPG/1280px-Portici_Strada_Maggiore_2.JPG",
+      "alt": "A long brick-columned portico along Strada Maggiore in Bologna",
+      "credit": "Giovanni Osbat, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APortici_Strada_Maggiore_2.JPG"
+     }
+    },
+    {
+     "title": "House swaps and house-sitting",
+     "subtitle": "HomeExchange, HomeLink, TrustedHousesitters",
+     "desc": "Swap your home for one in Italy, or look after someone's house and pets in return for free accommodation. Swappers tend to leave notes on the best local trattoria and the neighbours to say hello to, which is half the joy.",
+     "meta": "Membership fees apply; plan months ahead",
+     "url": "https://www.homeexchange.com/",
+     "url_label": "HomeExchange",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peschiera_Maraglio_street.jpg/1280px-Peschiera_Maraglio_street.jpg",
+      "alt": "A lakeside lane of pastel houses and café tables in Peschiera Maraglio on Monte Isola",
+      "credit": "CristianNX, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APeschiera_Maraglio_street.jpg"
+     }
+    },
+    {
+     "title": "WWOOF Italia",
+     "subtitle": "Volunteering on organic farms",
+     "desc": "Join WWOOF Italia and you can stay with organic farmers, working a few hours a day in exchange for food and a bed. Help with the grape harvest in autumn or the olive harvest in November, learn to make cheese, and eat with the family.",
+     "meta": "Annual membership; you arrange stays with hosts directly",
+     "url": "https://wwoof.it/en/",
+     "url_label": "WWOOF Italia",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Toscana_%28Italy%29_Raccolta_olive_nei_teli.jpg/1280px-Toscana_%28Italy%29_Raccolta_olive_nei_teli.jpg",
+      "alt": "Gathering olives in nets beneath olive trees during the harvest in Tuscany",
+      "credit": "PROPOLI87, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AToscana_%28Italy%29_Raccolta_olive_nei_teli.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Eat at a local's table",
+   "intro": "If you cannot stay with Italians, you can still eat with them.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Le Cesarine",
+     "subtitle": "Home cooks across Italy",
+     "desc": "Founded in Bologna in 2004 to protect regional home cooking, Le Cesarine is a network of home cooks in hundreds of towns. Book a meal or a cooking class in someone's kitchen: hand-rolled pasta in Emilia, orecchiette in Puglia, Sunday ragù in Naples. You eat what you made, with a glass of the local wine.",
+     "meta": "Meals and classes, usually 3 to 4 hours",
+     "url": "https://www.cesarine.com/",
+     "url_label": "Book with Le Cesarine",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Le_orecchiette_di_Bari.jpg/1280px-Le_orecchiette_di_Bari.jpg",
+      "alt": "Trays of handmade orecchiette and other pasta outside a doorway in Bari's old town",
+      "credit": "Maddy16869, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALe_orecchiette_di_Bari.jpg"
+     }
+    },
+    {
+     "title": "Markets, cellars and supper clubs",
+     "subtitle": "Campagna Amica, Cantine Aperte, Eatwith",
+     "desc": "Shop where Italians shop: Campagna Amica farmers' markets sell straight from the producer, and the town market is the best free show in any city. On Cantine Aperte weekend in late May, hundreds of wineries open their doors. For dinner with strangers who become friends, Eatwith lists meals hosted in private homes.",
+     "meta": "Markets are busiest on Saturday mornings",
+     "url": "https://www.campagnamica.it/",
+     "url_label": "Find a Campagna Amica market",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mercato_contadino_2.jpg/1280px-Mercato_contadino_2.jpg",
+      "alt": "A farmers' market stall with pumpkins, vegetables and local produce",
+      "credit": "Anna.Massini, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMercato_contadino_2.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "How to blend in",
+   "intro": "Italians are forgiving of visitors, but these habits will win you warmer smiles.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Greet everyone",
+     "desc": "Say buongiorno when you walk into a shop, bar or lift, and buonasera from late afternoon. Arrivederci on the way out. Ciao is for friends."
+    },
+    {
+     "title": "Cover up in churches",
+     "desc": "Shoulders and knees covered, hats off, voices low. Big churches such as St Peter's turn people away, so carry a light scarf. Do not wander around during Mass."
+    },
+    {
+     "title": "Keep beachwear for the beach",
+     "desc": "Walking through town in swimwear or bare-chested is frowned on, and several resorts, from Sorrento to Capri, fine it."
+    },
+    {
+     "title": "Eat on Italian time",
+     "desc": "Lunch is roughly 12:30 to 14:30, dinner from 19:30 in the north and 20:30 or later in the south. Many kitchens close between services, so a 16:00 lunch may mean a sandwich."
+    },
+    {
+     "title": "Drink coffee like a local",
+     "desc": "Un caffè is an espresso, drunk standing at the bar in a minute. Cappuccino is a morning drink. In busy bars you pay at the till first, then hand your receipt to the barista."
+    },
+    {
+     "title": "Join the passeggiata",
+     "desc": "From about 18:00, towns stroll the main street or seafront, dressed a little better than you would expect. Join in, then stop for an aperitivo: a spritz or a glass of wine with snacks."
+    },
+    {
+     "title": "Respect the afternoon pause",
+     "desc": "In small towns and the south, many shops close from about 13:00 to 16:00 or later, and Sunday is quiet. Plan errands for the morning or early evening."
+    },
+    {
+     "title": "Keep the peace at home",
+     "desc": "Apartment buildings expect quiet in the early afternoon and from about 22:00 to 8:00. Sort your rubbish by the building's recycling calendar; your host will explain it."
+    },
+    {
+     "title": "Ask for the bill",
+     "desc": "Lingering is the point, so the bill will not arrive until you ask: il conto, per favore. Paying alla romana means splitting it evenly."
+    },
+    {
+     "title": "Treat monuments gently",
+     "desc": "Do not sit or eat on church steps and famous monuments, wade in fountains or picnic on Venice's bridges. Rome, Florence and Venice issue fines."
+    },
+    {
+     "title": "Find the end of the queue",
+     "desc": "At a busy bakery or market stall, ask chi è l'ultimo? (who is last?) and you will know your turn. Delis often use paper tickets."
+    },
+    {
+     "title": "Learn ten words",
+     "desc": "Per favore, grazie, scusi, permesso (excuse me, coming through) and a cheerful buongiorno open doors. Even a clumsy attempt is appreciated."
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Italian law requires every host, hotel or private, to register your passport details with the police; this is normal.",
+  "Tourist tax is charged per person per night almost everywhere, including in agriturismi and rentals, and is often paid in cash on arrival.",
+  "Many agriturismi and masserie set a minimum stay of two or three nights, or a full week in August.",
+  "Rifugi and farm stays in remote areas may not take cards; carry enough cash.",
+  "If a rental listing has no CIN code, or the host asks you to pay off-platform by bank transfer, walk away."
+ ],
+ "links": [
+  {
+   "label": "Agriturismo.it",
+   "url": "https://en.agriturismo.it/",
+   "desc": "The largest portal of Italian farm stays, searchable by region"
+  },
+  {
+   "label": "Agriturist (Confagricoltura)",
+   "url": "https://www.agriturist.it/",
+   "desc": "Farm stays from one of Italy's main farmers' associations"
+  },
+  {
+   "label": "Terranostra (Coldiretti)",
+   "url": "https://www.terranostra.it/",
+   "desc": "Coldiretti's agritourism network"
+  },
+  {
+   "label": "Campagna Amica",
+   "url": "https://www.campagnamica.it/",
+   "desc": "Coldiretti's farm stays, farm shops and farmers' markets"
+  },
+  {
+   "label": "Associazione Nazionale Alberghi Diffusi",
+   "url": "https://www.alberghidiffusi.it/",
+   "desc": "The national association of scattered village hotels"
+  },
+  {
+   "label": "Sextantio",
+   "url": "https://www.sextantio.it/en/",
+   "desc": "Alberghi diffusi in Santo Stefano di Sessanio and Matera"
+  },
+  {
+   "label": "Roter Hahn / Gallo Rosso",
+   "url": "https://www.roterhahn.it/en/",
+   "desc": "Farm holidays in South Tyrol"
+  },
+  {
+   "label": "Monastery Stays",
+   "url": "https://www.monasterystays.com/",
+   "desc": "Rooms in monasteries and convents across Italy"
+  },
+  {
+   "label": "CAI rifugi",
+   "url": "https://rifugi.cai.it/",
+   "desc": "Club Alpino Italiano's directory of mountain huts"
+  },
+  {
+   "label": "WWOOF Italia",
+   "url": "https://wwoof.it/en/",
+   "desc": "Volunteer stays on organic farms"
+  },
+  {
+   "label": "Le Cesarine",
+   "url": "https://www.cesarine.com/",
+   "desc": "Meals and cooking classes in Italian homes"
+  },
+  {
+   "label": "HomeExchange",
+   "url": "https://www.homeexchange.com/",
+   "desc": "Home swaps worldwide, with many Italian homes"
+  },
+  {
+   "label": "HomeLink",
+   "url": "https://homelink.org/en/",
+   "desc": "One of the oldest home-exchange networks"
+  },
+  {
+   "label": "TrustedHousesitters",
+   "url": "https://www.trustedhousesitters.com/",
+   "desc": "Free stays in exchange for looking after homes and pets"
+  },
+  {
+   "label": "Airbnb",
+   "url": "https://www.airbnb.com/",
+   "desc": "Apartments and rooms; check the listing shows a CIN code"
+  },
+  {
+   "label": "Booking.com",
+   "url": "https://www.booking.com/",
+   "desc": "Hotels, B&Bs and apartments; check the CIN code on rentals"
+  }
+ ]
+}

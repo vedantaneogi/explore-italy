@@ -1,0 +1,308 @@
+{
+ "slug": "marche",
+ "name": "Marche",
+ "italian_name": "Marche",
+ "area": "central",
+ "capital": "Ancona",
+ "tagline": "Renaissance Urbino, white Conero cliffs and hill towns facing the Adriatic.",
+ "intro": [
+  "Le Marche, 'the Marches', is plural for good reason: it is a region of many small worlds packed between the Apennines and the Adriatic. Parallel valleys run down to the sea, each with hill towns lined up on its ridges: Urbino, the Renaissance court of Federico da Montefeltro; Recanati, where Leopardi gazed at his 'infinite' horizon; Ascoli Piceno, built of pale travertine. Behind them rise the Sibillini mountains, full of legends of sibyls and fairies.",
+  "The coast is a long string of family beaches, broken by the white limestone cliffs of Monte Conero, where coves like the Due Sorelle can only be reached by boat. Eating here is a joy: olive all'ascolana fried and served in paper cones, vincisgrassi baked pasta, a fish brodetto that changes recipe from port to port, and a cold glass of Verdicchio. Few foreign visitors make it here, which is part of the charm."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sirolo-spiaggia.jpg/1280px-Sirolo-spiaggia.jpg",
+  "alt": "White pebble beach and turquoise sea below the green cliffs of Monte Conero near Sirolo",
+  "credit": "Luca Boldrini, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ASirolo-spiaggia.jpg"
+ },
+ "known_for": [
+  "Renaissance Urbino",
+  "Riviera del Conero",
+  "Olive all'ascolana",
+  "Verdicchio",
+  "Frasassi Caves",
+  "Sibillini mountains",
+  "Rossini and Leopardi"
+ ],
+ "best_time": "June and September for the Conero beaches without the August crush; July and August for the opera festivals in Macerata and Pesaro and Ascoli's Quintana. Late spring is lovely in the Sibillini, and October and November bring truffle fairs around Acqualagna.",
+ "getting_there": "Ancona Falconara airport has domestic and some European flights, with Bologna and Rome as bigger alternatives. Fast trains run along the Adriatic line through Pesaro, Ancona and San Benedetto del Tronto, and Ancona's port has ferries to Croatia and Greece. For Urbino, the hill towns and the Sibillini, a car or regional bus is needed.",
+ "places": [
+  {
+   "name": "Urbino",
+   "desc": "A UNESCO-listed hill town that Federico da Montefeltro shaped into an ideal Renaissance city. His Palazzo Ducale, with its slender twin towers, houses the Galleria Nazionale delle Marche: Piero della Francesca's Flagellation, Raphael's La Muta. Visit Raphael's birthplace, then eat a crescia sfogliata among the students in Piazza della Repubblica.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Urbino_dalla_Strada_Rossa.jpg/1280px-Urbino_dalla_Strada_Rossa.jpg",
+    "alt": "Urbino's Palazzo Ducale and cathedral rising above the hillside from the Strada Rossa",
+    "credit": "Francesco Maria Garbugli, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AUrbino_dalla_Strada_Rossa.jpg"
+   }
+  },
+  {
+   "name": "Ascoli Piceno",
+   "desc": "A town built of creamy travertine, with a hundred towers once on its skyline. Piazza del Popolo is one of Italy's most elegant squares; have an anisetta at the Liberty-style Caffè Meletti, then eat olive all'ascolana, stuffed and fried, where they were invented. In summer come for the Quintana joust.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Centro_storico%2C_63100_Ascoli_Piceno_AP%2C_Italy_-_panoramio_%2817%29.jpg/1280px-Centro_storico%2C_63100_Ascoli_Piceno_AP%2C_Italy_-_panoramio_%2817%29.jpg",
+    "alt": "Travertine Piazza del Popolo in Ascoli Piceno with the Palazzo dei Capitani and arcades",
+    "credit": "trolvag, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACentro_storico%2C_63100_Ascoli_Piceno_AP%2C_Italy_-_panoramio_%2817%29.jpg"
+   }
+  },
+  {
+   "name": "Riviera del Conero",
+   "desc": "Monte Conero's white limestone headland drops straight into a clear blue sea south of Ancona. Take a boat from Numana or Sirolo to the Due Sorelle beach, swim at Portonovo below its Romanesque church of Santa Maria, and eat moscioli, wild mussels harvested from the rocks, a Slow Food presidium.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Monte_Conero_8-1-2012_-_Due_Sorelle.JPG/1280px-Monte_Conero_8-1-2012_-_Due_Sorelle.JPG",
+    "alt": "The two white sea stacks of the Due Sorelle below the cliffs of Monte Conero, seen from above",
+    "credit": "Claudio.stanco, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMonte_Conero_8-1-2012_-_Due_Sorelle.JPG"
+   }
+  },
+  {
+   "name": "Grotte di Frasassi",
+   "desc": "Discovered in 1971 in the gorge near Genga, this karst cave system has one of Europe's largest underground chambers, the Abisso Ancona, big enough to hold Milan Cathedral. Guided walks pass forests of stalagmites and petrified waterfalls. Nearby, the octagonal Tempio del Valadier sits in a cave mouth.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grotte_di_Frasassi_95.jpg/1280px-Grotte_di_Frasassi_95.jpg",
+    "alt": "Stalactites and stalagmites lit up inside the Grotte di Frasassi",
+    "credit": "Accurimbono, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGrotte_di_Frasassi_95.jpg"
+   }
+  },
+  {
+   "name": "Recanati and Loreto",
+   "desc": "Recanati is the hometown of the poet Giacomo Leopardi: visit his family palazzo and library, and the hilltop that inspired L'Infinito. Just below, Loreto's basilica holds the Santa Casa, said to be the house of the Virgin Mary, carried here by angels, a pilgrimage site since the Middle Ages.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Loreto250706.JPG/1280px-Loreto250706.JPG",
+    "alt": "The basilica of the Santa Casa and its arcaded square in Loreto",
+    "credit": "Massimo Roselli, CC BY-SA 2.5, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALoreto250706.JPG"
+   }
+  },
+  {
+   "name": "Monti Sibillini",
+   "desc": "A national park of high meadows and limestone peaks on the border with Umbria. Hike up to the Lago di Pilato, a glacial lake under Monte Vettore home to a tiny endemic red shrimp, or walk the Gola dell'Infernaccio. The villages around Montemonaco and Amandola are full of legends of the Sibyl's cave.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LAGO_DI_PILATO_1.jpg/1280px-LAGO_DI_PILATO_1.jpg",
+    "alt": "The glacial Lago di Pilato in a rocky cirque below Monte Vettore in the Sibillini mountains",
+    "credit": "Marigli2, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALAGO_DI_PILATO_1.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Take a boat to the Due Sorelle",
+   "desc": "Shuttle boats from Numana and Sirolo run in summer to the beach below the twin sea stacks of the Due Sorelle, reachable only by sea. Bring water and lunch; there are no facilities."
+  },
+  {
+   "title": "Hunt for truffles at Acqualagna",
+   "desc": "Acqualagna calls itself the truffle capital of Italy. Come for its national white truffle fair in October and November, or join a hunter and his dog in the woods any season."
+  },
+  {
+   "title": "Drive the Furlo Gorge",
+   "desc": "The old Via Flaminia runs through the gorge of the Candigliano, including a tunnel cut by Emperor Vespasian in 76 AD. Golden eagles nest in the cliffs; stop for a swim in the river pools."
+  },
+  {
+   "title": "Visit an accordion workshop in Castelfidardo",
+   "desc": "The world capital of the accordion since Paolo Soprani began making them in 1863. Visit the International Accordion Museum and a factory where they are still assembled by hand."
+  },
+  {
+   "title": "Watch paper being made in Fabriano",
+   "desc": "Fabriano has made paper since the 13th century and refined the watermark. At the Museo della Carta e della Filigrana, master papermakers still pull sheets by hand from a vat."
+  },
+  {
+   "title": "Eat brodetto in a different port",
+   "desc": "Ancona's brodetto has 13 kinds of fish, Porto Recanati's is coloured with wild saffron, San Benedetto's has green peppers and vinegar. Taste at least two and pick a side."
+  },
+  {
+   "title": "See Lorenzo Lotto's altarpieces",
+   "desc": "The Venetian painter spent years in the Marche, and his works fill churches and galleries in Recanati, Jesi, Loreto and Ancona. Jesi's Pinacoteca in Palazzo Pianetti has a fine group."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Olive all'ascolana",
+   "type": "dish",
+   "desc": "Large green Ascolana olives, pitted, stuffed with a mix of meats, coated in breadcrumbs and deep-fried; served hot in paper cones."
+  },
+  {
+   "name": "Vincisgrassi",
+   "type": "dish",
+   "desc": "The Marche's rich baked pasta: layers of egg pasta with a ragù of chicken giblets, pork and veal, béchamel and Parmigiano, often with truffle."
+  },
+  {
+   "name": "Brodetto",
+   "type": "dish",
+   "desc": "Adriatic fish stew made in every port with its own rule: Ancona, Porto Recanati, Fano and San Benedetto each guard a different recipe."
+  },
+  {
+   "name": "Verdicchio dei Castelli di Jesi",
+   "type": "wine",
+   "desc": "Crisp, almondy white from the hills around Jesi and Matelica, good young and surprisingly long-lived; the perfect match for brodetto."
+  },
+  {
+   "name": "Rosso Conero",
+   "type": "wine",
+   "desc": "A robust red made mostly from Montepulciano grapes on the slopes of Monte Conero, dark and spicy; drink with vincisgrassi or roast meats."
+  },
+  {
+   "name": "Ciauscolo IGP",
+   "type": "cured meat",
+   "desc": "A soft, spreadable pork salami from the Macerata hills, seasoned with garlic, pepper and fennel and lightly smoked; eaten on warm bread."
+  },
+  {
+   "name": "Casciotta d'Urbino DOP",
+   "type": "cheese",
+   "desc": "A small, soft cheese of sheep's and cow's milk from the Montefeltro hills, said to have been a favourite of Michelangelo."
+  },
+  {
+   "name": "Moscioli di Portonovo",
+   "type": "dish",
+   "desc": "Wild mussels that grow on the rocks of the Conero coast, harvested by local fishermen from spring to autumn; a Slow Food presidium, best simply steamed."
+  },
+  {
+   "name": "Anisetta Meletti",
+   "type": "spirit",
+   "desc": "Ascoli Piceno's anise liqueur, made since 1870; drink it 'con la mosca', with a coffee bean floating in the glass, at the Caffè Meletti."
+  },
+  {
+   "name": "Crescia sfogliata",
+   "type": "bread",
+   "desc": "Urbino's flaky, lard-enriched flatbread, cooked on a griddle and filled with cured meats, cheese or wild greens."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Caffè Meletti",
+   "city": "Ascoli Piceno",
+   "since": "1907",
+   "desc": "Under the arcades of Piazza del Popolo, a rare Liberty interior with original furnishings, where the king came to buy anisetta and Mascagni is said to have started Lodoletta. Order an anisetta with a coffee bean.",
+   "url": "https://www.caffemeletti.it/"
+  },
+  {
+   "name": "Ristorante Emilia",
+   "city": "Portonovo",
+   "since": "1929",
+   "desc": "Opened by grandmother Emilia to feed the first visitors to Portonovo bay, still run by her family, with tables right by the sea. Order moscioli and a fish brodetto.",
+   "url": "https://ristoranteemilia.it/"
+  },
+  {
+   "name": "Grand Hotel Vittoria",
+   "city": "Pesaro",
+   "since": "Early 1900s",
+   "desc": "Pesaro's oldest hotel, a Liberty villa on the seafront with its original columned salon, once a casino; Pavarotti and Montserrat Caballé were feted here during the Rossini Opera Festival. Have a drink in the salon."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Agriturismo in the Sibillini foothills",
+   "desc": "Farm stays around Amandola, Sarnano and Montemonaco raise sheep, grow legumes and make pecorino; dinner is often the farm's own lamb, cheese and chickpeas, with the mountains outside the window."
+  },
+  {
+   "title": "Country house in the Montefeltro",
+   "desc": "Around Urbino and San Leo, old farmhouses have become family-run country houses with a pool and an orchard. They are a peaceful base for Renaissance towns, truffle woods and the Furlo gorge."
+  },
+  {
+   "title": "Fishermen's town by the Conero",
+   "desc": "Rent a room or apartment from a local family in Sirolo or Numana, where you can walk down to the beach in the morning, take the boat to the Due Sorelle, and eat moscioli in the piazza in the evening."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Ancona",
+   "to": "Grotte di Frasassi",
+   "how": "About 1h by train to Genga",
+   "desc": "A guided tour of the caves, lunch in Genga's old village and a walk to the Tempio del Valadier in the gorge."
+  },
+  {
+   "from": "Ancona",
+   "to": "Riviera del Conero",
+   "how": "About 30 min by car or bus to Sirolo",
+   "desc": "Take the boat to the Due Sorelle beach, then walk up to Sirolo's belvedere for the view, and finish with dinner on moscioli in Portonovo bay."
+  },
+  {
+   "from": "Pesaro",
+   "to": "Urbino",
+   "how": "About 1h by bus",
+   "desc": "See the Palazzo Ducale and Raphael's birthplace, walk a stretch of the city walls, and eat a crescia sfogliata in the piazza with the students."
+  },
+  {
+   "from": "Ascoli Piceno",
+   "to": "Offida",
+   "how": "About 30 min by car",
+   "desc": "Bobbin lace in the lanes, the clifftop Gothic church of Santa Maria della Rocca, and a glass of Offida Pecorino."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Corinaldo",
+   "desc": "A hill town with intact 15th-century walls and a long, wide staircase, the Piaggia, climbing through the centre past the famous 'Pozzo della Polenta', the well at the heart of a local legend. The view from the walls takes in the whole Misa valley.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Corinaldo_-_Il_paese.jpg/1280px-Corinaldo_-_Il_paese.jpg",
+    "alt": "The crenellated brick walls and towers of Corinaldo",
+    "credit": "Beta16, CC BY-SA 3.0 it, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACorinaldo_-_Il_paese.jpg"
+   }
+  },
+  {
+   "name": "Offida",
+   "desc": "A small town of bobbin lace, with women working the tombolo on their doorsteps, and the Gothic church of Santa Maria della Rocca on the edge of a cliff. Taste Offida Pecorino and Passerina, two local white wines.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Offida12.jpg/1280px-Offida12.jpg",
+    "alt": "The Gothic brick church of Santa Maria della Rocca in Offida",
+    "credit": "iessi, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOffida12.jpg"
+   }
+  },
+  {
+   "name": "Gola del Furlo",
+   "desc": "A dramatic limestone gorge where the Via Flaminia passes through a Roman tunnel dug in 76 AD. Golden eagles nest on the cliffs; walk the trails up Monte Pietralata for a view down into the gorge.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Furlo_Gorge.jpg/1280px-Furlo_Gorge.jpg",
+    "alt": "The green Candigliano river flowing between the sheer limestone walls of the Furlo gorge",
+    "credit": "Furlio, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFurlo_Gorge.jpg"
+   }
+  },
+  {
+   "name": "Fermo",
+   "desc": "A handsome hill town above the coast with a vast Piazza del Popolo, Roman cisterns under the streets and a cathedral with a sea view. It is also a centre of the Marche shoe industry, with outlets in nearby towns.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fermo_Panorama.JPG/1280px-Fermo_Panorama.JPG",
+    "alt": "Hill town of Fermo above green fields with the snowy Sibillini mountains behind",
+    "credit": "lastquest, CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFermo_Panorama.JPG"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Quintana di Ascoli",
+   "when": "July and the first Sunday of August",
+   "where": "Ascoli Piceno",
+   "desc": "Knights of the six districts charge at the Saracen-shaped target in a field outside town, after a parade of more than a thousand people in 15th-century costume.",
+   "url": "https://www.quintanadiascoli.it/"
+  },
+  {
+   "name": "Macerata Opera Festival",
+   "when": "July to August",
+   "where": "Macerata",
+   "desc": "Opera under the stars in the Sferisterio, a neoclassical arena built for a ball game, with remarkable acoustics and one of Italy's widest stages.",
+   "url": "https://www.sferisterio.it/"
+  },
+  {
+   "name": "Rossini Opera Festival",
+   "when": "August",
+   "where": "Pesaro",
+   "desc": "Rossini's hometown stages his operas, including rarely performed ones, with top international singers, plus a production by the young voices of the Accademia Rossiniana.",
+   "url": "https://www.rossinioperafestival.it/"
+  },
+  {
+   "name": "Festa della Venuta",
+   "when": "Night of 9-10 December",
+   "where": "Loreto and across the Marche",
+   "desc": "Bonfires called focarazze light up the countryside to commemorate the angels carrying the Holy House to Loreto; pilgrims hold an all-night vigil at the basilica."
+  }
+ ],
+ "culture": "The Marche gave Italy Rossini, Pergolesi and Spontini, the poet Leopardi and the painter Raphael, and it still loves opera, with summer festivals in Pesaro and Macerata. Castelfidardo has built accordions since 1863, Fabriano has made paper since the Middle Ages, and Offida and Ascoli keep the bobbin-lace tradition alive. Fermo and Macerata provinces make many of Italy's shoes. Folk music is the saltarello, danced to organetto and tambourine, and the dialect changes noticeably between the north, near Romagna, and the south, near Abruzzo.",
+ "official_site": "https://www.letsmarche.it/en/"
+}

@@ -1,0 +1,552 @@
+{
+ "slug": "heritage",
+ "section": "experiences",
+ "title": "Art & heritage",
+ "headline": "The world's richest heritage list, room by room",
+ "tagline": "Sixty-two World Heritage sites, twenty living traditions and some of the planet's greatest museums - here is how to see the best of them without the queues.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Piazza_del_Duomo_Pisa_7.jpg/1280px-Piazza_del_Duomo_Pisa_7.jpg",
+  "alt": "The Baptistery, Cathedral and Leaning Tower on the lawns of Pisa's Piazza del Duomo",
+  "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APiazza_del_Duomo_Pisa_7.jpg"
+ },
+ "intro": [
+  "No country has more places on UNESCO's World Heritage List than Italy. The count reached 62 in July 2026, when the committee meeting in Busan added ten 18th- and 19th-century theatres in Marche, Umbria and Emilia-Romagna, from Jesi's Pergolesi to Spoleto's Teatro Nuovo, built and run by townspeople who pooled their money for a box each. It is a fitting addition: so much of Italy's heritage was paid for by ordinary towns that cared about looking good.",
+  "The list is only the start. Italy also has twenty traditions on UNESCO's intangible heritage list, from Neapolitan pizza-making to opera singing and, since December 2025, Italian home cooking itself. Below we sort the sites into ancient worlds, great cities and landscapes, then list the living heritage you can see, hear and taste, and the big museums worth booking before you fly."
+ ],
+ "sections": [
+  {
+   "heading": "The ancient world",
+   "intro": "Greek temples, Etruscan tombs, Roman roads and island towers older than Rome itself. Go early, carry water and give each site a full morning.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Historic centre of Rome",
+     "subtitle": "Lazio, inscribed 1980",
+     "desc": "The Forum, the Palatine and the Colosseum sit in one walkable valley, but the listing covers far more: the Pantheon's open oculus, Trajan's Market, Baroque piazzas and the Vatican's properties inside the city. Walk the Forum at opening, before the heat bounces off the marble.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg/1280px-Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+      "alt": "The Arch of Septimius Severus and the Column of Phocas in the Roman Forum",
+      "credit": "Jebulon, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AArch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg"
+     },
+     "meta": "Inscribed 1980, extended 1990",
+     "region": "lazio",
+     "url": "https://ticketing.colosseo.it/en/",
+     "url_label": "Book Colosseum & Forum"
+    },
+    {
+     "title": "Pompeii, Herculaneum and Oplontis",
+     "subtitle": "Campania, buried by Vesuvius in AD 79",
+     "desc": "Pompeii is a whole Roman town of bakeries, bars and frescoed bedrooms; Herculaneum is smaller and better preserved, with carbonised wooden beams and upper floors. Oplontis, at Torre Annunziata, is one sumptuous villa. New houses keep opening at Pompeii, so even repeat visitors find something fresh.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pompeii_Tempel_van_Apollo.jpg/1280px-Pompeii_Tempel_van_Apollo.jpg",
+      "alt": "The Temple of Apollo in Pompeii with a bronze statue among the columns",
+      "credit": "Mark de Nijs, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APompeii_Tempel_van_Apollo.jpg"
+     },
+     "meta": "Inscribed 1997",
+     "region": "campania",
+     "url": "https://pompeiisites.org/en/",
+     "url_label": "Pompeii official site"
+    },
+    {
+     "title": "Valley of the Temples",
+     "subtitle": "Agrigento, Sicily",
+     "desc": "A ridge of honey-coloured Doric temples above almond groves and the sea, the finest outside Greece. The Temple of Concordia, from the 5th century BC, stands almost whole. Come for the late opening on summer evenings, when the stone glows and the crowds thin.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Temple_of_Concordia_%28Agrigento%29_SW.jpg/1280px-Temple_of_Concordia_%28Agrigento%29_SW.jpg",
+      "alt": "The honey-coloured Doric columns of the Temple of Concordia against a blue sky",
+      "credit": "Moleskine, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Concordia_%28Agrigento%29_SW.jpg"
+     },
+     "meta": "Inscribed 1997",
+     "region": "sicily",
+     "url": "https://www.parcovalledeitempli.it/",
+     "url_label": "Park official site"
+    },
+    {
+     "title": "Su Nuraxi di Barumini",
+     "subtitle": "Sardinia's Bronze Age fortress",
+     "desc": "Sardinia has thousands of nuraghi, the cone-shaped stone towers of the Nuragic people, and Barumini is the grandest: a central tower and bastions wrapped in a honeycomb village, built from around 1600 BC. Guided visits take you inside the dark, cool passages.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg/1280px-Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg",
+      "alt": "The stone towers and village ruins of the Nuragic complex Su Nuraxi at Barumini",
+      "credit": "Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_07.jpg"
+     },
+     "meta": "Inscribed 1997",
+     "region": "sardinia",
+     "url": "https://www.fondazionebarumini.it/en/",
+     "url_label": "Visit Barumini"
+    },
+    {
+     "title": "Etruscan necropolises of Cerveteri and Tarquinia",
+     "subtitle": "Lazio, north of Rome",
+     "desc": "Cerveteri's Banditaccia is a city of the dead, with grassy mound tombs laid out along streets. At Tarquinia you step down into painted chambers where Etruscans dance, dive, feast and wrestle in colours that still feel alive after 2,500 years.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Cerveteri%2C_necropoli_della_banditaccia%2C_tumulo_01.jpg/1280px-Cerveteri%2C_necropoli_della_banditaccia%2C_tumulo_01.jpg",
+      "alt": "A grassy Etruscan mound tomb among oak trees in the Banditaccia necropolis at Cerveteri",
+      "credit": "Sailko, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACerveteri%2C_necropoli_della_banditaccia%2C_tumulo_01.jpg"
+     },
+     "meta": "Inscribed 2004",
+     "region": "lazio"
+    },
+    {
+     "title": "Via Appia, Regina Viarum",
+     "subtitle": "Rome to Brindisi, listed 2024",
+     "desc": "The Queen of Roads became Italy's 60th World Heritage site in 2024. Rent a bike on a Sunday, when the stretch outside Rome is quieter, and ride the original basalt paving past tombs, catacombs and umbrella pines; the listing follows the road all the way to the Adriatic.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roma_Appia_Antica_-_mausoleo_Cecilia_Metella.JPG/1280px-Roma_Appia_Antica_-_mausoleo_Cecilia_Metella.JPG",
+      "alt": "The round tomb of Caecilia Metella beside the paving stones of the Via Appia Antica",
+      "credit": "Lalupa, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARoma_Appia_Antica_-_mausoleo_Cecilia_Metella.JPG"
+     },
+     "meta": "Inscribed 2024",
+     "region": "lazio",
+     "url": "https://www.parcoarcheologicoappiaantica.it/",
+     "url_label": "Appia Antica park"
+    },
+    {
+     "title": "Domus de Janas",
+     "subtitle": "Sardinia, listed 2025",
+     "desc": "Prehistoric tombs cut into rock across Sardinia, some carved with bull horns and false doors to mirror the houses of the living. Their name means 'houses of the fairies'. Twenty-six sites make up the 2025 listing, from Sant'Andrea Priu to Montessu and the Elephant Rock, many on quiet hillsides you may have to yourself.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lotzorai_domus_de_janas_2.jpg/1280px-Lotzorai_domus_de_janas_2.jpg",
+      "alt": "Prehistoric tombs cut into a granite outcrop in the necropolis of Lotzorai, Sardinia",
+      "credit": "Mauro Mereu, CC BY-SA 2.5, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALotzorai_domus_de_janas_2.jpg"
+     },
+     "meta": "Inscribed 2025",
+     "region": "sardinia"
+    },
+    {
+     "title": "Villa Romana del Casale",
+     "subtitle": "Piazza Armerina, Sicily",
+     "desc": "A late Roman country villa with some 3,500 square metres of floor mosaics: hunting scenes, sea monsters, exotic animals being loaded onto ships and the famous girls in 'bikinis' doing exercises. Walkways let you look down on the floors room by room.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Villa_romana_di_Piazza_Armerina_-_Sicilia_-_tigre.JPG/1280px-Villa_romana_di_Piazza_Armerina_-_Sicilia_-_tigre.JPG",
+      "alt": "Roman floor mosaic of a tiger in the Great Hunt corridor at Villa Romana del Casale",
+      "credit": "Robur.q, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVilla_romana_di_Piazza_Armerina_-_Sicilia_-_tigre.JPG"
+     },
+     "meta": "Inscribed 1997",
+     "region": "sicily",
+     "url": "https://www.villaromanadelcasale.it/",
+     "url_label": "Villa official site"
+    }
+   ]
+  },
+  {
+   "heading": "Medieval and Renaissance cities",
+   "intro": "Whole historic centres are on the list, so the heritage here is the walk to dinner as much as the famous rooms.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Florence",
+     "subtitle": "Tuscany, cradle of the Renaissance",
+     "desc": "Brunelleschi's dome, Giotto's bell tower, Michelangelo's David and the Uffizi's Botticellis, all within a 20-minute walk. Climb to San Miniato al Monte at sunset for the view across the river, then drift back down through the Oltrarno's workshops.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/1280px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg",
+      "alt": "Florence's rooftops, the Duomo and Palazzo Vecchio seen from Piazzale Michelangelo",
+      "credit": "Giorgio Galeotti, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFirenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg"
+     },
+     "meta": "Inscribed 1982",
+     "region": "tuscany",
+     "url": "https://www.uffizi.it/en",
+     "url_label": "Uffizi Galleries"
+    },
+    {
+     "title": "Venice and its lagoon",
+     "subtitle": "Veneto",
+     "desc": "The city and the lagoon are listed together, which is the clue: take the vaporetto out to Torcello's Byzantine mosaics and Burano's painted houses as well as the Doge's Palace. Day-trippers pay an access fee on peak days, so check before you go.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DSC_0617_%2849258233932%29.jpg/1280px-DSC_0617_%2849258233932%29.jpg",
+      "alt": "The island of San Giorgio Maggiore with its campanile in the Venetian lagoon",
+      "credit": "Ekaterina Valinakova, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADSC_0617_%2849258233932%29.jpg"
+     },
+     "meta": "Inscribed 1987",
+     "region": "veneto",
+     "url": "https://palazzoducale.visitmuve.it/en/",
+     "url_label": "Doge's Palace"
+    },
+    {
+     "title": "Siena",
+     "subtitle": "Tuscany, Gothic city of the Palio",
+     "desc": "The shell-shaped Piazza del Campo tilts toward the Palazzo Pubblico, where Lorenzetti's frescoes of good and bad government still make their point. Climb the Torre del Mangia, then lose yourself in the contrade, each with its own fountain and flag.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg",
+      "alt": "The shell-shaped Piazza del Campo in Siena seen from the top of the Torre del Mangia",
+      "credit": "Mark Sehnert, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIl_campo_view_from_torre.jpg"
+     },
+     "meta": "Inscribed 1995",
+     "region": "tuscany"
+    },
+    {
+     "title": "Ravenna's early Christian monuments",
+     "subtitle": "Emilia-Romagna",
+     "desc": "Eight buildings from the 5th and 6th centuries hold the most dazzling mosaics in Europe. In San Vitale, Emperor Justinian and Empress Theodora glitter in gold; in the tiny Mausoleum of Galla Placidia a blue sky full of stars arches over your head.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna%29.jpg/1280px-Mosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+      "alt": "Gold mosaic of Empress Theodora and her court in the Basilica of San Vitale, Ravenna",
+      "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMosaic_of_Theodora_-_Basilica_San_Vitale_%28Ravenna%29.jpg"
+     },
+     "meta": "Inscribed 1996",
+     "region": "emilia-romagna",
+     "url": "https://www.ravennamosaici.it/en/",
+     "url_label": "Book the mosaics"
+    },
+    {
+     "title": "Assisi",
+     "subtitle": "Umbria, the town of St Francis",
+     "desc": "The double basilica of St Francis, with Giotto's and Cimabue's frescoes, rises on a buttressed platform above the Umbrian plain. Stay the night: once the coach groups leave, the pink stone lanes go quiet and the bells carry across the valley.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BasilicaDiSanFrancescoAssisiMar262024_03.jpg/1280px-BasilicaDiSanFrancescoAssisiMar262024_03.jpg",
+      "alt": "The Basilica of St Francis in Assisi rising on its arches above the Umbrian plain",
+      "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABasilicaDiSanFrancescoAssisiMar262024_03.jpg"
+     },
+     "meta": "Inscribed 2000",
+     "region": "umbria"
+    },
+    {
+     "title": "The Sassi of Matera",
+     "subtitle": "Basilicata",
+     "desc": "Two ravines of cave houses and rock-cut churches, inhabited for thousands of years, emptied in the 1950s and now reborn as hotels, restaurants and museums. Walk the rim of the gorge opposite at dusk to watch the lights come on.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sasso_Caveoso_%28Matera%29_02.jpg/1280px-Sasso_Caveoso_%28Matera%29_02.jpg",
+      "alt": "Cave houses and churches of the Sasso Caveoso in Matera",
+      "credit": "Bernard Gagnon, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASasso_Caveoso_%28Matera%29_02.jpg"
+     },
+     "meta": "Inscribed 1993",
+     "region": "basilicata"
+    },
+    {
+     "title": "Padua's fresco cycles",
+     "subtitle": "Veneto, listed 2021",
+     "desc": "Giotto's Scrovegni Chapel is the star: a blue-vaulted box of scenes so human they changed Western painting. The listing adds seven more 14th-century fresco cycles around the city. Chapel visits are short and timed, after a few minutes in a climate-control room.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_3.jpg/1280px-Padova_Cappella_degli_Scrovegni_Innen_Langhaus_West_3.jpg",
+      "alt": "Giotto's frescoes and starry blue vault inside the Scrovegni Chapel in Padua",
+      "credit": "Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APadova_Cappella_degli_Scrovegni_Innen_Langhaus_West_3.jpg"
+     },
+     "meta": "Inscribed 2021",
+     "region": "veneto",
+     "url": "https://www.cappelladegliscrovegni.it/",
+     "url_label": "Book the Scrovegni Chapel"
+    },
+    {
+     "title": "The porticoes of Bologna",
+     "subtitle": "Emilia-Romagna, listed 2021",
+     "desc": "Around 62 kilometres of covered arcades keep Bologna dry in winter and shaded in summer. The longest runs nearly four kilometres and 666 arches up to the sanctuary of San Luca: a pilgrimage, a workout and the best view of the city.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bologna%2C_Santuario_della_Madonna_di_San_Luca_004.JPG/1280px-Bologna%2C_Santuario_della_Madonna_di_San_Luca_004.JPG",
+      "alt": "The Sanctuary of the Madonna di San Luca above the wooded hills of Bologna",
+      "credit": "Mattana, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABologna%2C_Santuario_della_Madonna_di_San_Luca_004.JPG"
+     },
+     "meta": "Inscribed 2021",
+     "region": "emilia-romagna"
+    }
+   ]
+  },
+  {
+   "heading": "Landscapes and wild places",
+   "intro": "Some of Italy's listings are not buildings at all, but mountains, islands and hills shaped by centuries of farming.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "The Dolomites",
+     "subtitle": "Trentino-Alto Adige, Veneto and Friuli",
+     "desc": "Nine separate mountain groups of pale, jagged limestone that turn pink at sunset, a glow the Ladin people call enrosadira. Hut-to-hut walking here is some of the best in Europe, with strudel and speck waiting at every rifugio.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/1280px-Faloria_Cortina_d%27Ampezzo_10.jpg",
+      "alt": "Cortina d'Ampezzo in its green valley beneath Dolomite peaks, seen from Faloria",
+      "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFaloria_Cortina_d%27Ampezzo_10.jpg"
+     },
+     "meta": "Inscribed 2009",
+     "region": "trentino-alto-adige",
+     "url": "https://www.dolomitiunesco.info/?lang=en",
+     "url_label": "Dolomites UNESCO Foundation"
+    },
+    {
+     "title": "Aeolian Islands",
+     "subtitle": "Sicily",
+     "desc": "Seven volcanic islands off Sicily's north coast, listed for what they teach about how volcanoes behave. Stromboli still throws lava into the night sky; Vulcano has warm mud and fumaroles; Salina grows capers and Malvasia wine between two extinct cones.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eolie.jpg/1280px-Eolie.jpg",
+      "alt": "View from Vulcano across the sea to Lipari and Salina in the Aeolian Islands",
+      "credit": "Giovanni from Catania, Sicily, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEolie.jpg"
+     },
+     "meta": "Inscribed 2000",
+     "region": "sicily"
+    },
+    {
+     "title": "Val d'Orcia",
+     "subtitle": "Tuscany",
+     "desc": "The rolling, cypress-dotted hills that appear on half the postcards of Tuscany were designed: Renaissance landowners laid out farms, roads and villages to look exactly like this. Base yourself in Pienza or San Quirico and drive the back roads at golden hour.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/I_cipressi_della_Val_D%27Orcia.jpg/1280px-I_cipressi_della_Val_D%27Orcia.jpg",
+      "alt": "Cypress trees on gentle green hills near San Quirico d'Orcia",
+      "credit": "Carlo cattaneo fotografie, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AI_cipressi_della_Val_D%27Orcia.jpg"
+     },
+     "meta": "Inscribed 2004",
+     "region": "tuscany"
+    },
+    {
+     "title": "Portovenere, Cinque Terre and the islands",
+     "subtitle": "Liguria",
+     "desc": "Terraced vineyards held up by dry-stone walls, five fishing villages stacked above the sea, and Portovenere's striped church on its rocky point. Walk between villages in spring or autumn, and take the boat back as the sun drops.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Italy_ZoharFord_July2-03.jpg/1280px-Italy_ZoharFord_July2-03.jpg",
+      "alt": "Colourful tower houses of Porto Venere lining the harbour on the Ligurian coast",
+      "credit": "Lafrondy, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AItaly_ZoharFord_July2-03.jpg"
+     },
+     "meta": "Inscribed 1997",
+     "region": "liguria"
+    },
+    {
+     "title": "Prosecco hills of Conegliano and Valdobbiadene",
+     "subtitle": "Veneto, listed 2019",
+     "desc": "Steep 'hogback' ridges striped with vines that are still picked by hand. Drive the Strada del Prosecco, stop at a family cantina for a glass, and look for the self-service osterie senza oste, honesty-box huts where you pour your own.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vista_da_Collag%C3%B9.jpg/1280px-Vista_da_Collag%C3%B9.jpg",
+      "alt": "Steep green vineyard hills around Valdobbiadene in the Prosecco country",
+      "credit": "Civvì, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVista_da_Collag%C3%B9.jpg"
+     },
+     "meta": "Inscribed 2019",
+     "region": "veneto"
+    },
+    {
+     "title": "Langhe-Roero and Monferrato",
+     "subtitle": "Piedmont, listed 2014",
+     "desc": "The vineyard landscape that gives us Barolo, Barbaresco and Moscato: hilltop castles, wine villages and long rows of Nebbiolo that blaze yellow and red in October, just as truffle season begins in Alba.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Barolo_veduta.JPG/1280px-Barolo_veduta.JPG",
+      "alt": "The village and castle of Barolo surrounded by vineyards in the Langhe",
+      "credit": "Georgius LXXXIX, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABarolo_veduta.JPG"
+     },
+     "meta": "Inscribed 2014",
+     "region": "piedmont"
+    }
+   ]
+  },
+  {
+   "heading": "Living heritage",
+   "intro": "UNESCO's intangible list honours skills and rituals rather than places. Italy has twenty entries, several shared with other countries. These are the ones you can most easily see, hear or taste.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Italian cooking",
+     "subtitle": "Inscribed December 2025",
+     "desc": "The first time a whole national cuisine has been recognised as a practice: recipes handed down, seasonal shopping, wasting nothing and sitting down together. You join in every time you linger over Sunday lunch.",
+     "meta": "Italy-wide"
+    },
+    {
+     "title": "The art of the Neapolitan pizzaiuolo",
+     "subtitle": "Inscribed 2017",
+     "desc": "The dough-spinning, wood-fire skills of Naples' pizza makers. Watch them at work in the old centre, and eat your Margherita folded 'a portafoglio' on the street.",
+     "meta": "Naples",
+     "region": "campania"
+    },
+    {
+     "title": "Opera singing in Italy",
+     "subtitle": "Inscribed 2023",
+     "desc": "The technique of projecting the voice without amplification, passed from teacher to student since the 1600s. Hear it at its purest in a small historic theatre rather than a giant arena.",
+     "meta": "Italy-wide"
+    },
+    {
+     "title": "Violin-making in Cremona",
+     "subtitle": "Inscribed 2012",
+     "desc": "Stradivari and Guarneri worked here, and around 150 workshops still build instruments by hand. At the Museo del Violino you can hear instruments from the collection, Stradivaris included, played in short auditorium recitals.",
+     "meta": "Cremona",
+     "region": "lombardy",
+     "url": "https://museodelviolino.org/en/",
+     "url_label": "Museo del Violino"
+    },
+    {
+     "title": "Canto a tenore",
+     "subtitle": "Inscribed 2008",
+     "desc": "Four-man shepherds' polyphony from inland Sardinia, with a deep throat-sung bass that sounds like a lowing animal. Listen for it in bars and at festas around Orgosolo, Bitti and Oliena.",
+     "meta": "Sardinia",
+     "region": "sardinia"
+    },
+    {
+     "title": "Opera dei Pupi",
+     "subtitle": "Inscribed 2008",
+     "desc": "Sicilian marionette theatre with armoured knights battling Saracens. Palermo still has small family companies performing in tiny theatres near the Massimo.",
+     "meta": "Palermo and Catania",
+     "region": "sicily"
+    },
+    {
+     "title": "Big shoulder-borne processional structures",
+     "subtitle": "Inscribed 2013",
+     "desc": "Towers carried through the streets by hundreds of bearers: the Gigli of Nola, the Macchina di Santa Rosa in Viterbo, the Varia of Palmi and the Candelieri of Sassari.",
+     "meta": "Nola, Viterbo, Palmi, Sassari"
+    },
+    {
+     "title": "Truffle hunting and extraction",
+     "subtitle": "Inscribed 2021",
+     "desc": "The knowledge shared between a trifolao and their dog in the autumn woods. Several farms in Piedmont, Umbria and Le Marche take visitors on a dawn hunt.",
+     "meta": "Piedmont, Umbria, Marche"
+    },
+    {
+     "title": "Head-trained bush vines of Pantelleria",
+     "subtitle": "Inscribed 2014",
+     "desc": "Zibibbo vines grown low in hollows to escape the wind on this African-facing island, then dried into the amber passito di Pantelleria.",
+     "meta": "Pantelleria",
+     "region": "sicily"
+    },
+    {
+     "title": "The Mediterranean diet",
+     "subtitle": "Inscribed 2013, shared",
+     "desc": "Olive oil, legumes, vegetables and conviviality, with the Cilento village of Pollica as Italy's reference community.",
+     "meta": "Cilento",
+     "region": "campania"
+    },
+    {
+     "title": "Celestinian Forgiveness",
+     "subtitle": "Inscribed 2019",
+     "desc": "L'Aquila's Perdonanza, a jubilee founded by Pope Celestine V in 1294, celebrated every 28-29 August with a historical procession and the opening of the Holy Door of Santa Maria di Collemaggio.",
+     "meta": "L'Aquila",
+     "region": "abruzzo"
+    },
+    {
+     "title": "Transhumance and dry-stone walling",
+     "subtitle": "Shared inscriptions",
+     "desc": "Two rural skills that shaped Italy's hills: the seasonal moving of flocks along ancient drove roads, still seen in Molise and Abruzzo, and the craft of building walls without mortar.",
+     "meta": "Apennines and Alps"
+    }
+   ]
+  },
+  {
+   "heading": "Great museums and how to book them",
+   "intro": "For the big names, booking a timed slot on the official site is not optional in high season. These links go straight to the source, with no reseller mark-up.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Uffizi Galleries",
+     "subtitle": "Florence",
+     "desc": "Botticelli's Birth of Venus, Leonardo, Caravaggio and a corridor of Roman statues. Book a timed slot and come at opening or in the last two hours.",
+     "region": "tuscany",
+     "url": "https://www.uffizi.it/en/tickets",
+     "url_label": "Book Uffizi tickets"
+    },
+    {
+     "title": "Vatican Museums and Sistine Chapel",
+     "subtitle": "Vatican City",
+     "desc": "Seven kilometres of galleries ending under Michelangelo's ceiling. Closed most Sundays; the free last Sunday of the month is the busiest day of all.",
+     "region": "lazio",
+     "url": "https://tickets.museivaticani.va/",
+     "url_label": "Book Vatican tickets"
+    },
+    {
+     "title": "Colosseum, Roman Forum and Palatine",
+     "subtitle": "Rome",
+     "desc": "One combined ticket with a timed Colosseum entry. Book the version with the arena floor or underground if you want to see where the gladiators waited.",
+     "region": "lazio",
+     "url": "https://ticketing.colosseo.it/en/",
+     "url_label": "Official ticketing"
+    },
+    {
+     "title": "Pompeii archaeological park",
+     "subtitle": "Campania",
+     "desc": "Tickets carry the visitor's name and there is a daily cap of 20,000, so book ahead in summer. Only small bags are allowed in.",
+     "region": "campania",
+     "url": "https://pompeiisites.org/en/",
+     "url_label": "Tickets and opening hours"
+    },
+    {
+     "title": "Leonardo's Last Supper",
+     "subtitle": "Santa Maria delle Grazie, Milan",
+     "desc": "Fifteen minutes in small groups. Tickets are released three months at a time and the good slots go within hours; closed Mondays.",
+     "region": "lombardy",
+     "url": "https://cenacolovinciano.org/en/",
+     "url_label": "Booking information"
+    },
+    {
+     "title": "Galleria dell'Accademia",
+     "subtitle": "Florence",
+     "desc": "Michelangelo's David and his unfinished Prisoners, which seem to be pulling themselves out of the marble. Quick to see if you book the first slot of the day.",
+     "region": "tuscany",
+     "url": "https://www.galleriaaccademiafirenze.it/en/",
+     "url_label": "Accademia official site"
+    },
+    {
+     "title": "Galleria Borghese",
+     "subtitle": "Rome",
+     "desc": "Bernini's marble sculptures and Caravaggio's paintings in a cardinal's villa. Entry is by reservation only, in fixed two-hour slots, so plan this one first."
+    },
+    {
+     "title": "National Archaeological Museum of Naples (MANN)",
+     "subtitle": "Naples",
+     "desc": "Where the best frescoes, mosaics and bronzes from Pompeii and Herculaneum ended up, including the Farnese marbles and the Secret Cabinet. Go before or after the sites, not on the same day.",
+     "region": "campania",
+     "url": "https://www.museoarcheologiconapoli.it/en/",
+     "url_label": "MANN official site"
+    },
+    {
+     "title": "Museo Egizio",
+     "subtitle": "Turin",
+     "desc": "The oldest museum in the world devoted entirely to ancient Egypt, with colossal statues, papyri and the intact grave goods of the architect Kha. Allow three hours.",
+     "region": "piedmont",
+     "url": "https://museoegizio.it/en/",
+     "url_label": "Museo Egizio"
+    },
+    {
+     "title": "Pinacoteca di Brera",
+     "subtitle": "Milan",
+     "desc": "Mantegna's foreshortened Dead Christ, Raphael, Piero della Francesca and Hayez's The Kiss, in a handsome old palazzo in the arty Brera quarter.",
+     "region": "lombardy",
+     "url": "https://pinacotecabrera.org/en/",
+     "url_label": "Brera official site"
+    },
+    {
+     "title": "Doge's Palace",
+     "subtitle": "Venice",
+     "desc": "Tintoretto's vast Paradise, the Bridge of Sighs and the prisons. Book the Secret Itineraries tour for the hidden offices and Casanova's cell.",
+     "region": "veneto",
+     "url": "https://palazzoducale.visitmuve.it/en/",
+     "url_label": "Doge's Palace tickets"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "State museums and archaeological sites are free on the first Sunday of each month: wonderful for locals, very crowded for visitors.",
+  "Book on the official sites linked here; resellers charge more for exactly the same timed entry.",
+  "Many smaller listed sites close one day a week, usually Monday, so check before driving out.",
+  "Carry a scarf or light layer to cover shoulders and knees in churches, including the Vatican and Assisi.",
+  "In August, visit the big archaeological sites at opening or in the late afternoon: there is little shade at Pompeii or Agrigento."
+ ],
+ "links": [
+  {
+   "label": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/statesparties/it",
+   "desc": "The official list of Italy's World Heritage properties"
+  },
+  {
+   "label": "UNESCO Intangible Cultural Heritage",
+   "url": "https://ich.unesco.org/en/state/italy-IT",
+   "desc": "Italy's living-heritage inscriptions, with films and descriptions"
+  },
+  {
+   "label": "Italia.it",
+   "url": "https://www.italia.it/en",
+   "desc": "Italy's official tourism portal, with regional event listings"
+  }
+ ]
+}

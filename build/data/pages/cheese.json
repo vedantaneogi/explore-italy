@@ -1,0 +1,343 @@
+{
+ "slug": "cheese",
+ "section": "taste",
+ "title": "Cheese",
+ "headline": "Wheels, curds and caves: Italy's great cheeses",
+ "tagline": "From Parmigiano dairies at dawn to buffalo farms near Paestum and cows high on summer pastures, here's where Italy's protected cheeses are made, and how to watch.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Italie%2C_Lesignana_di_Modena%2C_Fromagerie_Quattro_Madonne%2C_productrice_de_Parmigiano_Reggiano%2C_%C3%89tape_4_de_la_fabrication_du_fromage_%2850245500206%29.jpg/1280px-Italie%2C_Lesignana_di_Modena%2C_Fromagerie_Quattro_Madonne%2C_productrice_de_Parmigiano_Reggiano%2C_%C3%89tape_4_de_la_fabrication_du_fromage_%2850245500206%29.jpg",
+  "alt": "Towering shelves of Parmigiano Reggiano wheels ageing in a dairy near Modena",
+  "credit": "Marie Thérèse Hébert & Jean Robert Thibault, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AItalie%2C_Lesignana_di_Modena%2C_Fromagerie_Quattro_Madonne%2C_productrice_de_Parmigiano_Reggiano%2C_%C3%89tape_4_de_la_fabrication_du_fromage_%2850245500206%29.jpg"
+ },
+ "intro": [
+  "Italy has more than fifty cheeses with protected DOP status, and each one is tied to a place, a breed and a way of working that has barely changed in centuries. Parmigiano Reggiano is still made from raw milk in copper vats at dawn. Fontina comes from the milk of one alpine breed, milked once and made at once. Buffalo mozzarella is best eaten within hours of being pulled, at the farm, still warm.",
+  "That makes cheese one of the most rewarding things to travel for. Many consortia run visit programmes, dairies welcome early risers, and summer opens the high pastures, the alpeggi, where cheese is made in stone huts above the treeline. Below, the big names of the north, the south's fresh and sheep's-milk cheeses, and the places and festivals that let you see them made."
+ ],
+ "sections": [
+  {
+   "heading": "The north: big wheels and blue veins",
+   "intro": "Cow's-milk country, from the Po plain to the Alps. Ask for a taste at different ages; the difference is the whole point.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Parmigiano Reggiano",
+     "subtitle": "Parma, Reggio Emilia, Modena, Bologna, Mantua",
+     "desc": "Raw milk, rennet, salt and time: nothing else. Each 40 kg wheel ages at least 12 months, and the classic is 24 to 30, when it turns crumbly, crunchy with crystals and tastes of broth and nuts. Eat chunks broken with an almond-shaped knife and a drop of aged balsamic.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caseificio_Parmigiano_Reggiano.JPG/1280px-Caseificio_Parmigiano_Reggiano.JPG",
+      "alt": "A long aisle of Parmigiano Reggiano wheels maturing on wooden shelves",
+      "credit": "Fabio da Milano (ManuGino), CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACaseificio_Parmigiano_Reggiano.JPG"
+     },
+     "region": "emilia-romagna",
+     "meta": "DOP, aged 12 months+",
+     "url": "https://www.parmigianoreggiano.com/dairies-viviparmigianoreggiano",
+     "url_label": "Visit a dairy"
+    },
+    {
+     "title": "Grana Padano",
+     "subtitle": "The Po plain, five regions",
+     "desc": "The other great grana, made across a wider swathe of northern Italy and the most produced DOP cheese in the world. Younger and milder than Parmigiano, it shines grated over risotto or shaved over carpaccio; the 'Riserva', aged over 20 months, is a match for its rival. Its heartland around Cremona also makes Provolone Valpadana, the stretched-curd cheese hung by ropes in shapes from small pears to giant logs.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Forme_di_Grana_%282975107361%29.jpg/1280px-Forme_di_Grana_%282975107361%29.jpg",
+      "alt": "Rows of Grana Padano wheels ageing in a warehouse",
+      "credit": "Davide Bia from Italy, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AForme_di_Grana_%282975107361%29.jpg"
+     },
+     "region": "lombardy",
+     "meta": "DOP, aged 9 months+",
+     "url": "https://www.granapadano.it/it-it/",
+     "url_label": "Grana Padano consortium"
+    },
+    {
+     "title": "Gorgonzola",
+     "subtitle": "Piedmont and Lombardy",
+     "desc": "Named after a town east of Milan and now made mostly around Novara. Dolce is soft, creamy and spoonable; piccante is firmer, with dense blue-green veins and a real bite. Try it melted into gnocchi or with polenta, chestnut honey and a glass of sweet wine.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/A_Gongonzola_from_Baci.jpg/1280px-A_Gongonzola_from_Baci.jpg",
+      "alt": "Chunks of blue-veined Gorgonzola on a cheese board",
+      "credit": "Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AA_Gongonzola_from_Baci.jpg"
+     },
+     "region": "lombardy",
+     "meta": "DOP, dolce or piccante",
+     "url": "https://www.gorgonzola.com/",
+     "url_label": "Gorgonzola consortium"
+    },
+    {
+     "title": "Taleggio",
+     "subtitle": "Val Taleggio, Bergamo, Lombardy",
+     "desc": "A square, washed-rind cheese first ripened in the caves of a steep valley above Bergamo. The thin pink-orange rind smells farmyard-strong, but the paste is mild, milky and buttery, with a hint of truffle. Lovely on polenta or melted in a risotto.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Taleggio_vecchia_lavorazione_%283323694182%29.jpg/1280px-Taleggio_vecchia_lavorazione_%283323694182%29.jpg",
+      "alt": "A square of Taleggio with its pinkish washed rind, cut to show the soft paste",
+      "credit": "F. D. Richards from Clinton, MI, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATaleggio_vecchia_lavorazione_%283323694182%29.jpg"
+     },
+     "region": "lombardy",
+     "meta": "DOP, washed rind",
+     "url": "https://www.taleggio.it/it",
+     "url_label": "Taleggio consortium"
+    },
+    {
+     "title": "Fontina",
+     "subtitle": "Valle d'Aosta",
+     "desc": "Made only from the raw milk of Valdostana cows, processed straight after each milking. Supple, sweet and nutty, it melts into fonduta, the valley's silky cheese fondue, often finished with white truffle. The prized Alpeggio version is made from June to September in summer pastures up to 2,700 metres.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fontina_DOP.jpg/1280px-Fontina_DOP.jpg",
+      "alt": "Wheels of Fontina DOP from Valle d'Aosta with the cheese's mountain stamp",
+      "credit": "Luigi Chiesa, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFontina_DOP.jpg"
+     },
+     "region": "valle-daosta",
+     "meta": "DOP, raw milk",
+     "url": "https://www.fontina-dop.it/alpeggio/",
+     "url_label": "Fontina alpeggi"
+    },
+    {
+     "title": "Asiago",
+     "subtitle": "Asiago plateau, Veneto and Trentino",
+     "desc": "Two cheeses under one name. Fresh Asiago Pressato is soft, mild and milky; Asiago d'Allevo is aged from a few months to two years until it turns grainy and sharp. Look for the 'Prodotto della Montagna' mark on cheese made entirely in the mountains.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Formaggio_Asiago_Dop.jpg/1280px-Formaggio_Asiago_Dop.jpg",
+      "alt": "Fresh and aged Asiago cheese, whole and cut",
+      "credit": "Marco Cattaneo, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFormaggio_Asiago_Dop.jpg"
+     },
+     "region": "veneto",
+     "meta": "DOP, fresh or aged",
+     "url": "https://asiagocheese.it/",
+     "url_label": "Asiago consortium"
+    },
+    {
+     "title": "Castelmagno",
+     "subtitle": "Valle Grana, Cuneo, Piedmont",
+     "desc": "One of Italy's rarest cheeses, made in three mountain comuni of the Grana valley. Crumbly, slightly blue at the heart, savoury and long-lasting. The 'd'Alpeggio' label means it was made in summer above 1,000 metres. In Piedmont they melt it over gnocchi.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Risotto_with_Castelmagno_cheese_and_hazelnuts_%2816112192398%29.jpg/1280px-Risotto_with_Castelmagno_cheese_and_hazelnuts_%2816112192398%29.jpg",
+      "alt": "Risotto with Castelmagno cheese and toasted hazelnuts",
+      "credit": "Luca Nebuloni from Milan, Italy, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARisotto_with_Castelmagno_cheese_and_hazelnuts_%2816112192398%29.jpg"
+     },
+     "region": "piedmont",
+     "meta": "DOP, mountain cheese"
+    }
+   ]
+  },
+  {
+   "heading": "The south and the islands: fresh curds and sheep's milk",
+   "intro": "Buffalo and sheep take over as you head south. Fresh cheeses here are meant to be eaten the day they're made.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Mozzarella di Bufala Campana",
+     "subtitle": "Caserta and the Piana del Sele, Campania",
+     "desc": "Made from the milk of water buffalo grazing the plains north of Naples and around Paestum. Good mozzarella should weep milk when cut, squeak slightly and never see a fridge. Eat it the day it's made, at room temperature, with nothing but a pinch of salt.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozzarella_di_bufala.jpg/1280px-Mozzarella_di_bufala.jpg",
+      "alt": "A soft, glistening ball of buffalo mozzarella cut open",
+      "credit": "Popo le Chien, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMozzarella_di_bufala.jpg"
+     },
+     "region": "campania",
+     "meta": "DOP, eat same day",
+     "url": "https://www.mozzarelladop.it/",
+     "url_label": "Mozzarella consortium"
+    },
+    {
+     "title": "Burrata di Andria",
+     "subtitle": "Andria, Murgia, Puglia",
+     "desc": "A pouch of fresh mozzarella filled with stracciatella, shreds of curd soaked in cream, traditionally tied with a green leaf. Born on a farm in the Murgia hills about a century ago, it is now an IGP. Buy it in Andria or Bari, and eat it within a day.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Burrata_cheese.jpg/1280px-Burrata_cheese.jpg",
+      "alt": "A burrata served with tomatoes and greens",
+      "credit": "lazy fri13th, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABurrata_cheese.jpg"
+     },
+     "region": "puglia",
+     "meta": "IGP, eat within 24 hours",
+     "url": "https://www.burratadiandria.it/",
+     "url_label": "Burrata di Andria consortium"
+    },
+    {
+     "title": "Pecorino Romano",
+     "subtitle": "Lazio, Sardinia and southern Tuscany",
+     "desc": "The sharp, salty sheep's cheese that the legions ate on the march and Romans grate into carbonara and cacio e pepe today. Most is now made in Sardinia. On 1 May, Romans eat it in chunks with raw fava beans on a picnic.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pecorino_romano_e_fave.jpg/1280px-Pecorino_romano_e_fave.jpg",
+      "alt": "Pecorino Romano with fresh fava beans and bread, a Roman springtime snack",
+      "credit": "Annarita Migliaccio, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APecorino_romano_e_fave.jpg"
+     },
+     "region": "lazio",
+     "meta": "DOP, sheep's milk",
+     "url": "https://www.pecorinoromano.com/",
+     "url_label": "Pecorino Romano consortium"
+    },
+    {
+     "title": "Pecorino Sardo",
+     "subtitle": "Sardinia",
+     "desc": "Sardinia keeps around three million sheep, about two for every islander, and makes two styles of its own pecorino: young, sweet and supple 'dolce', and smoky-edged, firm 'maturo'. Have it with carta da musica flatbread and a glass of Cannonau.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pecorino_Sardo_Sa_Fortaleza.jpg/1280px-Pecorino_Sardo_Sa_Fortaleza.jpg",
+      "alt": "A wedge of Pecorino Sardo on a wooden board",
+      "credit": "Helge Høifødt, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APecorino_Sardo_Sa_Fortaleza.jpg"
+     },
+     "region": "sardinia",
+     "meta": "DOP, dolce or maturo",
+     "url": "https://www.pecorinosardo.it/",
+     "url_label": "Pecorino Sardo consortium"
+    },
+    {
+     "title": "Pecorino Toscano",
+     "subtitle": "Tuscany",
+     "desc": "Softer and nuttier than its Roman cousin, sold fresh after a few weeks or aged for months. Pienza in the Val d'Orcia is the place to buy it, from shops that smell of hay and ash-rubbed rinds. Pair it with pears and honey, as the Tuscan saying goes.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crete_di_Asciano.jpg/1280px-Crete_di_Asciano.jpg",
+      "alt": "A flock of sheep grazing the green Crete Senesi hills near Asciano",
+      "credit": "JP Vets, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACrete_di_Asciano.jpg"
+     },
+     "region": "tuscany",
+     "meta": "DOP, fresh or aged",
+     "url": "https://www.pecorinotoscanodop.it/",
+     "url_label": "Pecorino Toscano consortium"
+    },
+    {
+     "title": "Ragusano",
+     "subtitle": "Hyblean plateau, Sicily",
+     "desc": "A huge brick-shaped stretched-curd cheese from the milk of cows, traditionally the red Modicana breed, grazing the stone-walled pastures above Ragusa and Modica. Hung in pairs over wooden beams to age, it turns sweet-savoury and spicy. Grate it over pasta or eat it with Nero d'Avola.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Caciocavallo_ragusano_%28Cosacavaddu%29.jpg/1280px-Caciocavallo_ragusano_%28Cosacavaddu%29.jpg",
+      "alt": "Ragusano caciocavallo cheeses from the Hyblean plateau",
+      "credit": "8w9d, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACaciocavallo_ragusano_%28Cosacavaddu%29.jpg"
+     },
+     "region": "sicily",
+     "meta": "DOP, cow's milk"
+    }
+   ]
+  },
+  {
+   "heading": "See it made",
+   "intro": "Cheesemaking starts early. Most visits happen in the morning and need booking.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "A Parmigiano Reggiano dairy at dawn",
+     "subtitle": "Parma, Reggio Emilia, Modena",
+     "desc": "Watch the cheesemaker break the curd with a spino, lift each twin mass from the copper vat in linen, then walk through cathedral-like ageing rooms stacked with thousands of wheels. The consortium's 'Vivi Parmigiano Reggiano' programme lists dairies that take visitors, with tastings of different ages. Twice a year, Caseifici Aperti weekends open dozens of dairies at once.",
+     "meta": "Mornings, book ahead",
+     "region": "emilia-romagna",
+     "url": "https://www.parmigianoreggiano.com/dairies-viviparmigianoreggiano",
+     "url_label": "Vivi Parmigiano Reggiano"
+    },
+    {
+     "title": "Tenuta Vannulo buffalo farm",
+     "subtitle": "Capaccio Paestum, Campania",
+     "desc": "An organic buffalo farm near the Greek temples of Paestum where mozzarella is made by hand every day. Book a visit to see the buffalo and the dairy, then stay for buffalo-milk yogurt, gelato and the small museum of rural life.",
+     "meta": "Combine with Paestum",
+     "region": "campania",
+     "url": "https://www.tenutavannulo.com/",
+     "url_label": "Tenuta Vannulo"
+    },
+    {
+     "title": "Musei del Cibo: Parmigiano Reggiano museum",
+     "subtitle": "Soragna, Emilia-Romagna",
+     "desc": "Housed in a round nineteenth-century dairy building, the Parmigiano museum tells the story of the cheese with old tools, copper vats and a tasting. Pair it with the Prosciutto museum at Langhirano or the Culatello museum near the Po.",
+     "meta": "Weekends and holidays",
+     "region": "emilia-romagna",
+     "url": "https://www.museidelcibo.it/",
+     "url_label": "Musei del Cibo"
+    },
+    {
+     "title": "Fontina in the high pastures",
+     "subtitle": "Valle d'Aosta",
+     "desc": "From June to September, herds and cheesemakers move up to the alpeggi, and many huts sell cheese, butter and fresh ricotta direct to hikers. The Fontina consortium publishes a map of its summer pastures, a fine excuse for a mountain walk with a picnic at the end.",
+     "meta": "June-September",
+     "region": "valle-daosta",
+     "url": "https://www.fontina-dop.it/mappa-alpeggi/",
+     "url_label": "Map of the alpeggi"
+    }
+   ]
+  },
+  {
+   "heading": "Festivals and summer pastures",
+   "intro": "Cheese lovers should plan around these dates.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Cheese, Bra",
+     "subtitle": "Bra, Piedmont",
+     "desc": "Slow Food's biennial celebration of raw-milk cheese takes over the whole town of Bra, near the Langhe, with hundreds of cheesemakers from Italy and abroad, tastings, workshops and a market of mountain and shepherd cheeses. The 2025 edition ran in September; the next is expected in September 2027.",
+     "meta": "September, odd years",
+     "region": "piedmont",
+     "url": "https://cheese.slowfood.it/en/",
+     "url_label": "Cheese by Slow Food"
+    },
+    {
+     "title": "Alpeggio: summer on the mountain",
+     "subtitle": "The Alps, from Piedmont to Friuli",
+     "desc": "The seasonal move of herds to high pastures is part of transhumance, listed by UNESCO as intangible heritage in 2019. Hike to a malga or alpeggio in July and August to see cheese made over a wood fire, and taste Bitto, Montasio, Puzzone di Moena or Fontina where they're born.",
+     "meta": "June-September"
+    },
+    {
+     "title": "The descent of the herds",
+     "subtitle": "Valle d'Aosta, Alto Adige, Trentino",
+     "desc": "At the end of summer the cows come down from the pastures wearing flowers and bells: the Désarpa in Valle d'Aosta and the Almabtrieb in South Tyrol. Villages greet them with markets, music and, of course, cheese.",
+     "meta": "Late September-October"
+    },
+    {
+     "title": "Caseifici Aperti",
+     "subtitle": "Parmigiano Reggiano area",
+     "desc": "Open-door weekends in spring and autumn when dozens of Parmigiano Reggiano dairies welcome visitors without booking, with tastings, farm lunches and demonstrations. Check the consortium site for the next dates.",
+     "meta": "Spring and autumn",
+     "region": "emilia-romagna",
+     "url": "https://www.parmigianoreggiano.com/",
+     "url_label": "Parmigiano Reggiano consortium"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Fresh cheeses like mozzarella and burrata are meant to be eaten the same day; buy them where they're made rather than flying them home.",
+  "Vacuum-packed hard cheeses travel well. Most dairies will vacuum-seal a wedge for you.",
+  "DOP (Denominazione di Origine Protetta) guarantees that a cheese was made in its home area to a strict recipe; look for the red and yellow seal.",
+  "In a cheese shop, ask for 'un assaggio' (a taste) and the age ('quanti mesi?'). Aged and fresh versions of the same cheese can taste like different foods.",
+  "Many Italians pair cheese with honey, mostarda or jam rather than with crackers."
+ ],
+ "links": [
+  {
+   "label": "Vivi Parmigiano Reggiano",
+   "url": "https://www.parmigianoreggiano.com/dairies-viviparmigianoreggiano",
+   "desc": "Dairy visits and tastings bookable through the consortium"
+  },
+  {
+   "label": "Cheese by Slow Food",
+   "url": "https://cheese.slowfood.it/en/",
+   "desc": "The biennial raw-milk cheese festival in Bra"
+  },
+  {
+   "label": "Consorzio Tutela Mozzarella di Bufala Campana",
+   "url": "https://www.mozzarelladop.it/",
+   "desc": "Production area, member dairies and how to recognise the real thing"
+  },
+  {
+   "label": "Fontina DOP: the alpeggi",
+   "url": "https://www.fontina-dop.it/mappa-alpeggi/",
+   "desc": "Map of the Valle d'Aosta summer pastures where Fontina d'Alpeggio is made"
+  },
+  {
+   "label": "Musei del Cibo",
+   "url": "https://www.museidelcibo.it/",
+   "desc": "Parma's food museums, including Parmigiano Reggiano in Soragna"
+  },
+  {
+   "label": "Consorzio Tutela Provolone Valpadana",
+   "url": "https://www.provolonevalpadana.it/",
+   "desc": "The Po valley's stretched-curd cheese, dolce and piccante"
+  }
+ ]
+}

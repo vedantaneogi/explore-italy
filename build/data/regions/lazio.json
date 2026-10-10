@@ -1,0 +1,321 @@
+{
+ "slug": "lazio",
+ "name": "Lazio",
+ "italian_name": "Lazio",
+ "area": "central",
+ "capital": "Rome",
+ "tagline": "Rome, of course, plus volcanic lakes, Etruscan tombs and a coast of grottoes.",
+ "intro": [
+  "Lazio is Rome's region, and the capital takes most of the oxygen: nearly three thousand years stacked in layers, from the Forum and the Pantheon to baroque piazzas and the ivy-hung lanes of Trastevere. Step beyond the ring road, though, and the countryside opens fast. To the north lies the Tuscia, a land of Etruscan necropolises, volcanic lakes like Bolsena and Bracciano, and tufa towns such as Civita di Bagnoregio balanced on crumbling pinnacles.",
+  "East are the Sabine hills and the Simbruini mountains, where Benedictine monasteries cling to the cliffs above Subiaco; south-east, the Castelli Romani, where Romans drive out for porchetta and a jug of Frascati. Further south the coast runs past Sperlonga's white village and Gaeta's fortress to the Pontine islands. Romans have been escaping to all of these for two thousand years, and most are still a regional train ride away."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Civita_%28Bagnoregio%29_-_Panorama.jpg/1280px-Civita_%28Bagnoregio%29_-_Panorama.jpg",
+  "alt": "Civita di Bagnoregio perched on its eroded clay pinnacle above the Calanchi valley",
+  "credit": "Orlando Paride, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ACivita_%28Bagnoregio%29_-_Panorama.jpg"
+ },
+ "known_for": [
+  "Ancient Rome",
+  "Vatican City",
+  "Cucina romana",
+  "Etruscan Tuscia",
+  "Castelli Romani wine",
+  "Villa d'Este fountains",
+  "Pontine Islands"
+ ],
+ "best_time": "April to June and September to October are warm, bright and good for walking. Rome in August is hot and half-shuttered while Romans head for the coast; winter is mild, quiet in the museums and the heart of Roman artichoke season, roughly February to April.",
+ "getting_there": "Rome Fiumicino is Italy's biggest airport, with Ciampino for low-cost flights. Roma Termini is the hub for fast trains to Florence and Naples, and regional lines reach Tivoli, Viterbo, the Castelli Romani and the coast. Ferries to Ponza leave from Formia, Terracina and Anzio; for the Tuscia and the mountains a car makes life easier.",
+ "places": [
+  {
+   "name": "Rome",
+   "desc": "Three millennia in one city. Do the Colosseum and Roman Forum early, before the heat, then drift to the Pantheon, Piazza Navona and Campo de' Fiori, and end with an aperitivo in Trastevere or Monti. Book the Vatican Museums and the Borghese Gallery in advance, and leave time for the Aventine, Testaccio and the Jewish Ghetto.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vatican_Sunrise_-_Flickr_-_radkuch.13.jpg/1280px-Vatican_Sunrise_-_Flickr_-_radkuch.13.jpg",
+    "alt": "Saint Peter's Square and the rooftops of Rome at sunrise, seen from the dome of Saint Peter's",
+    "credit": "Radek Kucharski, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVatican_Sunrise_-_Flickr_-_radkuch.13.jpg"
+   }
+  },
+  {
+   "name": "Tivoli",
+   "desc": "Under an hour from Rome, Tivoli has two UNESCO-listed villas: Hadrian's vast 2nd-century retreat on the plain, all pools, colonnades and ruined baths, and the Renaissance Villa d'Este in town, where hundreds of jets and fountains cascade down terraced gardens. Add the waterfalls and gorge of Villa Gregoriana if you have energy left.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tivoli%2C_Villa_d%27Este%2C_Fontana_dell%27Ovato.jpg/1280px-Tivoli%2C_Villa_d%27Este%2C_Fontana_dell%27Ovato.jpg",
+    "alt": "The cascading Fontana dell'Ovato in the gardens of Villa d'Este at Tivoli",
+    "credit": "Dnalor 01, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATivoli%2C_Villa_d%27Este%2C_Fontana_dell%27Ovato.jpg"
+   }
+  },
+  {
+   "name": "Civita di Bagnoregio",
+   "desc": "Nicknamed 'the dying town' because the clay ridge beneath it keeps eroding, Civita sits alone above the badlands of the Calanchi valley, reached only by a long, steep footbridge. Inside: a handful of residents, a Romanesque church, cats on the steps and a view that is best at sunset, after the day visitors have gone.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Civita_di_bagnoregio.jpg/1280px-Civita_di_bagnoregio.jpg",
+    "alt": "Ivy-covered stone houses and an outside staircase in a lane of Civita di Bagnoregio",
+    "credit": "Unknown author, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACivita_di_bagnoregio.jpg"
+   }
+  },
+  {
+   "name": "Viterbo",
+   "desc": "The 13th-century city of the popes, where the longest conclave in history dragged on for almost three years. See the Palazzo dei Papi, wander the intact medieval quarter of San Pellegrino, then soak in the free Bullicame hot pools just outside town. Come on 3 September for the Macchina di Santa Rosa.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Palazzo_dei_Papi_%28Viterbo%29_2022.jpg/1280px-Palazzo_dei_Papi_%28Viterbo%29_2022.jpg",
+    "alt": "The medieval Palazzo dei Papi and cathedral of Viterbo above green trees",
+    "credit": "NikonZ7II, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APalazzo_dei_Papi_%28Viterbo%29_2022.jpg"
+   }
+  },
+  {
+   "name": "Sperlonga",
+   "desc": "A whitewashed village on a rocky spur between two long sandy beaches on the Riviera di Ulisse. Below it lies the seaside cave of Emperor Tiberius, whose colossal marble groups of Odysseus's adventures are displayed in the archaeological museum next door. Swim, then climb the lanes for dinner with a sea view.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Villa_of_Tiberius%2C_Sperlonga_%2815134745496%29.jpg/1280px-Villa_of_Tiberius%2C_Sperlonga_%2815134745496%29.jpg",
+    "alt": "View from inside the Cave of Tiberius at Sperlonga towards the sea and the white village",
+    "credit": "Carole Raddato, CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVilla_of_Tiberius%2C_Sperlonga_%2815134745496%29.jpg"
+   }
+  },
+  {
+   "name": "Ostia Antica",
+   "desc": "Rome's ancient port, now a ruined city shaded by umbrella pines, about 35 minutes by train from the Piramide station. Walk streets of warehouses, bakeries and multi-storey apartment blocks, see the mosaic floors of the merchants' offices behind the theatre, and climb to a rooftop for a view of the whole site.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theater_%28Ostia_Antica%29.jpg/1280px-Theater_%28Ostia_Antica%29.jpg",
+    "alt": "The Roman theatre of Ostia Antica under umbrella pines",
+    "credit": "Rabax63, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATheater_%28Ostia_Antica%29.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Eat your way through Testaccio",
+   "desc": "The old slaughterhouse district is the heartland of cucina romana. Graze the stalls of the Mercato di Testaccio at lunchtime, then book a table at Checchino dal 1887 for coda alla vaccinara."
+  },
+  {
+   "title": "Cycle the Appian Way",
+   "desc": "Rent a bike near Porta San Sebastiano and ride the ancient basalt road past tombs, catacombs and aqueduct arches in the Appia Antica park. Go on a Sunday, when much of it closes to cars."
+  },
+  {
+   "title": "Swim in Lake Bolsena",
+   "desc": "Europe's largest volcanic lake has clean water, dark-sand beaches and a castle-topped town on its shore. Take a boat out to Isola Bisentina, then eat lake fish such as coregone at a lakeside trattoria."
+  },
+  {
+   "title": "Descend into the painted tombs of Tarquinia",
+   "desc": "In the UNESCO-listed Monterozzi necropolis, steps lead down into Etruscan burial chambers painted some 2,500 years ago with banquets, dancers, musicians and wrestlers, the colours still startlingly fresh."
+  },
+  {
+   "title": "Drink at a fraschetta in the Castelli Romani",
+   "desc": "In Ariccia and Frascati, rustic fraschette serve porchetta, cheeses, olives and local white wine at long wooden tables. Arrive hungry and order by pointing at what is on the counter."
+  },
+  {
+   "title": "Catch sunset from the Gianicolo",
+   "desc": "Climb the Janiculum from Trastevere for Rome's best free panorama of domes and bell towers. At midday a cannon fires from below the Garibaldi monument, as it has done since the 19th century."
+  },
+  {
+   "title": "Visit Villa Farnese at Caprarola",
+   "desc": "Vignola's five-sided palace in the Tuscia, with a spiral staircase of paired columns, rooms frescoed with maps and grand terraced gardens. Pair it with a swim in nearby Lake Vico."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Spaghetti alla carbonara",
+   "type": "dish",
+   "desc": "Guanciale, egg yolks, Pecorino Romano and black pepper, emulsified with pasta water into a glossy sauce. No cream, no garlic, and Romans will tell you so."
+  },
+  {
+   "name": "Cacio e pepe",
+   "type": "dish",
+   "desc": "Just Pecorino Romano, black pepper and starchy pasta water, whisked into a creamy sauce for tonnarelli. Simple on paper, notoriously hard to get right."
+  },
+  {
+   "name": "Bucatini all'amatriciana",
+   "type": "dish",
+   "desc": "Named after Amatrice in the mountains of Rieti province: guanciale, tomato, chilli and Pecorino, served on thick, hollow bucatini."
+  },
+  {
+   "name": "Carciofi alla giudia",
+   "type": "dish",
+   "desc": "A Roman-Jewish classic from the Ghetto: whole artichokes flattened and fried twice until the leaves open like a crisp bronze flower. Best from February to April."
+  },
+  {
+   "name": "Supplì",
+   "type": "dish",
+   "desc": "Fried rice croquettes made with tomato ragù and a heart of mozzarella that stretches like a telephone cord when you bite, hence 'supplì al telefono'."
+  },
+  {
+   "name": "Porchetta di Ariccia IGP",
+   "type": "dish",
+   "desc": "Whole pig, boned, seasoned with rosemary, garlic and pepper and slow-roasted until the skin crackles; sliced into rolls at the stalls of Ariccia."
+  },
+  {
+   "name": "Pecorino Romano DOP",
+   "type": "cheese",
+   "desc": "Hard, salty sheep's cheese that has been made since Roman times; the backbone of carbonara and cacio e pepe. Much of it is now made in Sardinia."
+  },
+  {
+   "name": "Frascati",
+   "type": "wine",
+   "desc": "Light, dry white from the volcanic Castelli Romani hills, mostly Malvasia and Trebbiano. Drink it young and cold with porchetta."
+  },
+  {
+   "name": "Cesanese del Piglio DOCG",
+   "type": "wine",
+   "desc": "Lazio's best-known red, from the Ciociaria hills south-east of Rome: juicy, spicy and perfect with abbacchio, roast milk-fed lamb."
+  },
+  {
+   "name": "Maritozzo con la panna",
+   "type": "sweet",
+   "desc": "A soft, sweet brioche bun split and stuffed with a cloud of whipped cream; the classic Roman breakfast, eaten at the bar with a cappuccino."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Checchino dal 1887",
+   "city": "Rome",
+   "since": "1887",
+   "desc": "Facing the old slaughterhouse in Testaccio, run by the same family for six generations; this is where coda alla vaccinara, the oxtail stew, is said to have been born. Also try rigatoni con la pajata. Cellars dug into Monte Testaccio.",
+   "url": "https://checchinodal1887.com/"
+  },
+  {
+   "name": "La Matriciana",
+   "city": "Rome",
+   "since": "1870",
+   "desc": "Opened the year Rome became Italy's capital, opposite what is now the Teatro dell'Opera, it fed singers from Maria Callas to Mario Del Monaco after the show. Order the bucatini all'amatriciana.",
+   "url": "https://www.lamatriciana.it/"
+  },
+  {
+   "name": "Babington's Tea Rooms",
+   "city": "Rome",
+   "since": "1893",
+   "desc": "Founded by two young Englishwomen for Rome's British community and at the foot of the Spanish Steps since 1896. Scones, tea blends and a very English calm above the Piazza di Spagna crowds.",
+   "url": "https://babingtons.com/"
+  },
+  {
+   "name": "Antica Pesa",
+   "city": "Rome",
+   "since": "1922",
+   "desc": "A Trastevere institution on Via Garibaldi, run by the Panella family for about a century, serving refined versions of Roman classics with a cellar of more than a thousand labels. Dinner only.",
+   "url": "https://www.anticapesa.it/"
+  },
+  {
+   "name": "Armando al Pantheon",
+   "city": "Rome",
+   "since": "1961",
+   "desc": "A small, wood-panelled family trattoria a few steps from the Pantheon, now run by Armando Gargioli's children and grandchildren. Book well ahead for cacio e pepe, abbacchio and the house wine list.",
+   "url": "https://armandoalpantheon.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Family B&B in a Roman neighbourhood",
+   "desc": "Skip the centro storico and book a small family-run B&B in residential Prati, Monti or Testaccio. You'll have a local bar for breakfast, a market around the corner and the metro or a tram to the sights."
+  },
+  {
+   "title": "Olive farm in the Sabina",
+   "desc": "The Sabine hills north-east of Rome are one of Italy's oldest olive-growing areas, home to an ancient olive tree at Canneto said to be some two thousand years old. Farm stays here press their own Sabina DOP oil each November."
+  },
+  {
+   "title": "Agriturismo by Lake Bolsena",
+   "desc": "Farm stays on the slopes around Bolsena and Montefiascone grow vines, olives and vegetables and cook with them at dinner. Days split easily between the lake beaches, Civita di Bagnoregio and Orvieto."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Rome",
+   "to": "Tivoli",
+   "how": "About 1h by regional train or Cotral bus",
+   "desc": "Villa d'Este's fountains in the morning, lunch in town, then Hadrian's Villa by taxi or bus in the softer afternoon light."
+  },
+  {
+   "from": "Rome",
+   "to": "Ostia Antica",
+   "how": "About 35 min by train from Piramide",
+   "desc": "Half a day in the ruins of Rome's ancient port, then carry on two stops to the beach at Ostia for a swim and seafood."
+  },
+  {
+   "from": "Rome",
+   "to": "Frascati and the Castelli Romani",
+   "how": "About 30 min by train from Termini",
+   "desc": "Villa Aldobrandini's terraces, a fraschetta lunch with porchetta and Frascati wine, and a bus on to Ariccia and Lake Albano."
+  },
+  {
+   "from": "Rome",
+   "to": "Orvieto",
+   "how": "About 1h15 by train",
+   "desc": "Just over the border in Umbria: the funicular up from the station, the gold-mosaic cathedral and a glass of Orvieto Classico."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Giardino di Ninfa",
+   "desc": "A romantic garden planted among the ruins of a medieval town abandoned in the 14th century, near Cisterna di Latina. Roses climb broken church walls and a crystal-clear river runs through it. It opens only on set days from spring to autumn, so book ahead.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Giardino_di_Ninfa_85.jpg/1280px-Giardino_di_Ninfa_85.jpg",
+    "alt": "Clear river, willows and flowering shrubs in the Garden of Ninfa",
+    "credit": "Mentnafunangann, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGiardino_di_Ninfa_85.jpg"
+   }
+  },
+  {
+   "name": "Sacro Bosco di Bomarzo",
+   "desc": "In the 16th century Prince Vicino Orsini filled a wooded valley with giant stone monsters: an ogre's mouth you can walk into, a tilted house, an elephant crushing a soldier. Salvador Dalí was a fan. It's eerie and wonderful early in the morning.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monster_in_Parco_dei_Mostri_%28Bomarzo%29.jpg/1280px-Monster_in_Parco_dei_Mostri_%28Bomarzo%29.jpg",
+    "alt": "The giant gaping stone mouth of the Orco in the Sacro Bosco at Bomarzo",
+    "credit": "Livioandronico2013, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMonster_in_Parco_dei_Mostri_%28Bomarzo%29.jpg"
+   }
+  },
+  {
+   "name": "Subiaco",
+   "desc": "In the Aniene valley, where young Saint Benedict lived in a cave before founding his order. The monastery of San Benedetto clings to the cliff, its rooms covered in medieval frescoes, including a portrait of Saint Francis said to be painted in his lifetime.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Subiaco_01.jpg/1280px-Subiaco_01.jpg",
+    "alt": "The hill town of Subiaco climbing to its fortress",
+    "credit": "Pippo-b, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASubiaco_01.jpg"
+   }
+  },
+  {
+   "name": "Ponza",
+   "desc": "The largest of the Pontine islands, a crescent of volcanic cliffs and turquoise coves about 80 minutes by hydrofoil from Formia. Rent a small boat to circle the island, admire Chiaia di Luna from the water and swim into the Grotte di Pilato, Roman fish ponds cut into the rock.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ponza_cala_feola3.JPG/1280px-Ponza_cala_feola3.JPG",
+    "alt": "Boats moored in a bay below the white cliffs of Ponza",
+    "credit": "Bouncey2k, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APonza_cala_feola3.JPG"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Natale di Roma",
+   "when": "Around 21 April",
+   "where": "Rome",
+   "desc": "Rome celebrates its legendary founding in 753 BC with historical groups parading in togas and legionary armour from the Circus Maximus, plus re-enactments and talks."
+  },
+  {
+   "name": "Infiorata di Genzano",
+   "when": "June, around Corpus Domini",
+   "where": "Genzano di Roma",
+   "desc": "Since 1778 the town's steep main street has been carpeted with pictures made entirely of flower petals, then trampled by the Corpus Domini procession and children on the last evening.",
+   "url": "https://www.infioratadigenzano.it/"
+  },
+  {
+   "name": "Macchina di Santa Rosa",
+   "when": "3 September",
+   "where": "Viterbo",
+   "desc": "About a hundred porters, the facchini, carry a lit tower some 30 metres tall through the dark streets of the city in honour of the patron saint. Recognised by UNESCO."
+  },
+  {
+   "name": "Sagra dell'Uva",
+   "when": "First Sunday of October",
+   "where": "Marino",
+   "desc": "The oldest grape festival in Italy, with costumed parades, and the moment everyone waits for: the town's fountains run with white wine."
+  }
+ ],
+ "culture": "Romanesco, the earthy dialect of Giuseppe Gioachino Belli's sonnets and Trilussa's satirical verse, is still the city's voice, loud in markets and football stands. In Trastevere osterie you may hear stornelli, cheeky improvised songs to a guitar; in the Ciociaria hills, the saltarello is danced to organetto and ciaramella. Christmas brings zampognari, bagpipers from the mountains. Crafts survive in Rome's workshop streets around Via dei Coronari and Via del Pellegrino, and in Civita Castellana's ceramics.",
+ "official_site": "https://www.visitlazio.com/en/"
+}

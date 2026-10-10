@@ -1,0 +1,403 @@
+{
+ "slug": "plan-essentials",
+ "section": "plan",
+ "title": "Essentials",
+ "headline": "Everything to sort before you land",
+ "tagline": "Entry rules, money, city fees, driving zones, health, plugs and phrases: the practical basics for Italy, updated for autumn 2026.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Piazza_Navona_0956_2013.jpg/1280px-Piazza_Navona_0956_2013.jpg",
+  "alt": "Bernini's Fountain of the Four Rivers in Piazza Navona, Rome",
+  "credit": "Bengt Nyman, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APiazza_Navona_0956_2013.jpg"
+ },
+ "intro": [
+  "Italy is an easy country to travel in, but a few rules catch people out: new digital border checks, city access fees, tourist taxes and the camera-controlled traffic zones that send fines home months after your trip. This page gathers the things worth knowing before you go, in plain language, from what to expect at passport control to how much to tip, which plug adapter to pack and how to ask for the bill.",
+  "Rules change, especially around borders and city fees, so we have linked to the official source for each. Everything here was checked in October 2026. The biggest open question is ETIAS, the EU's online travel authorisation, which has been delayed again and has no confirmed start date. If your trip is months away, look again at the official pages a few weeks before you fly."
+ ],
+ "sections": [
+  {
+   "heading": "Entry rules",
+   "intro": "Italy is part of the Schengen area, so the same entry rules apply as in most of the EU.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Schengen and the 90/180 rule",
+     "subtitle": "Visa-free visitors",
+     "desc": "Citizens of countries such as the UK, US, Canada and Australia can stay up to 90 days in any rolling 180-day period across the whole Schengen area, without a visa. Days in France or Greece count too. Your passport should be valid for at least three months after you leave and issued within the last ten years. Everyone else should check the Italian Foreign Ministry's visa site.",
+     "url": "https://vistoperitalia.esteri.it/",
+     "url_label": "Do I need a visa?"
+    },
+    {
+     "title": "Entry/Exit System (EES)",
+     "subtitle": "Fully live since 10 April 2026",
+     "desc": "The EU's digital border system began on 12 October 2025 and has been running at every Schengen external border since 10 April 2026. Non-EU short-stay visitors now register fingerprints and a face photo the first time they enter, at a kiosk or a border booth, and passports are no longer stamped. Allow extra time for that first crossing; later trips are quicker. EU citizens and residence-permit holders are not affected.",
+     "url": "https://travel-europe.europa.eu/en/ees",
+     "url_label": "Official EES site"
+    },
+    {
+     "title": "ETIAS travel authorisation",
+     "subtitle": "Not yet required",
+     "desc": "ETIAS, the online pre-travel authorisation for visa-exempt visitors, is not operating yet and you cannot apply. The EU dropped its last-quarter-2026 target in mid-2026 and has said it will announce the start date several months in advance; 2027 now looks most likely. When it launches it is expected to cost €20, valid for three years, with under-18s and over-70s exempt. Ignore any site that offers to sell you one now.",
+     "url": "https://travel-europe.europa.eu/en/etias",
+     "url_label": "Official ETIAS site"
+    },
+    {
+     "title": "Count your days",
+     "subtitle": "Official short-stay calculator",
+     "desc": "If you are combining Italy with other European countries or making several trips a year, the European Commission's calculator shows how many of your 90 days are left. EES now counts them automatically at the border, so overstays are easy to spot.",
+     "url": "https://ec.europa.eu/assets/home/visa-calculator/calculator.htm",
+     "url_label": "Schengen calculator"
+    }
+   ]
+  },
+  {
+   "heading": "Money",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Euros, cards and cash",
+     "desc": "Italy uses the euro. Cards and phone payments are accepted almost everywhere, and businesses are legally required to take them, though small bars, market stalls, rifugi and village shops still prefer cash. Use bank ATMs (look for a bank name, not a standalone booth) and always choose to be charged in euros, not your home currency."
+    },
+    {
+     "title": "Coperto and servizio",
+     "desc": "Most restaurants add a coperto, a per-person cover charge of roughly €1.50 to €4 for bread and the table. It must be printed on the menu. Some places in tourist areas also add servizio, a service charge, which should be shown too."
+    },
+    {
+     "title": "Tipping",
+     "desc": "Tipping is not expected. Italians round up or leave a euro or two for good service at a trattoria, perhaps 5 to 10 percent for an exceptional meal. Leave coins on the bar for coffee if you like. Round up taxi fares."
+    },
+    {
+     "title": "Bar prices",
+     "desc": "Coffee and pastries cost less standing at the counter (al banco) than sitting at a table (al tavolo), sometimes by double or more in famous squares. The price list must be displayed."
+    },
+    {
+     "title": "Tax-free shopping",
+     "desc": "Visitors from outside the EU can reclaim VAT on purchases above about €70 in a single shop on one day. Ask for a tax-free form when you pay and get it validated at your last EU airport before you check your bags."
+    }
+   ]
+  },
+  {
+   "heading": "Tourist taxes and city fees",
+   "intro": "Expect small charges that fund the upkeep of Italy's most visited places. They are rarely included in online prices.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Tourist tax (imposta di soggiorno)",
+     "subtitle": "Charged per person, per night",
+     "desc": "Most Italian towns charge a nightly tax set by the local council, collected by your hotel, B&B, agriturismo or rental, often in cash. It is usually €1 to €5, rising with hotel stars, and reaches €10 or more in luxury hotels in Rome and Venice. Children are usually exempt and most cities cap the number of nights charged."
+    },
+    {
+     "title": "Venice access fee",
+     "subtitle": "Day-trippers only, on peak days",
+     "desc": "In 2026, day visitors aged 14 and over paid €5 to enter Venice's historic centre between 8:30 and 16:00 on 60 peak days from 3 April to 26 July, rising to €10 if booked in the last three days. Overnight guests in the city do not pay but must still register for a free exemption QR code; residents of the Veneto region are also exempt. The 2026 season is over, and the city is debating higher, possibly demand-based prices for 2027. Check the official portal before you plan a day trip.",
+     "url": "https://www.cda.ve.it/en/",
+     "url_label": "Venice access fee portal"
+    },
+    {
+     "title": "Venice group and visitor rules",
+     "desc": "Guided groups in Venice's historic centre and on the islands are capped at 25 people and loudspeakers are banned. Picnicking on bridges and monument steps can earn a fine."
+    },
+    {
+     "title": "Rome: Trevi Fountain and Pantheon",
+     "desc": "Since February 2026, getting down to the edge of the Trevi Fountain basin costs €2; looking from the square above is still free. Entry to the Pantheon rose from €5 to €7 on 1 July 2026. Go early in the morning or late in the evening to skip the queues.",
+     "url": "https://www.turismoroma.it/en",
+     "url_label": "Rome tourism"
+    },
+    {
+     "title": "Cinque Terre trails",
+     "desc": "The coastal Sentiero Azzurro paths between the five villages require a Cinque Terre Card in season (roughly mid-March to early November), with higher prices on peak days. Buy online or at village information points and La Spezia station.",
+     "url": "https://card.parconazionale5terre.it/",
+     "url_label": "Cinque Terre Card"
+    }
+   ]
+  },
+  {
+   "heading": "Driving and ZTL zones",
+   "layout": "list",
+   "items": [
+    {
+     "title": "ZTL: limited traffic zones",
+     "desc": "Almost every historic centre, from Florence and Rome to small hill towns, is a ZTL (zona a traffico limitato) where only permitted cars may enter. Cameras read your plate at each entrance marked 'varco attivo'. Each entry can bring a fine of around €80 to €335, sent months later via your car-hire company with an admin fee on top. If your hotel is inside a ZTL, ask it to register your plate before you arrive."
+    },
+    {
+     "title": "Licences",
+     "desc": "Non-EU drivers should carry an International Driving Permit alongside their licence; car-hire firms and police can ask for it. Drivers who have held their licence for under three years have a zero alcohol limit; for everyone else it is 0.5 g/l."
+    },
+    {
+     "title": "Phones and speed",
+     "desc": "Since the highway code reform of December 2024, holding a phone while driving can mean a fine of €250 to €1,000 and an immediate licence suspension, for visitors too. Speed cameras are common; limits are usually 130 km/h on motorways, 90 on main roads and 50 in towns."
+    }
+   ]
+  },
+  {
+   "heading": "Safety",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Emergencies: call 112",
+     "desc": "112 is the European emergency number and works free from any phone. In most regions it now connects to a single call centre with interpreters; elsewhere it still reaches the police. The older numbers also work: 113 police, 118 ambulance, 115 fire brigade, 1530 coastguard."
+    },
+    {
+     "title": "Pickpockets and scams",
+     "desc": "Italy is a safe country, but pickpockets work crowded buses, metros and stations in Rome, Naples, Florence, Milan and Venice. Keep your phone out of back pockets and bags zipped. Decline friendship bracelets, petition clipboards and roses pressed into your hand, and take only official white taxis with a meter or a posted fixed fare."
+    },
+    {
+     "title": "Weather alerts",
+     "desc": "During orange or red weather warnings (allerta arancione or rossa), coastal paths, mountain trails and parks can close at short notice. Heatwaves in July and August regularly reach 38°C or more; plan sightseeing for mornings and evenings.",
+     "url": "https://www.protezionecivile.gov.it/en/",
+     "url_label": "Civil Protection"
+    },
+    {
+     "title": "Official travel advice",
+     "desc": "Italy's Foreign Ministry runs Viaggiare Sicuri for Italians abroad; for advice about Italy itself, check your own government's travel advisory before you go."
+    }
+   ]
+  },
+  {
+   "heading": "Health",
+   "layout": "list",
+   "items": [
+    {
+     "title": "EHIC and GHIC",
+     "desc": "EU, EEA and Swiss residents should carry a European Health Insurance Card, and UK residents a GHIC, for state healthcare on the same terms as Italians. Everyone else, and everyone for mountain rescue and repatriation, needs travel insurance with medical cover.",
+     "url": "https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/european-health-insurance-card_en",
+     "url_label": "About the EHIC"
+    },
+    {
+     "title": "Pharmacies",
+     "desc": "Look for the green cross. Pharmacists give good advice for minor complaints, and every town has a farmacia di turno open at night and on Sundays, posted on every pharmacy door."
+    },
+    {
+     "title": "Hospitals and doctors",
+     "desc": "Emergency departments (pronto soccorso) treat everyone. Many resort areas open a summer guardia medica turistica, a walk-in clinic for visitors with a small fee."
+    },
+    {
+     "title": "Water",
+     "desc": "Tap water is safe to drink, and Rome's street fountains (nasoni) run with cold, clean water. Bring a refillable bottle."
+    }
+   ]
+  },
+  {
+   "heading": "Power, phones and Wi-Fi",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Plugs and voltage",
+     "desc": "Italy runs on 230V, 50Hz. Sockets take type C (two round pins), F (Schuko) and L (three round pins in a row, in small and large sizes). A standard European two-pin adapter works almost everywhere; many sockets accept several types."
+    },
+    {
+     "title": "Mobile data and eSIMs",
+     "desc": "EU phone plans roam at no extra cost. Others can buy a travel eSIM before they leave (data only, no Italian number) or a tourist SIM from TIM, Vodafone or WindTre in store with a passport. Most other Italian networks require an Italian tax code."
+    },
+    {
+     "title": "Wi-Fi",
+     "desc": "Hotels, B&Bs, cafés and many trains offer free Wi-Fi, but it can be slow in old buildings and rural areas. Download offline maps for mountain and countryside driving."
+    }
+   ]
+  },
+  {
+   "heading": "Accessibility",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Old towns, cobbles and steps",
+     "desc": "Italy's historic centres are beautiful but hilly, cobbled and full of steps, and many small hotels have no lift. Ask for photos of the entrance and bathroom before booking."
+    },
+    {
+     "title": "Trains",
+     "desc": "RFI's Sala Blu service provides free assistance boarding and leaving trains at hundreds of stations. Book at least 12 hours ahead online, in the Sala Blu+ app, or on 800 90 60 60 (free from Italian landlines) or 02 32 32 32.",
+     "url": "https://www.rfi.it/it/stazioni/pagine-stazioni/accessibilita/le-informazioni-sull-assistenza-delle-sale-blu-in-un-click.html",
+     "url_label": "Sala Blu assistance"
+    },
+    {
+     "title": "Museums and sights",
+     "desc": "State museums and archaeological sites are free for disabled visitors and a companion. The big sites, from the Colosseum to the Uffizi, have step-free routes; check each site's accessibility page before you go."
+    }
+   ]
+  },
+  {
+   "heading": "Travel lighter",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Take the train",
+     "desc": "Italy's fast trains link most big cities in a few hours, centre to centre, with a fraction of a flight's emissions."
+    },
+    {
+     "title": "Go off-season and stay longer",
+     "desc": "Visiting in spring, autumn or winter, and spending more nights in fewer places, eases pressure on crowded towns and puts your money into local economies year-round."
+    },
+    {
+     "title": "Leave the beaches as you found them",
+     "desc": "Taking sand, shells or pebbles from Sardinia's beaches is illegal and fined. Some beaches, such as La Pelosa and Cala Goloritzé, cap daily numbers and require booking."
+    },
+    {
+     "title": "Eat local and seasonal",
+     "desc": "Look for km 0 (local produce), Slow Food snail stickers and farmers' markets. You will eat better, too."
+    }
+   ]
+  },
+  {
+   "heading": "Useful Italian phrases",
+   "intro": "A little Italian goes a long way, especially outside the big cities.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Buongiorno / Buonasera",
+     "subtitle": "Good morning / Good evening",
+     "desc": "The everyday greeting. Switch to buonasera from late afternoon.",
+     "meta": "bwon-JOR-no / bwo-na-SAY-ra"
+    },
+    {
+     "title": "Per favore / Grazie",
+     "subtitle": "Please / Thank you",
+     "desc": "Grazie mille for many thanks.",
+     "meta": "pair fa-VO-ray / GRAHT-see-ay"
+    },
+    {
+     "title": "Prego",
+     "subtitle": "You're welcome; go ahead; how can I help?",
+     "desc": "You will hear it constantly, in all three senses.",
+     "meta": "PRAY-go"
+    },
+    {
+     "title": "Scusi / Permesso",
+     "subtitle": "Excuse me / Coming through",
+     "desc": "Scusi to get attention or apologise; permesso to squeeze past on a bus or enter a home.",
+     "meta": "SKOO-zee / pair-MESS-o"
+    },
+    {
+     "title": "Parla inglese?",
+     "subtitle": "Do you speak English?",
+     "desc": "Ask politely first rather than starting in English.",
+     "meta": "PAR-la in-GLAY-zay"
+    },
+    {
+     "title": "Non capisco",
+     "subtitle": "I don't understand",
+     "desc": "Add più piano, per favore: more slowly, please.",
+     "meta": "non ka-PEE-sko"
+    },
+    {
+     "title": "Quanto costa?",
+     "subtitle": "How much is it?",
+     "desc": "Useful at markets and bars.",
+     "meta": "KWAN-to KOS-ta"
+    },
+    {
+     "title": "Il conto, per favore",
+     "subtitle": "The bill, please",
+     "desc": "It will not arrive until you ask.",
+     "meta": "eel KON-to"
+    },
+    {
+     "title": "Un tavolo per due",
+     "subtitle": "A table for two",
+     "desc": "Swap due for tre, quattro and so on.",
+     "meta": "oon TA-vo-lo pair DOO-ay"
+    },
+    {
+     "title": "Sono allergico / allergica a…",
+     "subtitle": "I'm allergic to…",
+     "desc": "Senza glutine means gluten-free; Italy is very well informed about coeliac disease.",
+     "meta": "SO-no al-LAIR-jee-ko"
+    },
+    {
+     "title": "Dov'è il bagno?",
+     "subtitle": "Where is the toilet?",
+     "desc": "In bars, toilets are for customers, so order a coffee first.",
+     "meta": "do-VAY eel BAN-yo"
+    },
+    {
+     "title": "Un biglietto per…, andata e ritorno",
+     "subtitle": "A ticket to…, return",
+     "desc": "Solo andata is one-way. Binario means platform.",
+     "meta": "bee-LYET-to"
+    },
+    {
+     "title": "Posso pagare con la carta?",
+     "subtitle": "Can I pay by card?",
+     "desc": "The answer should be yes, but it is polite to ask in small places.",
+     "meta": "POS-so pa-GA-ray"
+    },
+    {
+     "title": "Aiuto!",
+     "subtitle": "Help!",
+     "desc": "Then call 112.",
+     "meta": "ah-YOO-to"
+    },
+    {
+     "title": "Buon appetito / Salute!",
+     "subtitle": "Enjoy your meal / Cheers!",
+     "desc": "Cin cin is the clink-glasses version of cheers.",
+     "meta": "bwon ap-pe-TEE-to / sa-LOO-tay"
+    },
+    {
+     "title": "Arrivederci",
+     "subtitle": "Goodbye",
+     "desc": "Say it when leaving any shop or bar; ciao is for friends.",
+     "meta": "ar-ree-ve-DAIR-chee"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Carry your passport or ID card: hotels must register it, and you may need it to buy a SIM card or a museum ticket in your name.",
+  "Most state museums are closed on Mondays, and many offer free entry on the first Sunday of the month (expect crowds).",
+  "Book the Last Supper, Galleria Borghese, Vatican Museums and Uffizi weeks ahead, and only through the official sites.",
+  "Validate paper regional train and bus tickets before you board; inspectors fine on the spot.",
+  "Keep a little cash for coffee, markets, tourist tax and village bars."
+ ],
+ "links": [
+  {
+   "label": "Italia.it",
+   "url": "https://www.italia.it/en",
+   "desc": "Italy's official tourism portal"
+  },
+  {
+   "label": "Visa for Italy (Ministry of Foreign Affairs)",
+   "url": "https://vistoperitalia.esteri.it/",
+   "desc": "Check whether you need a visa and which type"
+  },
+  {
+   "label": "Polizia di Stato",
+   "url": "https://www.poliziadistato.it/",
+   "desc": "Italian State Police: border, passport and immigration information"
+  },
+  {
+   "label": "EU Entry/Exit System",
+   "url": "https://travel-europe.europa.eu/en/ees",
+   "desc": "Official EU guide to the new biometric border checks"
+  },
+  {
+   "label": "ETIAS (official EU site)",
+   "url": "https://travel-europe.europa.eu/en/etias",
+   "desc": "The only official source for ETIAS news and, eventually, applications"
+  },
+  {
+   "label": "Venice access fee",
+   "url": "https://www.cda.ve.it/en/",
+   "desc": "Official portal for the day-tripper fee, calendar and exemptions"
+  },
+  {
+   "label": "Comune di Venezia",
+   "url": "https://www.comune.venezia.it/en",
+   "desc": "City of Venice news, rules and services"
+  },
+  {
+   "label": "Ministero della Salute",
+   "url": "https://www.salute.gov.it/",
+   "desc": "Italian Ministry of Health"
+  },
+  {
+   "label": "Viaggiare Sicuri",
+   "url": "https://www.viaggiaresicuri.it/",
+   "desc": "Italian Foreign Ministry travel safety portal (in Italian)"
+  },
+  {
+   "label": "UK GHIC",
+   "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/",
+   "desc": "Apply for the UK Global Health Insurance Card"
+  }
+ ]
+}

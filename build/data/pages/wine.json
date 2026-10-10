@@ -1,0 +1,362 @@
+{
+ "slug": "wine",
+ "section": "taste",
+ "title": "Wine",
+ "headline": "A country you can taste glass by glass",
+ "tagline": "From Nebbiolo in the Langhe fog to Nerello on Etna's black slopes: the bottles worth knowing, how to visit the cellars, and the roads that link them.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Piemonte%2C_Italy_%285885193979%29.jpg/1280px-Piemonte%2C_Italy_%285885193979%29.jpg",
+  "alt": "Rows of vines covering the rolling hills of the Langhe in Piedmont",
+  "credit": "Megan Cole from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APiemonte%2C_Italy_%285885193979%29.jpg"
+ },
+ "intro": [
+  "Every one of Italy's twenty regions makes wine, and almost every hillside seems to have its own grape. Italy grows hundreds of native varieties, many of them found nowhere else, and the country's DOC and DOCG labels track more than four hundred named wines. That sounds daunting until you realise the trick: drink what grows where you are standing. A Verdicchio by the Adriatic, a Cannonau with Sardinian lamb, a Barolo when the Langhe fog rolls in.",
+  "Below are the bottles that map the country, from the alpine north to the volcanic south. Then comes the practical part: how cellar visits work in Italy, when the wineries throw their doors open, and which wine roads make the best slow drives. Bring a designated driver, or better, a bicycle and a good appetite."
+ ],
+ "sections": [
+  {
+   "heading": "The bottles that map Italy",
+   "intro": "Fourteen wines and the places that make them, roughly north to south. Each consortium site lists member wineries you can visit.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Barolo and Barbaresco",
+     "subtitle": "Langhe, Piedmont, from Nebbiolo",
+     "desc": "Pale in the glass, enormous on the palate: tar, roses, cherries and firm tannins that soften over decades. Barolo needs at least 38 months of ageing, Barbaresco 26. The two villages sit a short drive apart in the UNESCO-listed Langhe hills, where autumn harvest coincides with the white truffle season in Alba.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nebbiolo_vineyard_in_Barolo.JPG/1280px-Nebbiolo_vineyard_in_Barolo.JPG",
+      "alt": "Nebbiolo vines on the slopes of Cannubi in Barolo",
+      "credit": "Lanthanum57, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANebbiolo_vineyard_in_Barolo.JPG"
+     },
+     "region": "piedmont",
+     "meta": "DOCG, harvest Oct",
+     "url": "https://www.langhevini.it/",
+     "url_label": "Langhe wine consortium"
+    },
+    {
+     "title": "Franciacorta",
+     "subtitle": "Lake Iseo, Lombardy",
+     "desc": "Italy's answer to Champagne, made by the traditional method with second fermentation in the bottle, from Chardonnay, Pinot Nero and a little Pinot Bianco. The rolling morainic hills south of Lake Iseo are lined with smart estates, many offering tastings with lake views. Try a Satèn, the softer, creamier style unique to the zone.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Franciacorta%2C_Vigneto_con_Santissima_di_Gussago.jpg/1280px-Franciacorta%2C_Vigneto_con_Santissima_di_Gussago.jpg",
+      "alt": "A Franciacorta vineyard below the hilltop Santissima of Gussago",
+      "credit": "Fabio Ingrosso from Italy, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFranciacorta%2C_Vigneto_con_Santissima_di_Gussago.jpg"
+     },
+     "region": "lombardy",
+     "meta": "DOCG sparkling",
+     "url": "https://franciacorta.wine/",
+     "url_label": "Franciacorta consortium"
+    },
+    {
+     "title": "Prosecco Superiore",
+     "subtitle": "Conegliano Valdobbiadene, Veneto",
+     "desc": "The true home of Prosecco is a ridge of steep 'hogback' hills between Conegliano and Valdobbiadene, worked by hand and listed by UNESCO in 2019. Look for 'Rive' (single-village) bottles and the Cartizze hill, and stop at an osteria senz'oste, an unstaffed hut where you pour and pay on trust.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pentagono_del_Cartizze_01.jpg/1280px-Pentagono_del_Cartizze_01.jpg",
+      "alt": "The steep vineyard hills of Cartizze in the Prosecco country of Valdobbiadene",
+      "credit": "Civvì, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APentagono_del_Cartizze_01.jpg"
+     },
+     "region": "veneto",
+     "meta": "UNESCO since 2019",
+     "url": "https://www.prosecco.it/",
+     "url_label": "Prosecco Superiore consortium"
+    },
+    {
+     "title": "Valpolicella and Amarone",
+     "subtitle": "Verona hills, Veneto",
+     "desc": "Corvina grapes are dried for months on racks or in lofts before pressing, which concentrates them into Amarone: dry, velvety, full of dried cherry and chocolate. Its sweet sibling is Recioto; the everyday wine is bright Valpolicella Classico, and Ripasso sits in between. Verona is twenty minutes away.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Grapes_growing_in_Valpolicella.jpg/1280px-Grapes_growing_in_Valpolicella.jpg",
+      "alt": "Bunches of dark Corvina grapes hanging on the vine in Valpolicella",
+      "credit": "Ilares Riolfi, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGrapes_growing_in_Valpolicella.jpg"
+     },
+     "region": "veneto",
+     "meta": "Grapes dried 3-4 months",
+     "url": "https://www.consorziovalpolicella.it/",
+     "url_label": "Valpolicella consortium"
+    },
+    {
+     "title": "Chianti Classico",
+     "subtitle": "Between Florence and Siena, Tuscany",
+     "desc": "The historic heart of Chianti, marked by a black rooster on the neck of every bottle. Sangiovese gives it sour cherry, violets and a savoury, food-friendly edge. Gran Selezione is the top tier. Drive the Chiantigiana road through Greve, Panzano, Radda and Castellina, stopping at castle wineries.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gaiole_in_Chianti_-_Castello_di_Brolio_-_2025-09-15_09-25-00_001.jpg/1280px-Gaiole_in_Chianti_-_Castello_di_Brolio_-_2025-09-15_09-25-00_001.jpg",
+      "alt": "The red-brick Castello di Brolio and its gardens in Chianti Classico",
+      "credit": "Argentieri.Andrea, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGaiole_in_Chianti_-_Castello_di_Brolio_-_2025-09-15_09-25-00_001.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Black rooster seal",
+     "url": "https://www.chianticlassico.com/",
+     "url_label": "Chianti Classico consortium"
+    },
+    {
+     "title": "Brunello di Montalcino",
+     "subtitle": "Montalcino, Tuscany",
+     "desc": "One hilltop town, one grape, Sangiovese, and a long wait: Brunello can't be released until the fifth year after harvest, the Riserva the sixth. Expect depth and serious structure. The wine bars inside Montalcino's fortress walls are the easiest place to compare producers; Rosso di Montalcino is the younger, cheaper taste.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Brunello_di_Montalcino_vines.jpg/1280px-Brunello_di_Montalcino_vines.jpg",
+      "alt": "Sangiovese vines below a line of cypresses in Montalcino",
+      "credit": "Giovanni, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABrunello_di_Montalcino_vines.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Released after 5 years",
+     "url": "https://www.consorziobrunellodimontalcino.it/",
+     "url_label": "Brunello consortium"
+    },
+    {
+     "title": "Vino Nobile di Montepulciano",
+     "subtitle": "Montepulciano, Tuscany",
+     "desc": "Made mostly from Sangiovese, called Prugnolo Gentile here, and aged in cellars cut into the tuff beneath the Renaissance streets of Montepulciano. Many are open for walk-in tastings. Not to be confused with Montepulciano d'Abruzzo, which is a grape, not a town.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Parco_di_villa_trecci%2C_veduta_su_montepulciano_01_vigneti.jpg/1280px-Parco_di_villa_trecci%2C_veduta_su_montepulciano_01_vigneti.jpg",
+      "alt": "Vineyards in the foreground with the hill town of Montepulciano on the horizon",
+      "credit": "Sailko, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AParco_di_villa_trecci%2C_veduta_su_montepulciano_01_vigneti.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Cellars under the town",
+     "url": "https://www.consorziovinonobile.it/",
+     "url_label": "Vino Nobile consortium"
+    },
+    {
+     "title": "Verdicchio",
+     "subtitle": "Castelli di Jesi and Matelica, Marche",
+     "desc": "Marche's great white: crisp, almond-scented and longer-lived than its price suggests. The Castelli di Jesi zone rolls towards the Adriatic, while Matelica sits in a cooler inland valley. Drink it with brodetto fish stew on the Conero coast.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Verdicchio_vines_in_Cupramontana.jpg/1280px-Verdicchio_vines_in_Cupramontana.jpg",
+      "alt": "Verdicchio vineyards around Cupramontana in the Marche",
+      "credit": "Davide, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVerdicchio_vines_in_Cupramontana.jpg"
+     },
+     "region": "marche",
+     "meta": "White, DOC and DOCG",
+     "url": "https://imtdoc.it/",
+     "url_label": "Marche wine institute"
+    },
+    {
+     "title": "Taurasi",
+     "subtitle": "Irpinia, Campania",
+     "desc": "Aglianico grown in the cool hills inland from Naples makes Taurasi, often called the Barolo of the South for its tannin and its long life. Irpinia also gives two whites, Fiano di Avellino and Greco di Tufo, so a tasting here covers three DOCGs.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Taurasi_%285289113128%29.jpg/1280px-Taurasi_%285289113128%29.jpg",
+      "alt": "Wine bottles ageing in a candlelit cellar in Taurasi",
+      "credit": "jimmyweee, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATaurasi_%285289113128%29.jpg"
+     },
+     "region": "campania",
+     "meta": "DOCG red from Aglianico",
+     "url": "https://consorziovinidirpinia.it/",
+     "url_label": "Irpinia wine consortium"
+    },
+    {
+     "title": "Primitivo di Manduria",
+     "subtitle": "Salento, Puglia",
+     "desc": "Ripe, round, warm-hearted red from bush vines in the red soils near Taranto, a genetic twin of California's Zinfandel. The Dolce Naturale version is a sweet treat. Pair it with orecchiette al ragù and a slow lunch in a masseria.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Manduria_Piazza_Garibaldi_2020.jpg/1280px-Manduria_Piazza_Garibaldi_2020.jpg",
+      "alt": "Piazza Garibaldi in Manduria, the town that gives Primitivo di Manduria its name",
+      "credit": "Andrea FIstetto, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AManduria_Piazza_Garibaldi_2020.jpg"
+     },
+     "region": "puglia",
+     "meta": "Red, rich and ripe",
+     "url": "https://www.consorziotutelaprimitivo.com/",
+     "url_label": "Primitivo consortium"
+    },
+    {
+     "title": "Etna",
+     "subtitle": "Mount Etna, Sicily",
+     "desc": "Vines on black lava terraces up to around 1,000 metres, some of them ungrafted and over a century old. Nerello Mascalese gives elegant, smoky reds; Carricante makes taut whites. The appellation now maps 142 contrade, the Etna version of single vineyards. Harvest runs into late October.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/VIGNA_CON_SFONDO_ETNA.jpg/1280px-VIGNA_CON_SFONDO_ETNA.jpg",
+      "alt": "A vineyard on the slopes of Mount Etna with the volcano behind",
+      "credit": "Marco89Testa, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVIGNA_CON_SFONDO_ETNA.jpg"
+     },
+     "region": "sicily",
+     "meta": "Volcanic, high altitude",
+     "url": "https://lecontradedelletna.com/",
+     "url_label": "Le Contrade dell'Etna"
+    },
+    {
+     "title": "Marsala",
+     "subtitle": "Western Sicily",
+     "desc": "A fortified wine with an English accent: Liverpool merchant John Woodhouse shipped it home in the 1770s. Forget the cooking wine; a dry Vergine or Superiore Riserva is nutty, salty and wonderful with cheese. Visit the old baglio wineries on the waterfront and the salt pans towards Trapani.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Saline_Ettore_Infersa.jpg/1280px-Saline_Ettore_Infersa.jpg",
+      "alt": "Salt heaps and an old windmill at the Ettore Infersa salt pans near Marsala",
+      "credit": "Luican72, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASaline_Ettore_Infersa.jpg"
+     },
+     "region": "sicily",
+     "meta": "Fortified, since the 1770s",
+     "url": "https://consorziovinomarsala.it/",
+     "url_label": "Marsala consortium"
+    },
+    {
+     "title": "Cannonau di Sardegna",
+     "subtitle": "Sardinia, mainly the east",
+     "desc": "Sardinia's name for Grenache, grown around Nuoro and the Ogliastra, a part of the island famous for its long-lived people. Spicy and generous, it is the bottle on the table with roast suckling pig and pecorino. Visit the cooperative and family cellars around Oliena and Jerzu.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/14_672_Supramonte%2C_Oliena.jpg/1280px-14_672_Supramonte%2C_Oliena.jpg",
+      "alt": "The town of Oliena below the limestone Supramonte, Cannonau country near Nuoro",
+      "credit": "Falk2, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A14_672_Supramonte%2C_Oliena.jpg"
+     },
+     "region": "sardinia",
+     "meta": "Red, from Grenache"
+    },
+    {
+     "title": "Vermentino di Gallura",
+     "subtitle": "North-east Sardinia",
+     "desc": "Sardinia's only DOCG, grown on granite near the Costa Smeralda. Salty, herbal and citrusy, it tastes of the maquis and the sea, and is the obvious partner for spaghetti alla bottarga. Many wineries are a short hop inland from the beaches.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Arcipelago_della_Maddalena%2C_Caprera_Cala_Napoletana_01.JPG/1280px-Arcipelago_della_Maddalena%2C_Caprera_Cala_Napoletana_01.JPG",
+      "alt": "Granite coves and maquis on Caprera, off the Gallura coast of Sardinia",
+      "credit": "Cannonau 72, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AArcipelago_della_Maddalena%2C_Caprera_Cala_Napoletana_01.JPG"
+     },
+     "region": "sardinia",
+     "meta": "Sardinia's only DOCG",
+     "url": "https://www.vermentinodigallura.com/",
+     "url_label": "Vermentino di Gallura consortium"
+    }
+   ]
+  },
+  {
+   "heading": "How to taste in Italy",
+   "intro": "Italian cellar doors work a little differently from Napa or Bordeaux. These habits will get you further.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Book ahead, always",
+     "desc": "Most wineries are family-run and receive visitors by appointment, often in the morning or mid-afternoon. Email or use the booking form a few days ahead and ask if the tour is in English. Expect roughly €15-50 for a tour and tasting; small producers sometimes waive the fee if you buy.",
+     "meta": "By appointment"
+    },
+    {
+     "title": "Cantine Aperte",
+     "desc": "On the last weekend of May, member wineries of the Movimento Turismo del Vino open their doors with tastings, food and music, no appointment needed. Spin-offs run through the year: Cantine Aperte in Vendemmia at harvest, San Martino in November and Christmas editions.",
+     "meta": "Last weekend of May",
+     "url": "https://movimentoturismovino.it/",
+     "url_label": "Movimento Turismo del Vino"
+    },
+    {
+     "title": "Calici di Stelle",
+     "desc": "Wine under the falling stars around San Lorenzo night, 10 August: tastings in piazzas and vineyards across Italy, organised by the wine towns and the Movimento Turismo del Vino.",
+     "meta": "Early-mid August"
+    },
+    {
+     "title": "Start at an enoteca",
+     "desc": "An enoteca is both wine shop and wine bar. In wine towns like Montalcino, Barolo, Montepulciano or Valdobbiadene, they pour local producers by the glass, a quick way to find a favourite before you book the cellar. Regional enoteche in castles, like the one at Grinzane Cavour in the Langhe, showcase a whole area.",
+     "meta": "By the glass"
+    },
+    {
+     "title": "Drive carefully, or don't",
+     "desc": "Italy's blood-alcohol limit is 0.5 g/l, and zero for drivers with less than three years on their licence. Spitting is normal and nobody will be offended. Better: hire a driver for the day, join a small-group tour, or cycle; e-bikes are widely rented in the Langhe and Chianti.",
+     "meta": "Limit 0.5 g/l"
+    },
+    {
+     "title": "Ship it home",
+     "desc": "Most wineries can arrange shipping to many countries, or pack bottles in protective boxes for your suitcase. Ask before you buy a case: rules for the US, UK and others differ.",
+     "meta": "Ask at the cellar"
+    }
+   ]
+  },
+  {
+   "heading": "Wine roads worth driving",
+   "intro": "Italy's Strade del Vino are signposted routes linking wineries, osterie, farm stays and sights. These are some of the best organised.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Strada del Prosecco e Vini dei Colli Conegliano Valdobbiadene",
+     "subtitle": "Veneto",
+     "desc": "Billed as Italy's oldest wine road, it runs about 90 km through the UNESCO hogback hills, past chapels, hilltop villages and tiny wineries. Go in September for the harvest or in spring for the Primavera del Prosecco tastings.",
+     "region": "veneto",
+     "url": "https://www.coneglianovaldobbiadene.it/",
+     "url_label": "Strada del Prosecco"
+    },
+    {
+     "title": "Südtiroler Weinstraße / Strada del Vino dell'Alto Adige",
+     "subtitle": "Trentino-Alto Adige",
+     "desc": "South Tyrol's wine road climbs from Bolzano past Lake Caldaro to the Dolomite foothills, through bilingual villages, Gothic churches and cooperative cellars making crisp Gewürztraminer, Pinot Bianco and juicy Lagrein.",
+     "region": "trentino-alto-adige",
+     "url": "https://www.suedtiroler-weinstrasse.it/",
+     "url_label": "Alto Adige wine road"
+    },
+    {
+     "title": "Strada del Barolo e Grandi Vini di Langa",
+     "subtitle": "Piedmont",
+     "desc": "A web of routes through the eleven Barolo villages and beyond, with castles at Barolo, Grinzane Cavour and Serralunga, hazelnut groves and some of Italy's best trattorie. Autumn, when the vines turn red, is magical.",
+     "region": "piedmont",
+     "url": "https://www.stradadelbarolo.it/",
+     "url_label": "Strada del Barolo"
+    },
+    {
+     "title": "Strada del Vino Nobile di Montepulciano",
+     "subtitle": "Tuscany",
+     "desc": "Links Montepulciano's underground cellars with the Val d'Orcia and Val di Chiana, the thermal baths of Chianciano and the country around Pienza. Many wineries add olive oil and pecorino tastings.",
+     "region": "tuscany",
+     "url": "https://www.stradavinonobile.it/",
+     "url_label": "Strada del Vino Nobile"
+    },
+    {
+     "title": "Strada del Sagrantino",
+     "subtitle": "Umbria",
+     "desc": "Around the hilltop town of Montefalco, home of Sagrantino, one of the most tannic grapes on earth. Combine with Bevagna, Assisi and Spello, and catch the Enologica wine festival.",
+     "region": "umbria",
+     "url": "https://www.stradadelsagrantino.it/",
+     "url_label": "Strada del Sagrantino"
+    },
+    {
+     "title": "Strada del Vino Valpolicella",
+     "subtitle": "Veneto",
+     "desc": "Villas, cherry orchards and marble quarries in the valleys north of Verona; see the drying lofts where Amarone grapes rest through winter.",
+     "region": "veneto",
+     "url": "https://www.stradadelvinovalpolicella.it/",
+     "url_label": "Strada del Vino Valpolicella"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Harvest (vendemmia) runs from late August for sparkling grapes to late October for Nebbiolo and Etna; wineries are busiest then, so book well ahead.",
+  "Many wineries close on Sundays and in mid-August.",
+  "House wine (vino della casa) in a carafe is usually local, cheap and perfectly good with lunch.",
+  "DOCG is the top tier of Italy's appellation system, DOC the next, IGT the broader category where many great 'Super Tuscans' sit.",
+  "Vinitaly, the big trade fair in Verona each April, is for professionals; its public fringe event, Vinitaly and the City, is the fun part."
+ ],
+ "links": [
+  {
+   "label": "Movimento Turismo del Vino",
+   "url": "https://movimentoturismovino.it/",
+   "desc": "Cantine Aperte and Calici di Stelle events, and member wineries open to visitors"
+  },
+  {
+   "label": "UNESCO: Le Colline del Prosecco",
+   "url": "https://whc.unesco.org/en/list/1571",
+   "desc": "World Heritage listing of the Prosecco hills of Conegliano and Valdobbiadene"
+  },
+  {
+   "label": "Consorzio Barolo Barbaresco Alba Langhe e Dogliani",
+   "url": "https://www.langhevini.it/",
+   "desc": "Producers and appellations of the Langhe"
+  },
+  {
+   "label": "Consorzio Vino Chianti Classico",
+   "url": "https://www.chianticlassico.com/",
+   "desc": "Wineries to visit and events in Chianti Classico"
+  },
+  {
+   "label": "Consorzio del Vino Brunello di Montalcino",
+   "url": "https://www.consorziobrunellodimontalcino.it/",
+   "desc": "Producer directory and vintage ratings"
+  }
+ ]
+}

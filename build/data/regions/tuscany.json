@@ -1,0 +1,320 @@
+{
+ "slug": "tuscany",
+ "name": "Tuscany",
+ "italian_name": "Toscana",
+ "area": "central",
+ "capital": "Florence",
+ "tagline": "Renaissance cities, cypress-lined crests and Sunday lunches that run until dusk.",
+ "intro": [
+  "Tuscany is where the Renaissance happened, and it still feels lived-in rather than preserved. Florence packs Brunelleschi's dome, the Uffizi and Michelangelo's David into a city you can cross on foot in half an hour, while Siena, Lucca and Pisa each guard their own medieval pride. Between them lie the Chianti hills, striped with vineyards and olive groves, and the bare clay waves of the Crete Senesi rolling south towards the Val d'Orcia.",
+  "The real pleasure is in the small things: a glass of Vernaccia on San Gimignano's walls at sunset, a plate of pici in a Montepulciano osteria, the arcaded market square of Figline Valdarno, half an hour up the Arno from Florence. Push past the postcard and you find the Maremma's cattle-herding butteri and free hot springs, the chestnut woods of the Garfagnana, and towns like Pitigliano carved straight out of volcanic tufa."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Toscana_-_Val_d%27Orcia_-_dalla_Via_della_Foce_-_Flickr_-_Oishi_Kuranosuke.jpg/1280px-Toscana_-_Val_d%27Orcia_-_dalla_Via_della_Foce_-_Flickr_-_Oishi_Kuranosuke.jpg",
+  "alt": "Rows of cypress trees zigzagging up a bright green hillside in the Val d'Orcia",
+  "credit": "Oishi Kuranosuke, CC BY 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AToscana_-_Val_d%27Orcia_-_dalla_Via_della_Foce_-_Flickr_-_Oishi_Kuranosuke.jpg"
+ },
+ "known_for": [
+  "Renaissance art",
+  "Chianti Classico & Brunello",
+  "Medieval hill towns",
+  "Val d'Orcia landscapes",
+  "Bistecca alla fiorentina",
+  "Natural hot springs",
+  "Palio di Siena"
+ ],
+ "best_time": "April to early June brings green hills, poppies and easy city walking; September to early November is harvest time, with grape picking, new olive oil, truffle fairs and Autumnia in Figline. July and August are hot, and Florence is at its most crowded.",
+ "getting_there": "Florence Peretola and Pisa Galileo Galilei are the main airports, with Bologna an easy train ride away. Florence Santa Maria Novella is the rail hub, with fast trains to Rome (about 1h30) and Milan (under 2h) and regional lines to Pisa, Lucca, Arezzo and the Valdarno. Siena is easier by bus; for Chianti, the Val d'Orcia and the Maremma you really want a car.",
+ "places": [
+  {
+   "name": "Florence",
+   "desc": "The cradle of the Renaissance is compact and walkable. Climb Brunelleschi's dome at opening time, book the Uffizi for late afternoon, then cross the Ponte Vecchio into the Oltrarno, where artisans still gild frames and restore furniture around Santo Spirito. End the day at Piazzale Michelangelo or, quieter and higher, on the steps of San Miniato al Monte.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/1280px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg",
+    "alt": "Florence skyline with the Duomo and Palazzo Vecchio tower seen from Piazzale Michelangelo",
+    "credit": "Giorgio Galeotti, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFirenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg"
+   }
+  },
+  {
+   "name": "Siena",
+   "desc": "Siena's shell-shaped Piazza del Campo is one of Europe's great public spaces, best enjoyed simply sitting on its sloping brick. Climb the 400-odd steps of the Torre del Mangia, visit the striped Duomo when its inlaid marble floor is uncovered (usually late summer into autumn), and wander the contrade, each with its own fountain, flag and fierce Palio loyalty.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Il_campo_view_from_torre.jpg/1280px-Il_campo_view_from_torre.jpg",
+    "alt": "Fan-shaped Piazza del Campo in Siena seen from the top of the Torre del Mangia",
+    "credit": "Mark Sehnert, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AIl_campo_view_from_torre.jpg"
+   }
+  },
+  {
+   "name": "Val d'Orcia and Pienza",
+   "desc": "A UNESCO-listed valley of wheat fields, lone cypresses and farmhouses on rounded hills south of Siena. Base yourself in Pienza, Pope Pius II's ideal Renaissance town, where the walls and the lanes called Via dell'Amore and Via del Bacio look straight over the valley, and shops sell pecorino aged in walnut leaves or ash.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Val_D_Orcia_Sunrise_%28151505625%29.jpeg/1280px-Val_D_Orcia_Sunrise_%28151505625%29.jpeg",
+    "alt": "Misty sunrise over the rolling hills of the Val d'Orcia with a farmhouse and cypresses",
+    "credit": "Giuseppe Paris, CC BY 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVal_D_Orcia_Sunrise_%28151505625%29.jpeg"
+   }
+  },
+  {
+   "name": "San Gimignano",
+   "desc": "Fourteen medieval towers still stand of the seventy-odd that once crowded this hilltop, raised by rival families trying to outdo each other. Day-trippers thin out by late afternoon, which is when to climb to the Rocca di Montestaffoli, sip a cold Vernaccia di San Gimignano and stay for dinner as the stone turns amber.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SanGimignanoPanorama7.jpg/1280px-SanGimignanoPanorama7.jpg",
+    "alt": "The medieval towers of San Gimignano rising above its rooftops under a clear blue sky",
+    "credit": "LigaDue, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASanGimignanoPanorama7.jpg"
+   }
+  },
+  {
+   "name": "Lucca",
+   "desc": "Lucca kept its Renaissance walls intact and turned them into a tree-lined park: just over four kilometres of promenade you can cycle in twenty minutes. Inside, find the oval Piazza dell'Anfiteatro built over a Roman arena, the holm oaks growing on top of the Torre Guinigi, Puccini's birthplace and buccellato, the town's aniseed-and-raisin sweet bread.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lucca_-_Piazza_Anfiteatro_View.jpg/1280px-Lucca_-_Piazza_Anfiteatro_View.jpg",
+    "alt": "The oval Piazza dell'Anfiteatro in Lucca ringed by yellow and ochre houses",
+    "credit": "Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALucca_-_Piazza_Anfiteatro_View.jpg"
+   }
+  },
+  {
+   "name": "Pisa",
+   "desc": "Yes, the tower leans, and the Piazza dei Miracoli with its cathedral, baptistery and Camposanto is genuinely astonishing on a clear morning. But stay for the rest: a university city with lively lungarni, the tiny Gothic Santa Maria della Spina on the riverbank, and students eating cecina, the chickpea flatbread, around Borgo Stretto and Piazza delle Vettovaglie.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Piazza_del_Duomo_Pisa_7.jpg/1280px-Piazza_del_Duomo_Pisa_7.jpg",
+    "alt": "Panorama of Pisa's Piazza del Duomo with the baptistery, cathedral and Leaning Tower on green lawns",
+    "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APiazza_del_Duomo_Pisa_7.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Drive the Chiantigiana",
+   "desc": "Follow the SR222 from Florence through Greve, Panzano and Castellina towards Siena, stopping at family estates for Chianti Classico tastings and at Dario Cecchini's butcher's shop in Panzano for a meat-heavy lunch."
+  },
+  {
+   "title": "Soak in Saturnia's free hot springs",
+   "desc": "At the Cascate del Mulino, sulphurous water at about 37°C pours over travertine terraces below Saturnia, open to everyone at any hour. Go at sunrise on a weekday to have the pools almost to yourself."
+  },
+  {
+   "title": "Climb Brunelleschi's dome",
+   "desc": "463 steps lead up between the inner and outer shells of the cupola, past Vasari's Last Judgement frescoes, to a terrace above the rooftops. Book the Brunelleschi Pass well ahead and take the first slot of the day."
+  },
+  {
+   "title": "Go into the Carrara marble quarries",
+   "desc": "Take a jeep tour into the quarry basins of the Apuan Alps, where Michelangelo chose his blocks, then eat lardo di Colonnata, cured in marble tubs, in the mountain village of Colonnata itself."
+  },
+  {
+   "title": "Join the olive harvest",
+   "desc": "From late October many agriturismi let guests help pick olives, ending at the frantoio where the new oil comes out green and peppery. Toast bread, rub it with garlic, pour the oil over: that is fettunta."
+  },
+  {
+   "title": "Walk a stage of the Via Francigena",
+   "desc": "The medieval pilgrim road runs right through Tuscany. The roughly 20 km stage from walled Monteriggioni to Siena crosses woods, farm tracks and quiet hamlets before entering the city through Porta Camollia."
+  },
+  {
+   "title": "See Florence from the Bardini Garden",
+   "desc": "In April and early May the wisteria tunnel in the terraced Giardino Bardini is in full bloom, framing one of the finest views of the Duomo. It is far quieter than the Boboli Gardens next door."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Bistecca alla fiorentina",
+   "type": "dish",
+   "desc": "A thick T-bone, ideally from Chianina cattle, grilled over embers, charred outside and rare within, priced by weight and seasoned with nothing more than salt, pepper and oil."
+  },
+  {
+   "name": "Pici all'aglione",
+   "type": "dish",
+   "desc": "Hand-rolled, fat spaghetti from the Siena and Val di Chiana countryside, tossed in a slow-cooked tomato sauce made with aglione, a giant, mild local garlic."
+  },
+  {
+   "name": "Ribollita",
+   "type": "dish",
+   "desc": "Florentine 'reboiled' soup of cavolo nero, cannellini beans and stale bread, made a day ahead so it turns thick enough to eat with a fork. Best in winter."
+  },
+  {
+   "name": "Pecorino Toscano DOP",
+   "type": "cheese",
+   "desc": "Sheep's milk cheese from the Crete Senesi and Val d'Orcia, sold young and milky or aged under ash and walnut leaves around Pienza. Try it with chestnut honey or a ripe pear."
+  },
+  {
+   "name": "Chianti Classico",
+   "type": "wine",
+   "desc": "Sangiovese-based red from the hills between Florence and Siena, marked with the black rooster: sour cherry, violets and a savoury, food-friendly finish."
+  },
+  {
+   "name": "Brunello di Montalcino",
+   "type": "wine",
+   "desc": "Pure Sangiovese from the slopes around Montalcino, released only five years after the harvest, with at least two years in wood. Deep, firm and built to age."
+  },
+  {
+   "name": "Lardo di Colonnata IGP",
+   "type": "cured meat",
+   "desc": "Pork back fat cured for at least six months with salt, pepper, garlic and rosemary in tubs of Carrara marble. Sliced thin over warm bread, it melts like butter."
+  },
+  {
+   "name": "Panforte and ricciarelli",
+   "type": "sweet",
+   "desc": "Siena's dense, spiced cake of candied fruit, nuts and honey, and its soft, cracked almond biscuits dusted in icing sugar, both Christmas staples that are sold year-round."
+  },
+  {
+   "name": "Zolfino beans of the Pratomagno",
+   "type": "dish",
+   "desc": "Small, pale-yellow, thin-skinned beans grown on terraces above the Valdarno near Figline, a Slow Food presidium. Simmered slowly and served with nothing but new olive oil."
+  },
+  {
+   "name": "Toscano IGP extra virgin olive oil",
+   "type": "olive oil",
+   "desc": "Pressed in November, new Tuscan oil is bright green, grassy and peppery enough to catch the back of your throat. Look for the IGP seal and the harvest year."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Caffè Gilli",
+   "city": "Florence",
+   "since": "1733",
+   "desc": "Founded as a shop for sweet breads on Via dei Calzaiuoli, on Piazza della Repubblica since the early 1900s, with its marble counter, bronze fittings and stuccoed ceilings intact. Order hot chocolate and a pastry at the bar."
+  },
+  {
+   "name": "Trattoria Sostanza",
+   "city": "Florence",
+   "since": "1869",
+   "desc": "White tiles, shared tables and a narrow room near Santa Maria Novella that Florentines still call 'il Troia'. Order the chicken breast cooked in butter and the artichoke tortino, and book ahead; it closes at weekends."
+  },
+  {
+   "name": "Buca di Sant'Antonio",
+   "city": "Lucca",
+   "since": "1782",
+   "desc": "Already listed as an osteria in a Lucca decree of 1782 and later a post inn, now with copper pans hanging from the beams. Go for farro soup, tordelli lucchesi and roast kid.",
+   "url": "https://www.bucadisantantonio.com/"
+  },
+  {
+   "name": "Caffè dell'Ussero",
+   "city": "Pisa",
+   "since": "1775",
+   "desc": "In the 15th-century Palazzo Agostini on the Arno, this was the café of Pisa's Risorgimento students, Carducci and Giusti among them, and its walls still carry their memories. Have an espresso by the river window."
+  },
+  {
+   "name": "Caffè Fiaschetteria Italiana",
+   "city": "Montalcino",
+   "since": "1888",
+   "desc": "Montalcino's Art Nouveau living room on Piazza del Popolo, created by Ferruccio Biondi Santi, the man credited with Brunello. Red velvet sofas, mirrors, marble tables, and Brunello by the glass."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Family farm in the Valdarno hills",
+   "desc": "Above Figline e Incisa Valdarno, small farms like Podere La Casellina, home to the same family since 1936, offer rooms in an old hayloft and invite guests to help with the grape and olive harvests. Florence is a short regional train ride away.",
+   "url": "https://www.visittuscany.com/it/alloggi/podere-la-casellina/"
+  },
+  {
+   "title": "Sleep in a medieval castle-village",
+   "desc": "Castello di Gargonza, in the hills between Arezzo and Siena, is a whole fortified hamlet whose stone cottages have become rooms and apartments around a tiny piazza and tower. Dante is said to have stopped here in 1302 after his exile from Florence.",
+   "url": "https://gargonza.it/"
+  },
+  {
+   "title": "Cheese-farm agriturismo near Pienza",
+   "desc": "Podere Il Casale is an organic sheep and goat farm on the hills outside Pienza where you can watch pecorino being made, take a cheese-making class and eat on a terrace looking out over the Val d'Orcia."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Florence",
+   "to": "Figline e Incisa Valdarno",
+   "how": "30-40 min by regional train",
+   "desc": "Walk Figline's arcaded Piazza Marsilio Ficino, see Petrarch's childhood home in Incisa, and in early November catch Autumnia's farmers' market and farm animals in the old centre."
+  },
+  {
+   "from": "Florence",
+   "to": "Siena",
+   "how": "About 1h15 by direct bus",
+   "desc": "The rapid bus drops you near Piazza Gramsci, a short walk from the Campo. Do the Duomo, the Torre del Mangia and a long lunch, then catch an evening bus back."
+  },
+  {
+   "from": "Florence",
+   "to": "Pisa and Lucca",
+   "how": "About 1h by train to Pisa, then 30 min on to Lucca",
+   "desc": "Pisa's Piazza dei Miracoli first thing, then on to Lucca to cycle the walls in the late-afternoon light before an early dinner and the train home."
+  },
+  {
+   "from": "Siena",
+   "to": "Montalcino, Pienza and Bagno Vignoni",
+   "how": "About 1h by car",
+   "desc": "Brunello tasting in Montalcino in the morning, pecorino and a lazy lunch in Pienza, then the steaming thermal square of Bagno Vignoni on the way back."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Pitigliano",
+   "desc": "Rising sheer from a tufa cliff in southern Maremma, Pitigliano was nicknamed 'Little Jerusalem' for its centuries-old Jewish community: the synagogue, kosher oven and ritual bath cut into the rock can be visited. Then walk the Etruscan vie cave, sunken lanes carved deep into the stone.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Panorama_view_of_Pitigliano_Italy_%282%29_by_SF_William.jpg/1280px-Panorama_view_of_Pitigliano_Italy_%282%29_by_SF_William.jpg",
+    "alt": "Pitigliano's stone houses perched on the edge of a sheer tufa cliff above a green gorge",
+    "credit": "Shadow Fixing, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanorama_view_of_Pitigliano_Italy_%282%29_by_SF_William.jpg"
+   }
+  },
+  {
+   "name": "Figline e Incisa Valdarno",
+   "desc": "Twin towns on the upper Arno, 30 km from Florence. Figline has a broad porticoed market square named after Marsilio Ficino, the Renaissance philosopher born here; Incisa keeps the house where Petrarch spent his childhood. At festival time look for nana col sedano, duck with celery.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Piazza_Marsilio_Ficino_%28Figline_Valdarno%29_03.jpg/1280px-Piazza_Marsilio_Ficino_%28Figline_Valdarno%29_03.jpg",
+    "alt": "Porticoed Piazza Marsilio Ficino in Figline Valdarno on a sunny day",
+    "credit": "Walter Giannetti, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APiazza_Marsilio_Ficino_%28Figline_Valdarno%29_03.jpg"
+   }
+  },
+  {
+   "name": "Bagno Vignoni",
+   "desc": "A Val d'Orcia hamlet whose main square is a stone pool of steaming thermal water; Lorenzo de' Medici and Saint Catherine of Siena came to take the waters. You cannot swim in the pool, but below it, in the Parco dei Mulini, warm channels run over the travertine.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bagno_Vignoni_Piazza_delle_Sorgenti_01.jpg/1280px-Bagno_Vignoni_Piazza_delle_Sorgenti_01.jpg",
+    "alt": "The thermal water pool of Piazza delle Sorgenti in Bagno Vignoni reflecting the surrounding stone houses",
+    "credit": "Spike, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABagno_Vignoni_Piazza_delle_Sorgenti_01.jpg"
+   }
+  },
+  {
+   "name": "Barga",
+   "desc": "A hilltop town in the Serchio valley whose Romanesque duomo looks straight at the Apuan Alps. So many Barghigiani emigrated to Scotland that you will hear Scottish accents in the bars, and every summer the town throws a Sagra del Pesce e Patate, a fish-and-chips festival.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Barga-panorama_dal_duomo.jpg/1280px-Barga-panorama_dal_duomo.jpg",
+    "alt": "Rooftops of Barga seen from the cathedral terrace with the Apuan Alps behind",
+    "credit": "Davide Papalini, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABarga-panorama_dal_duomo.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Palio di Siena",
+   "when": "2 July & 16 August",
+   "where": "Siena",
+   "desc": "Ten of the city's seventeen contrade race bareback three times around Piazza del Campo in about 90 seconds, after days of trial heats, processions and long street dinners. Standing in the centre is free.",
+   "url": "https://www.ilpalio.org/"
+  },
+  {
+   "name": "Scoppio del Carro",
+   "when": "Easter Sunday",
+   "where": "Florence",
+   "desc": "A towering 18th-century cart is hauled by white oxen to the Duomo, where a dove-shaped rocket sent down a wire from the altar sets off its fireworks. A good explosion promises a good harvest."
+  },
+  {
+   "name": "Autumnia",
+   "when": "A weekend in early November",
+   "where": "Figline e Incisa Valdarno",
+   "desc": "Figline's festival of farming, food and the environment fills the old centre with a market of local producers selling oil, wine, cheese and vegetables, a farm of pigs, sheep and cows for children, talks and guided visits.",
+   "url": "https://www.italia.it/en/tuscany/florence/figline-valdarno/things-to-do/event-autumnia"
+  },
+  {
+   "name": "Luminara di San Ranieri",
+   "when": "16 June",
+   "where": "Pisa",
+   "desc": "On the eve of the patron saint's day, tens of thousands of small oil lamps trace the outlines of the palazzi along the Arno, doubling in the water once the streetlights go off."
+  }
+ ],
+ "culture": "Standard Italian grew out of Tuscan, thanks to Dante, Petrarch and Boccaccio, yet every town keeps its own accent: Florentines soften their hard c's into the famous gorgia, so 'Coca-Cola' becomes 'Hoha-Hola'. Older traditions survive in ottava rima, improvised sung poetry duels still heard in the Maremma, and in Calcio Storico, a brutal 16th-century ball game played in Piazza Santa Croce every June. The crafts run deep too: Florentine leather and marbled paper, Volterra alabaster, Impruneta terracotta and Carrara marble.",
+ "official_site": "https://www.visittuscany.com/en/"
+}

@@ -1,0 +1,292 @@
+{
+ "slug": "molise",
+ "name": "Molise",
+ "italian_name": "Molise",
+ "area": "central",
+ "capital": "Campobasso",
+ "tagline": "The region Italians joke doesn't exist: sheep tracks, bell-founders and empty ruins.",
+ "intro": [
+  "Italians like to joke that Molise doesn't exist, and the region has turned 'il Molise non esiste' into a badge of honour. Small, mountainous and lightly visited, it only split from Abruzzo in 1963 and still runs to an older rhythm. The tratturi, grassy droveways used for millennia to walk sheep between the Abruzzo mountains and the plains of Puglia, still cross its hills, and many villages have fewer than a thousand people.",
+  "That quiet is its gift. You can have a Samnite theatre at Pietrabbondante or the Roman town of Saepinum almost to yourself, watch bells being cast in Agnone at a foundry with medieval roots, and eat caciocavallo, cavatelli and roast lamb at prices from another decade. Down on the short Adriatic coast, Termoli's walled old town and its fish brodetto make an easy, sunny finale."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Termoli_xx.jpg/1280px-Termoli_xx.jpg",
+  "alt": "Termoli's walled old town and Swabian castle glowing golden above the beach",
+  "credit": "Alexandertpr12, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATermoli_xx.jpg"
+ },
+ "known_for": [
+  "Tratturi sheep tracks",
+  "Caciocavallo di Agnone",
+  "Agnone's bell foundry",
+  "Samnite and Roman ruins",
+  "Termoli's old town",
+  "Tintilia wine",
+  "Bagpipe makers of Scapoli"
+ ],
+ "best_time": "May to October. Campobasso's Corteo dei Misteri falls on Corpus Domini in late May or June, summer suits the beaches at Termoli and the cool mountain villages, and December is magical for Agnone's 'Ndocciata fire procession and Oratino's Faglia on Christmas Eve.",
+ "getting_there": "There is no airport: fly into Naples, Rome or Pescara. Termoli sits on the Adriatic railway with fast trains to Pescara, Bologna and Bari, while Campobasso and Isernia are linked to Rome and Naples by slower regional trains and frequent buses. Inland, you will want a car.",
+ "places": [
+  {
+   "name": "Termoli",
+   "desc": "Termoli's old town sits on a walled promontory above the sea, guarded by a Swabian castle, with a Romanesque cathedral and one of Italy's narrowest lanes, the Rejecelle. Long sandy beaches stretch either side, trabucchi fishing platforms jut from the shore, and boats leave for the Tremiti islands. Eat brodetto alla termolese.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Termoli_trabucco.jpg/1280px-Termoli_trabucco.jpg",
+    "alt": "A wooden trabucco fishing platform on stilts over the green Adriatic at Termoli",
+    "credit": "Unknown author, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATermoli_trabucco.jpg"
+   }
+  },
+  {
+   "name": "Campobasso",
+   "desc": "The small capital climbs a hill to the Castello Monforte, with views over the Matese. Visit the Museo dei Misteri to see the extraordinary 18th-century processional machines carried at Corpus Domini, and the Museo Sannitico for the region's Samnite past. The old upper town has Romanesque churches such as San Giorgio.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vista_su_Campobasso_dal_Castello_Monforte.jpg/1280px-Vista_su_Campobasso_dal_Castello_Monforte.jpg",
+    "alt": "Panoramic view over the rooftops of Campobasso towards the hills",
+    "credit": "Horcrux, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVista_su_Campobasso_dal_Castello_Monforte.jpg"
+   }
+  },
+  {
+   "name": "Isernia",
+   "desc": "One of Europe's oldest known human settlements: the Palaeolithic site of La Pineta, around 600,000 years old, has its own museum. In town, the medieval Fontana Fraterna and the lanes of the centro storico, where women still work bobbin lace on their doorsteps.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fontana_Fraterna_%28Isernia%29.JPG/1280px-Fontana_Fraterna_%28Isernia%29.JPG",
+    "alt": "The medieval arcaded Fontana Fraterna in Isernia",
+    "credit": "TheFab4, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFontana_Fraterna_%28Isernia%29.JPG"
+   }
+  },
+  {
+   "name": "Agnone",
+   "desc": "A stone town in the Alto Molise famous for the Pontificia Fonderia Marinelli, one of the world's oldest bell foundries, and a bell museum; with luck you may see a bell being cast. It is also the home of caciocavallo, coppersmiths and the 'Ndocciata, the great Christmas torch procession.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Il_custode_delle_fiamme.jpg/1280px-Il_custode_delle_fiamme.jpg",
+    "alt": "Torch-bearers carrying blazing fan-shaped 'ndocce through Agnone at the 'Ndocciata",
+    "credit": "Giacomo Cimino, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AIl_custode_delle_fiamme.jpg"
+   }
+  },
+  {
+   "name": "Saepinum",
+   "desc": "A Roman town at Altilia, near Sepino, on the great Pescasseroli-Candela sheep track. Its walls and four gates still stand, and you can walk the forum, basilica and baths, and a theatre whose arc was later built into farmhouses. It is free and usually almost empty.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Altilia_-_il_Teatro.JPG/1280px-Altilia_-_il_Teatro.JPG",
+    "alt": "The Roman theatre of Saepinum with old stone farmhouses built into its curve",
+    "credit": "Giulio Lastoria, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAltilia_-_il_Teatro.JPG"
+   }
+  },
+  {
+   "name": "Pietrabbondante",
+   "desc": "At almost 1,000 metres, the Samnites built their great sanctuary with a temple and a theatre whose curved stone seats, with sculpted armrests, still face the mountains. The setting, with the village perched on rocks above, is spectacular, especially in late afternoon light.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Teatro-Pietrabbondante.jpg/1280px-Teatro-Pietrabbondante.jpg",
+    "alt": "The Samnite theatre of Pietrabbondante on a green hillside facing the mountains",
+    "credit": "Pietro, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATeatro-Pietrabbondante.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Watch bells being cast in Agnone",
+   "desc": "The Marinelli family foundry still casts bells in bronze using clay moulds, wax and fire. Visit the Museo Storico della Campana next door to see centuries of bells and learn how the moulds are built."
+  },
+  {
+   "title": "Walk a stretch of tratturo",
+   "desc": "Follow a section of the Pescasseroli-Candela or Castel di Sangro-Lucera tratturo, the wide grassy sheep roads used since antiquity. Near Saepinum the track runs straight through the Roman town's gates."
+  },
+  {
+   "title": "Take a boat to the Tremiti islands",
+   "desc": "From Termoli's port, ferries and hydrofoils reach the Tremiti archipelago, in neighbouring Puglia, in about an hour. Swim in clear water off San Domino and visit the abbey on San Nicola."
+  },
+  {
+   "title": "Visit the Museum of Cutting Tools in Frosolone",
+   "desc": "Frosolone has forged knives and scissors for centuries; see the museum, then buy a handmade knife in a family workshop. The rock formations and meadows of Colle dell'Orso are just above town."
+  },
+  {
+   "title": "Taste cheese at a caseificio",
+   "desc": "Caciocavallo, scamorza and stracciata are made by hand in the Alto Molise. At Agnone, Caseificio Di Nucci offers guided visits and tastings, and has a small museum of cheese-making and transhumance."
+  },
+  {
+   "title": "Ski or walk at Capracotta",
+   "desc": "At 1,421 metres, one of the highest villages in the Apennines, Capracotta has a cross-country skiing club founded in 1914 and the Prato Gentile trails, and a museum of the tailoring tradition that sent its craftsmen to fashion houses."
+  },
+  {
+   "title": "Hear the zampogna in Scapoli",
+   "desc": "In the village of bagpipes, craftsmen still make zampogne by hand. Visit the International Bagpipe Museum and come in summer for the festival of the zampogna, with players from all over the world."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Caciocavallo di Agnone",
+   "type": "cheese",
+   "desc": "A gourd-shaped pasta filata cheese of cow's milk, hung in pairs over a pole to age; sweet and milky when young, sharp and crumbly after a year."
+  },
+  {
+   "name": "Cavatelli",
+   "type": "dish",
+   "desc": "Small curled pasta shells made of durum wheat and water, rolled by hand with two fingers, served with pork ragù or broccoli rabe and sausage."
+  },
+  {
+   "name": "Pampanella",
+   "type": "dish",
+   "desc": "Pork marinated with lots of sweet and hot red pepper and garlic, baked in the oven; a speciality of San Martino in Pensilis in the lower Molise."
+  },
+  {
+   "name": "Tintilia del Molise",
+   "type": "wine",
+   "desc": "A native red grape rescued from near extinction, making supple, peppery wines with notes of dark cherries and herbs; the region's proudest wine."
+  },
+  {
+   "name": "Brodetto alla termolese",
+   "type": "dish",
+   "desc": "Termoli's fish stew made in a wide terracotta pan with tomato, green peppers and the day's catch: scorpionfish, mullet, squid, mantis shrimp."
+  },
+  {
+   "name": "Signora di Conca Casale",
+   "type": "cured meat",
+   "desc": "A rare salami from the village of Conca Casale, made from pork shoulder and loin, seasoned with pepper and wild fennel, and aged for months; a Slow Food presidium."
+  },
+  {
+   "name": "Ventricina di Montenero di Bisaccia",
+   "type": "cured meat",
+   "desc": "Coarsely cut pork seasoned with red pepper and fennel and aged in a pork bladder, sliced thick. Molise and neighbouring Abruzzo both claim the original."
+  },
+  {
+   "name": "Mozzarella di bufala di Venafro",
+   "type": "cheese",
+   "desc": "The Venafro plain is the only part of Molise in the buffalo mozzarella DOP area; try it fresh, still dripping, at a local dairy."
+  },
+  {
+   "name": "Ferratelle",
+   "type": "sweet",
+   "desc": "Thin, crisp wafers baked in patterned irons, flavoured with anise or lemon; often sandwiched with jam or eaten with a glass of wine."
+  },
+  {
+   "name": "Olio Molise DOP",
+   "type": "olive oil",
+   "desc": "Fruity olive oil from local varieties such as Gentile di Larino, pressed in mills around Larino and Venafro, one of the oldest olive-growing areas in Italy."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Caseificio Di Nucci",
+   "city": "Agnone",
+   "since": "1662",
+   "desc": "A shepherd-cheesemaker family from Capracotta whose first recorded casaro dates to the 1600s, now in its tenth generation. Visit for raw-milk caciocavallo, the dairy museum and a tasting.",
+   "url": "https://www.caseificiodinucci.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Agriturismo in the Matese foothills",
+   "desc": "Farm stays around Bojano and Sepino raise sheep and cows, make their own cheese and cured meats and cook Molisan dishes at dinner. They make a perfect base for Saepinum and walks on the tratturi."
+  },
+  {
+   "title": "Village house in the Alto Molise",
+   "desc": "In mountain villages such as Agnone, Capracotta and Pescopennataro, families rent out restored stone houses by the week. Expect fireplaces, cold nights even in August and neighbours who will invite you to the local feast."
+  },
+  {
+   "title": "Fisherman's town B&B in Termoli",
+   "desc": "Family-run B&Bs in Termoli's walled old town put you a few steps from the sea, the cathedral and the trabucchi, with breakfast of local pastries and coffee on the terrace."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Campobasso",
+   "to": "Saepinum and Sepino",
+   "how": "About 30 min by car",
+   "desc": "Walk the Roman town at Altilia, then climb to the hill village of Sepino for lunch and its famous spring water."
+  },
+  {
+   "from": "Isernia",
+   "to": "Pietrabbondante and Agnone",
+   "how": "About 45 min by car",
+   "desc": "The Samnite theatre in the morning, then on to Agnone for the bell museum, a dairy and an afternoon in its stone lanes."
+  },
+  {
+   "from": "Isernia",
+   "to": "Castel San Vincenzo and Scapoli",
+   "how": "About 30 min by car",
+   "desc": "See the frescoed crypt at the abbey of San Vincenzo al Volturno, walk around the lake below the Mainarde mountains, then visit Scapoli's bagpipe museum."
+  },
+  {
+   "from": "Termoli",
+   "to": "Tremiti islands",
+   "how": "About 1h by ferry or hydrofoil",
+   "desc": "A day of swimming and snorkelling in clear water off San Domino, then exploring the fortified abbey of San Nicola in the Adriatic's only offshore archipelago."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "San Vincenzo al Volturno",
+   "desc": "A great Benedictine abbey founded in the 8th century at the sources of the Volturno, near Castel San Vincenzo. Its crypt of Epiphanius holds rare 9th-century frescoes; the lake and the Mainarde mountains make a lovely backdrop.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/San_Vincenzo_al_Volturno.jpg/1280px-San_Vincenzo_al_Volturno.jpg",
+    "alt": "The abbey church of San Vincenzo al Volturno framed by a ruined stone arch",
+    "credit": "Bryan, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASan_Vincenzo_al_Volturno.jpg"
+   }
+  },
+  {
+   "name": "Frosolone",
+   "desc": "The 'town of knives', where blacksmiths have forged blades for centuries; family workshops still make pocket knives and scissors by hand. Above town, the limestone outcrops of Colle dell'Orso and summer pastures with grazing horses and cows.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Morgia-Quadra-Frosolone-Molise-Rock-Road.jpg/1280px-Morgia-Quadra-Frosolone-Molise-Rock-Road.jpg",
+    "alt": "Limestone outcrops and a grassy track in the high pastures above Frosolone",
+    "credit": "Accolturato, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMorgia-Quadra-Frosolone-Molise-Rock-Road.jpg"
+   }
+  },
+  {
+   "name": "Oratino",
+   "desc": "A hill village of stonemasons above the Biferno valley, near Campobasso, with carved doorways, a fine baroque church and the ruins of a medieval tower. On Christmas Eve the Faglia, a giant torch of canes, is carried through the streets and lit.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oratino.jpg/1280px-Oratino.jpg",
+    "alt": "The hill village of Oratino above autumn-coloured woods and fields",
+    "credit": "Gianfranco Vitolo, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOratino.jpg"
+   }
+  },
+  {
+   "name": "Fornelli",
+   "desc": "A tiny walled village ringed by towers, with a centro storico that has barely changed, one of the 'Borghi più belli d'Italia'. It calls itself the city of olive oil; walk the walls, then buy oil from the local mills.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Borgo_di_Fornelli.jpg/1280px-Borgo_di_Fornelli.jpg",
+    "alt": "The small hill village of Fornelli among olive groves with snowy mountains behind",
+    "credit": "P Pasquale 86, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABorgo_di_Fornelli.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Corteo dei Misteri",
+   "when": "Corpus Domini (late May or June)",
+   "where": "Campobasso",
+   "desc": "Thirteen 'Misteri', iron machines designed by Paolo Saverio di Zinno in 1748, carry children dressed as saints, angels and devils who seem to float above the crowd."
+  },
+  {
+   "name": "'Ndocciata",
+   "when": "24 December and the second Saturday of December",
+   "where": "Agnone",
+   "desc": "Hundreds of torch-bearers carry 'ndocce, huge fan-shaped torches of fir wood, in a river of fire through the town; a pre-Christian fire rite turned Christmas procession."
+  },
+  {
+   "name": "Carrese di San Leo",
+   "when": "30 April",
+   "where": "San Martino in Pensilis",
+   "desc": "Ox-drawn carts race along a dirt track across the countryside, escorted by riders on horseback, in honour of Saint Leo. The rival teams spend the whole year preparing for it."
+  },
+  {
+   "name": "Festa del Grano",
+   "when": "26 July",
+   "where": "Jelsi",
+   "desc": "For Saint Anne, the village parades carts and floats covered in elaborate decorations woven from wheat, a harvest thanksgiving begun after an 1805 earthquake."
+  }
+ ],
+ "culture": "Molise is a mosaic of small communities. Fourteenth- and fifteenth-century migrants from the Balkans left two living minorities: Arbëreshë villages such as Ururi and Montecilfone, which still speak Albanian, and three Croatian-speaking villages, Acquaviva Collecroce, Montemitro and San Felice del Molise. Music is the zampogna and ciaramella of Scapoli; crafts are bells from Agnone, knives from Frosolone, lace from Isernia and copper from Agnone's ramai. The tratturi and the transhumance culture they carried are now part of UNESCO-listed intangible heritage.",
+ "official_site": "https://www.visitmolise.eu/en/"
+}

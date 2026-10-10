@@ -1,0 +1,295 @@
+{
+ "slug": "basilicata",
+ "name": "Basilicata",
+ "italian_name": "Basilicata",
+ "area": "south",
+ "capital": "Potenza",
+ "tagline": "Cave cities, Lucanian Dolomites and a slice of coast few people find.",
+ "intro": [
+  "Basilicata, the old Lucania, is the instep of Italy's boot and one of the least visited regions in the country. That is its charm. Most of it is mountain and clay badland, with villages clinging to ridges, and it touches two seas: a short, dramatic stretch of Tyrrhenian cliffs at Maratea and a long Ionian beach of pine woods and Greek ruins at Metaponto.",
+  "Then there is Matera, a city carved into a ravine, whose cave dwellings went from national scandal in the 1950s to UNESCO site and European Capital of Culture in 2019. Beyond it, you'll find stone villages in the Lucanian Dolomites, the high wild beech woods of the Pollino and an extinct volcano covered in Aglianico vines. Food is frugal and fierce: crisp sweet peppers, chilli, sausage, hard bread and very good red wine."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Matera--_al_tramonto--Italy-.JPG/1280px-Matera--_al_tramonto--Italy-.JPG",
+  "alt": "Matera's Civita and cathedral bell tower glowing with lights at dusk above the cave houses of the Sassi",
+  "credit": "Cristoforo64, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMatera--_al_tramonto--Italy-.JPG"
+ },
+ "known_for": [
+  "Sassi di Matera",
+  "Rock-cut churches",
+  "Lucanian Dolomites",
+  "Aglianico del Vulture",
+  "Peperoni cruschi",
+  "Pollino National Park"
+ ],
+ "best_time": "April to June and September to October are best for walking and for Matera, which can be very hot in August. July and August suit the Pollino's mountain trails and Maratea's coves.",
+ "getting_there": "There is no airport: fly to Bari, about an hour from Matera, or to Naples for Potenza and Maratea. FAL trains link Bari with Matera, and Trenitalia serves Potenza and Maratea, but buses are sparse and a car is essential for the mountain villages.",
+ "places": [
+  {
+   "name": "Matera",
+   "desc": "A city of two ravines, the Sasso Caveoso and Sasso Barisano, honeycombed with caves people lived in for thousands of years. Wander the stairways, visit a restored cave house and the frescoed rock church of Santa Maria de Idris, then cross the gorge to the Murgia park for the view back at sunset.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sasso_Caveoso_%28Matera%29_02.jpg/1280px-Sasso_Caveoso_%28Matera%29_02.jpg",
+    "alt": "Stone houses, stairways and cave dwellings of the Sasso Caveoso in Matera",
+    "credit": "Bernard Gagnon, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASasso_Caveoso_%28Matera%29_02.jpg"
+   }
+  },
+  {
+   "name": "Maratea",
+   "desc": "Basilicata's only Tyrrhenian town, with 30 kilometres of cliffs, black-sand coves and caves. The old town has dozens of churches; above it, a 21-metre white statue of Christ the Redeemer looks out over the Gulf of Policastro. Swim at Cala Jannita or take a boat to the Grotta della Sciabica.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Maratea_-_View_from_Cristo_Redentore.jpg/1280px-Maratea_-_View_from_Cristo_Redentore.jpg",
+    "alt": "The coast of Maratea and its small harbour seen from the mountain of the Christ the Redeemer statue",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMaratea_-_View_from_Cristo_Redentore.jpg"
+   }
+  },
+  {
+   "name": "Castelmezzano and Pietrapertosa",
+   "desc": "Two stone villages tucked among the jagged sandstone peaks of the Lucanian Dolomites. Walk the Sentiero delle Sette Pietre between them, or fly across the valley at up to 120 km/h on the Volo dell'Angelo zip line. Pietrapertosa's Arab-Norman castle is carved into the rock.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Castelmezzano-a.jpg/1280px-Castelmezzano-a.jpg",
+    "alt": "The houses of Castelmezzano huddled beneath the jagged sandstone peaks of the Lucanian Dolomites",
+    "credit": "Mboesch, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACastelmezzano-a.jpg"
+   }
+  },
+  {
+   "name": "Pollino National Park",
+   "desc": "Italy's largest national park, shared with Calabria, rises to more than 2,200 metres. Hike to Serra di Crispo to see the twisted pino loricato, the rare Bosnian pine, on the ridges, raft the Lao gorge, or visit the Arbëreshë villages of San Paolo Albanese and San Costantino Albanese.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Massiccio_del_Pollino%2C_Serra_di_Crispo_-_giardino_degli_dei_%28pini_loricati%29.jpg/1280px-Massiccio_del_Pollino%2C_Serra_di_Crispo_-_giardino_degli_dei_%28pini_loricati%29.jpg",
+    "alt": "Ancient Bosnian pines on the limestone ridge of Serra di Crispo in the Pollino mountains",
+    "credit": "Fuoco Fatuo, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMassiccio_del_Pollino%2C_Serra_di_Crispo_-_giardino_degli_dei_%28pini_loricati%29.jpg"
+   }
+  },
+  {
+   "name": "Venosa",
+   "desc": "The birthplace of the Roman poet Horace, with an Aragonese castle, a Roman archaeological park, and the extraordinary unfinished abbey church of the Santissima Trinità, its roofless Norman nave built with stones from the Roman amphitheatre. Taste Aglianico in the local cellars.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SS._Trinit%C3%A0_Venosa.jpg/1280px-SS._Trinit%C3%A0_Venosa.jpg",
+    "alt": "The abbey of the Santissima Trinità at Venosa beyond the excavated Roman ruins",
+    "credit": "D.N.R., Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASS._Trinit%C3%A0_Venosa.jpg"
+   }
+  },
+  {
+   "name": "Monte Vulture and Monticchio",
+   "desc": "An extinct volcano in the north, its slopes planted with Aglianico vines and chestnut woods. In the old crater lie the two Lakes of Monticchio, with the Abbey of San Michele clinging to the hillside above them. Nearby Melfi has Frederick II's castle and a fine museum.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Panoramica_Laghi_di_Monticchio.jpg/1280px-Panoramica_Laghi_di_Monticchio.jpg",
+    "alt": "One of the Lakes of Monticchio, deep blue among green forest in the old crater of Monte Vulture",
+    "credit": "Abbrey82, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanoramica_Laghi_di_Monticchio.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Watch dawn over the Sassi",
+   "desc": "Walk to the Belvedere di Murgia Timone across the ravine before sunrise and watch the light hit Matera's caves and bell towers. On the way, explore the rock churches cut into the Murgia."
+  },
+  {
+   "title": "Fly the Volo dell'Angelo",
+   "desc": "Strapped into a harness, you zip on a steel cable between Pietrapertosa and Castelmezzano, high above the valley. Open from spring to autumn; book ahead."
+  },
+  {
+   "title": "Visit the Crypt of Original Sin",
+   "desc": "A cave church near Matera with 9th-century frescoes of the Creation and the Fall, so vivid it has been called the Sistine Chapel of rock art. Visits by reservation only."
+  },
+  {
+   "title": "Go down into the Palombaro Lungo",
+   "desc": "An enormous cistern under Matera's Piazza Vittorio Veneto, carved by hand and big enough to hold five million litres of water. Walkways lead along the waterline."
+  },
+  {
+   "title": "Taste Aglianico in a tuff cellar",
+   "desc": "In Barile and Rionero in Vulture, wine has long been aged in caves dug into the volcanic rock. Book a tasting at a family estate and pair it with local caciocavallo."
+  },
+  {
+   "title": "Cross the Tibetan bridge at Castelsaraceno",
+   "desc": "A footbridge of more than 580 metres strung high over a gorge in the Pollino-Lagonegrese area, among the longest of its kind in the world. Not for the faint-hearted."
+  },
+  {
+   "title": "Walk among Greek temples at Metaponto",
+   "desc": "On the Ionian coast, the fifteen Doric columns of the Tavole Palatine stand in farmland. Pair them with a swim on the long sandy beach backed by pine woods."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Peperoni cruschi",
+   "type": "dish",
+   "desc": "Sun-dried sweet peppers from Senise, flash-fried until crisp and crumbled over pasta, eggs or baccalà. The region's signature crunch."
+  },
+  {
+   "name": "Aglianico del Vulture",
+   "type": "wine",
+   "desc": "A deep, tannic red from vines on the volcanic slopes of Monte Vulture. The Superiore is DOCG and ages beautifully."
+  },
+  {
+   "name": "Pane di Matera IGP",
+   "type": "bread",
+   "desc": "A big durum-wheat sourdough loaf, often shaped like a horn, with a thick crust and a yellow crumb that keeps for a week."
+  },
+  {
+   "name": "Lucanica",
+   "type": "cured meat",
+   "desc": "A spiced pork sausage so old that Roman writers named it after Lucania. Look for Lucanica di Picerno IGP, flavoured with fennel and chilli."
+  },
+  {
+   "name": "Canestrato di Moliterno IGP",
+   "type": "cheese",
+   "desc": "A sharp sheep's and goat's milk cheese aged in wicker baskets in special cool rooms called fondaci."
+  },
+  {
+   "name": "Crapiata",
+   "type": "dish",
+   "desc": "A Matera soup of chickpeas, beans, lentils, broad beans and wheat, made together to celebrate the harvest, traditionally on 1 August."
+  },
+  {
+   "name": "Strascinati with mollica",
+   "type": "dish",
+   "desc": "Hand-dragged pasta tossed with breadcrumbs fried in olive oil, peperoni cruschi and sometimes anchovies. Poor food at its best."
+  },
+  {
+   "name": "Melanzana rossa di Rotonda DOP",
+   "type": "dish",
+   "desc": "A red-orange aubergine that looks like a tomato, grown in the Pollino and preserved under oil. Slightly bitter and fruity."
+  },
+  {
+   "name": "Amaro Lucano",
+   "type": "spirit",
+   "desc": "A bittersweet herbal liqueur created in Pisticci in 1894 and now one of Italy's best-known digestivi."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Tiri",
+   "city": "Acerenza and Potenza",
+   "since": "1957",
+   "desc": "The Tiri family's bakery began in the hill town of Acerenza; grandson Vincenzo Tiri's panettone is now among Italy's most acclaimed. Visit the Potenza shop for leavened cakes all year round.",
+   "url": "https://www.tiri1957.it/"
+  },
+  {
+   "name": "Panificio Cifarelli",
+   "city": "Matera",
+   "since": "1947",
+   "desc": "A third-generation bakery on Via Istria, among the few in Matera still with a wood-fired oven. Join the queue for a horn-shaped loaf of pane di Matera and some focaccia.",
+   "url": "https://www.panificiocifarelli.it/"
+  },
+  {
+   "name": "Da Peppe",
+   "city": "Rotonda",
+   "since": "1980",
+   "desc": "A family osteria in the Pollino, Slow Food-recommended, devoted to mountain cooking: red aubergines of Rotonda, local beans, mushrooms and lamb. The De Marco family also run a few guest rooms."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Sleep in a cave in the Sassi",
+   "desc": "Sextantio Le Grotte della Civita has 18 cave rooms in Matera's oldest quarter, restored with bare stone, candlelight and simple antique furniture. Breakfast is served in a former rock church with views over the ravine.",
+   "url": "https://www.sextantio.it/"
+  },
+  {
+   "title": "An albergo diffuso near Matera",
+   "desc": "Il Borgo Ritrovato in Montescaglioso spreads its rooms across restored historic houses in the old centre, a quiet base 18 km from the Sassi with a view over the Bradano valley."
+  },
+  {
+   "title": "A village base in the Pollino",
+   "desc": "Il Borgo Ospitale in Rotonda is an albergo diffuso set among the lanes of the old town, a good base for walks in the national park and dinners at the village osterie."
+  },
+  {
+   "title": "A farm stay in the Vulture",
+   "desc": "Family agriturismi on the slopes of Monte Vulture, around Rionero and Barile, offer rooms among the vines, Aglianico from their own cellars and dinners of handmade pasta, lamb and local caciocavallo."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Matera",
+   "to": "Craco",
+   "how": "50 min by car",
+   "desc": "Join a guided walk through this ghost town, abandoned after a landslide in 1963, its tower and empty houses rising out of the clay badlands."
+  },
+  {
+   "from": "Matera",
+   "to": "Castelmezzano and Pietrapertosa",
+   "how": "1h15 by car",
+   "desc": "Drive into the Lucanian Dolomites for the zip line or the Seven Stones trail, and lunch on peperoni cruschi in Castelmezzano."
+  },
+  {
+   "from": "Potenza",
+   "to": "Venosa and Melfi",
+   "how": "1h by car",
+   "desc": "Spend a day in the north: Horace's hometown and its unfinished abbey, then Frederick II's castle at Melfi and a winery in the Vulture."
+  },
+  {
+   "from": "Matera",
+   "to": "Metaponto",
+   "how": "45 min by car",
+   "desc": "Visit the Tavole Palatine temple and the archaeological museum of this Greek colony, where Pythagoras died, then spend the afternoon on the long Ionian beach."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Craco",
+   "desc": "A medieval village on a clay ridge, abandoned after a landslide in 1963. Its Norman tower and empty palazzi have starred in films from The Passion of the Christ to Quantum of Solace. Visits are by guided tour, with hard hats.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Craco_il_paese_fantasma.jpg/1280px-Craco_il_paese_fantasma.jpg",
+    "alt": "The abandoned hilltop village of Craco with its Norman tower against a blue sky",
+    "credit": "Maurizio Moro5153, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACraco_il_paese_fantasma.jpg"
+   }
+  },
+  {
+   "name": "Aliano",
+   "desc": "The village where the anti-fascist writer Carlo Levi was exiled in 1935-36, which he described in Christ Stopped at Eboli. See his house, the literary park and the 'calanchi', eerie white clay gullies all around.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Aliano_scorcio.jpg/1280px-Aliano_scorcio.jpg",
+    "alt": "The houses of Aliano on the edge of eroded clay cliffs",
+    "credit": "Michele !O-Zone\" Pinassi, CC BY 2.5 it, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAliano_scorcio.jpg"
+   }
+  },
+  {
+   "name": "Acerenza",
+   "desc": "A hill town known as the 'cathedral city', its great Romanesque cathedral rising high over the Bradano valley. Wander its walls for the views, then stop at the Tiri family's first bakery.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Acerenza.JPG/1280px-Acerenza.JPG",
+    "alt": "The hilltop town of Acerenza above vineyards and fields",
+    "credit": "Aquilachrysaetos at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAcerenza.JPG"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Festa della Bruna",
+   "when": "2 July",
+   "where": "Matera",
+   "desc": "Matera's patron, the Madonna della Bruna, rides through town on a papier-mâché float that the crowd tears to pieces at the end of the night, the 'strazzo', to take home as good-luck charms.",
+   "url": "https://www.festadellabruna.it/"
+  },
+  {
+   "name": "Maggio di Accettura",
+   "when": "Pentecost weekend (late May or June)",
+   "where": "Accettura",
+   "desc": "An ancient tree wedding: a huge oak from the Montepiano forest and a holly from the Gallipoli Cognato woods are hauled into town by oxen, joined, raised and climbed."
+  },
+  {
+   "name": "Carnevale di Tricarico",
+   "when": "17 January to Shrove Tuesday",
+   "where": "Tricarico",
+   "desc": "Men dressed as cows and bulls, with ribbons, masks and clanging cowbells, rush through the streets in a ritual 'transhumance' that opens on Sant'Antonio Abate's day."
+  },
+  {
+   "name": "Madonna Nera di Viggiano",
+   "when": "First Sunday of May and first Sunday of September",
+   "where": "Viggiano",
+   "desc": "Pilgrims carry the Black Madonna up to her mountain sanctuary in May and bring her back down in September, accompanied by harps and bagpipes."
+  }
+ ],
+ "culture": "Basilicata's culture is rural and ritual. Spring 'tree feasts' like the Maggio of Accettura, the cow-and-bull masks of Tricarico's carnival and the procession of the Black Madonna of Viggiano echo far older beliefs. Viggiano was home to travelling harpists who played across Europe; the zampogna bagpipe still accompanies feast days. Carlo Levi's Christ Stopped at Eboli made the region's poverty famous, and Matera's caves have been a film set since Pasolini's Gospel According to Saint Matthew. Arbëreshë villages keep Albanian dress and language, and Matera's potters still make the rooster-shaped terracotta whistle, the cuccù.",
+ "official_site": "https://www.basilicataturistica.it/"
+}

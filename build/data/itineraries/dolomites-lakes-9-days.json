@@ -1,0 +1,219 @@
+{
+ "slug": "dolomites-lakes-9-days",
+ "title": "Lakes & Dolomites",
+ "headline": "From Lake Como to the Dolomite peaks",
+ "days": 9,
+ "style": "Mountains",
+ "tagline": "Milan's Last Supper, villas on Lake Como, Verona's arena and the jagged peaks of South Tyrol in one northern loop.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg/1280px-Sonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg",
+  "alt": "The Tre Cime di Lavaredo glowing orange at sunset above a stony plateau",
+  "credit": "Andrea Schieber, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ASonnenuntergang_mit_Blick_auf_die_Drei_Zinnen_%28cropped%29.jpg"
+ },
+ "summary": "Northern Italy changes fast: in a single week you go from Milan's design shops to lakeside villa gardens, Roman Verona and then up into the Dolomites, where the menus switch to dumplings and the signs to German. This route uses trains and ferries for the cities and lakes, then a hire car from Bolzano for the mountains: the church of St Johann in Ranui under the Odle peaks, the Seceda ridge above Val Gardena, Lago di Braies and the Tre Cime di Lavaredo loop. The Dolomites now need some planning, as the most famous spots use online reservations in summer.",
+ "route": [
+  "Milan",
+  "Varenna",
+  "Bellagio",
+  "Verona",
+  "Sirmione",
+  "Bolzano",
+  "Val di Funes",
+  "Ortisei",
+  "Seceda",
+  "Lago di Braies",
+  "Tre Cime di Lavaredo"
+ ],
+ "regions": [
+  "lombardy",
+  "veneto",
+  "trentino-alto-adige"
+ ],
+ "best_season": "Mid-June to late September, when the mountain lifts and huts are open and the Tre Cime road is clear of snow. Late June and September are the sweet spots: fewer crowds, open huts and wildflowers or autumn larches. Lake Como is lovely from April to October.",
+ "getting_around": "Trains from Milan to Varenna (about 1h on Trenord), then Navigazione Laghi ferries across the lake. Varenna to Verona is about 2h30 by train with a change in Milan, and Verona to Bolzano about 1h30. Pick up a hire car in Bolzano for the mountain days and return it in Bolzano or Venice. South Tyrol's buses are excellent, but a car lets you reach trailheads at dawn.",
+ "budget_note": "Plan on €180-280 per person per day mid-range; lift tickets, toll roads and lakeside hotels add up.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Milan: the Duomo and the Last Supper",
+   "base": "Milan",
+   "desc": "Climb (or take the lift) onto the roof terraces of the Duomo, where you walk among marble spires with the Alps visible on clear days. Walk through the Galleria Vittorio Emanuele II to La Scala, then to Brera for the Pinacoteca. Leonardo's Last Supper at Santa Maria delle Grazie is seen in 15-minute slots that sell out months ahead in batches, so book the moment they go on sale. Spend the evening on the Navigli canals for aperitivo.",
+   "highlights": [
+    "Duomo rooftop",
+    "The Last Supper",
+    "Aperitivo on the Navigli"
+   ],
+   "eat": "Risotto alla milanese with saffron and ossobuco, or a cotoletta alla milanese the size of the plate.",
+   "stay": "Brera, for walkable streets and good restaurants."
+  },
+  {
+   "day": "2",
+   "title": "Train to Lake Como",
+   "base": "Varenna",
+   "desc": "Take a Trenord train from Milano Centrale to Varenna-Esino (about 1h). Varenna is a small, steep village with a lakeside promenade and the gardens of Villa Monastero. Walk up to the Castello di Vezio for the view down the lake, then take the short ferry to Bellagio, at the point where the lake's two arms meet, for the evening. The lakeside path, the Passeggiata degli Innamorati, links the ferry pier to the village centre and is at its best in the evening.",
+   "highlights": [
+    "Varenna's lakeside walkway",
+    "Castello di Vezio",
+    "Ferry to Bellagio at golden hour"
+   ],
+   "eat": "Missoltini (sun-dried shad) and lavarello (lake whitefish) with polenta.",
+   "stay": "Varenna: quieter than Bellagio, with the train station on the doorstep."
+  },
+  {
+   "day": "3",
+   "title": "Villas of Lake Como",
+   "base": "Varenna",
+   "desc": "Buy a day ferry pass and hop around the central lake. Visit Villa Carlotta in Tremezzo, with its azaleas and Canova sculptures, and Villa del Balbianello on its wooded promontory at Lenno, best reached by water taxi from Lenno (book a timed entry). Stop in Bellagio for the Villa Melzi gardens and lunch, and ride the ferry back to Varenna at sunset.",
+   "highlights": [
+    "Villa del Balbianello",
+    "Villa Carlotta gardens",
+    "Bellagio by ferry"
+   ],
+   "eat": "Risotto with perch (risotto al pesce persico), the lake's classic dish.",
+   "stay": "Same base in Varenna."
+  },
+  {
+   "day": "4",
+   "title": "Verona",
+   "base": "Verona",
+   "desc": "Take the train back via Milan to Verona (about 2h30). Walk from the Roman Arena in Piazza Bra down Via Mazzini to Piazza delle Erbe and the Scaliger tombs. Skip the crowd at Juliet's balcony and go instead to the church of San Zeno Maggiore for its bronze doors. Cross the Ponte Pietra and climb to Castel San Pietro for sunset over the river. In summer, book an opera night at the Arena.",
+   "highlights": [
+    "Roman Arena",
+    "Piazza delle Erbe",
+    "Sunset from Castel San Pietro"
+   ],
+   "eat": "Antica Bottega del Vino, a historic wine bar and restaurant off Via Mazzini with a vast cellar of Amarone and Valpolicella; order risotto all'Amarone.",
+   "stay": "Inside the old city, between Piazza Bra and Piazza delle Erbe."
+  },
+  {
+   "day": "5",
+   "title": "Lake Garda, then up to Bolzano",
+   "base": "Bolzano",
+   "desc": "Take an early train to Desenzano del Garda (about 25 minutes) and a bus or boat to Sirmione, a village on a narrow peninsula with a moated castle and the Roman Grotte di Catullo villa. In the afternoon take the train north to Bolzano (about 1h30 from Verona) and arrive into a different world of arcaded streets, German signs and the Dolomites on the skyline. See Ötzi the Iceman, a 5,300-year-old mummy, at the South Tyrol Museum of Archaeology.",
+   "highlights": [
+    "Sirmione's Scaliger castle",
+    "Grotte di Catullo",
+    "Ötzi the Iceman in Bolzano"
+   ],
+   "eat": "Speckknödel (bacon dumplings) and a glass of Lagrein, Bolzano's own red, under the Laubengasse arcades.",
+   "stay": "Bolzano's old town near Piazza Walther; pick up the hire car in the morning."
+  },
+  {
+   "day": "6",
+   "title": "Val di Funes",
+   "base": "Ortisei (Val Gardena)",
+   "desc": "Drive about 45 minutes to Val di Funes (Villnöss). The little church of St Johann in Ranui, set in a meadow beneath the Odle (Geisler) peaks, is one of the most photographed views in the Alps; look from the viewing point on the road rather than entering the fenced field. Then drive to the Zans car park and walk the Adolf Munkel trail, a gentle path along the base of the Odle wall, with a lunch stop at a mountain hut. Drive over to Ortisei in Val Gardena for the night.",
+   "highlights": [
+    "St Johann in Ranui",
+    "Santa Maddalena viewpoint",
+    "Adolf Munkel trail"
+   ],
+   "eat": "Kaiserschmarrn (shredded pancake with plum jam) and buttermilk at the Geisleralm hut below the Odle.",
+   "stay": "Ortisei (St Ulrich), Val Gardena's main village, with lifts in the centre."
+  },
+  {
+   "day": "7",
+   "title": "Seceda ridge",
+   "base": "Ortisei (Val Gardena)",
+   "desc": "Take the Ortisei-Furnes-Seceda cable cars to 2,500 metres for the famous view of the Odle ridge rising like a sail from green meadows. Buy tickets online in advance: summer demand is so high that the lift company has moved towards time-slot reservations, and Gardena Card holders must reserve a free slot. Walk down via the Pieralongia meadows to Col Raiser, then ride that gondola down to Santa Cristina. In 2025 some landowners charged a fee at a turnstile on one path across their meadows, so carry a few euros.",
+   "highlights": [
+    "Seceda ridge viewpoint",
+    "Pieralongia meadows",
+    "Walk down to Col Raiser"
+   ],
+   "eat": "Schlutzkrapfen (spinach and ricotta half-moon ravioli) at a hut on the way down to Col Raiser.",
+   "stay": "Same base in Ortisei."
+  },
+  {
+   "day": "8",
+   "title": "Gardena Pass and Lago di Braies",
+   "base": "Dobbiaco (Toblach)",
+   "desc": "Drive over the Gardena Pass beneath the Sella massif into Val Badia, then east through the Puster valley to Lago di Braies (about 2h). The emerald lake has a flat 1h loop path and rowing boats for hire. In summer (around July to mid-September), driving to the lake between 9am and 4pm requires an online parking reservation; outside those hours, and from 16 September 2026, you can just turn up. Sleep in Dobbiaco, close to the Tre Cime road.",
+   "highlights": [
+    "Gardena Pass",
+    "Lago di Braies loop walk",
+    "Rowing on the lake"
+   ],
+   "eat": "Canederli in brodo and apple strudel at a Puster valley guesthouse.",
+   "stay": "Dobbiaco or San Candido, both near the start of the Tre Cime road."
+  },
+  {
+   "day": "9",
+   "title": "Tre Cime di Lavaredo",
+   "base": "Dobbiaco (Toblach)",
+   "desc": "Drive to Misurina and up the toll road to Rifugio Auronzo. Driving it now requires an online reservation made by 11:59pm the day before (€40 per car in 2026, including parking); the alternative is bus 444 from Dobbiaco, which also needs booking. Walk the loop around the three peaks (about 10km, 3-4 hours) past Rifugio Lavaredo and Forcella Lavaredo to Rifugio Locatelli, which looks straight at the great north faces. Afterwards return the car in Bolzano (about 2h) or drive to Venice airport (about 2h30).",
+   "highlights": [
+    "Tre Cime loop",
+    "North faces from Rifugio Locatelli",
+    "Lago di Misurina"
+   ],
+   "eat": "Strudel and a radler on the terrace of Rifugio Locatelli (Dreizinnenhütte).",
+   "stay": "Depart, or add a night in Cortina d'Ampezzo."
+  }
+ ],
+ "tips": [
+  "Last Supper tickets go on sale in four-month batches at noon Milan time; set a reminder, as entry-only tickets sell out within hours.",
+  "Book the Tre Cime toll road and the Braies parking as soon as your dates are fixed; neither sells same-day.",
+  "The Gardena Card and Südtirol Guest Pass cover many lifts and buses; check which need a free reservation.",
+  "Mountain weather turns quickly: start hikes early, carry layers and check the forecast at the hut.",
+  "Lifts and huts close between seasons (roughly April-May and October-November); check dates before booking."
+ ],
+ "book": [
+  {
+   "label": "The Last Supper (Cenacolo Vinciano)",
+   "url": "https://cenacolovinciano.org/en/",
+   "desc": "Ticket release dates and official booking"
+  },
+  {
+   "label": "Milan Cathedral",
+   "url": "https://www.duomomilano.it/en/",
+   "desc": "Rooftop and cathedral tickets"
+  },
+  {
+   "label": "Trenord",
+   "url": "https://www.trenord.it/en/",
+   "desc": "Milan to Varenna and Lake Garda regional trains"
+  },
+  {
+   "label": "Navigazione Laghi",
+   "url": "https://www.navigazionelaghi.it/en/",
+   "desc": "Ferries on Lake Como and Lake Garda"
+  },
+  {
+   "label": "Arena di Verona",
+   "url": "https://www.arena.it/en/",
+   "desc": "Opera festival tickets"
+  },
+  {
+   "label": "South Tyrol Museum of Archaeology",
+   "url": "https://www.iceman.it/en/",
+   "desc": "Ötzi the Iceman"
+  },
+  {
+   "label": "Seceda cable car",
+   "url": "https://www.seceda.it/en/",
+   "desc": "Lift times, prices and online tickets"
+  },
+  {
+   "label": "Lago di Braies parking",
+   "url": "https://www.pragsparking.com/en",
+   "desc": "Summer parking reservations"
+  },
+  {
+   "label": "Tre Cime toll road",
+   "url": "https://auronzo.info/en/parking-tre-cime-di-lavaredo/",
+   "desc": "Rules and the link to book the toll road and parking"
+  },
+  {
+   "label": "Tre Cime shuttle bus",
+   "url": "https://www.drei-zinnen.bz/ticket",
+   "desc": "Book line 444 from Dobbiaco"
+  },
+  {
+   "label": "Südtirolmobil",
+   "url": "https://www.suedtirolmobil.info/en",
+   "desc": "South Tyrol bus and train timetables"
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "slug": "emilia-romagna",
+ "name": "Emilia-Romagna",
+ "italian_name": "Emilia-Romagna",
+ "area": "north",
+ "capital": "Bologna",
+ "tagline": "Italy's food valley: porticoed cities, Parmigiano, Byzantine gold and Adriatic beaches.",
+ "intro": [
+  "Draw a line along the old Roman Via Emilia from Piacenza to Rimini and you have threaded together Italy's greatest food cities: Parma, Reggio Emilia, Modena and Bologna. This is the land of Parmigiano Reggiano, Prosciutto di Parma, traditional balsamic vinegar and tortellini folded by hand, and of Ferrari, Lamborghini and Ducati too. The cities are prosperous, walkable and arcaded, ideal for a slow trip by train.",
+  "Romagna, the eastern half, has a different temperament: warmer, louder and nearer the sea. Ravenna's Byzantine mosaics glow in dim churches, Rimini and the Riviera fill up with beach umbrellas and nightlife in summer, and the hills behind are dotted with castles, spa towns and Sangiovese vineyards. Between the two lie the Po delta lagoons around Comacchio, flat and luminous, full of flamingos and eel fishermen's huts."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bologna_Panorama.jpg/1280px-Bologna_Panorama.jpg",
+  "alt": "Bologna's sea of terracotta roofs, domes and medieval towers seen from San Petronio",
+  "credit": "Ввласенко, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABologna_Panorama.jpg"
+ },
+ "known_for": [
+  "Parmigiano Reggiano",
+  "Bologna's porticoes",
+  "Ravenna's mosaics",
+  "Balsamic vinegar of Modena",
+  "Motor Valley",
+  "Fresh egg pasta",
+  "The Romagna Riviera"
+ ],
+ "best_time": "April to June and September to October are best for city visits and food tours, when cheese dairies and acetaie are busy. Summer suits the Riviera and Ravenna Festival, though the cities get very hot. In autumn there are truffle and chestnut fairs in the hills, and November fog wraps the plain in a lovely melancholy.",
+ "getting_there": "Bologna's Marconi airport is the main gateway, with a monorail to the central station, and Parma and Rimini have smaller airports. Bologna Centrale is Italy's rail crossroads, under 40 minutes from Florence and about an hour from Milan by high-speed train. Regional trains along the Via Emilia link every city, so you don't need a car except in the hills.",
+ "places": [
+  {
+   "name": "Bologna",
+   "desc": "Walk under 62 km of UNESCO-listed porticoes from Piazza Maggiore to the two leaning towers. Shop in the Quadrilatero's market lanes, climb the Asinelli tower or walk up to San Luca, and eat tortellini in brodo and tagliatelle al ragù in an osteria.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg/1280px-Bologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg",
+    "alt": "Piazza Maggiore in Bologna with the Palazzo del Podestà, medieval towers and San Petronio",
+    "credit": "Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABologna_-_Piazza_Maggiore_from_Palazzo_Comunale.jpg"
+   }
+  },
+  {
+   "name": "Modena",
+   "desc": "The Romanesque cathedral and its Ghirlandina tower are a UNESCO site, and the Albinelli market is a feast of local produce. Visit an attic acetaia to taste aged balsamic, tour the Enzo Ferrari museum, and book well ahead if you dream of Osteria Francescana.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/%E3%83%A2%E3%83%87%E3%83%8A%E3%81%AEPiazza_Grande_%2836309429504%29.jpg/1280px-%E3%83%A2%E3%83%87%E3%83%8A%E3%81%AEPiazza_Grande_%2836309429504%29.jpg",
+    "alt": "Modena's Romanesque cathedral and Ghirlandina tower on Piazza Grande",
+    "credit": "nimame, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3A%E3%83%A2%E3%83%87%E3%83%8A%E3%81%AEPiazza_Grande_%2836309429504%29.jpg"
+   }
+  },
+  {
+   "name": "Parma",
+   "desc": "An elegant ducal city of pink and ochre: Correggio's swirling dome in the cathedral, the octagonal Baptistery, and the wooden Teatro Farnese in the Pilotta palace. Visit a Parmigiano dairy at dawn and a prosciutto house in Langhirano, and catch Verdi at the Teatro Regio.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Parma_dal_Duomo%2C_settembre_2014-1_%2815481932581%29.jpg/1280px-Parma_dal_Duomo%2C_settembre_2014-1_%2815481932581%29.jpg",
+    "alt": "Parma's rooftops and church towers seen from the cathedral",
+    "credit": "Città di Parma, CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AParma_dal_Duomo%2C_settembre_2014-1_%2815481932581%29.jpg"
+   }
+  },
+  {
+   "name": "Ravenna",
+   "desc": "The last capital of the Western Roman Empire has eight UNESCO-listed monuments covered in gold, blue and green mosaics. Don't miss San Vitale's Justinian and Theodora, the starry vault of Galla Placidia's mausoleum, and Sant'Apollinare in Classe out among the pines. Dante's tomb is here too.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sanvitale03.jpg/1280px-Sanvitale03.jpg",
+    "alt": "Gold Byzantine mosaic of Emperor Justinian and his court in San Vitale, Ravenna",
+    "credit": "Roger Culos, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASanvitale03.jpg"
+   }
+  },
+  {
+   "name": "Ferrara",
+   "desc": "The Este dukes' Renaissance city is flat, quiet and best seen by bicycle. Ride the nine kilometres of walls, explore the moated Castello Estense, and walk the medieval Via delle Volte. Order cappellacci di zucca and a slice of salama da sugo, the city's slow-cooked sausage.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castello_dall%27alto.jpg/1280px-Castello_dall%27alto.jpg",
+    "alt": "The moated, red-brick Castello Estense in the centre of Ferrara",
+    "credit": "Nbisi, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACastello_dall%27alto.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "See Parmigiano Reggiano being made",
+   "desc": "Arrive at a caseificio around 8am to watch the curd lifted from copper vats in linen cloths, then walk through cathedral-like aging rooms. Many dairies in the Parma and Reggio hills offer tours."
+  },
+  {
+   "title": "Taste traditional balsamic in an acetaia",
+   "desc": "In family attics around Modena and Spilamberto, vinegar ages for at least twelve years in barrel batteries of different woods. Taste drops on Parmigiano, and even on gelato."
+  },
+  {
+   "title": "Take a pasta class in Bologna",
+   "desc": "Learn to roll sfoglia with a long rolling pin and fold tortellini as small as a navel, the way the sfogline do. Classes run in home kitchens and in the city's food schools."
+  },
+  {
+   "title": "Walk the porticoes to San Luca",
+   "desc": "The world's longest portico climbs nearly four kilometres and 666 arches from Porta Saragozza to the hilltop Sanctuary of the Madonna di San Luca. It's a local Sunday ritual."
+  },
+  {
+   "title": "Visit the Motor Valley",
+   "desc": "Visit the Ferrari museums in Maranello and Modena, the Lamborghini museum at Sant'Agata Bolognese and the Ducati factory in Borgo Panigale. Some tours drive past the Fiorano test track."
+  },
+  {
+   "title": "Explore the Po Delta by boat",
+   "desc": "From Comacchio, flat-bottomed boats glide through the Valli di Comacchio lagoons past flamingos, herons and the old eel-fishing stations. Go at sunset, when the water turns pink."
+  },
+  {
+   "title": "Eat piadina by the sea",
+   "desc": "Romagna's flatbread is cooked on a terracotta or iron griddle and stuffed with squacquerone cheese, rocket and prosciutto. Eat it at a seaside kiosk, a chiosco, on the Riviera."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Tortellini in brodo",
+   "type": "dish",
+   "desc": "Tiny rings of egg pasta filled with pork loin, prosciutto, mortadella and Parmigiano, served in clear capon broth. It's Bologna's Christmas dish."
+  },
+  {
+   "name": "Tagliatelle al ragù",
+   "type": "dish",
+   "desc": "Golden egg ribbons with a slow-simmered meat sauce made with very little tomato. Never call it 'spaghetti bolognese' here."
+  },
+  {
+   "name": "Parmigiano Reggiano DOP",
+   "type": "cheese",
+   "desc": "Aged for at least twelve months and often thirty or more, crystalline and nutty. Eat chunks broken off with a short almond-shaped knife."
+  },
+  {
+   "name": "Prosciutto di Parma DOP",
+   "type": "cured meat",
+   "desc": "Sweet, delicate ham cured only with sea salt and the dry air of the Parma hills, for at least a year."
+  },
+  {
+   "name": "Culatello di Zibello DOP",
+   "type": "cured meat",
+   "desc": "The prized heart of the ham, aged in damp cellars by the Po. Fog and humidity give it its depth."
+  },
+  {
+   "name": "Aceto Balsamico Tradizionale di Modena DOP",
+   "type": "dish",
+   "desc": "Cooked grape must aged for at least twelve years in wooden barrels. It's thick, glossy, sweet-sour and used drop by drop."
+  },
+  {
+   "name": "Mortadella Bologna IGP",
+   "type": "cured meat",
+   "desc": "A huge, silky pork sausage studded with cubes of fat, and sometimes pistachios. Eat it in thin slices or cubed with an aperitivo."
+  },
+  {
+   "name": "Piadina Romagnola IGP",
+   "type": "bread",
+   "desc": "Thin griddled flatbread made with lard, folded around squacquerone and rocket, or ham and cheese."
+  },
+  {
+   "name": "Lambrusco",
+   "type": "wine",
+   "desc": "A dry, fizzy red served cool, made to cut through rich Emilian food. Look for Sorbara or Grasparossa."
+  },
+  {
+   "name": "Sangiovese di Romagna",
+   "type": "wine",
+   "desc": "A fresh, cherry-scented red from the Romagna hills. Drink it with grilled meat, cappelletti or a plate of piadina and salumi."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Osteria del Sole",
+   "city": "Bologna",
+   "since": "1465",
+   "desc": "Bologna's oldest osteria, in the Quadrilatero, serves only wine. Bring your own mortadella and bread from the market stalls next door, and share long tables with students and pensioners.",
+   "url": "https://osteriadelsole.it/"
+  },
+  {
+   "name": "Al Brindisi",
+   "city": "Ferrara",
+   "since": "1435",
+   "desc": "Often called the oldest osteria in the world, behind the cathedral. Copernicus is said to have drunk here as a student. Have a glass of local Bosco Eliceo wine with a plate of cured meats.",
+   "url": "https://www.albrindisi.net/"
+  },
+  {
+   "name": "Hosteria Giusti",
+   "city": "Modena",
+   "since": "1605",
+   "desc": "A tiny dining room with only a few tables, behind one of Italy's oldest delicatessens, the Salumeria Giusti. Book for tortellini, cotechino with zabaglione, and aged balsamic.",
+   "url": "https://hosteriagiusti.it/"
+  },
+  {
+   "name": "Paolo Atti & Figli",
+   "city": "Bologna",
+   "since": "1868",
+   "desc": "A Bolognese bakery and pasta shop on Via Caprarie, famous for handmade tortellini, bread and certosino spice cake. Buy a tray of fresh pasta to cook at your apartment.",
+   "url": "https://www.paoloatti.com/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Antica Corte Pallavicina, Polesine Parmense",
+   "desc": "The Spigaroli family's sixteenth-century castle farm on the Po has a handful of rooms, heritage pigs, cellars full of culatello, and their own farm table. It's a true food lover's stay.",
+   "url": "https://www.anticacortepallavicinarelais.it/"
+  },
+  {
+   "title": "An agriturismo in the Modena hills",
+   "desc": "Family farms around Vignola and Castelvetro rent rooms among cherry orchards and Lambrusco vines. Many keep their own balsamic attic, and the hosts will happily walk you through the barrels before dinner."
+  },
+  {
+   "title": "A farm stay in the Romagna hills",
+   "desc": "Behind Faenza and Brisighella, farmhouses among olive groves and Sangiovese vineyards make a peaceful base. Pick up fresh piadina and squacquerone in the villages, and spend warm evenings on a terrace above the valley."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Bologna",
+   "to": "Modena",
+   "how": "About 25 min by train",
+   "desc": "Visit the cathedral and the Albinelli market in the morning, eat tortellini for lunch, and tour an acetaia in the afternoon."
+  },
+  {
+   "from": "Bologna",
+   "to": "Ravenna",
+   "how": "About 1h20 by train",
+   "desc": "Spend a day among the mosaics of San Vitale, Galla Placidia and the Neonian Baptistery, and eat a piadina in the old town before the train home."
+  },
+  {
+   "from": "Bologna",
+   "to": "Dozza and Brisighella",
+   "how": "About 40 min to 1h by car",
+   "desc": "See Dozza's painted walls and the regional enoteca in its castle, then drive on to Brisighella for its covered donkey lane and three hilltop pinnacles."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Dozza",
+   "desc": "A tiny hilltop village whose house walls are covered in murals left by artists at the biennial Muro Dipinto festival. The Rocca hosts the Enoteca Regionale, a cellar of the region's wines.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vista_sul_borgo.jpg/1280px-Vista_sul_borgo.jpg",
+    "alt": "The hilltop village of Dozza above green woods and the plain",
+    "credit": "Durmas (Durelli Massimo), CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVista_sul_borgo.jpg"
+   }
+  },
+  {
+   "name": "Brisighella",
+   "desc": "A medieval village below three chalk pinnacles crowned with a clock tower, a castle and a sanctuary. Walk the covered Via degli Asini, the donkey lane, and taste the green, peppery Brisighella DOP olive oil.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rocca_dei_Veneziani_-_Brisighella.jpg/1280px-Rocca_dei_Veneziani_-_Brisighella.jpg",
+    "alt": "Brisighella's Rocca fortress silhouetted on its hill at sunset",
+    "credit": "Umberto PaganiniPaganelli, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARocca_dei_Veneziani_-_Brisighella.jpg"
+   }
+  },
+  {
+   "name": "Comacchio",
+   "desc": "A little Venice of canals and bridges in the Po Delta, built around the triple Trepponti bridge. Eat marinated eel, visit the old Manifattura dei Marinati, and take a boat out into the lagoon to see the flamingos.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Trepponti_dell%27antica_pescheria.jpg/1280px-Trepponti_dell%27antica_pescheria.jpg",
+    "alt": "The brick staircases and towers of the Trepponti bridge in Comacchio",
+    "credit": "Adalberto Cencetti, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATrepponti_dell%27antica_pescheria.jpg"
+   }
+  },
+  {
+   "name": "Castell'Arquato",
+   "desc": "A golden-stone village in the hills near Piacenza, with a Romanesque collegiate church, a turreted fortress and views over the Arda valley. Drink a glass of local Gutturnio with thin slices of coppa piacentina in the piazza.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Castell%27Arquato_Building.JPG/1280px-Castell%27Arquato_Building.JPG",
+    "alt": "Romanesque collegiate church and tower in Castell'Arquato's upper square",
+    "credit": "Nauticashades, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACastell%27Arquato_Building.JPG"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Palio di Ferrara",
+   "when": "Last Sunday of May",
+   "where": "Piazza Ariostea, Ferrara",
+   "desc": "Said to be the world's oldest palio, first run in 1259. It's preceded by Renaissance parades and flag-throwing through May, followed by horse, donkey and foot races.",
+   "url": "https://www.paliodiferrara.it/"
+  },
+  {
+   "name": "Ravenna Festival",
+   "when": "June to July",
+   "where": "Ravenna",
+   "desc": "Opera, orchestral music, jazz and dance in basilicas, theatres and the Rocca Brancaleone, with famous conductors and dawn concerts among the mosaics.",
+   "url": "https://www.ravennafestival.org/"
+  },
+  {
+   "name": "Festival Verdi",
+   "when": "Late September to October",
+   "where": "Parma and Busseto",
+   "desc": "Verdi's operas in his home territory, at the Teatro Regio di Parma and the tiny theatre in Busseto, with talks and concerts in the town squares.",
+   "url": "https://teatroregioparma.it/"
+  },
+  {
+   "name": "La Notte Rosa",
+   "when": "June",
+   "where": "Romagna Riviera",
+   "desc": "The Riviera's 'pink night': concerts, fireworks and parties along 110 km of coast from Comacchio to Cattolica, with the whole Riviera lit up in pink until dawn.",
+   "url": "https://www.lanotterosa.it/"
+  }
+ ],
+ "culture": "This is a region of music and conviviality. Verdi was born near Busseto, Pavarotti in Modena, and Bologna is a UNESCO City of Music with a strong rock and cantautori scene. Romagna dances liscio, the ballroom polkas and mazurkas of Secondo Casadei, in seaside halls, and Fellini's Rimini still feels like a film set. Bologna's university, founded in 1088, is the oldest in the Western world. Traditional crafts include hand-rolled sfoglia, Faenza majolica and rust-printed hemp cloths in Romagna. The local dialects are strong and widely spoken.",
+ "official_site": "https://emiliaromagnaturismo.it/en"
+}

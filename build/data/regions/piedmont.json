@@ -1,0 +1,296 @@
+{
+ "slug": "piedmont",
+ "name": "Piedmont",
+ "italian_name": "Piemonte",
+ "area": "north",
+ "capital": "Turin",
+ "tagline": "Royal arcades, Barolo hills and white truffles under an Alpine horizon.",
+ "intro": [
+  "Piedmont means 'at the foot of the mountains', and on a clear day the Alps curve around the whole region like a theatre backdrop. Turin, the first capital of united Italy, is all baroque squares and eighteen kilometres of arcades, a city made for long coffees and chocolate. South of it, the vine-striped Langhe, Roero and Monferrato hills grow Barolo, Barbaresco and Barbera, and they are a UNESCO World Heritage landscape.",
+  "This is the home of Slow Food, and it eats accordingly: hand-cut tajarin rich with egg yolks, plin pinched by hand, vitello tonnato, bagna cauda for sharing, and in autumn white truffles shaved at the table. Further north are quieter pleasures, like the island-dotted lakes of Orta and Maggiore, sacred mountains lined with chapels, and Occitan valleys where the old langue d'oc is still spoken and sung."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/La_morra.jpg/1280px-La_morra.jpg",
+  "alt": "The hilltop village of La Morra above rolling rows of Langhe vineyards",
+  "credit": "Andrea Marchisio Frukko, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ALa_morra.jpg"
+ },
+ "known_for": [
+  "Barolo and Barbaresco",
+  "White truffles of Alba",
+  "Baroque Turin",
+  "Slow Food",
+  "Gianduja chocolate",
+  "Lake Orta",
+  "Vermouth"
+ ],
+ "best_time": "October and November are the best months: harvest colour in the Langhe, fog in the valleys and the Alba white-truffle fair. May to June is good for the lakes and wine roads before the heat, and December brings Turin's lights and hot bicerin.",
+ "getting_there": "Turin Caselle airport has European flights, and Milan Malpensa is close to Lake Maggiore and Orta. High-speed trains reach Turin Porta Nuova from Milan in about an hour. Regional trains serve Asti, Alba and the lakes, but you need a car, or a driver if you plan to taste properly, for the Langhe villages.",
+ "places": [
+  {
+   "name": "Turin",
+   "desc": "Turin's grand arcades run from Piazza Castello down Via Po to the river, with the Mole Antonelliana spike rising above them. See the Egyptian Museum, the Shroud chapel and the Venaria Reale palace, then drink vermouth at aperitivo time in Piazza San Carlo. From the Monte dei Cappuccini terrace at dusk, the Alps turn pink behind the city.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1280px-Mole_Antonelliana_di_sera.jpg",
+    "alt": "The Mole Antonelliana rising over Turin at dusk with the snowy Alps behind",
+    "credit": "Abbrey82, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMole_Antonelliana_di_sera.jpg"
+   }
+  },
+  {
+   "name": "Barolo and the Langhe",
+   "desc": "Hilltop villages of castles and church towers look across rows of Nebbiolo vines. Taste at the Enoteca Regionale in Barolo's castle, climb the belvedere at La Morra for the classic view, and come down for tajarin at a village trattoria. Alba, the region's truffle capital, has medieval towers and a Saturday market.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Barolo_veduta.JPG/1280px-Barolo_veduta.JPG",
+    "alt": "The village of Barolo and its castle surrounded by vineyard-covered hills",
+    "credit": "Georgius LXXXIX, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABarolo_veduta.JPG"
+   }
+  },
+  {
+   "name": "Orta San Giulio",
+   "desc": "This is the Italian lakes at their most intimate. Orta's piazza opens onto the water, and its painted palazzi are cut through by steep cobbled lanes. Take a boat to the Isola San Giulio, where nuns keep a silent Benedictine abbey, and walk up to the Sacro Monte, where twenty chapels tell the life of Saint Francis.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/OrtaSanGiulioAug132024_03.jpg/1280px-OrtaSanGiulioAug132024_03.jpg",
+    "alt": "Aerial view of Orta San Giulio's peninsula of terracotta roofs on Lake Orta",
+    "credit": "Hagai Agmon-Snir, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOrtaSanGiulioAug132024_03.jpg"
+   }
+  },
+  {
+   "name": "Borromean Islands, Lake Maggiore",
+   "desc": "From Stresa, ferries hop to three islands in the bay. Isola Bella has a baroque palace with ten terraces of gardens, white peacocks and shell grottoes. Isola Madre has rare trees and parrots in the wisteria. Isola dei Pescatori is a fishing village where you can eat lake perch at the water's edge.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lago-Maggiore_1387.JPG/1280px-Lago-Maggiore_1387.JPG",
+    "alt": "Lake Maggiore and the Borromean Islands seen from the slopes of Mottarone",
+    "credit": "Mbdortmund, GFDL 1.2, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALago-Maggiore_1387.JPG"
+   }
+  },
+  {
+   "name": "Sacra di San Michele",
+   "desc": "This thousand-year-old abbey crowns Monte Pirchiriano at the mouth of the Val di Susa, and it partly inspired the abbey in Umberto Eco's 'The Name of the Rose'. Climb the Scalone dei Morti, the steep staircase carved into the rock, to the Zodiac Door and a terrace looking out over the Turin plain.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sacra_di_San_Michele07.jpg/1280px-Sacra_di_San_Michele07.jpg",
+    "alt": "The Sacra di San Michele abbey rising from a sea of cloud on its rocky summit",
+    "credit": "Elio Pallard, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASacra_di_San_Michele07.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Drink a bicerin where it was born",
+   "desc": "At Caffè Al Bicerin, opposite the Consolata sanctuary, espresso, hot chocolate and cream come layered in a small glass. Don't stir it. Go mid-morning on a weekday for a chance at one of the few marble tables."
+  },
+  {
+   "title": "Hunt for truffles with a trifolau",
+   "desc": "In autumn, follow a truffle hunter and his dog through oak and poplar woods around Alba, often at night. Afterwards, shave your share over a plate of tajarin."
+  },
+  {
+   "title": "Taste Barolo at the source",
+   "desc": "Book visits at small family cantine in Monforte, Serralunga or Castiglione Falletto, where the person pouring is usually the person who made the wine. Compare crus such as Cannubi, Brunate and Bussia."
+  },
+  {
+   "title": "Shop at Porta Palazzo",
+   "desc": "This is one of Europe's largest open-air markets, held every day except Sunday. Vendors shout from piles of cardoons, peppers, cheeses and spices, and the old covered fish hall has fresh fish."
+  },
+  {
+   "title": "Walk the Percorsi Occitani",
+   "desc": "A 177-km trail circles the remote Valle Maira through stone hamlets, larch woods and high pastures. Families run the posti tappa, the inns where you sleep along the way, and luggage transfers are available."
+  },
+  {
+   "title": "Visit the Venaria Reale",
+   "desc": "The Savoy kings' hunting palace outside Turin has the dazzling white Galleria Grande and enormous restored gardens. Bring a picnic and spend the afternoon on the lawns."
+  },
+  {
+   "title": "Cycle the Monferrato hills",
+   "desc": "Quiet roads link Barbera vineyards, crumbling castles and infernot, wine cellars carved into the soft sandstone. An e-bike, which you can rent in several Monferrato towns, makes the hills easy."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Barolo DOCG",
+   "type": "wine",
+   "desc": "Nebbiolo grown in eleven villages and aged for at least three years: tar and roses on the nose, firm tannins and decades of life."
+  },
+  {
+   "name": "Tartufo bianco d'Alba",
+   "type": "dish",
+   "desc": "The white truffle, shaved raw over buttery tajarin or a fried egg. It is only in season from October to December, and the scent fills the whole room."
+  },
+  {
+   "name": "Agnolotti del plin",
+   "type": "dish",
+   "desc": "Tiny meat-filled pasta pinched ('plin') by hand. You eat them with roast juices, or tossed in a napkin with nothing at all, the way langaroli do."
+  },
+  {
+   "name": "Vitello tonnato",
+   "type": "dish",
+   "desc": "Cold, thinly sliced veal under a silky tuna and caper sauce. It's the classic Piedmontese antipasto and better than it sounds."
+  },
+  {
+   "name": "Bagna cauda",
+   "type": "dish",
+   "desc": "A warm dip of garlic, anchovy and olive oil kept hot over a flame. Pass around raw cardoons, peppers and cabbage for dipping, ideally on a cold night with friends."
+  },
+  {
+   "name": "Castelmagno DOP",
+   "type": "cheese",
+   "desc": "A crumbly, blue-veined mountain cheese from the Grana valley, often melted into gnocchi or risotto with a dash of honey."
+  },
+  {
+   "name": "Gianduiotto",
+   "type": "sweet",
+   "desc": "Turin's boat-shaped chocolate of cocoa and Piedmont hazelnuts, invented when cocoa was scarce and now a city emblem."
+  },
+  {
+   "name": "Bicerin",
+   "type": "coffee",
+   "desc": "Turin's layered hot drink of espresso, chocolate and milk cream, served in a small stemmed glass. Cavour was a fan."
+  },
+  {
+   "name": "Vermouth di Torino",
+   "type": "spirit",
+   "desc": "Fortified wine infused with wormwood and botanicals, invented in Turin in the eighteenth century. Order it neat with an orange twist."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Del Cambio",
+   "city": "Turin",
+   "since": "1757",
+   "desc": "Cavour had his own table in this red-velvet dining room on Piazza Carignano. Order Piedmontese classics such as vitello tonnato or plin, then take a vermouth at the Farmacia Del Cambio bar.",
+   "url": "https://delcambio.it/"
+  },
+  {
+   "name": "Caffè Al Bicerin",
+   "city": "Turin",
+   "since": "1763",
+   "desc": "A tiny wood-panelled café with marble tables, facing the Consolata sanctuary. It claims to be where the bicerin was perfected, and the recipe stays secret. Pair it with a slice of chocolate cake.",
+   "url": "https://bicerin.it/"
+  },
+  {
+   "name": "Baratti & Milano",
+   "city": "Turin",
+   "since": "1858",
+   "desc": "Under the glass roof of the Galleria Subalpina since 1875, this café sells gianduiotti, candied fruit and pastries from mirrored, carved counters. Stand at the bar for an espresso among Turin's elegant regulars.",
+   "url": "https://www.barattiemilano.it/"
+  },
+  {
+   "name": "Trattoria della Posta",
+   "city": "Monforte d'Alba",
+   "since": "1875",
+   "desc": "Founded as a travellers' stop in Monforte's main square and still run by the same family four generations on, now in a country house among the vines. Order the plin and a braise in Barolo.",
+   "url": "https://trattoriadellaposta.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "A vineyard agriturismo in the Langhe",
+   "desc": "Many Barolo and Dolcetto growers around La Morra, Monforte and Diano d'Alba keep a few guest rooms. You'll wake to rows of vines, eat breakfast of hazelnut cake and robiola, and taste in the cellar before dinner."
+  },
+  {
+   "title": "Posti tappa in the Valle Maira",
+   "desc": "Along the Percorsi Occitani, small family inns in stone hamlets such as Elva, Chiappera and Marmora serve Occitan dishes like ravioles and gnocchi with Castelmagno, after a day of walking.",
+   "url": "https://www.percorsioccitani.com/"
+  },
+  {
+   "title": "A room in a Turin palazzo",
+   "desc": "Skip the chain hotels and look for B&Bs in old apartments in the Quadrilatero Romano or San Salvario, with tall ceilings and creaky parquet. Local bakeries and the morning market are just downstairs."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Turin",
+   "to": "Alba and the Langhe",
+   "how": "About 1h by car",
+   "desc": "Spend the morning in Alba's market and towers, then drive the ridge road through Barolo and La Morra for a long lunch and a tasting or two."
+  },
+  {
+   "from": "Turin",
+   "to": "Sacra di San Michele",
+   "how": "40 min by car, or train to Sant'Ambrogio and a steep hike",
+   "desc": "Hike up the old mule track from Sant'Ambrogio to the abbey on its rock, and come back down in time for an aperitivo in Turin."
+  },
+  {
+   "from": "Stresa",
+   "to": "Lake Orta",
+   "how": "About 30 min by car",
+   "desc": "Cross the Mottarone ridge to reach Orta San Giulio for an afternoon on the island and a sunset spritz in Piazza Motta."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Ricetto di Candelo",
+   "desc": "A fortified medieval village of about two hundred brick-and-cobble cellars, built for storing wine and grain, not for living in. Wander its narrow 'rues' at golden hour. It is one of the best-preserved ricetti in Europe.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Candelo-DSCF0335.JPG/1280px-Candelo-DSCF0335.JPG",
+    "alt": "Terracotta rooftops of the medieval Ricetto di Candelo",
+    "credit": "Twice25 & Rinina25, CC BY 2.5, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACandelo-DSCF0335.JPG"
+   }
+  },
+  {
+   "name": "Sacro Monte di Varallo",
+   "desc": "Italy's oldest sacred mountain. On a wooded hill above Varallo, more than forty chapels hold around eight hundred life-size statues and frescoed crowds acting out the life of Christ. It is unsettling and astonishing, and part of a UNESCO World Heritage site.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sacro_Monte_di_Varallo-parco_e_gruppo_cappelle_II-III-IV.JPG/1280px-Sacro_Monte_di_Varallo-parco_e_gruppo_cappelle_II-III-IV.JPG",
+    "alt": "Chapels of the Sacro Monte di Varallo among beech woods",
+    "credit": "Rinina25 / Twice25, CC BY 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASacro_Monte_di_Varallo-parco_e_gruppo_cappelle_II-III-IV.JPG"
+   }
+  },
+  {
+   "name": "Saluzzo",
+   "desc": "The old capital of a small marquisate rises in steep lanes to the Castiglia castle. Frescoed palazzi, the Gothic church of San Giovanni and views of Monviso reward the climb, and visitors are few.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Saluzzo_street_Monviso_11-12-21.jpg/1280px-Saluzzo_street_Monviso_11-12-21.jpg",
+    "alt": "A lane in medieval Saluzzo with old walls and snowy Monviso on the horizon",
+    "credit": "Jeanne Griffin, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASaluzzo_street_Monviso_11-12-21.jpg"
+   }
+  },
+  {
+   "name": "Valle Maira",
+   "desc": "A long, quiet Occitan valley with no ski lifts and plenty of stone villages. Walkers come for the trails, the frescoed chapels of Elva and the strange rock towers of Rocca Provenzale. Families run the inns.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Valle_del_Maurin_e_Rocca_Provenzale.jpg/1280px-Valle_del_Maurin_e_Rocca_Provenzale.jpg",
+    "alt": "Green meadows below the rock tower of Rocca Provenzale near Chiappera in the Valle Maira",
+    "credit": "Einaz80, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AValle_del_Maurin_e_Rocca_Provenzale.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Storico Carnevale di Ivrea",
+   "when": "Carnival, from Sunday to Shrove Tuesday",
+   "where": "Ivrea",
+   "desc": "The Battle of the Oranges: teams on foot pelt armoured carts with oranges in the piazzas, recalling a medieval revolt against a tyrant. Wear the red cap if you don't want to be a target.",
+   "url": "https://www.storicocarnevaleivrea.it/"
+  },
+  {
+   "name": "Palio di Asti",
+   "when": "First Sunday of September",
+   "where": "Asti",
+   "desc": "Italy's oldest recorded bareback horse race, run around Piazza Alfieri after a historical parade of more than a thousand people in costume."
+  },
+  {
+   "name": "Fiera Internazionale del Tartufo Bianco d'Alba",
+   "when": "Weekends, October to early December",
+   "where": "Alba",
+   "desc": "The truffle market is the heart of it, with tastings, cooking shows and a donkey race that mocks Asti's Palio.",
+   "url": "https://www.fieradeltartufo.org/"
+  },
+  {
+   "name": "Terra Madre Salone del Gusto",
+   "when": "Late September, even years",
+   "where": "Turin",
+   "desc": "Slow Food's great gathering brings farmers, cheesemakers and cooks from all over the world, with endless tastings in the city's piazzas.",
+   "url": "https://www.terramadresalonedelgusto.com/"
+  }
+ ],
+ "culture": "Piedmont has a double soul. Turin is the cool Savoy court city that gave Italy its first parliament, Fiat and the cinema museum inside the Mole, and its café culture runs on vermouth and gianduja. Out in the hills, Piedmontese dialect, village bands and harvest festivals keep peasant traditions alive. In the western valleys, Occitan is spoken and sung, with the courenta and the bourrée danced to hurdy-gurdy and accordion at summer festivals. Biella is famous for wool weaving, and the Langhe for the novels of Cesare Pavese and Beppe Fenoglio.",
+ "official_site": "https://www.visitpiemonte.com/en"
+}

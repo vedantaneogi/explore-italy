@@ -1,0 +1,281 @@
+{
+ "slug": "lombardy",
+ "name": "Lombardy",
+ "italian_name": "Lombardia",
+ "area": "north",
+ "capital": "Milan",
+ "tagline": "Milan's hustle, Lake Como's villas and Renaissance courts across the rice-flat plain.",
+ "intro": [
+  "Lombardy is Italy's engine room, and Milan sets the pace with fashion, design, finance and the best aperitivo in the country. Look a little further, though, and the region slows down beautifully. The great lakes, Como, Maggiore, Iseo and Garda, push fingers of deep blue water into the Alps, lined with villa gardens and ferry piers. On the plain, rice fields and poplar rows lead to Renaissance court cities like Mantua and Cremona.",
+  "In the north, the Valtellina and Valcamonica climb into real mountains, with terraced vineyards, buckwheat pasta and ten thousand years of rock carvings. The cooking is rich and butter-based: saffron risotto, ossobuco, polenta with every stew, a different stuffed pasta in every town, and cheeses from creamy Gorgonzola to mountain Bitto. Start in Milan, then take the train. Almost everything is within ninety minutes."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg/1280px-Sentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg",
+  "alt": "Lake Como's deep blue arms and the Bellagio promontory seen from the Sentiero del Viandante",
+  "credit": "Luca Casartelli, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ASentiero_del_Viandante_DSC_6340_%2814020554463%29.jpg"
+ },
+ "known_for": [
+  "Milan fashion and design",
+  "Lake Como",
+  "Leonardo's Last Supper",
+  "Risotto alla milanese",
+  "Franciacorta sparkling wine",
+  "Renaissance Mantua",
+  "Violin-making in Cremona"
+ ],
+ "best_time": "April to June and September to October suit the lakes and cities best, when the gardens are in bloom or the harvest is on. Milan is hot and half-empty in August. December is festive, with Sant'Ambrogio, the opening of La Scala and panettone everywhere.",
+ "getting_there": "Milan has three airports: Malpensa, Linate and Bergamo Orio al Serio. Milano Centrale is the high-speed rail hub for the whole north. Trenord regional trains reach Como, Varenna, Bergamo, Brescia, Cremona and Mantua, and ferries criss-cross Lake Como, Iseo and Garda. You only need a car for the valleys.",
+ "places": [
+  {
+   "name": "Milan",
+   "desc": "Climb onto the Duomo's marble roof among the spires, walk through the Galleria Vittorio Emanuele II, and book weeks ahead for Leonardo's Last Supper. Then do as the Milanese do: browse Brera, see the Pinacoteca, and finish with an aperitivo along the Navigli canals as the sky turns orange.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Piazza_del_Duomo_-_kuhnmi.jpg/1280px-Piazza_del_Duomo_-_kuhnmi.jpg",
+    "alt": "Milan's Gothic Duomo and the arch of the Galleria Vittorio Emanuele II on Piazza del Duomo",
+    "credit": "kuhnmi, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APiazza_del_Duomo_-_kuhnmi.jpg"
+   }
+  },
+  {
+   "name": "Lake Como",
+   "desc": "A deep, inverted-Y lake ringed by mountains, villas and terraced gardens. Base yourself in Bellagio at the junction of its arms, or in quieter Varenna, and hop between them by ferry. Visit Villa del Balbianello and Villa Carlotta, then swim from a stone lido as the boats go by.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Villa_Balbianello_on_Como_Lake_8.jpg/1280px-Villa_Balbianello_on_Como_Lake_8.jpg",
+    "alt": "Ivy-covered Villa del Balbianello on its point above Lake Como",
+    "credit": "Scott Thompson, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVilla_Balbianello_on_Como_Lake_8.jpg"
+   }
+  },
+  {
+   "name": "Bergamo",
+   "desc": "Ride the funicular up to the Città Alta, a walled hilltop town encircled by UNESCO-listed Venetian walls. Piazza Vecchia, the Colleoni Chapel and the lane of Via Gombito are best at dusk. Eat casoncelli, butter-and-sage ravioli, and walk the walls at sunset for views over the plain.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg/1280px-The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg",
+    "alt": "Bergamo's Città Alta of towers and terracotta roofs seen from the castle hill, the plain beyond",
+    "credit": "Ввласенко, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AThe_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg"
+   }
+  },
+  {
+   "name": "Mantua",
+   "desc": "The Gonzaga court city sits on three artificial lakes. Inside the Palazzo Ducale, Mantegna's Camera degli Sposi looks back at you from a painted oculus. In Palazzo Te, Giulio Romano's giants crash down from the ceiling. Eat tortelli di zucca in Piazza delle Erbe, and buy sbrisolona to take home.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dsc_1150_Mantua.jpg/1280px-Dsc_1150_Mantua.jpg",
+    "alt": "Aerial view of Mantua's old centre surrounded by its lakes",
+    "credit": "EdoM, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ADsc_1150_Mantua.jpg"
+   }
+  },
+  {
+   "name": "Monte Isola, Lake Iseo",
+   "desc": "Europe's largest lake island is car-free, so you walk or ride the little bus between fishing villages where nets dry in the sun. Climb to the Madonna della Ceriola sanctuary at the top, eat sardines dried on wooden racks, and ferry back to Franciacorta for sparkling wine.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lago_d%27Iseo.JPG/1280px-Lago_d%27Iseo.JPG",
+    "alt": "Aerial view of Monte Isola rising from the blue waters of Lake Iseo",
+    "credit": "Goldmund100, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALago_d%27Iseo.JPG"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "See the Last Supper",
+   "desc": "Leonardo's mural in the refectory of Santa Maria delle Grazie allows small groups for fifteen minutes. Tickets go on sale in batches months ahead, so set a reminder, or book a guided tour."
+  },
+  {
+   "title": "Catch an opera at La Scala",
+   "desc": "Gallery seats can be surprisingly affordable, and on performance days a few last-minute tickets are released. The season opens every 7 December, the feast of Milan's patron saint."
+  },
+  {
+   "title": "Ferry-hop Lake Como",
+   "desc": "Buy a day pass for the central lake and hop between Bellagio, Varenna, Menaggio and Tremezzo. Leave time for a lakeside lunch of missoltini, sun-dried shad, with polenta."
+  },
+  {
+   "title": "Tour the Franciacorta cellars",
+   "desc": "South of Lake Iseo, rolling vineyards make Italy's finest bottle-fermented sparkling wine. Cycle between cantine around Erbusco and Adro, then stop for a glass in a medieval borgo."
+  },
+  {
+   "title": "Walk among prehistoric carvings",
+   "desc": "At Capo di Ponte in the Valcamonica, open-air parks protect rocks carved over eight thousand years with deer, warriors, ploughs and the 'Camunian rose'. It was Italy's first UNESCO site."
+  },
+  {
+   "title": "Hear a violin in Cremona",
+   "desc": "The Museo del Violino holds instruments by Stradivari and Guarneri, and short concerts in its auditorium let you hear them played. Workshops around the town still build them by hand."
+  },
+  {
+   "title": "Ride the Bernina Express",
+   "desc": "From Tirano in the Valtellina, the red Rhaetian Railway train climbs over the Bernina Pass to St Moritz via the circular viaduct of Brusio. It is UNESCO-listed and spectacular."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Risotto alla milanese",
+   "type": "dish",
+   "desc": "Carnaroli rice cooked with bone marrow, butter and saffron until golden and creamy. It is often paired with ossobuco."
+  },
+  {
+   "name": "Cotoletta alla milanese",
+   "type": "dish",
+   "desc": "A thick, bone-in veal chop, breaded and fried in clarified butter. Purists want the thick, pink-centred chop; the thin, plate-sized 'elephant's ear' is its flashier cousin."
+  },
+  {
+   "name": "Pizzoccheri della Valtellina",
+   "type": "dish",
+   "desc": "Short buckwheat ribbons layered with potatoes, Savoy cabbage, Casera cheese and garlic butter. Mountain fuel."
+  },
+  {
+   "name": "Tortelli di zucca",
+   "type": "dish",
+   "desc": "A Mantuan pasta filled with pumpkin, crushed amaretti and mostarda, dressed with butter and Grana. It's sweet, savoury and very Renaissance."
+  },
+  {
+   "name": "Gorgonzola DOP",
+   "type": "cheese",
+   "desc": "Blue-veined cow's milk cheese, sold dolce and creamy or piccante and crumbly. Try it melted over polenta."
+  },
+  {
+   "name": "Bitto DOP",
+   "type": "cheese",
+   "desc": "A Valtellina mountain cheese made in summer pastures, sometimes with goat's milk, and aged for years by devotees."
+  },
+  {
+   "name": "Franciacorta DOCG",
+   "type": "wine",
+   "desc": "Bottle-fermented sparkling wine from Chardonnay and Pinot Nero grown near Lake Iseo. Try a Satèn for something softer."
+  },
+  {
+   "name": "Panettone",
+   "type": "sweet",
+   "desc": "Milan's tall Christmas bread, naturally leavened for days and studded with raisins and candied orange."
+  },
+  {
+   "name": "Campari and the Negroni sbagliato",
+   "type": "spirit",
+   "desc": "The bitter red aperitivo Gaspare Campari created in 1860. The 'mistaken' Negroni swaps gin for sparkling wine and was invented at Bar Basso."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Pasticceria Marchesi",
+   "city": "Milan",
+   "since": "1824",
+   "desc": "A wood-panelled pastry shop on Via Santa Maria alla Porta, near the Last Supper. Stand at the counter for coffee and a cream-filled brioche, and buy panettone in its pale green box.",
+   "url": "https://www.marchesi1824.com/"
+  },
+  {
+   "name": "Camparino in Galleria",
+   "city": "Milan",
+   "since": "1915",
+   "desc": "At the Duomo entrance to the Galleria, the Art Nouveau bar opened by Davide Campari still serves Campari seltz from a tap. Drink it standing at the mosaic bar, the way the regulars do.",
+   "url": "https://www.camparino.com/"
+  },
+  {
+   "name": "Antica Trattoria della Pesa",
+   "city": "Milan",
+   "since": "1880",
+   "desc": "Named for the old customs weighbridge outside, this is one of the city's oldest trattorie. Order ossobuco with saffron risotto, or cotoletta, then the zabaglione.",
+   "url": "https://www.anticatrattoriadellapesa.com/"
+  },
+  {
+   "name": "Caffè del Tasso",
+   "city": "Bergamo",
+   "since": "1476",
+   "desc": "On Piazza Vecchia in the Città Alta, this began as an inn and later became a café. It's a member of the Locali Storici d'Italia. Have a coffee or a glass of Valcalepio looking onto the square."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "A Franciacorta wine-estate agriturismo",
+   "desc": "Many sparkling-wine estates between Erbusco and Lake Iseo rent rooms in restored farmhouses. Wake up among the vines, cycle to the lake, and taste cuvées in the cellar before dinner."
+  },
+  {
+   "title": "A mountain rifugio in the Valtellina",
+   "desc": "In Val Masino or Valmalenco, family-run rifugi reached on foot serve pizzoccheri and sciatt, buckwheat cheese fritters, after a day on the granite trails. Bunk rooms are simple and the stars are spectacular."
+  },
+  {
+   "title": "A lakeside B&B in a Como village",
+   "desc": "Skip the grand hotels and stay in a family house in Varenna, Nesso or Argegno. You'll have breakfast on a terrace above the water and a ferry stop at the bottom of the steps."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Milan",
+   "to": "Bergamo Città Alta",
+   "how": "About 50 min by train, then funicular",
+   "desc": "Spend a day on the Venetian walls, in Piazza Vecchia and the Colleoni Chapel, with casoncelli and polenta for lunch in the upper town."
+  },
+  {
+   "from": "Milan",
+   "to": "Varenna and Bellagio",
+   "how": "About 1h by train to Varenna, then ferry",
+   "desc": "Visit Villa Monastero's gardens, cross to Bellagio for its lanes and villa park, and catch the late-afternoon light on the water from the ferry deck."
+  },
+  {
+   "from": "Mantua",
+   "to": "Sabbioneta",
+   "how": "About 40 min by car",
+   "desc": "Visit Vespasiano Gonzaga's ideal Renaissance town, where the star-shaped walls, the theatre and the long gallery were all built to perfect proportions."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Sabbioneta",
+   "desc": "A Renaissance 'ideal city' built from scratch in the 1500s by Vespasiano Gonzaga, with star-shaped walls, a jewel-box theatre by Scamozzi and a 96-metre gallery. It's UNESCO-listed with Mantua, but you'll probably have it almost to yourself.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sabbioneta-Mura.jpg/1280px-Sabbioneta-Mura.jpg",
+    "alt": "Sabbioneta's brick ramparts and church dome behind green fields",
+    "credit": "Teseo, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASabbioneta-Mura.jpg"
+   }
+  },
+  {
+   "name": "Valcamonica rock art",
+   "desc": "More than 140,000 figures carved over eight millennia cover the glacier-smoothed rocks of this alpine valley. Walk the Naquane park at Capo di Ponte in low afternoon light, when the carvings stand out best.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Capo_di_Ponte_-_Parco_nazionale_delle_incisioni_rupestri_di_Naquane_-_2026-09-04_11-13-39_001.JPG/1280px-Capo_di_Ponte_-_Parco_nazionale_delle_incisioni_rupestri_di_Naquane_-_2026-09-04_11-13-39_001.JPG",
+    "alt": "A prehistoric human figure pecked into glacier-smoothed rock at Naquane, Valcamonica",
+    "credit": "Acolleoni, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACapo_di_Ponte_-_Parco_nazionale_delle_incisioni_rupestri_di_Naquane_-_2026-09-04_11-13-39_001.JPG"
+   }
+  },
+  {
+   "name": "Crespi d'Adda",
+   "desc": "A perfectly preserved company town built in the late 1800s around a cotton mill on the Adda river. It has workers' cottages with gardens, a school, a church and the owners' mock-medieval castle, and is a UNESCO World Heritage site.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vista_di_Crespi_d%27Adda.JPG/1280px-Vista_di_Crespi_d%27Adda.JPG",
+    "alt": "Red roofs, mill chimneys and the church of the Crespi d'Adda company village",
+    "credit": "Dario Crespi, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVista_di_Crespi_d%27Adda.JPG"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Oh Bej! Oh Bej!",
+   "when": "Around 7 December",
+   "where": "Milan, around Castello Sforzesco",
+   "desc": "Milan's market for Sant'Ambrogio, its patron saint: stalls of roasted chestnuts, mulled wine, antiques and crafts, and the unofficial start of Christmas in the city."
+  },
+  {
+   "name": "Festivaletteratura",
+   "when": "Early September",
+   "where": "Mantua",
+   "desc": "Five days of author talks in piazzas, courtyards and palazzi. It is one of Europe's most charming literary festivals, with readings at every corner."
+  },
+  {
+   "name": "Milan Design Week",
+   "when": "April",
+   "where": "Milan",
+   "desc": "The Salone del Mobile at the fair grounds, plus hundreds of Fuorisalone installations in courtyards, showrooms and palazzi across the city."
+  },
+  {
+   "name": "Sagra di San Giovanni",
+   "when": "Weekend nearest 24 June",
+   "where": "Isola Comacina, Lake Como",
+   "desc": "A procession of boats to Lake Como's only island, a mass among the ruins, and at night thousands of snail-shell oil lamps floating on the water before fireworks."
+  }
+ ],
+ "culture": "Milan's culture is opera, design and work. La Scala's 7 December premiere is the event of the social year, and Milanese dialect still sounds in the old osterie. Cremona's traditional violin-making is on UNESCO's intangible heritage list, and luthiers still work there in dozens of workshops. Bergamo gave the commedia dell'arte two of its masked characters, Harlequin and Brighella. In the valleys above Bergamo, teams of bell-ringers still play their church bells by hand, and around Lake Como silk has been woven for centuries.",
+ "official_site": "https://www.in-lombardia.it/en"
+}

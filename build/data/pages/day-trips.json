@@ -1,0 +1,484 @@
+{
+ "slug": "day-trips",
+ "section": "discover",
+ "title": "Day trips",
+ "headline": "The best day trips from Italy's big cities",
+ "tagline": "Ruins, lakes, hill towns and islands you can reach by train, bus or boat and be back in time for dinner.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Como_Lake_from_Bellagio.jpg/1280px-Como_Lake_from_Bellagio.jpg",
+  "alt": "Deep blue Lake Como stretching between mountains, seen from Bellagio, with a single small boat",
+  "credit": "Davide Taviani, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AComo_Lake_from_Bellagio.jpg"
+ },
+ "intro": [
+  "Italy's rail network makes it easy to base yourself in one city and see a lot more. Regional trains are cheap, frequent and need no booking, and many of the country's most memorable places, from Pompeii to Lake Como, are an hour or less from a major station. A day trip also lets you see somewhere small at its best: arrive after the early rush, eat a long lunch, and leave before the evening light is gone.",
+  "We have grouped the trips below by base city, with honest journey times and the simplest way to get there. A few need advance tickets, notably Pompeii, Padua's Scrovegni Chapel and Pisa's Leaning Tower, so check the links before you go. Everything else you can decide on the morning, which is half the fun."
+ ],
+ "sections": [
+  {
+   "heading": "From Rome",
+   "intro": "Rome's suburban trains and Cotral buses reach Renaissance gardens, an ancient port and two cliff-top towns. Leave from Termini, Tiburtina or Piramide.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Tivoli",
+     "subtitle": "Villa d'Este and Hadrian's Villa",
+     "desc": "Two UNESCO sites in one day: the terraced Renaissance gardens of Villa d'Este, with hundreds of fountains, and the sprawling ruins of Emperor Hadrian's country palace on the plain below. See the villa in the morning and the fountains in the afternoon light.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tivoli_Villa_dEste_18.jpg/1280px-Tivoli_Villa_dEste_18.jpg",
+      "alt": "Marble Pegasus fountain among cypresses in the gardens of Villa d'Este, Tivoli",
+      "credit": "Fczarnowski, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATivoli_Villa_dEste_18.jpg"
+     },
+     "meta": "About 1h by regional train from Tiburtina or Cotral bus from Ponte Mammolo",
+     "region": "lazio"
+    },
+    {
+     "title": "Ostia Antica",
+     "subtitle": "Rome's ancient harbour city",
+     "desc": "A whole Roman town of streets, apartment blocks, taverns, baths and a theatre, often quieter than Pompeii and set among umbrella pines. Allow three hours and bring a picnic; the mosaic floors of the Piazzale delle Corporazioni are the highlight.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theater_%28Ostia_Antica%29.jpg/1280px-Theater_%28Ostia_Antica%29.jpg",
+      "alt": "The Roman theatre at Ostia Antica under umbrella pines and a blue sky",
+      "credit": "Rabax63, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATheater_%28Ostia_Antica%29.jpg"
+     },
+     "meta": "About 30 minutes by the Roma-Lido train from Porta San Paolo (Piramide)",
+     "region": "lazio"
+    },
+    {
+     "title": "Orvieto",
+     "subtitle": "A cathedral on a volcanic cliff",
+     "desc": "Orvieto sits on a plug of volcanic tuff above the Umbrian countryside. Ride the funicular up from the station to see the cathedral's glittering facade and Signorelli's Last Judgement frescoes, then tour the caves beneath the town and drink a glass of Orvieto Classico.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Panorama_di_Orvieto.jpg/1280px-Panorama_di_Orvieto.jpg",
+      "alt": "Orvieto spread along the top of its volcanic cliff above vineyards and cypresses",
+      "credit": "NikonZ7II, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APanorama_di_Orvieto.jpg"
+     },
+     "meta": "About 1h15 by regional train from Termini, then the funicular",
+     "region": "umbria",
+     "url": "https://www.duomodiorvieto.it/",
+     "url_label": "Cathedral tickets"
+    },
+    {
+     "title": "Civita di Bagnoregio",
+     "subtitle": "The village on a crumbling hill",
+     "desc": "A tiny medieval village on an eroding pinnacle of clay, reached only by a long, steep footbridge. Go late in the afternoon when the day groups have gone. Combine it with Orvieto: a local bus links the two towns on weekdays.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Civita_%28Bagnoregio%29_-_Panorama.jpg/1280px-Civita_%28Bagnoregio%29_-_Panorama.jpg",
+      "alt": "Civita di Bagnoregio on its eroded clay pinnacle, reached by a long footbridge",
+      "credit": "Orlando Paride, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACivita_%28Bagnoregio%29_-_Panorama.jpg"
+     },
+     "meta": "About 2h: train to Orvieto, then a Cotral bus to Bagnoregio",
+     "region": "lazio",
+     "url": "https://civitadibagnoregio.cloud/",
+     "url_label": "Visitor information"
+    }
+   ]
+  },
+  {
+   "heading": "From Florence",
+   "intro": "Tuscany's best-known towns are within easy reach of Santa Maria Novella station. For Siena and San Gimignano, the bus is often quicker than the train.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Siena",
+     "subtitle": "Gothic city of the Palio",
+     "desc": "Florence's old rival is a red-brick city built around the shell-shaped Piazza del Campo. Climb the Torre del Mangia, see the striped cathedral and its inlaid marble floor, and get lost in the lanes of the seventeen contrade, each with its own flag and fountain.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Siena_city_center_view_from_top_of_Torre_del_Mangia%2C_Siena%2C_Italy.jpg/1280px-Siena_city_center_view_from_top_of_Torre_del_Mangia%2C_Siena%2C_Italy.jpg",
+      "alt": "Terracotta rooftops of Siena seen from the Torre del Mangia, with Tuscan hills beyond",
+      "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASiena_city_center_view_from_top_of_Torre_del_Mangia%2C_Siena%2C_Italy.jpg"
+     },
+     "meta": "About 1h15 by Autolinee Toscane rapid bus, or 1h30 by train",
+     "region": "tuscany",
+     "url": "https://operaduomo.siena.it/en/",
+     "url_label": "Cathedral tickets"
+    },
+    {
+     "title": "Lucca",
+     "subtitle": "A city you walk around on its walls",
+     "desc": "Lucca's Renaissance walls are intact and topped with a tree-lined promenade four kilometres long; rent a bike and ride the full circuit. Inside are oval Piazza dell'Anfiteatro, built over a Roman arena, the Guinigi Tower with oak trees on its roof, and Puccini's birthplace.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Lucca_Piazza_dell%27Anfiteatro_5.jpg/1280px-Lucca_Piazza_dell%27Anfiteatro_5.jpg",
+      "alt": "Yellow and ochre houses with café umbrellas around the oval Piazza dell'Anfiteatro in Lucca",
+      "credit": "Zairon, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALucca_Piazza_dell%27Anfiteatro_5.jpg"
+     },
+     "meta": "About 1h20 by regional train",
+     "region": "tuscany",
+     "url": "https://www.turismo.lucca.it/en/",
+     "url_label": "Lucca tourism"
+    },
+    {
+     "title": "Pisa",
+     "subtitle": "More than the Leaning Tower",
+     "desc": "The Piazza dei Miracoli is genuinely astonishing: cathedral, baptistery and tower in white marble on a green lawn. Book a timed slot to climb the tower, then walk to the Arno, where the university city has good-value trattorie and a lively evening scene.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Pisa.Duomo01.jpg/1280px-Pisa.Duomo01.jpg",
+      "alt": "The white marble apse and dome of Pisa Cathedral on the Piazza dei Miracoli",
+      "credit": "Georges Jansoone, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APisa.Duomo01.jpg"
+     },
+     "meta": "About 1h by regional train",
+     "region": "tuscany",
+     "url": "https://www.opapisa.it/en/",
+     "url_label": "Tower tickets"
+    },
+    {
+     "title": "San Gimignano",
+     "subtitle": "Medieval skyline of towers",
+     "desc": "Fourteen stone towers survive from the 72 that rich families once built to show off. Arrive early or stay late to see it without the crowds, climb the Torre Grossa, and taste Vernaccia, the local white wine, in the vineyards just outside the walls.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/San_Gimignano_Tramonto.jpg/1280px-San_Gimignano_Tramonto.jpg",
+      "alt": "The medieval towers of San Gimignano lit by late-afternoon sun above olive groves",
+      "credit": "Maurizio Moro5153, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASan_Gimignano_Tramonto.jpg"
+     },
+     "meta": "About 1h45 by train or bus to Poggibonsi, then a local bus",
+     "region": "tuscany",
+     "url": "https://www.sangimignano.com/en/",
+     "url_label": "Visitor information"
+    }
+   ]
+  },
+  {
+   "heading": "From Venice",
+   "intro": "Vaporetti reach the outer lagoon islands, and the mainland cities of the Veneto are a short train ride from Santa Lucia station.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Burano and Torcello",
+     "subtitle": "Painted houses and Byzantine mosaics",
+     "desc": "Burano's fishermen's houses are painted every colour imaginable along quiet canals; come for the lace, the risotto di gò and the photographs. Five minutes away, nearly abandoned Torcello has a cathedral with a vast golden Last Judgement mosaic.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Burano_Venice_14.jpg/1280px-Burano_Venice_14.jpg",
+      "alt": "Brightly painted blue, green, yellow and pink houses on the island of Burano",
+      "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABurano_Venice_14.jpg"
+     },
+     "meta": "About 45 minutes by vaporetto line 12 from Fondamente Nove",
+     "region": "veneto",
+     "url": "https://actv.avmspa.it/en",
+     "url_label": "Vaporetto timetables"
+    },
+    {
+     "title": "Padua",
+     "subtitle": "Giotto's masterpiece and a great market",
+     "desc": "Padua's Scrovegni Chapel is covered in Giotto's frescoes, a turning point in Western art; visits are timed and short, so book ahead. Then see the Basilica of St Anthony and the market squares of Piazza delle Erbe and Piazza della Frutta.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Palazzo_della_Ragione_in_Padua_%284%29.jpg/1280px-Palazzo_della_Ragione_in_Padua_%284%29.jpg",
+      "alt": "The arcaded Palazzo della Ragione with its curved roof above a market square in Padua",
+      "credit": "Tournasol7, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APalazzo_della_Ragione_in_Padua_%284%29.jpg"
+     },
+     "meta": "About 30 minutes by fast train, 45 by regional",
+     "region": "veneto",
+     "url": "https://www.cappelladegliscrovegni.it/",
+     "url_label": "Book the Scrovegni Chapel"
+    },
+    {
+     "title": "Verona",
+     "subtitle": "Roman arena and medieval squares",
+     "desc": "A Roman amphitheatre still used for summer opera, Piazza delle Erbe's market, the Scaliger tombs and a hill-top view from Castel San Pietro. Verona is compact enough to see in a day, though an evening at the opera is worth staying for.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Verona_cityscape_sunny.jpg/1280px-Verona_cityscape_sunny.jpg",
+      "alt": "The Adige river curving past Verona's rooftops and bell towers on a sunny day",
+      "credit": "Hoppend, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVerona_cityscape_sunny.jpg"
+     },
+     "meta": "About 1h10 by fast train",
+     "region": "veneto",
+     "url": "https://www.arena.it/en/",
+     "url_label": "Opera tickets"
+    }
+   ]
+  },
+  {
+   "heading": "From Milan",
+   "intro": "Milan sits at the foot of the lakes and the Alps. Trenord regional trains leave from Centrale, Garibaldi and Cadorna stations.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Lake Como",
+     "subtitle": "Varenna and Bellagio by ferry",
+     "desc": "Take the train to Varenna, then hop on the short ferry to Bellagio, at the point where the lake's two arms meet. Walk the gardens of Villa Melzi, or carry on by boat to Villa del Balbianello on its wooded headland, and come back on the evening ferry with the mountains turning pink.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Villa_Balbianello_on_Como_Lake_8.jpg/1280px-Villa_Balbianello_on_Como_Lake_8.jpg",
+      "alt": "Villa del Balbianello and its ivy-covered loggia on a wooded point above Lake Como",
+      "credit": "Scott Thompson, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVilla_Balbianello_on_Como_Lake_8.jpg"
+     },
+     "meta": "About 1h by Trenord train to Varenna-Esino, then a 15-minute ferry",
+     "region": "lombardy",
+     "url": "https://www.navigazionelaghi.it/en/",
+     "url_label": "Ferry timetables"
+    },
+    {
+     "title": "Bergamo",
+     "subtitle": "A hill town above a city",
+     "desc": "Ride the funicular from the modern lower town to Città Alta, the walled upper town with Venetian walls on the UNESCO list. See the Cappella Colleoni and Santa Maria Maggiore, then eat casoncelli (stuffed pasta with butter and sage) and polenta.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg/1280px-The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg",
+      "alt": "Rooftops of Bergamo's walled upper town among trees, with the plain stretching beyond",
+      "credit": "Ввласенко, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg"
+     },
+     "meta": "About 50 minutes by regional train, then the funicular",
+     "region": "lombardy",
+     "url": "https://www.visitbergamo.net/en/",
+     "url_label": "Visit Bergamo"
+    },
+    {
+     "title": "Lake Maggiore",
+     "subtitle": "Stresa and the Borromean Islands",
+     "desc": "From Stresa's lakefront, boats run to Isola Bella, an island turned into a baroque palace with terraced gardens and white peacocks, and Isola dei Pescatori, a fishing village with lakeside restaurants. Spring, when the azaleas bloom, is the best time.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lago_Maggiore_Isola_Superiore_from_Isola_Bella.jpg/1280px-Lago_Maggiore_Isola_Superiore_from_Isola_Bella.jpg",
+      "alt": "Boat landing on Isola Bella looking across Lake Maggiore to the fishing village of Isola dei Pescatori and the mountains",
+      "credit": "Isiwal, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALago_Maggiore_Isola_Superiore_from_Isola_Bella.jpg"
+     },
+     "meta": "About 1h by train from Milano Centrale to Stresa",
+     "region": "piedmont"
+    },
+    {
+     "title": "Turin",
+     "subtitle": "Royal palaces and cafés",
+     "desc": "Italy's first capital has arcaded avenues, the world's oldest Egyptian museum outside Cairo, the Mole Antonelliana's cinema museum, and grand cafés where you drink bicerin, a layered coffee, chocolate and cream drink invented here.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Basilica_di_superga.jpg/1280px-Basilica_di_superga.jpg",
+      "alt": "The baroque dome and portico of the Basilica of Superga on a hill above Turin",
+      "credit": "Barbara Vico, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABasilica_di_superga.jpg"
+     },
+     "meta": "About 1h by Frecciarossa or Italo",
+     "region": "piedmont",
+     "url": "https://www.museoegizio.it/en/",
+     "url_label": "Egyptian Museum tickets"
+    }
+   ]
+  },
+  {
+   "heading": "From Naples",
+   "intro": "The Circumvesuviana train runs to the buried Roman towns, and hydrofoils leave Molo Beverello for the islands all day.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Pompeii",
+     "subtitle": "The city Vesuvius buried",
+     "desc": "Walk Roman streets with ruts worn by cart wheels, peer into bakeries, bars and frescoed villas, and see the plaster casts of victims. Tickets are named and checked against ID, with a daily cap; go in the morning window and give it at least four hours.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pompeii_Tempel_van_Apollo.jpg/1280px-Pompeii_Tempel_van_Apollo.jpg",
+      "alt": "Columns of the Temple of Apollo in Pompeii with a bronze statue of the god",
+      "credit": "Mark de Nijs, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APompeii_Tempel_van_Apollo.jpg"
+     },
+     "meta": "About 35-40 minutes by Circumvesuviana to Pompei Scavi",
+     "region": "campania",
+     "url": "https://pompeiisites.org/en/",
+     "url_label": "Pompeii official site"
+    },
+    {
+     "title": "Herculaneum",
+     "subtitle": "Smaller, better preserved",
+     "desc": "Buried deeper than Pompeii, Herculaneum kept its upper floors, wooden beams, mosaics and even food. It takes two to three hours and is never as crowded. Combine it with Pompeii only if you start early.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/View_from_above_Herculaneum_in_2015.jpg/1280px-View_from_above_Herculaneum_in_2015.jpg",
+      "alt": "The excavated houses of Herculaneum seen from above, with Vesuvius behind the modern town",
+      "credit": "Inarajin, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AView_from_above_Herculaneum_in_2015.jpg"
+     },
+     "meta": "About 20 minutes by Circumvesuviana to Ercolano Scavi",
+     "region": "campania",
+     "url": "https://ercolano.cultura.gov.it/",
+     "url_label": "Herculaneum official site"
+    },
+    {
+     "title": "Procida",
+     "subtitle": "The bay's most colourful island",
+     "desc": "Smaller and calmer than Capri, Procida is all pastel houses, lemon groves and fishing boats. Walk up to Terra Murata for the view over Marina di Corricella, swim at Chiaiolella and eat lemon salad and fresh fish by the harbour.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Procida2.jpg/1280px-Procida2.jpg",
+      "alt": "Pastel houses curving around the little fishing harbour of Marina di Corricella on Procida",
+      "credit": "Jamiethearcher at English Wikipedia, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AProcida2.jpg"
+     },
+     "meta": "About 40 minutes by hydrofoil from Molo Beverello",
+     "region": "campania",
+     "url": "https://www.snav.it/en",
+     "url_label": "Hydrofoil tickets"
+    },
+    {
+     "title": "Caserta Royal Palace",
+     "subtitle": "The Bourbon answer to Versailles",
+     "desc": "The Reggia di Caserta has 1,200 rooms and a park that runs three kilometres in a straight line of fountains and cascades to the English Garden. Rent a bike or take the shuttle up the park and walk back down.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Parco_della_Reggia_di_Caserta._%28346%29.jpg/1280px-Parco_della_Reggia_di_Caserta._%28346%29.jpg",
+      "alt": "Marble statues of Diana and her nymphs beneath the great cascade in the park of the Reggia di Caserta",
+      "credit": "Giuseppe Guida, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AParco_della_Reggia_di_Caserta._%28346%29.jpg"
+     },
+     "meta": "About 35-50 minutes by regional train from Napoli Centrale",
+     "region": "campania",
+     "url": "https://reggiadicaserta.cultura.gov.it/en/",
+     "url_label": "Palace tickets"
+    }
+   ]
+  },
+  {
+   "heading": "From Bologna",
+   "intro": "Bologna is the rail hub of the north, and the cities of Emilia-Romagna are mostly under an hour away on cheap regional trains.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Ravenna",
+     "subtitle": "Byzantine mosaics",
+     "desc": "Eight early Christian monuments here are UNESCO-listed for their mosaics, which glow in gold, blue and green. See San Vitale with its portraits of Justinian and Theodora, the starry ceiling of the Mausoleum of Galla Placidia, and Dante's tomb.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ravenna_SantApollinare_Classe3.jpg/1280px-Ravenna_SantApollinare_Classe3.jpg",
+      "alt": "Green and gold apse mosaic with a jewelled cross and sheep in Sant'Apollinare in Classe, Ravenna",
+      "credit": "Ludvig14, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARavenna_SantApollinare_Classe3.jpg"
+     },
+     "meta": "About 1h10 by regional train",
+     "region": "emilia-romagna",
+     "url": "https://www.ravennamosaici.it/en/",
+     "url_label": "Mosaic monument tickets"
+    },
+    {
+     "title": "Ferrara",
+     "subtitle": "A Renaissance city by bicycle",
+     "desc": "The Este dukes built a moated castle and an ideal Renaissance city, and Ferrara is still flat, quiet and full of bicycles. Ride the nine kilometres of tree-lined walls, see the Castello Estense and the Palazzo dei Diamanti, and eat cappellacci di zucca (pumpkin pasta).",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castello_dall%27alto.jpg/1280px-Castello_dall%27alto.jpg",
+      "alt": "The moated red-brick Castello Estense in the centre of Ferrara, seen from above",
+      "credit": "Nbisi, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACastello_dall%27alto.jpg"
+     },
+     "meta": "About 30 minutes by regional or fast train",
+     "region": "emilia-romagna",
+     "url": "https://www.castelloestense.it/en/",
+     "url_label": "Castello Estense"
+    },
+    {
+     "title": "Modena",
+     "subtitle": "Balsamic vinegar and a Romanesque cathedral",
+     "desc": "Modena's cathedral and Ghirlandina tower are UNESCO-listed, the Mercato Albinelli is one of the best food markets in the region, and the balsamic acetaie on the edge of town offer tours and tastings. Car fans can add the Ferrari museum in Maranello.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/-6007_IMG_1913_4_5_fused_copy-aL.jpg/1280px--6007_IMG_1913_4_5_fused_copy-aL.jpg",
+      "alt": "The marble Ghirlandina bell tower and the statue of La Bonissima against a blue sky in Modena's Piazza Grande",
+      "credit": "Annovi.frizio, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A-6007_IMG_1913_4_5_fused_copy-aL.jpg"
+     },
+     "meta": "About 25 minutes by train",
+     "region": "emilia-romagna",
+     "url": "https://duomodimodena.it/",
+     "url_label": "Cathedral information"
+    }
+   ]
+  },
+  {
+   "heading": "From Palermo and Catania",
+   "intro": "Sicily's trains are slow but scenic, and buses fill the gaps. Palermo has the best city trips; Catania is the gateway to Etna and the southeast.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Monreale",
+     "subtitle": "A cathedral lined with gold",
+     "desc": "In the hills above Palermo, Monreale's 12th-century cathedral is covered with more than 6,000 square metres of gold mosaics, telling the Bible from Creation onwards. Do not miss the cloister, with 228 carved twin columns, or the view over the Conca d'Oro.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MonrealeCathedral-pjt1.jpg/1280px-MonrealeCathedral-pjt1.jpg",
+      "alt": "The nave of Monreale Cathedral, its walls covered in gold mosaics leading to Christ Pantocrator",
+      "credit": "pjt56, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMonrealeCathedral-pjt1.jpg"
+     },
+     "meta": "About 40 minutes by AMAT bus 389 from Piazza Indipendenza, Palermo",
+     "region": "sicily"
+    },
+    {
+     "title": "Cefalù",
+     "subtitle": "Beach town with a Norman cathedral",
+     "desc": "A fishing town under a huge rock, with a sandy beach right next to the old centre. See the cathedral's Christ Pantocrator mosaic, climb La Rocca for the view, and swim before the train back.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cefalu_View_0832.jpg/1280px-Cefalu_View_0832.jpg",
+      "alt": "Cefalù's old town and beach beneath the huge rock of La Rocca",
+      "credit": "Ludvig14, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACefalu_View_0832.jpg"
+     },
+     "meta": "About 1h by regional train from Palermo Centrale",
+     "region": "sicily",
+     "url": "https://www.trenitalia.com/en.html",
+     "url_label": "Train times"
+    },
+    {
+     "title": "Mount Etna",
+     "subtitle": "Europe's highest active volcano",
+     "desc": "From Rifugio Sapienza, walk the Silvestri craters, take the cable car to 2,500 metres, and go higher only with a licensed guide. Access shifts with volcanic activity, so check conditions on the day and bring warm layers even in summer.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mount_Etna_from_the_south_060313.JPG/1280px-Mount_Etna_from_the_south_060313.JPG",
+      "alt": "Mount Etna's summit beyond green pine woods and black lava fields on its southern slope",
+      "credit": "Wilson44691, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMount_Etna_from_the_south_060313.JPG"
+     },
+     "meta": "About 1h by car from Catania, or 2h by the daily AST bus",
+     "region": "sicily",
+     "url": "https://www.funiviaetna.com/",
+     "url_label": "Cable car and excursions"
+    },
+    {
+     "title": "Syracuse",
+     "subtitle": "Greek theatre and island old town",
+     "desc": "Once the rival of Athens, Syracuse has a vast Greek theatre still used for classical drama each summer, the Ear of Dionysius cave, and Ortigia, an island old town of baroque piazzas, a morning market and swimming platforms off the rocks.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pascal_Poggi_Sicile_Juillet_2019_-_Syracuse%2C_Ortigia%2C_Fonte_Aretusa.jpg/1280px-Pascal_Poggi_Sicile_Juillet_2019_-_Syracuse%2C_Ortigia%2C_Fonte_Aretusa.jpg",
+      "alt": "Papyrus plants growing in the freshwater pool of the Fonte Aretusa on Ortigia, Syracuse",
+      "credit": "Stella, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APascal_Poggi_Sicile_Juillet_2019_-_Syracuse%2C_Ortigia%2C_Fonte_Aretusa.jpg"
+     },
+     "meta": "About 1h15 by train or Interbus from Catania",
+     "region": "sicily",
+     "url": "https://www.indafondazione.org/en/",
+     "url_label": "Greek theatre season"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Regional train tickets are not tied to a specific train; buy them on the Trenitalia app and check in digitally, or validate paper tickets before boarding.",
+  "Start early: most day-trip towns are calmest before 10am and after 5pm.",
+  "Check return times before you set out, especially for buses and ferries, which can stop early in the evening and out of season.",
+  "Sunday and holiday timetables are thinner, particularly on regional buses in the south.",
+  "Book timed tickets for Pompeii, the Scrovegni Chapel and Pisa's tower before you travel; the rest can usually be bought on the day."
+ ],
+ "links": [
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "National and regional train timetables and tickets"
+  },
+  {
+   "label": "Italo",
+   "url": "https://www.italotreno.com/en",
+   "desc": "High-speed trains between the main cities"
+  },
+  {
+   "label": "Trenord",
+   "url": "https://www.trenord.it/en/",
+   "desc": "Regional trains in Lombardy, including to the lakes and Bergamo"
+  },
+  {
+   "label": "ACTV",
+   "url": "https://actv.avmspa.it/en",
+   "desc": "Venice vaporetto routes and passes"
+  },
+  {
+   "label": "Venice access fee",
+   "url": "https://cda.ve.it/en/",
+   "desc": "Check whether your visit to Venice falls on a fee day"
+  }
+ ]
+}

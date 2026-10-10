@@ -1,0 +1,335 @@
+{
+ "slug": "history",
+ "section": "experiences",
+ "title": "History",
+ "headline": "Three thousand years you can walk through",
+ "tagline": "From Bronze Age towers to the birth of the Republic, Italy keeps its past in plain sight. Here is the story, and where to stand inside each chapter.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Forum_romanum_6k_%285760x2097%29.jpg/1280px-Forum_romanum_6k_%285760x2097%29.jpg",
+  "alt": "Panorama of the Roman Forum with temples, columns and arches below the Palatine",
+  "credit": "BeBo86, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AForum_romanum_6k_%285760x2097%29.jpg"
+ },
+ "intro": [
+  "Italy only became one country in 1861, which explains a great deal. For most of its history the peninsula was a crowd of peoples, city-states, kingdoms and foreign possessions, each leaving its own layer: Greek temples in Sicily, Arab domes in Palermo, Byzantine gold in Ravenna, Spanish Baroque in Lecce, Austrian cafés in Trieste. Locals still say they are Florentine, Sardinian or Neapolitan first.",
+  "That patchwork is the joy of travelling here. You can eat lunch in a Roman amphitheatre turned into a piazza in Lucca, sleep in a cave house in Matera that was lived in for millennia, and catch a train from the station where Garibaldi's red shirts set off. Use the timeline to put the places in order, then go and find them."
+ ],
+ "sections": [
+  {
+   "heading": "Italy's story in sixteen chapters",
+   "intro": "Dates are approximate for the early periods. Each entry ends with a place where that chapter still feels close.",
+   "layout": "timeline",
+   "items": [
+    {
+     "title": "Nuragic Sardinia",
+     "subtitle": "The tower builders",
+     "desc": "Long before Rome, Bronze Age Sardinians raised some 7,000 stone towers called nuraghi, plus sacred wells and giants' tombs. Experience it at Su Nuraxi di Barumini, then at the Santa Cristina sacred well, a perfect stone stairway descending to water.",
+     "meta": "c. 1700-500 BC",
+     "region": "sardinia"
+    },
+    {
+     "title": "The Etruscans",
+     "subtitle": "Central Italy's first great civilisation",
+     "desc": "Masters of metalwork, divination and banqueting, the Etruscans taught early Rome much of what it knew. See their painted tombs at Tarquinia, the mound city of Cerveteri, and the smiling Sarcophagus of the Spouses in Rome's Villa Giulia museum.",
+     "meta": "c. 900-100 BC",
+     "region": "lazio"
+    },
+    {
+     "title": "Magna Graecia",
+     "subtitle": "Greek colonies of the south",
+     "desc": "Greek settlers founded Cumae, Syracuse, Taranto and dozens of other cities, so many that the south was called Great Greece. Stand among the Doric temples of Paestum and Agrigento, or watch a Greek tragedy in Syracuse's ancient theatre.",
+     "meta": "8th-3rd century BC",
+     "region": "campania"
+    },
+    {
+     "title": "The Roman Republic",
+     "subtitle": "From city to Mediterranean power",
+     "desc": "Rome threw out its kings, by tradition in 509 BC, and spent five centuries conquering Italy and then the Mediterranean, building roads like the Via Appia as it went. Walk the Appia Antica's original paving stones south of the city.",
+     "meta": "509-27 BC",
+     "region": "lazio"
+    },
+    {
+     "title": "The Roman Empire",
+     "subtitle": "Augustus to the fall of the West",
+     "desc": "The Colosseum, the Pantheon and Trajan's Market belong here, but ordinary Roman life is best seen at Ostia Antica, Rome's port, where apartment blocks, bars and public latrines survive, and at Pompeii and Herculaneum.",
+     "meta": "27 BC-AD 476",
+     "region": "lazio"
+    },
+    {
+     "title": "Byzantines and Lombards",
+     "subtitle": "The early Middle Ages",
+     "desc": "After Rome fell, Constantinople ruled from Ravenna while the Germanic Lombards took much of the north and centre from 568. Compare Ravenna's golden mosaics with the delicate stucco saints of the Lombard Tempietto in Cividale del Friuli.",
+     "meta": "AD 476-774",
+     "region": "emilia-romagna"
+    },
+    {
+     "title": "Arab and Norman Sicily",
+     "subtitle": "A meeting of three cultures",
+     "desc": "Arab emirs brought citrus, sugar cane and irrigation to Sicily; the Normans who followed built churches with Byzantine mosaics and Islamic domes. See the result at Palermo's Palatine Chapel and Monreale Cathedral, listed together as Arab-Norman Palermo.",
+     "meta": "827-1194",
+     "region": "sicily"
+    },
+    {
+     "title": "Communes and maritime republics",
+     "subtitle": "Merchants, towers and fleets",
+     "desc": "Self-governing towns grew rich and quarrelsome, while Amalfi, Pisa, Genoa and Venice fought over Mediterranean trade. Climb San Gimignano's towers, then compare the striped Romanesque of Pisa's Field of Miracles with the old port of Genoa.",
+     "meta": "c. 1000-1300",
+     "region": "tuscany"
+    },
+    {
+     "title": "Frederick II's southern court",
+     "subtitle": "Stupor mundi",
+     "desc": "The Holy Roman Emperor who spoke several languages, wrote a treatise on falconry and ran a brilliant court in Puglia and Sicily. His octagonal Castel del Monte, alone on its hill near Andria, is still a riddle in stone.",
+     "meta": "1220-1250",
+     "region": "puglia"
+    },
+    {
+     "title": "The Renaissance",
+     "subtitle": "Florence and the courts",
+     "desc": "Bankers like the Medici and princes in Urbino, Mantua and Ferrara paid for a revolution in art and ideas. Stand under Brunelleschi's dome, finished in 1436, then see the ideal Renaissance court in Urbino's Ducal Palace.",
+     "meta": "c. 1400-1550",
+     "region": "tuscany"
+    },
+    {
+     "title": "Counter-Reformation and Baroque",
+     "subtitle": "Drama in stone",
+     "desc": "Rome reinvented itself with Bernini's fountains and Borromini's churches, and after the 1693 earthquake south-east Sicily rebuilt Noto, Ragusa and Modica in honey-coloured Baroque. Lecce carved its own exuberant version from soft local stone.",
+     "meta": "c. 1550-1750",
+     "region": "sicily"
+    },
+    {
+     "title": "The Grand Tour",
+     "subtitle": "Europe falls for Italy",
+     "desc": "Young British and northern European aristocrats came to study the classics; excavations began at Herculaneum in 1738 and Pompeii in 1748, and the Bourbon kings built the vast Royal Palace of Caserta. Follow Goethe to Naples, Paestum and Taormina.",
+     "meta": "c. 1700-1800",
+     "region": "campania"
+    },
+    {
+     "title": "The Risorgimento",
+     "subtitle": "Unification",
+     "desc": "Mazzini dreamed it, Cavour negotiated it and Garibaldi's Thousand invaded Sicily in 1860. The Kingdom of Italy was proclaimed on 17 March 1861 in Turin, its first capital, and Rome joined in 1870. Turin's Museo del Risorgimento holds the first Italian parliament chamber.",
+     "meta": "1815-1871",
+     "region": "piedmont"
+    },
+    {
+     "title": "World wars and resistance",
+     "subtitle": "A hard half-century",
+     "desc": "Italy fought on the Alpine front in 1915-18, lived under Fascism from 1922, and was liberated on 25 April 1945 after a brutal war and partisan resistance. Walk the First World War trenches and tunnels of the Lagazuoi above Cortina.",
+     "meta": "1915-1945",
+     "region": "veneto"
+    },
+    {
+     "title": "The Republic",
+     "subtitle": "A new country votes",
+     "desc": "On 2 June 1946, in the first national vote in which women took part, Italians chose a republic over the monarchy. The Constitution took effect on 1 January 1948. Every 2 June, Rome holds a military parade and the Quirinale palace opens its gardens.",
+     "meta": "1946",
+     "region": "lazio"
+    },
+    {
+     "title": "The economic miracle and Europe",
+     "subtitle": "Vespas, Fiats and the Treaty of Rome",
+     "desc": "Postwar Italy boomed into an industrial power and a founding member of the European community, signing the Treaty of Rome on the Capitoline Hill in 1957. Today's Italy is in its design houses, slow-food markets and in every busy piazza at aperitivo time.",
+     "meta": "1950s-today"
+    }
+   ]
+  },
+  {
+   "heading": "Where history lives",
+   "intro": "Places where the past is not behind glass but all around you.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Ostia Antica",
+     "subtitle": "Rome's ancient port",
+     "desc": "A whole Roman town of apartment blocks, warehouses, bakeries and a theatre, among umbrella pines and far fewer crowds than Pompeii. It is 30 minutes from central Rome on a regular commuter train, which makes it the easiest half-day escape from the city.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Theater_%28Ostia_Antica%29.jpg/1280px-Theater_%28Ostia_Antica%29.jpg",
+      "alt": "The Roman theatre of Ostia Antica framed by umbrella pines",
+      "credit": "Rabax63, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATheater_%28Ostia_Antica%29.jpg"
+     },
+     "meta": "30 min by train from Rome",
+     "region": "lazio"
+    },
+    {
+     "title": "Tarquinia's painted tombs",
+     "subtitle": "Etruscan Lazio",
+     "desc": "Steps lead down into small chambers painted with dancers, musicians, hunters and a diver plunging into the sea. Afterwards the hilltop town's museum, in a Renaissance palazzo, holds the famous terracotta winged horses.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg/1280px-Monterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg",
+      "alt": "Etruscan wall painting of banqueters and musicians in the Tomb of the Leopards, Tarquinia",
+      "credit": "Gleb Simonov, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMonterozzi_necropolis_%E2%80%94_Tomb_of_the_Leopards.jpg"
+     },
+     "meta": "1h30 from Rome",
+     "region": "lazio"
+    },
+    {
+     "title": "Segesta",
+     "subtitle": "Western Sicily",
+     "desc": "An unfinished Doric temple alone in a fold of green hills, and a Greek theatre on the summit above, looking out to the Gulf of Castellammare. The Elymians who built Segesta were neither Greek nor Phoenician, and still something of a mystery.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Segesta_AncientGreekTemple_0932.jpg/1280px-Segesta_AncientGreekTemple_0932.jpg",
+      "alt": "The Doric temple of Segesta standing alone among green hills in western Sicily",
+      "credit": "Ludvig14, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASegesta_AncientGreekTemple_0932.jpg"
+     },
+     "meta": "1h from Palermo",
+     "region": "sicily"
+    },
+    {
+     "title": "Aquileia",
+     "subtitle": "Friuli-Venezia Giulia",
+     "desc": "Once one of the largest cities of the Roman Empire, now a village. Its basilica has an enormous 4th-century mosaic floor full of fish, fishermen and Jonah being swallowed by the whale, viewed from glass walkways.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg/1280px-Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg",
+      "alt": "The Romanesque basilica and bell tower of Aquileia among cypress trees",
+      "credit": "ThePhotografer, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABasilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg"
+     },
+     "meta": "45 min from Trieste",
+     "region": "friuli-venezia-giulia"
+    },
+    {
+     "title": "Cividale del Friuli",
+     "subtitle": "Lombard capital",
+     "desc": "The Lombards' first Italian duchy, perched over the green Natisone river and its Devil's Bridge. Inside the Tempietto Longobardo, six stucco women saints from the 8th century look calmly down from the wall.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cividale_in_panoramic.jpg/1280px-Cividale_in_panoramic.jpg",
+      "alt": "The Devil's Bridge over the green Natisone river in Cividale del Friuli",
+      "credit": "Ewgohl, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACividale_in_panoramic.jpg"
+     },
+     "meta": "Part of the Longobards in Italy listing",
+     "region": "friuli-venezia-giulia"
+    },
+    {
+     "title": "Castel del Monte",
+     "subtitle": "Puglia",
+     "desc": "Frederick II's perfect octagon, with eight octagonal towers, crowns a bare hill in the Murge. Nobody quite knows what it was for: hunting lodge, astronomical riddle or statement of imperial power. Come late in the day when the stone turns gold.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castel_del_Monte%2C_Italy_03.jpg/1280px-Castel_del_Monte%2C_Italy_03.jpg",
+      "alt": "The octagonal Castel del Monte on its hilltop in Puglia",
+      "credit": "Bernard Gagnon, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACastel_del_Monte%2C_Italy_03.jpg"
+     },
+     "meta": "Built c. 1240",
+     "region": "puglia"
+    },
+    {
+     "title": "Genoa's old port and palaces",
+     "subtitle": "Liguria",
+     "desc": "The maritime republic's merchant princes lived on Via Garibaldi in palaces so grand that the city kept a register of them to lodge visiting dignitaries. Below, the carruggi alleys run down to a port Columbus would still half recognise.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Palazzo_Ducale_Genoa.jpg/1280px-Palazzo_Ducale_Genoa.jpg",
+      "alt": "The facade of the Doge's Palace in Genoa",
+      "credit": "Jensens, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APalazzo_Ducale_Genoa.jpg"
+     },
+     "meta": "Rolli palaces listed 2006",
+     "region": "liguria"
+    },
+    {
+     "title": "Royal Palace of Caserta",
+     "subtitle": "Campania",
+     "desc": "The Bourbon kings of Naples wanted their own Versailles and got something bigger: 1,200 rooms and a three-kilometre axis of fountains and cascades. Rent a bike or take the shuttle to the English Garden at the top.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fontana_di_Diana_e_Atteone_-_Reggia_di_Caserta.jpg/1280px-Fontana_di_Diana_e_Atteone_-_Reggia_di_Caserta.jpg",
+      "alt": "The marble Fountain of Diana and Actaeon beneath the great cascade in the park of the Royal Palace of Caserta",
+      "credit": "Marco Del Torchio 95, CC0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFontana_di_Diana_e_Atteone_-_Reggia_di_Caserta.jpg"
+     },
+     "meta": "Begun 1752",
+     "region": "campania"
+    },
+    {
+     "title": "Turin, first capital of Italy",
+     "subtitle": "Piedmont",
+     "desc": "Elegant arcades, royal residences and the Palazzo Carignano, where the first Italian parliament met. The Risorgimento museum inside tells the story of unification; afterwards, take a bicerin in a café where Cavour once sat.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Basilica_di_superga.jpg/1280px-Basilica_di_superga.jpg",
+      "alt": "The Baroque Basilica of Superga on its hill above Turin under a blue sky",
+      "credit": "Barbara Vico, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABasilica_di_superga.jpg"
+     },
+     "meta": "Capital 1861-1865",
+     "region": "piedmont",
+     "url": "https://www.museorisorgimentotorino.it/",
+     "url_label": "Museo del Risorgimento"
+    }
+   ]
+  },
+  {
+   "heading": "Museums that tell the story",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Capitoline Museums",
+     "subtitle": "Rome",
+     "desc": "The world's oldest public museum, opened in 1471, with the bronze she-wolf and the original equestrian Marcus Aurelius. The terrace café looks over the Forum.",
+     "region": "lazio",
+     "url": "https://museicapitolini.org/en",
+     "url_label": "Capitoline Museums"
+    },
+    {
+     "title": "National Archaeological Museum of Naples",
+     "subtitle": "Naples",
+     "desc": "The frescoes, mosaics, bronzes and everyday objects carried away from Pompeii and Herculaneum, plus the Farnese collection of Roman marbles.",
+     "region": "campania",
+     "url": "https://www.museoarcheologiconapoli.it/en/",
+     "url_label": "MANN"
+    },
+    {
+     "title": "Herculaneum archaeological park",
+     "subtitle": "Ercolano",
+     "desc": "Smaller and more complete than Pompeii, with a beach where hundreds of skeletons were found sheltering in boathouses. An easy stop on the Circumvesuviana train.",
+     "region": "campania",
+     "url": "https://ercolano.cultura.gov.it/en/",
+     "url_label": "Herculaneum tickets"
+    },
+    {
+     "title": "Museo Nazionale del Risorgimento",
+     "subtitle": "Turin",
+     "desc": "Paintings, uniforms, Garibaldi's red shirts and the preserved chamber of the first Italian parliament in Palazzo Carignano.",
+     "region": "piedmont",
+     "url": "https://www.museorisorgimentotorino.it/",
+     "url_label": "Museum site"
+    },
+    {
+     "title": "Valley of the Temples and Pietro Griffo museum",
+     "subtitle": "Agrigento",
+     "desc": "The archaeological museum beside the temples holds a reassembled telamon, one of the giant stone figures that once held up the Temple of Olympian Zeus.",
+     "region": "sicily",
+     "url": "https://www.parcovalledeitempli.it/",
+     "url_label": "Park and museum"
+    },
+    {
+     "title": "Museo del Violino",
+     "subtitle": "Cremona",
+     "desc": "Five centuries of violin-making in the city of Stradivari, with instruments still played in the auditorium.",
+     "region": "lombardy",
+     "url": "https://museodelviolino.org/en/",
+     "url_label": "Museo del Violino"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Buy a good map of the Roman Forum before you go, or join a small-group guide: the ruins make far more sense with someone to read them.",
+  "Many archaeological parks are exposed and hot; in summer go at opening time with a hat and refillable bottle.",
+  "Italy's national holidays have historical roots: 25 April (Liberation Day) and 2 June (Republic Day) bring parades, concerts and some closures.",
+  "Combine sites by train where you can: Ostia from Rome, Herculaneum and Pompeii from Naples, Aquileia by bus from Trieste or Udine."
+ ],
+ "links": [
+  {
+   "label": "Capitoline Museums",
+   "url": "https://museicapitolini.org/en",
+   "desc": "Rome's civic museum of ancient art, with tickets and opening hours"
+  },
+  {
+   "label": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/statesparties/it",
+   "desc": "Descriptions of every listed site in Italy"
+  }
+ ]
+}

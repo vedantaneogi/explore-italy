@@ -1,0 +1,400 @@
+{
+ "slug": "festivals",
+ "section": "experiences",
+ "title": "Festivals & events",
+ "headline": "A year of feast days, races and masks",
+ "tagline": "Bareback horse races, orange battles, flower carpets and candlelit processions: plan your trip around one of Italy's great festivals and you will never forget it.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Siena_palio_%2813%29.JPG/1280px-Siena_palio_%2813%29.JPG",
+  "alt": "Racehorses' hooves pounding the packed earth of Piazza del Campo during the Palio di Siena",
+  "credit": "Roberto Vicario, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ASiena_palio_%2813%29.JPG"
+ },
+ "intro": [
+  "Italian festivals are not put on for visitors. Most are centuries-old rituals of rivalry and devotion, run by neighbourhoods, guilds and confraternities who rehearse all year. In Siena, people are baptised into their contrada; in Gubbio, the men who carry the Ceri train like athletes; in Catania, hundreds of thousands follow the relics of St Agatha through the night. Watching, you are a guest at someone else's party.",
+  "That makes them unforgettable, and a little chaotic. Hotels fill months ahead, streets close and timetables slip. Below is a month-by-month calendar of the big ones, the headline events worth building a trip around, and the arts and food fairs that fill the gaps. Many dates follow Easter or the saints' calendar, so always check the year's programme before you book."
+ ],
+ "sections": [
+  {
+   "heading": "The festival calendar, month by month",
+   "intro": "Fixed dates repeat every year; moveable ones are tied to Easter, Carnival or a weekend, so confirm locally.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Sant'Antonio Abate and the Mamuthones",
+     "subtitle": "Mamoiada, Sardinia",
+     "desc": "Bonfires burn across inland Sardinia, and in Mamoiada the Mamuthones make their first outing of the year: men in black sheepskins and dark wooden masks, shaking heavy cowbells in a slow, eerie march.",
+     "meta": "16-17 January",
+     "region": "sardinia"
+    },
+    {
+     "title": "Festa di Sant'Agata",
+     "subtitle": "Catania, Sicily",
+     "desc": "One of the largest religious festivals in the world. Devotees in white robes haul the saint's silver carriage through the city for two days and nights, with fireworks, giant candles and torrone stalls.",
+     "meta": "3-5 February",
+     "region": "sicily"
+    },
+    {
+     "title": "Carnevale di Venezia",
+     "subtitle": "Venice, Veneto",
+     "desc": "Masks, costumed balls and the Flight of the Angel from the Campanile in St Mark's Square. The best moments are early morning, when costumed Venetians pose in empty campi. In 2027 it ends on 9 February.",
+     "meta": "Late January to Shrove Tuesday",
+     "region": "veneto",
+     "url": "https://www.carnevale.venezia.it/en/",
+     "url_label": "Official programme"
+    },
+    {
+     "title": "Carnevale di Viareggio",
+     "subtitle": "Viareggio, Tuscany",
+     "desc": "Giant papier-mache floats, some as tall as a building, satirise politicians and celebrities as they roll along the seafront promenade over several weekends.",
+     "meta": "February weekends",
+     "region": "tuscany"
+    },
+    {
+     "title": "Battle of the Oranges",
+     "subtitle": "Ivrea, Piedmont",
+     "desc": "For three days, teams on foot pelt armoured carts with oranges in a mock revolt against a medieval tyrant. Spectators who wear the red Phrygian cap are off-limits; everyone else is fair game.",
+     "meta": "Carnival Sunday to Shrove Tuesday",
+     "region": "piedmont",
+     "url": "https://www.storicocarnevaleivrea.it/",
+     "url_label": "Storico Carnevale di Ivrea"
+    },
+    {
+     "title": "Processione dei Misteri",
+     "subtitle": "Trapani, Sicily",
+     "desc": "Twenty groups of carved wooden statues of the Passion are carried through the old town, swaying to brass bands, for around 24 hours from Good Friday afternoon.",
+     "meta": "Good Friday",
+     "region": "sicily"
+    },
+    {
+     "title": "Scoppio del Carro",
+     "subtitle": "Florence, Tuscany",
+     "desc": "An ornate cart packed with fireworks is pulled by white oxen to the Duomo; at the Gloria, a dove-shaped rocket shoots down a wire from the altar and sets it off in a roar of smoke and bangs.",
+     "meta": "Easter Sunday morning",
+     "region": "tuscany"
+    },
+    {
+     "title": "Corsa dei Ceri",
+     "subtitle": "Gubbio, Umbria",
+     "desc": "Three wooden towers topped by saints, each around 280 kg, are raced through the streets and up Monte Ingino at full tilt by teams of bearers in coloured shirts.",
+     "meta": "15 May",
+     "region": "umbria",
+     "url": "https://www.ceri.it/",
+     "url_label": "Festa dei Ceri"
+    },
+    {
+     "title": "Infiorata di Noto",
+     "subtitle": "Noto, Sicily",
+     "desc": "Via Nicolaci is carpeted in pictures made from flower petals, framed by Baroque balconies. Spello in Umbria and Genzano near Rome hold their own spectacular infiorate for Corpus Domini in late spring.",
+     "meta": "Third weekend of May",
+     "region": "sicily",
+     "url": "https://www.infioratadinoto.it/",
+     "url_label": "Infiorata di Noto"
+    },
+    {
+     "title": "La Biennale di Venezia",
+     "subtitle": "Venice, Veneto",
+     "desc": "The world's most famous contemporary art show alternates yearly with the Architecture Biennale, spreading through the Giardini, the Arsenale and palazzi across the city.",
+     "meta": "May to November",
+     "region": "veneto",
+     "url": "https://www.labiennale.org/en",
+     "url_label": "La Biennale"
+    },
+    {
+     "title": "Calcio Storico Fiorentino",
+     "subtitle": "Florence, Tuscany",
+     "desc": "Part rugby, part wrestling, in 16th-century costume on a sand pitch in Piazza Santa Croce. Four neighbourhoods fight it out, with the final on 24 June, the feast of St John.",
+     "meta": "June, final 24 June",
+     "region": "tuscany"
+    },
+    {
+     "title": "Palio di Siena",
+     "subtitle": "Siena, Tuscany",
+     "desc": "Ten horses, bareback riders and three laps of the Campo in about 90 seconds. The days before are full of trial races, blessings of the horses in church and long outdoor contrada dinners.",
+     "meta": "2 July and 16 August",
+     "region": "tuscany",
+     "url": "https://www.ilpalio.org/",
+     "url_label": "Il Palio"
+    },
+    {
+     "title": "Festino di Santa Rosalia",
+     "subtitle": "Palermo, Sicily",
+     "desc": "A towering triumphal cart carries Palermo's patron saint, who saved the city from plague in 1624, down the Cassaro to the sea, followed by fireworks over the Foro Italico.",
+     "meta": "14-15 July",
+     "region": "sicily"
+    },
+    {
+     "title": "Festa del Redentore",
+     "subtitle": "Venice, Veneto",
+     "desc": "Venetians tie their boats together in the Bacino di San Marco, eat dinner on the water and watch a huge fireworks display. On Sunday a bridge of boats links the Zattere with Palladio's Redentore church.",
+     "meta": "Third weekend of July",
+     "region": "veneto"
+    },
+    {
+     "title": "La Notte della Taranta",
+     "subtitle": "Melpignano, Puglia",
+     "desc": "The summer-long pizzica festival in Salento's villages ends with a free all-night concert for tens of thousands in Melpignano.",
+     "meta": "Late August",
+     "region": "puglia",
+     "url": "https://www.lanottedellataranta.it/",
+     "url_label": "Festival site"
+    },
+    {
+     "title": "Venice International Film Festival",
+     "subtitle": "Lido di Venezia, Veneto",
+     "desc": "The oldest film festival in the world, on the Lido. Public tickets are sold for many screenings, and stars arrive by water taxi along the red carpet.",
+     "meta": "Late August to early September",
+     "region": "veneto",
+     "url": "https://www.labiennale.org/en/cinema/2026",
+     "url_label": "Biennale Cinema"
+    },
+    {
+     "title": "Regata Storica",
+     "subtitle": "Venice, Veneto",
+     "desc": "A water parade of 16th-century-style boats and costumed gondoliers, followed by fierce rowing races down the Grand Canal.",
+     "meta": "First Sunday of September",
+     "region": "veneto",
+     "url": "https://www.regatastoricavenezia.it/en/",
+     "url_label": "Regata Storica"
+    },
+    {
+     "title": "Macchina di Santa Rosa",
+     "subtitle": "Viterbo, Lazio",
+     "desc": "A 30-metre illuminated tower is carried on the shoulders of about a hundred facchini through the dark medieval streets, with the lights turned off around them.",
+     "meta": "3 September, evening",
+     "region": "lazio",
+     "url": "https://www.macchinadisantarosa.it/",
+     "url_label": "Macchina di Santa Rosa"
+    },
+    {
+     "title": "Barcolana",
+     "subtitle": "Trieste, Friuli-Venezia Giulia",
+     "desc": "Probably the most crowded sailing regatta on the planet, with often more than 1,800 boats jostling on one start line in the Gulf of Trieste, with a week of parties along the waterfront.",
+     "meta": "Second Sunday of October",
+     "region": "friuli-venezia-giulia",
+     "url": "https://www.barcolana.it/",
+     "url_label": "Barcolana"
+    },
+    {
+     "title": "Alba White Truffle Fair",
+     "subtitle": "Alba, Piedmont",
+     "desc": "Weekends of truffle market, tastings and cooking shows, plus a donkey palio. The 2026 edition, the 96th, runs from 10 October to 6 December.",
+     "meta": "October to early December",
+     "region": "piedmont",
+     "url": "https://www.fieradeltartufo.org/en/",
+     "url_label": "Fiera del Tartufo"
+    },
+    {
+     "title": "Lucca Comics & Games",
+     "subtitle": "Lucca, Tuscany",
+     "desc": "Europe's biggest comics and gaming festival takes over the walled city, with cosplayers queuing for pastries under Renaissance ramparts.",
+     "meta": "Late October to 1 November",
+     "region": "tuscany",
+     "url": "https://www.luccacomicsandgames.com/",
+     "url_label": "Lucca Comics & Games"
+    },
+    {
+     "title": "Autumnia",
+     "subtitle": "Figline e Incisa Valdarno, Tuscany",
+     "desc": "A free farming, food and environment fair between Chianti and the Pratomagno: a market of local producers, a farmyard of piglets and calves, and guided visits to the Teatro Garibaldi and Palazzo Pretorio. The 2026 edition runs 6-8 November.",
+     "meta": "Early November",
+     "region": "tuscany",
+     "url": "https://www.autumnia.it/",
+     "url_label": "Autumnia"
+    },
+    {
+     "title": "Festa della Salute",
+     "subtitle": "Venice, Veneto",
+     "desc": "A temporary bridge of boats crosses the Grand Canal to the domed Salute church, built to give thanks for the end of the 1630 plague. Venetians light candles and eat castradina, a smoked mutton stew.",
+     "meta": "21 November",
+     "region": "veneto"
+    },
+    {
+     "title": "Prima della Scala",
+     "subtitle": "Milan, Lombardy",
+     "desc": "La Scala's season opens on the feast of Sant'Ambrogio with a black-tie gala, while the Oh Bej! Oh Bej! street fair runs around the Castello Sforzesco.",
+     "meta": "7 December",
+     "region": "lombardy"
+    },
+    {
+     "title": "Christmas markets of Alto Adige",
+     "subtitle": "Bolzano, Merano, Bressanone, Brunico, Vipiteno",
+     "desc": "Wooden huts, mulled wine, Zelten fruit bread and handmade decorations in the Alpine towns of South Tyrol, with snowy peaks behind.",
+     "meta": "Late November to early January",
+     "region": "trentino-alto-adige",
+     "url": "https://www.suedtirol.info/en/en/seasons/winter/christmas-and-christmas-markets",
+     "url_label": "South Tyrol Christmas markets"
+    }
+   ]
+  },
+  {
+   "heading": "Six festivals worth building a trip around",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Palio di Siena",
+     "subtitle": "Siena, 2 July and 16 August",
+     "desc": "Not a show but the climax of a year of passion for Siena's seventeen contrade. Stand in the centre of the Campo for free (arrive hours early, with water) or pay for a balcony seat. Don't miss the historical parade before the race.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Palio_-_Carrocio.JPG/1280px-Palio_-_Carrocio.JPG",
+      "alt": "Armoured figures and the ox-drawn carroccio in the historical parade before the Palio di Siena",
+      "credit": "William Domenichini, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APalio_-_Carrocio.JPG"
+     },
+     "meta": "2 July and 16 August",
+     "region": "tuscany",
+     "url": "https://www.ilpalio.org/",
+     "url_label": "Il Palio"
+    },
+    {
+     "title": "Carnevale di Venezia",
+     "subtitle": "Venice, before Lent",
+     "desc": "Rent a costume or simply buy a handmade mask from a workshop, not a stall. The first weekend has the Festa Veneziana on the water; the final days bring the crowds. Midweek and early mornings are magical.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Venice_Carnival_-_Masked_Lovers_%282010%29.jpg/1280px-Venice_Carnival_-_Masked_Lovers_%282010%29.jpg",
+      "alt": "Two masked revellers in feathered costumes at the Carnival of Venice",
+      "credit": "Frank Kovalchek, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVenice_Carnival_-_Masked_Lovers_%282010%29.jpg"
+     },
+     "meta": "Ends Shrove Tuesday",
+     "region": "veneto",
+     "url": "https://www.carnevale.venezia.it/en/",
+     "url_label": "Carnival programme"
+    },
+    {
+     "title": "Battle of the Oranges",
+     "subtitle": "Ivrea, Carnival",
+     "desc": "The messiest festival in Italy: tonnes of oranges flying through the air in the town's squares. Watch from behind the nets or buy a red cap to stay out of the fight. Wear old clothes either way.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dettaglio_della_battaglia_e_della_quantit%C3%A0_di_arance._%28foto_Baldo_Simone%29.jpg/1280px-Dettaglio_della_battaglia_e_della_quantit%C3%A0_di_arance._%28foto_Baldo_Simone%29.jpg",
+      "alt": "Helmeted orange-throwers on a cart under a shower of oranges at the Ivrea Carnival",
+      "credit": "Baldo Simone, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ADettaglio_della_battaglia_e_della_quantit%C3%A0_di_arance._%28foto_Baldo_Simone%29.jpg"
+     },
+     "meta": "Carnival Sunday to Tuesday",
+     "region": "piedmont",
+     "url": "https://www.storicocarnevaleivrea.it/",
+     "url_label": "Carnevale di Ivrea"
+    },
+    {
+     "title": "Corsa dei Ceri",
+     "subtitle": "Gubbio, 15 May",
+     "desc": "From dawn the town is a sea of yellow, blue and black shirts. The Ceri are raised in Piazza Grande at midday and paraded all afternoon, then raced at full tilt through the streets and up the mountain to the basilica of St Ubaldo in the early evening.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/CORSA_DEI_CERI-GUBBIO-ITALY-4.jpg/1280px-CORSA_DEI_CERI-GUBBIO-ITALY-4.jpg",
+      "alt": "Ceraioli in yellow shirts straining under the poles of a Cero during the Corsa dei Ceri in Gubbio",
+      "credit": "Louis Gino Borsella, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACORSA_DEI_CERI-GUBBIO-ITALY-4.jpg"
+     },
+     "meta": "15 May",
+     "region": "umbria",
+     "url": "https://www.ceri.it/",
+     "url_label": "Festa dei Ceri"
+    },
+    {
+     "title": "Regata Storica",
+     "subtitle": "Venice, first Sunday of September",
+     "desc": "The Grand Canal at its most glorious: gilded ceremonial boats, rowers in Renaissance costume and the gondolino races cheered from every palazzo window. Book a canal-side table or join the crowds on the Rialto.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ca%27_Rezzonico_%28Venice%29.jpg/1280px-Ca%27_Rezzonico_%28Venice%29.jpg",
+      "alt": "The white Baroque facade of Ca' Rezzonico on the Grand Canal, along the Regata Storica course",
+      "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACa%27_Rezzonico_%28Venice%29.jpg"
+     },
+     "meta": "First Sunday of September",
+     "region": "veneto",
+     "url": "https://www.regatastoricavenezia.it/en/",
+     "url_label": "Regata Storica"
+    },
+    {
+     "title": "Christmas in South Tyrol",
+     "subtitle": "Late November to early January",
+     "desc": "Bolzano's market fills Piazza Walther with wooden chalets; Merano's runs along the river promenade; Bressanone's sits beneath the cathedral. Ride the cable car to Renon for snowy views and an early dinner of dumplings.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Winterwald_Christmas_market_Bozen.JPG/1280px-Winterwald_Christmas_market_Bozen.JPG",
+      "alt": "A wooden Christmas market stall glowing with lights and decorations in Bolzano",
+      "credit": "Skafa, CC BY-SA 2.5, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AWinterwald_Christmas_market_Bozen.JPG"
+     },
+     "meta": "Late Nov to early Jan",
+     "region": "trentino-alto-adige",
+     "url": "https://www.suedtirol.info/en/en/seasons/winter/christmas-and-christmas-markets",
+     "url_label": "Markets and dates"
+    }
+   ]
+  },
+  {
+   "heading": "Arts, film and food fairs",
+   "intro": "Big cultural events that bring a city to life for weeks, not days.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Biennale Arte",
+     "subtitle": "Venice",
+     "desc": "The 2026 edition, the 61st, runs from 9 May to 22 November. Architecture takes over in odd-numbered years, with dance, theatre and music festivals in between.",
+     "meta": "Even years, May-November",
+     "region": "veneto",
+     "url": "https://www.labiennale.org/en/art/2026",
+     "url_label": "Biennale Arte 2026"
+    },
+    {
+     "title": "Venice Film Festival",
+     "subtitle": "Lido di Venezia",
+     "desc": "The 2026 festival ran 2-12 September. Tickets for public screenings go on sale in August.",
+     "meta": "Late Aug-early Sept",
+     "region": "veneto",
+     "url": "https://www.labiennale.org/en/cinema/2026",
+     "url_label": "Biennale Cinema"
+    },
+    {
+     "title": "Festival dei Due Mondi",
+     "subtitle": "Spoleto, Umbria",
+     "desc": "Founded in 1958, this festival of opera, theatre, dance and music fills the hill town's theatres and squares from late June into July.",
+     "meta": "Late June-July",
+     "region": "umbria",
+     "url": "https://www.festivaldispoleto.com/en",
+     "url_label": "Spoleto Festival"
+    },
+    {
+     "title": "Umbria Jazz",
+     "subtitle": "Perugia, Umbria",
+     "desc": "Ten days of jazz in July with free stages in the medieval squares, plus a winter edition in Orvieto at New Year.",
+     "meta": "July",
+     "region": "umbria",
+     "url": "https://www.umbriajazz.it/en/",
+     "url_label": "Umbria Jazz"
+    },
+    {
+     "title": "Sagre",
+     "subtitle": "Everywhere, all summer and autumn",
+     "desc": "Village food festivals devoted to one dish or ingredient, from chestnuts to wild boar to fried fish, with long tables, local wine and a dance band. Look for posters on the roadside.",
+     "meta": "June-November"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Book accommodation as soon as you have dates: Siena in early July, Venice at Carnival and Gubbio on 15 May fill up months ahead.",
+  "Many moveable feasts depend on Easter; in 2027 Easter Sunday falls on 28 March, with Carnival ending on 9 February.",
+  "At crowded events, agree on a meeting point, keep bags small and drink plenty of water; you may not be able to leave the Campo during the Palio.",
+  "Patron saints' days often mean shops and offices close in that town; check before planning museum visits.",
+  "Respect the ritual: festivals like the Palio and Sant'Agata are deeply serious to locals, so don't push into processions for photos."
+ ],
+ "links": [
+  {
+   "label": "Italia.it events",
+   "url": "https://www.italia.it/en",
+   "desc": "Italy's official tourism portal, with an events calendar by region"
+  },
+  {
+   "label": "La Biennale di Venezia",
+   "url": "https://www.labiennale.org/en",
+   "desc": "Art, architecture, film, dance, music and theatre festivals in Venice"
+  },
+  {
+   "label": "Autumnia on Italia.it",
+   "url": "https://www.italia.it/en/tuscany/florence/figline-valdarno/things-to-do/event-autumnia",
+   "desc": "Details of the Figline Valdarno farming and food fair"
+  }
+ ]
+}

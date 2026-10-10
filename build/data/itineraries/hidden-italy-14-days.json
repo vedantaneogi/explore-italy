@@ -1,0 +1,195 @@
+{
+ "slug": "hidden-italy-14-days",
+ "title": "Hidden Italy: Marche to Calabria",
+ "headline": "Down the Apennine spine, far from the crowds",
+ "days": 14,
+ "style": "Slow travel",
+ "tagline": "Two weeks through Italy's least-visited regions, from Renaissance Urbino to the cliffs of Tropea.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg/1280px-Tropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg",
+  "alt": "The church of Santa Maria dell'Isola on its rock above the beach at Tropea, lit by late sun",
+  "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATropea_-_Santa_Maria_dell%27Isola_al_tramonto_-_1.jpg"
+ },
+ "summary": "This is the Italy that most visitors drive past on the motorway. The route follows the Apennines south from Urbino, the Renaissance court city of the Marche, through Ascoli Piceno's travertine piazzas to the high plateau of Campo Imperatore in Abruzzo, where stone villages like Santo Stefano di Sessanio have been brought back to life. It crosses Molise, Italy's smallest and quietest region, to the Lucanian Dolomites in Basilicata, then follows the coast to Maratea and Calabria's Tropea. Expect mountain roads, shepherds' food, empty museums and the warmest welcomes of any trip in this guide.",
+ "route": [
+  "Urbino",
+  "Frasassi",
+  "Ascoli Piceno",
+  "Santo Stefano di Sessanio",
+  "Rocca Calascio",
+  "Sulmona",
+  "Scanno",
+  "Agnone",
+  "Castelmezzano",
+  "Pietrapertosa",
+  "Maratea",
+  "Pizzo",
+  "Tropea"
+ ],
+ "regions": [
+  "marche",
+  "abruzzo",
+  "molise",
+  "basilicata",
+  "calabria"
+ ],
+ "best_season": "Late May to June and September to early October: open mountain roads, warm sea at Maratea and Tropea, and the Volo dell'Angelo zip line running. Avoid winter, when high roads in Abruzzo can be snowbound, and August, when Italians fill the coast.",
+ "getting_around": "This trip needs a car. Fly into Bologna or Ancona and out of Lamezia Terme in Calabria (a one-way rental fee applies). Daily drives are mostly 1h30 to 3h on quiet roads, with one longer leg from Molise to Basilicata. Fill up when you can in the mountains and expect slow, winding final approaches to hill villages.",
+ "budget_note": "Good value: about €110-180 per person per day mid-range, more if you treat yourself to an albergo diffuso such as Sextantio.",
+ "days_plan": [
+  {
+   "day": "1-2",
+   "title": "Urbino",
+   "base": "Urbino",
+   "desc": "Drive from Bologna (about 2h) or Ancona (1h30) to Urbino, a hilltop university town that was one of the great courts of the Renaissance. The Palazzo Ducale holds the Galleria Nazionale delle Marche, with Piero della Francesca's Flagellation, Raphael's portrait known as La Muta, and Duke Federico's inlaid wooden study. Visit Raphael's birthplace and walk the walls at sunset. On day two, drive into the Montefeltro hills to San Leo's clifftop fortress.",
+   "highlights": [
+    "Palazzo Ducale and Federico's studiolo",
+    "Raphael's birthplace",
+    "San Leo fortress"
+   ],
+   "eat": "Crescia sfogliata: Urbino's flaky, peppery flatbread made with eggs and lard, filled with prosciutto, casciotta cheese or wild greens.",
+   "stay": "A B&B inside Urbino's walls."
+  },
+  {
+   "day": "3-4",
+   "title": "Frasassi caves and Ascoli Piceno",
+   "base": "Ascoli Piceno",
+   "desc": "Drive about 1h15 to the Grotte di Frasassi, one of Europe's largest show caves, where a single chamber could hold Milan Cathedral (guided visits by timed ticket). Continue about 2h south to Ascoli Piceno, a city paved and built in pale travertine. Piazza del Popolo, framed by arcades and the Gothic church of San Francesco, is one of the most beautiful squares in Italy. Spend the second day on the old town's towers and the Roman bridge, or drive into the Monti Sibillini.",
+   "highlights": [
+    "Grotte di Frasassi",
+    "Piazza del Popolo, Ascoli",
+    "Monti Sibillini national park"
+   ],
+   "eat": "Olive all'ascolana (giant green olives stuffed with meat, breaded and fried) and a glass of anisetta at the art nouveau Caffè Meletti on Piazza del Popolo.",
+   "stay": "Ascoli's historic centre."
+  },
+  {
+   "day": "5-6",
+   "title": "Santo Stefano di Sessanio and Campo Imperatore",
+   "base": "Santo Stefano di Sessanio",
+   "desc": "Drive about 2h into Abruzzo's Gran Sasso national park. Santo Stefano di Sessanio is a medieval fortified village at 1,250 metres, revived as an albergo diffuso, a hotel spread through its restored houses. Walk to Rocca Calascio, a ruined castle on a ridge at 1,460 metres, at sunrise or sunset. On day two drive across Campo Imperatore, a vast high plateau nicknamed 'Little Tibet', where horses graze beneath the Corno Grande, the highest peak in the Apennines.",
+   "highlights": [
+    "Rocca Calascio at sunset",
+    "Campo Imperatore plateau",
+    "Santo Stefano's stone lanes"
+   ],
+   "eat": "Arrosticini (skewers of mutton grilled over embers) bought by the dozen at a roadside butcher-grill on Campo Imperatore, and Santo Stefano's tiny lentils.",
+   "stay": "Sextantio Albergo Diffuso, with rooms in restored village houses, or a village B&B."
+  },
+  {
+   "day": "7",
+   "title": "Sulmona and Scanno",
+   "base": "Sulmona",
+   "desc": "Drive about 1h to Sulmona, Ovid's birthplace, at the foot of the Majella. The town is famous for confetti, sugared almonds shaped into flowers and bouquets; the Pelino factory has made them since 1783 and has a free museum. Walk the medieval aqueduct in Piazza Garibaldi. In the afternoon drive 45 minutes through the Sagittario gorge to Scanno and walk the Sentiero del Cuore, about an hour up to the viewpoint where the lake looks heart-shaped.",
+   "highlights": [
+    "Pelino confetti museum",
+    "Sulmona's medieval aqueduct",
+    "Heart-shaped Lake Scanno"
+   ],
+   "eat": "Maccheroni alla chitarra (square-cut egg pasta) with lamb ragù, and a bag of Sulmona confetti.",
+   "stay": "Sulmona's old town."
+  },
+  {
+   "day": "8",
+   "title": "Agnone, Molise",
+   "base": "Agnone",
+   "desc": "Drive about 1h30 south via Castel di Sangro into Molise. Agnone is home to the Pontificia Fonderia Marinelli, one of the world's oldest family businesses, which has cast church bells here since at least the 14th century. Guided visits take you through the bell museum and the foundry. Walk the town's craft streets, once full of coppersmiths and goldsmiths. Drive to the Samnite theatre at Pietrabbondante, 20 minutes away, which stands alone in the hills.",
+   "highlights": [
+    "Marinelli bell foundry",
+    "Pietrabbondante Samnite theatre",
+    "Agnone's old town"
+   ],
+   "eat": "Caciocavallo di Agnone and stracciata (a fresh stretched cheese), with a plate of cavatelli.",
+   "stay": "A B&B or agriturismo in Agnone."
+  },
+  {
+   "day": "9-10",
+   "title": "The Lucanian Dolomites",
+   "base": "Castelmezzano",
+   "desc": "The longest drive: about 3h30 south to Basilicata, where the villages of Castelmezzano and Pietrapertosa cling to jagged sandstone peaks. Fly between them on the Volo dell'Angelo, a steel-cable zip line that reaches over 100km/h above the valley (open roughly May to early November, book online). On day two walk the Sentiero delle Sette Pietre, a 2km path between the two villages, or the via ferrata above Castelmezzano. Nights are silent and the stars are bright.",
+   "highlights": [
+    "Volo dell'Angelo zip line",
+    "Sentiero delle Sette Pietre",
+    "Pietrapertosa's Arab quarter"
+   ],
+   "eat": "Peperoni cruschi (crisp sun-dried sweet peppers) crumbled over pasta with toasted breadcrumbs, and Aglianico del Vulture wine.",
+   "stay": "A B&B in Castelmezzano's old centre."
+  },
+  {
+   "day": "11-12",
+   "title": "Maratea",
+   "base": "Maratea",
+   "desc": "Drive about 2h to Maratea, Basilicata's only stretch of Tyrrhenian coast, with dark cliffs, coves and a 21-metre white Christ statue on Monte San Biagio above the sea. Swim at Spiaggia Nera or the cove of Acquafredda, take a boat into the sea caves, and wander the old upper town, said to have 44 churches. Spend the second day on the water or doing nothing at all.",
+   "highlights": [
+    "Christ the Redeemer on Monte San Biagio",
+    "Boat trip to the sea caves",
+    "Spiaggia Nera"
+   ],
+   "eat": "Fresh anchovies, swordfish and fish soup at the harbour in Maratea Porto.",
+   "stay": "Maratea Porto or Fiumicello, close to the sea."
+  },
+  {
+   "day": "13-14",
+   "title": "Pizzo and Tropea",
+   "base": "Tropea",
+   "desc": "Drive about 2h15 down the A2 into Calabria. Stop at Pizzo, a fishing town on a cliff, for its castle where Joachim Murat was executed and the little Chiesetta di Piedigrotta carved into a sea cave. Continue 40 minutes to Tropea, a town of old palazzi on a sandstone cliff above white beaches. Climb to Santa Maria dell'Isola on its rock and swim below. On your last day, take a boat trip along the Costa degli Dei or simply swim, then drive about 1h to Lamezia Terme airport.",
+   "highlights": [
+    "Piedigrotta sea-cave church",
+    "Santa Maria dell'Isola",
+    "Costa degli Dei boat trip"
+   ],
+   "eat": "Tartufo di Pizzo at Bar Gelateria Ercole on Piazza della Repubblica, the hazelnut and chocolate gelato with a molten chocolate heart. In Tropea, anything with the sweet red onions, and spicy 'nduja from nearby Spilinga.",
+   "stay": "Tropea's old town, a short walk from the beach."
+  }
+ ],
+ "tips": [
+  "Book the Volo dell'Angelo online in advance; it runs only on set days outside July and August.",
+  "Check the opening days of small museums and churches; many open only in the morning or by appointment.",
+  "Mountain villages have few restaurants and they may close midweek in the shoulder season; ask your host to book.",
+  "Mobile coverage drops in parts of the Gran Sasso and Basilicata; download offline maps.",
+  "Learn a few phrases in Italian: English is less common here, but goodwill is everywhere."
+ ],
+ "book": [
+  {
+   "label": "Galleria Nazionale delle Marche",
+   "url": "https://gallerianazionalemarche.it/",
+   "desc": "Palazzo Ducale in Urbino"
+  },
+  {
+   "label": "Grotte di Frasassi",
+   "url": "https://www.frasassi.com/",
+   "desc": "Timed cave tours"
+  },
+  {
+   "label": "Sextantio Albergo Diffuso",
+   "url": "https://sextantio.it/en/santostefano/albergo-diffuso-in-abruzzo",
+   "desc": "Rooms in Santo Stefano di Sessanio's restored houses"
+  },
+  {
+   "label": "Gran Sasso and Monti della Laga national park",
+   "url": "https://www.gransassolagapark.it/",
+   "desc": "Trails and visitor information"
+  },
+  {
+   "label": "Confetti Pelino",
+   "url": "https://www.pelino.it/",
+   "desc": "Sulmona confetti factory and museum"
+  },
+  {
+   "label": "Pontificia Fonderia Marinelli",
+   "url": "https://www.campanemarinelli.com/",
+   "desc": "Bell foundry and museum visits in Agnone"
+  },
+  {
+   "label": "Volo dell'Angelo",
+   "url": "https://www.volodellangelo.com/",
+   "desc": "Zip line calendar and booking"
+  },
+  {
+   "label": "Visit Calabria",
+   "url": "https://calabriastraordinaria.it/en",
+   "desc": "Official Calabria tourism site"
+  }
+ ]
+}

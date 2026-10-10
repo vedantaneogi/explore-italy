@@ -1,0 +1,279 @@
+{
+ "slug": "liguria",
+ "name": "Liguria",
+ "italian_name": "Liguria",
+ "area": "north",
+ "capital": "Genoa",
+ "tagline": "A thin arc of coast where pastel villages cling between basil terraces and sea.",
+ "intro": [
+  "Liguria is a sliver of land squeezed between the Apennines and the sea, so steep that its villages seem stacked one on top of another. The Riviera di Levante, east of Genoa, has the postcard views: Portofino, Camogli and the five villages of the Cinque Terre, joined by cliff paths and dry-stone terraces. To the west, the Riviera di Ponente has wider beaches, olive groves and hilltop villages looking out to sea.",
+  "Genoa holds it all together. It's a proud old maritime republic with one of Europe's largest medieval centres, a dark maze of caruggi alleys running down to the port. Ligurians are famously frugal and wonderfully good cooks: pesto pounded from small-leaved basil, focaccia glistening with oil, farinata from a wood oven, and anchovies every way you can think of. Bring good shoes, because almost everything worth seeing involves stairs."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vernazza_from_the_Corniglia_trail%2C_Cinque_Terre%2C_Italy%2C_April_2026.jpg/1280px-Vernazza_from_the_Corniglia_trail%2C_Cinque_Terre%2C_Italy%2C_April_2026.jpg",
+  "alt": "Vernazza's harbour and castle tower seen from the coastal trail to Corniglia, with prickly pears in the foreground",
+  "credit": "Mathieu Chollet - MChollet, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AVernazza_from_the_Corniglia_trail%2C_Cinque_Terre%2C_Italy%2C_April_2026.jpg"
+ },
+ "known_for": [
+  "Cinque Terre",
+  "Pesto genovese",
+  "Focaccia",
+  "Portofino",
+  "Genoa's palazzi",
+  "Cliff-top hiking",
+  "Riviera villages"
+ ],
+ "best_time": "Visit April to early June and mid-September to October for warm seas, quiet paths and open trattorias. July and August are hot and crowded, especially in the Cinque Terre. In winter the Riviera di Ponente stays mild and sunny, with mimosa in bloom by February.",
+ "getting_there": "Genoa's Cristoforo Colombo airport is small. Pisa and Nice are good alternatives for either end of the coast. The coastal railway is the region's backbone: frequent regional trains link Genoa with Camogli, Santa Margherita, the Cinque Terre and La Spezia, and in the west Savona, Finale and Sanremo. Ferries cover the Gulf of Tigullio and the Cinque Terre in season, and having no car is an advantage here.",
+ "places": [
+  {
+   "name": "Genoa",
+   "desc": "Get lost in the caruggi, the narrow lanes that open onto marble churches and greengrocers. Walk Via Garibaldi, lined with the UNESCO-listed Palazzi dei Rolli, eat focaccia at nine in the morning like the locals, ride the Zecca–Righi funicular for a view over the port, and end the day in Boccadasse, the old fishermen's cove.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Boccadasse_%28Genova%29-panorama_novembre_2019.jpg/1280px-Boccadasse_%28Genova%29-panorama_novembre_2019.jpg",
+    "alt": "Colourful houses of Boccadasse, Genoa's old fishing quarter, above a small rocky cove",
+    "credit": "Dapa19, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABoccadasse_%28Genova%29-panorama_novembre_2019.jpg"
+   }
+  },
+  {
+   "name": "Cinque Terre",
+   "desc": "Five fishing villages, Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore, cling to cliffs above the sea, linked by train, boat and centuries-old paths. Hike the Sentiero Azzurro sections that are open, or climb to the Volastra and Corniglia vineyards for quieter views, and taste Sciacchetrà, the amber sweet wine made from dried grapes.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg/1280px-Riomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg",
+    "alt": "Riomaggiore's tower houses climbing a ravine above the sea, seen from the ferry",
+    "credit": "Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARiomaggiore_From_Ferry_Cinque_Terre_Italy_Sep23_A7C_07414.jpg"
+   }
+  },
+  {
+   "name": "Portofino",
+   "desc": "A tiny harbour of ochre and rose houses, and expensive yachts. Arrive by boat from Santa Margherita, or on foot along the coastal path from Paraggi. Climb past the church of San Giorgio to Castello Brown and the lighthouse, then walk the wooded promontory paths to the abbey of San Fruttuoso, hidden in its own cove.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portofino%2C_Italy_2025.jpg/1280px-Portofino%2C_Italy_2025.jpg",
+    "alt": "Portofino's harbour of yachts and boats framed by pastel houses and wooded hills",
+    "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APortofino%2C_Italy_2025.jpg"
+   }
+  },
+  {
+   "name": "Camogli",
+   "desc": "Tall, painted houses crowd a pebble beach and a working fishing harbour. Camogli is lovelier and more lived-in than Portofino. Buy focaccia col formaggio, sit on the harbour wall at sunset and take the boat round the headland to San Fruttuoso or the Punta Chiappa rocks for a swim.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Seafront_of_Camogli%2C_Liguria%2C_Italy.jpg/1280px-Seafront_of_Camogli%2C_Liguria%2C_Italy.jpg",
+    "alt": "Camogli's tall painted seafront houses and church above a pebble beach",
+    "credit": "Hayden Soloviev, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASeafront_of_Camogli%2C_Liguria%2C_Italy.jpg"
+   }
+  },
+  {
+   "name": "Porto Venere",
+   "desc": "At the tip of the Gulf of La Spezia, a wall of narrow tower-houses faces the harbour. A lane leads out to the striped church of San Pietro, perched on the rocks. Swim near Byron's Grotto, then take the short boat ride to the island of Palmaria for its trails and quiet coves.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Italy_ZoharFord_July2-03.jpg/1280px-Italy_ZoharFord_July2-03.jpg",
+    "alt": "A row of tall pastel tower-houses along the harbour of Porto Venere",
+    "credit": "Lafrondy, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AItaly_ZoharFord_July2-03.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Hike from Camogli to San Fruttuoso",
+   "desc": "A rugged two-and-a-half-hour trail over the Portofino promontory, with sections of chain-assisted rock, ends at a medieval abbey on a tiny beach. Take the boat back to Camogli."
+  },
+  {
+   "title": "Make pesto in a mortar",
+   "desc": "Book a class in Genoa where you pound DOP basil, Pra' basil if possible, with pine nuts, garlic and Fiore Sardo cheese in a marble mortar. Then eat it on trofie with potatoes and green beans."
+  },
+  {
+   "title": "Eat farinata from the wood oven",
+   "desc": "This chickpea pancake, crisp at the edges and creamy inside, comes out of copper pans at Genoa's sciamadde. Eat it hot, with plenty of black pepper and a glass of Vermentino."
+  },
+  {
+   "title": "Walk the Via dell'Amore and the high paths",
+   "desc": "The famous lovers' lane between Riomaggiore and Manarola has reopened after years of repairs. Combine it with the high-level Sentiero Verde Azzurro paths for vineyard views without the crowds."
+  },
+  {
+   "title": "Visit Genoa's aquarium and old port",
+   "desc": "Renzo Piano's redeveloped Porto Antico is home to one of Europe's largest aquariums and the Galata Museo del Mare. A harbour boat tour gives you a sea-level view of the city."
+  },
+  {
+   "title": "Swim at Baia del Silenzio",
+   "desc": "Sestri Levante's 'bay of silence' is a small curve of sand framed by painted houses and fishing boats. Go early in summer, or in late September when it lives up to its name."
+  },
+  {
+   "title": "Explore the Ponente hill villages",
+   "desc": "Drive inland from Bordighera and Ventimiglia to Dolceacqua, Apricale and Perinaldo. These stone villages sit among olive groves, have tiny wine bars, and look out across the hills to the Alps."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Pesto genovese",
+   "type": "dish",
+   "desc": "Young basil, pine nuts, garlic, Parmigiano, Pecorino and Ligurian olive oil. Classic with trofie or trenette, potatoes and green beans."
+  },
+  {
+   "name": "Focaccia genovese",
+   "type": "bread",
+   "desc": "Low and dimpled, salty and slick with oil. Genoese dunk it in cappuccino for breakfast."
+  },
+  {
+   "name": "Focaccia di Recco col formaggio IGP",
+   "type": "bread",
+   "desc": "Two paper-thin sheets of dough with molten, tangy stracchino in between, baked until blistered. Eat it straight from the oven in Recco or Camogli."
+  },
+  {
+   "name": "Farinata",
+   "type": "dish",
+   "desc": "A thin chickpea-flour pancake baked in huge copper pans in a wood oven, served hot with black pepper."
+  },
+  {
+   "name": "Acciughe di Monterosso",
+   "type": "dish",
+   "desc": "Anchovies from the Cinque Terre, salted, marinated in lemon, fried or stuffed and baked. Fishermen still go out at night with lamps to catch them."
+  },
+  {
+   "name": "Cappon magro",
+   "type": "dish",
+   "desc": "A towering festive salad of fish, seafood and vegetables over sea biscuits, dressed in a green herb sauce. It is famously elaborate to make."
+  },
+  {
+   "name": "Riviera Ligure DOP olive oil",
+   "type": "olive oil",
+   "desc": "Taggiasca olives give a delicate, sweet oil with hints of almond. It's best poured raw over fish."
+  },
+  {
+   "name": "Sciacchetrà",
+   "type": "wine",
+   "desc": "A rare, amber sweet wine from the Cinque Terre, made from Bosco, Albarola and Vermentino grapes dried on racks."
+  },
+  {
+   "name": "Pandolce genovese",
+   "type": "sweet",
+   "desc": "A dense, fragrant Christmas cake studded with candied fruit, raisins, pine nuts and fennel seeds."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Pietro Romanengo fu Stefano",
+   "city": "Genoa",
+   "since": "1780",
+   "desc": "A confectioner's shop with carved cabinets on Via Soziglia, still selling candied fruit, sugared almonds, rose syrup and violet pastilles, made by hand the way the Genoese aristocracy liked them.",
+   "url": "https://romanengo.com/"
+  },
+  {
+   "name": "Fratelli Klainguti",
+   "city": "Genoa",
+   "since": "1828",
+   "desc": "A Swiss-founded café on Piazza Soziglia. It closed in 2020 and was lovingly restored before reopening in 2025. Order the Falstaff brioche, which Verdi is said to have loved, with a cappuccino at the old counter.",
+   "url": "https://www.klainguti.it/"
+  },
+  {
+   "name": "Caffè Pasticceria Balzola",
+   "city": "Alassio",
+   "since": "1902",
+   "desc": "This family pastry café beside Alassio's Budello is the home of the baci di Alassio, two hazelnut-cocoa cookies joined with chocolate ganache. Take a box with you, or sit on the terrace with a coffee.",
+   "url": "https://www.balzola1902.com/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "An agriturismo above the Cinque Terre",
+   "desc": "Skip the crowded waterfront rooms and stay among the terraces near Volastra, Groppo or Campiglia. Farm stays there produce wine, lemons and honey, and the paths start at the gate."
+  },
+  {
+   "title": "A harbour flat in Camogli",
+   "desc": "Rent an apartment in one of the tall painted houses on Via Garibaldi. You'll fall asleep to waves on the pebbles, wake to the fishing boats coming in, and buy focaccia downstairs for breakfast."
+  },
+  {
+   "title": "An olive farm in the Ponente",
+   "desc": "In the valleys behind Imperia and Sanremo, family olive estates rent rooms among the Taggiasca trees. Many will show you around the mill in November, when the new oil is pressed."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Genoa",
+   "to": "Camogli and San Fruttuoso",
+   "how": "30 min by train, then boat",
+   "desc": "Spend the morning in Camogli's harbour, take the boat to the abbey cove for a swim and lunch, and catch a train back for dinner."
+  },
+  {
+   "from": "La Spezia",
+   "to": "Lerici and Tellaro",
+   "how": "About 30 min by bus",
+   "desc": "Visit the Gulf of Poets, which Byron and Shelley loved. Lerici has a castle and a seafront promenade, and Tellaro a pink fishing hamlet on the rocks."
+  },
+  {
+   "from": "Sanremo",
+   "to": "Dolceacqua",
+   "how": "About 30 min by car or bus",
+   "desc": "Cross the hump-backed bridge that Monet painted, climb to the Doria castle, and taste Rossese di Dolceacqua in a cellar bar."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Dolceacqua",
+   "desc": "A dark-stone village in the Nervia valley, built in layers below the ruined Doria castle, with a single-arched medieval bridge that Monet painted in 1884. Taste the local Rossese red and the michetta, a sweet bun with a saucy backstory.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dolceacqua38_-_Panorama_del_paese_vecchio.jpg/1280px-Dolceacqua38_-_Panorama_del_paese_vecchio.jpg",
+    "alt": "Dolceacqua's single-arched medieval bridge and old town below the Doria castle",
+    "credit": "Dongio, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ADolceacqua38_-_Panorama_del_paese_vecchio.jpg"
+   }
+  },
+  {
+   "name": "Tellaro",
+   "desc": "Squeezed onto a rocky point at the end of the Gulf of La Spezia, Tellaro is a knot of pink and ochre houses and steps leading down to the sea. Legend says an octopus once rang the church bell to warn of pirates.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tellaro_%28Lerici%29-panorama12.JPG/1280px-Tellaro_%28Lerici%29-panorama12.JPG",
+    "alt": "Pink and ochre houses of Tellaro above rocks and a clear-water cove",
+    "credit": "Davide Papalini, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATellaro_%28Lerici%29-panorama12.JPG"
+   }
+  },
+  {
+   "name": "Apricale",
+   "desc": "A Ponente hill village spiralling up to its castle. Its walls are painted with murals by visiting artists, and its piazza is one of the prettiest on the Riviera. Come for an evening meal with views over the olive groves."
+  },
+  {
+   "name": "Noli",
+   "desc": "Once a tiny independent maritime republic, Noli still has its medieval towers, arcaded lanes and the Romanesque church of San Paragorio. Fishermen sell their catch straight from the beach in the morning.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Noli_-_View_from_Capo_Noli_-_4.jpg/1280px-Noli_-_View_from_Capo_Noli_-_4.jpg",
+    "alt": "The bay of Noli and its beach curving below green hills, seen from Capo Noli",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ANoli_-_View_from_Capo_Noli_-_4.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Sagra del Pesce",
+   "when": "Second Sunday of May",
+   "where": "Camogli",
+   "desc": "A giant frying pan, four metres across, is set up on the harbour and thousands of portions of fried fish are handed out to honour San Fortunato, the fishermen's patron saint."
+  },
+  {
+   "name": "Stella Maris",
+   "when": "First Sunday of August",
+   "where": "Camogli and Punta Chiappa",
+   "desc": "A procession of boats sails to the Madonna's altar at Punta Chiappa. At dusk, thousands of small candles are set afloat on the sea to drift back to shore."
+  },
+  {
+   "name": "Festa di San Giovanni Battista",
+   "when": "24 June",
+   "where": "Genoa",
+   "desc": "Genoa's patron saint is celebrated with a procession to the old port, the blessing of the sea, and bonfires and music in the historic centre the night before."
+  },
+  {
+   "name": "Festival della Canzone Italiana",
+   "when": "February",
+   "where": "Sanremo",
+   "desc": "Italy's most-watched song contest takes over the Teatro Ariston and the whole town for a week of crowds, celebrities and late-night parties."
+  }
+ ],
+ "culture": "Liguria is a seafaring culture. Genoese, a lilting dialect full of Arabic and Spanish loanwords, still echoes in the markets and the songs of Fabrizio De André, whose album 'Crêuza de mä' is written entirely in it. Trallalero, polyphonic singing by all-male squads from the Genoese docks, is still performed. Crafts include Zoagli silk velvet, slate from the Fontanabuona valley, and the filigree silver of Campo Ligure. Genoa also gave the world blue jeans: 'bleu de Gênes' was the sailors' sturdy cotton.",
+ "official_site": "https://lamialiguria.it/en/"
+}

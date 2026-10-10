@@ -1,0 +1,237 @@
+{
+ "slug": "classic-italy-10-days",
+ "title": "Rome, Florence & Venice",
+ "headline": "Three cities, ten days, one fast train line",
+ "days": 10,
+ "style": "First trip",
+ "tagline": "The classic first trip done properly: fewer queues, better lunches and enough slack to wander.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ponte_Vecchio_from_Ponte_alle_Grazie.jpg/1280px-Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+  "alt": "The Ponte Vecchio and its overhanging goldsmiths' shops reflected in the Arno, Florence",
+  "credit": "Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APonte_Vecchio_from_Ponte_alle_Grazie.jpg"
+ },
+ "summary": "This is the route almost everyone takes the first time, and for good reason: the high-speed line links Rome, Florence and Venice in under four hours end to end, so you spend your days in piazzas rather than on platforms. The trick is booking the handful of timed-entry sights before you leave, staying in walkable neighbourhoods, and leaving afternoons loose. Four nights in Rome cover the ancient city, the Vatican and Trastevere; three in Florence give you the Uffizi, the Duomo climb and a day in Siena or Chianti; three in Venice let you see the lagoon early and late, when the day crowds have gone.",
+ "route": [
+  "Rome",
+  "Florence",
+  "Siena",
+  "Venice",
+  "Burano"
+ ],
+ "regions": [
+  "lazio",
+  "tuscany",
+  "veneto"
+ ],
+ "best_season": "April to early June and mid-September to October: warm enough for evening walks, with lighter crowds than July and August. Late October and November are quieter still and cheaper, with shorter days.",
+ "getting_around": "Trains only. Frecciarossa (Trenitalia) and Italo run Rome Termini to Florence Santa Maria Novella in about 1h35, and Florence to Venezia Santa Lucia in about 2h05. Book a few weeks ahead for the cheapest fares. Walk and use buses or the metro in Rome; walk everywhere in Florence; in Venice buy a multi-day ACTV vaporetto pass.",
+ "budget_note": "Mid-range travellers should budget roughly €180-260 per person per day, with Venice hotels the priciest part of the trip.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Arrive and ease into Rome",
+   "base": "Rome",
+   "desc": "Drop your bags and go straight out on foot. Walk from Piazza Navona to the Pantheon (now ticketed, so book a slot), then to the Trevi Fountain: the piazza is free, but stepping down to the basin costs €2 since February 2026. Climb the Spanish Steps around sunset and keep walking up to the Pincio terrace for the view over Piazza del Popolo. Keep dinner simple and close to your hotel; jet lag and Roman portions are not a good mix.",
+   "highlights": [
+    "Pantheon on a timed ticket",
+    "Trevi Fountain early or late",
+    "Sunset from the Pincio terrace"
+   ],
+   "eat": "Cacio e pepe and carbonara at Armando al Pantheon, a family trattoria a few steps from the Pantheon since 1961 (book ahead).",
+   "stay": "Centro Storico or Monti: walkable, central and full of small hotels and B&Bs."
+  },
+  {
+   "day": "2",
+   "title": "Ancient Rome",
+   "base": "Rome",
+   "desc": "Take the first Colosseum slot of the day (it opens at 8:30 in summer) on a named ticket bought from the official site, which releases dates 30 days ahead. Bring the same photo ID. Afterwards walk up the Palatine Hill, where the emperors lived, and down through the Roman Forum. After lunch, rest, then cross to the Capitoline Museums for the bronze she-wolf and the best view over the Forum from the Tabularium. Finish in Monti for an aperitivo in Piazza della Madonna dei Monti.",
+   "highlights": [
+    "Colosseum at opening",
+    "Palatine Hill and Roman Forum",
+    "Capitoline Museums terrace view"
+   ],
+   "eat": "Supplì (fried rice balls with a molten mozzarella centre) and a glass of Lazio white in Monti, then a plate of amatriciana for dinner.",
+   "stay": "Monti, for wine bars and an easy walk to the Colosseum."
+  },
+  {
+   "day": "3",
+   "title": "The Vatican and Trastevere",
+   "base": "Rome",
+   "desc": "Book the earliest Vatican Museums entry on the official site and head straight for the Raphael Rooms and the Sistine Chapel before the tour groups catch up. Walk through St Peter's Basilica afterwards (free, but expect a security queue) and climb the dome if your legs allow. Spend the late afternoon in Trastevere: Santa Maria in Trastevere's golden mosaics, the lanes around Piazza de' Renzi, and a passeggiata over Ponte Sisto at dusk.",
+   "highlights": [
+    "Sistine Chapel early",
+    "St Peter's dome climb",
+    "Trastevere at dusk"
+   ],
+   "eat": "Da Enzo al 29 on Via dei Vascellari: a tiny, always-busy Trastevere trattoria for carbonara, amatriciana and carciofi alla giudia. Go early or expect a queue.",
+   "stay": "Trastevere if you want evenings with a buzz; it is a short tram ride or walk from the centre."
+  },
+  {
+   "day": "4",
+   "title": "Borghese and a slow Roman afternoon",
+   "base": "Rome",
+   "desc": "The Galleria Borghese admits a limited number of people per two-hour slot and reservation is compulsory, so book this one first. Bernini's Apollo and Daphne and the Caravaggios are worth the effort. Afterwards stroll through the Villa Borghese gardens. In the afternoon pick one: the Jewish Ghetto and Campo de' Fiori, the Appian Way by rented bike, or Testaccio's market and Protestant Cemetery. Have a last Roman dinner and pack for an early train.",
+   "highlights": [
+    "Bernini sculptures at the Galleria Borghese",
+    "Villa Borghese gardens",
+    "Testaccio market"
+   ],
+   "eat": "Roscioli Salumeria con Cucina near Campo de' Fiori: a deli-restaurant with serious cured meats, cheese and one of Rome's most talked-about carbonaras. Book.",
+   "stay": "Same base in Rome."
+  },
+  {
+   "day": "5",
+   "title": "Fast train to Florence",
+   "base": "Florence",
+   "desc": "A morning Frecciarossa or Italo gets you to Santa Maria Novella in about 1h35. Leave bags at your hotel and start in Piazza del Duomo: the cathedral is free, but the Brunelleschi dome climb, the Baptistery and the bell tower use timed tickets from the cathedral's official site. In the afternoon cross the Ponte Vecchio into the Oltrarno and walk up to San Miniato al Monte, which beats Piazzale Michelangelo for a quieter sunset view over the city.",
+   "highlights": [
+    "Brunelleschi's dome on a timed ticket",
+    "Ponte Vecchio and the Oltrarno",
+    "Sunset from San Miniato al Monte"
+   ],
+   "eat": "Trattoria Sostanza on Via del Porcellana, open since 1869: order the butter chicken (pollo al burro) and the artichoke omelette. Book well ahead.",
+   "stay": "Santo Spirito in the Oltrarno: artisan workshops, a lively piazza and fewer tour groups."
+  },
+  {
+   "day": "6",
+   "title": "Uffizi and Accademia",
+   "base": "Florence",
+   "desc": "See the Uffizi at opening with a pre-booked ticket from the official site: Botticelli's Birth of Venus, Leonardo's Annunciation and the Caravaggios. Have an early lunch, then take your timed slot at the Galleria dell'Accademia for Michelangelo's David. Keep the late afternoon for San Lorenzo's market streets and the Mercato Centrale. Before dinner, drink a glass of Chianti at a vinaino (a standing wine bar) on Via dei Neri.",
+   "highlights": [
+    "Uffizi at 8:15",
+    "Michelangelo's David",
+    "Mercato Centrale"
+   ],
+   "eat": "Trattoria Mario near the Mercato Centrale: a lunch-only, cash-only family canteen with shared tables, ribollita and bistecca. Arrive at noon; no bookings.",
+   "stay": "Same base in Florence."
+  },
+  {
+   "day": "7",
+   "title": "Day trip to Siena",
+   "base": "Florence",
+   "desc": "Take the rapid Autolinee Toscane bus (about 1h15) from near Santa Maria Novella station; it drops you closer to the centre than the train. Walk into the Piazza del Campo, climb the Torre del Mangia, then see the Duomo with its marble inlaid floor and the Piccolomini Library. Lunch in the contrada lanes, buy ricciarelli almond biscuits for the train, and come back to Florence for dinner. If you would rather see countryside, hire a driver or join a small-group trip to Chianti instead.",
+   "highlights": [
+    "Piazza del Campo",
+    "Siena Duomo floor and Piccolomini Library",
+    "Torre del Mangia climb"
+   ],
+   "eat": "Pici cacio e pepe and ribollita in any osteria away from the Campo; take panforte or ricciarelli home.",
+   "stay": "Same base in Florence."
+  },
+  {
+   "day": "8",
+   "title": "Into Venice",
+   "base": "Venice",
+   "desc": "The train reaches Venezia Santa Lucia in about 2h05. Buy a 48- or 72-hour ACTV pass and take vaporetto line 1 down the whole Grand Canal to San Marco: it is the best-value boat trip in Italy. Overnight guests are exempt from the day-tripper access fee, which in 2026 ran on 60 peak days between April and July, but you still need to register for a free exemption QR code. Spend the evening lost in Cannaregio, where locals still outnumber visitors.",
+   "highlights": [
+    "Vaporetto line 1 down the Grand Canal",
+    "Evening in Cannaregio",
+    "Rialto at golden hour"
+   ],
+   "eat": "Cicchetti and an ombra (small glass of wine) at the bacari along Fondamenta della Misericordia in Cannaregio.",
+   "stay": "Cannaregio or Castello: quieter, more residential and better value than San Marco."
+  },
+  {
+   "day": "9",
+   "title": "San Marco early, Dorsoduro late",
+   "base": "Venice",
+   "desc": "Be in Piazza San Marco by 8am, when it is almost empty. Book a timed entry for St Mark's Basilica and visit the Doge's Palace, including the Bridge of Sighs, on a ticket from the city museums site. In the afternoon cross to Dorsoduro for the Gallerie dell'Accademia or the Peggy Guggenheim Collection, then walk the Zattere waterfront for sunset over the Giudecca canal. Go to bed late; Venice after 9pm is a different city.",
+   "highlights": [
+    "Piazza San Marco at 8am",
+    "Doge's Palace and Bridge of Sighs",
+    "Sunset on the Zattere"
+   ],
+   "eat": "Cantina Do Spade near Rialto, a bacaro in business for centuries, for polpette (meatballs), sarde in saor and a glass of local wine.",
+   "stay": "Same base in Venice."
+  },
+  {
+   "day": "10",
+   "title": "Burano and the lagoon",
+   "base": "Venice",
+   "desc": "Take vaporetto line 12 from Fondamente Nove to Burano (about 45 minutes, via Murano) for the painted houses and lace shops, and walk across the footbridge to Mazzorbo's vineyard. Torcello, five minutes further by boat, has a Byzantine cathedral with an extraordinary Last Judgement mosaic. Head back to Venice for lunch and your onward train or flight: the Alilaguna boat or the bus from Piazzale Roma serves Marco Polo airport.",
+   "highlights": [
+    "Painted houses of Burano",
+    "Torcello's Byzantine mosaics",
+    "Mazzorbo's walled vineyard"
+   ],
+   "eat": "Risotto di gò (goby risotto), Burano's signature dish, and bussolai biscuits from a Burano bakery.",
+   "stay": "Depart, or add a night in Venice."
+  }
+ ],
+ "tips": [
+  "Colosseum tickets are named and released 30 days ahead; the name must match your ID at the gate.",
+  "Vatican Museums and Galleria Borghese sell out weeks ahead in spring and autumn; book them before flights if you can.",
+  "Check the Venice access fee calendar before you go: day visits on fee days need a QR code, and overnight guests need a free exemption code.",
+  "Florence's Uffizi and Accademia are closed on Mondays; plan your Florence days around that.",
+  "Validate regional train and bus tickets before boarding; high-speed tickets are for a specific train and need no validation.",
+  "Many trattorie close one day a week and some close for part of August; check before you walk across town."
+ ],
+ "book": [
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Frecciarossa trains Rome to Florence and Florence to Venice"
+  },
+  {
+   "label": "Italo",
+   "url": "https://www.italotreno.com/en",
+   "desc": "The competing high-speed operator on the same routes, often cheaper"
+  },
+  {
+   "label": "Colosseum official tickets",
+   "url": "https://ticketing.colosseo.it/en/",
+   "desc": "Named, timed tickets for the Colosseum, Forum and Palatine"
+  },
+  {
+   "label": "Vatican Museums",
+   "url": "https://tickets.museivaticani.va/home",
+   "desc": "Timed entry including the Sistine Chapel"
+  },
+  {
+   "label": "Pantheon (Musei Italiani)",
+   "url": "https://www.museiitaliani.it/",
+   "desc": "State museum booking portal, including Pantheon time slots"
+  },
+  {
+   "label": "Trevi Fountain access",
+   "url": "https://www.turismoroma.it/en/news/trevi-fountain-new-entry-fee-one-romes-symbols",
+   "desc": "How the €2 basin ticket works"
+  },
+  {
+   "label": "Uffizi Galleries",
+   "url": "https://www.uffizi.it/en/tickets",
+   "desc": "Uffizi, Pitti and Boboli tickets"
+  },
+  {
+   "label": "Galleria dell'Accademia",
+   "url": "https://www.galleriaaccademiafirenze.it/en/",
+   "desc": "Michelangelo's David, timed entry"
+  },
+  {
+   "label": "Florence Cathedral",
+   "url": "https://duomo.firenze.it/en/",
+   "desc": "Dome climb, bell tower and Baptistery passes"
+  },
+  {
+   "label": "Venice access fee",
+   "url": "https://cda.ve.it/en/",
+   "desc": "Fee calendar, day-tripper QR codes and exemptions for overnight guests"
+  },
+  {
+   "label": "St Mark's Basilica",
+   "url": "https://www.basilicasanmarco.it/en/",
+   "desc": "Timed entry to the basilica, Pala d'Oro and museum"
+  },
+  {
+   "label": "Doge's Palace",
+   "url": "https://palazzoducale.visitmuve.it/en/",
+   "desc": "Tickets for the Doge's Palace and the civic museums"
+  },
+  {
+   "label": "ACTV",
+   "url": "https://actv.avmspa.it/en",
+   "desc": "Vaporetto timetables and multi-day passes"
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "slug": "theatre",
+ "section": "experiences",
+ "title": "Theatre & opera houses",
+ "headline": "Velvet boxes, Greek stone and Sicilian knights",
+ "tagline": "Gilded opera houses, two-thousand-year-old theatres still selling tickets, and puppet knights in Palermo. Here is where to take your seat.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Teatro_San_Carlo_large_view.jpg/1280px-Teatro_San_Carlo_large_view.jpg",
+  "alt": "The red and gold tiers of boxes rising to the painted ceiling of Teatro di San Carlo in Naples",
+  "credit": "Sony photographer, Public domain, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATeatro_San_Carlo_large_view.jpg"
+ },
+ "intro": [
+  "Italy built the modern theatre. The horseshoe of boxes rising to a painted ceiling, the proscenium arch, the idea of a stage set with streets vanishing into perspective: all were worked out here between Palladio's Vicenza and the Bourbon court in Naples. Almost every town of any size has its own little teatro, often restored and busy again; in July 2026 ten of them, in central Italy, joined the World Heritage list.",
+  "Older still are the Greek and Roman theatres of the south, where plays and concerts go on each summer with the sea or Etna behind the stage. And for something nobody else does, there is commedia dell'arte with its masked stock characters, and the Opera dei Pupi, Sicily's armoured marionettes. Book the big houses online; for the small ones, just turn up at the box office."
+ ],
+ "sections": [
+  {
+   "heading": "The great opera houses",
+   "intro": "All of these offer guided or self-guided visits by day, which is the best way to see the auditorium if you cannot get a ticket for a performance.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Teatro alla Scala",
+     "subtitle": "Milan, Lombardy",
+     "desc": "Opened in 1778, La Scala is opera's most famous stage and its toughest audience. The season opens every 7 December, the feast of Milan's patron saint Ambrose, with the city's grandest night out. The museum lets you look into the red-and-gold auditorium from a box when there is no rehearsal, and gallery seats can be surprisingly affordable.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Teatro_alla_Scala_interior_Milan.jpg/1280px-Teatro_alla_Scala_interior_Milan.jpg",
+      "alt": "The red velvet auditorium and tiers of boxes inside Teatro alla Scala",
+      "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATeatro_alla_Scala_interior_Milan.jpg"
+     },
+     "meta": "Opened 1778",
+     "region": "lombardy",
+     "url": "https://www.teatroallascala.org/en/season.html",
+     "url_label": "Season and tickets"
+    },
+    {
+     "title": "Teatro La Fenice",
+     "subtitle": "Venice, Veneto",
+     "desc": "The Phoenix lived up to its name: opened in 1792, burned in 1836, rebuilt, burned again in 1996 and reopened in 2003 in every gilded detail. Verdi premiered Rigoletto and La Traviata here. Take the audio tour by day, or come for the New Year's Day concert broadcast across Italy.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/La_Fenice_Opera_House_from_the_stage.jpg/1280px-La_Fenice_Opera_House_from_the_stage.jpg",
+      "alt": "The gilded tiers of boxes and painted ceiling of La Fenice seen from the stage",
+      "credit": "Pietro Tessarin, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALa_Fenice_Opera_House_from_the_stage.jpg"
+     },
+     "meta": "Opened 1792",
+     "region": "veneto",
+     "url": "https://www.teatrolafenice.it/en/",
+     "url_label": "Book La Fenice"
+    },
+    {
+     "title": "Teatro di San Carlo",
+     "subtitle": "Naples, Campania",
+     "desc": "Built for the Bourbon king Charles in 1737, four decades before La Scala, San Carlo is the oldest opera house in Europe still in use. Tier upon tier of boxes, a royal box crowned in gold and blue and red velvet everywhere. Guided tours run most days.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Teatro_San_Carlo_-_View_of_stage_from_Royal_Box.JPG/1280px-Teatro_San_Carlo_-_View_of_stage_from_Royal_Box.JPG",
+      "alt": "The stage and boxes of Teatro di San Carlo seen from the Royal Box",
+      "credit": "Viva-Verdi, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATeatro_San_Carlo_-_View_of_stage_from_Royal_Box.JPG"
+     },
+     "meta": "Opened 1737",
+     "region": "campania",
+     "url": "https://www.teatrosancarlo.it/en/",
+     "url_label": "San Carlo tickets and tours"
+    },
+    {
+     "title": "Teatro Massimo",
+     "subtitle": "Palermo, Sicily",
+     "desc": "Italy's largest opera house, opened in 1897, with a staircase guarded by bronze lions. Film fans know its steps from the final scene of The Godfather Part III. The guided tour includes the Royal Box and the frescoed Pompeian Room, with its strange, echoing acoustics.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/16._Mai_1897_An_diesem_Tag_wurde_die_Oper_von_Palermo_er%C3%B6ffnet._02.jpg/1280px-16._Mai_1897_An_diesem_Tag_wurde_die_Oper_von_Palermo_er%C3%B6ffnet._02.jpg",
+      "alt": "The columned facade and dome of Teatro Massimo on its piazza in Palermo",
+      "credit": "Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A16._Mai_1897_An_diesem_Tag_wurde_die_Oper_von_Palermo_er%C3%B6ffnet._02.jpg"
+     },
+     "meta": "Opened 1897",
+     "region": "sicily",
+     "url": "https://www.teatromassimo.it/en/guided-tours/",
+     "url_label": "Tickets and tours"
+    },
+    {
+     "title": "Teatro Regio di Parma",
+     "subtitle": "Parma, Emilia-Romagna",
+     "desc": "Built for Duchess Marie Louise in 1829, the Regio is the heart of Verdi country, and the regulars in the top gallery, the loggione, are famous for booing any tenor who cracks a high note. Come in autumn for the Festival Verdi.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Interior_of_Teatro_Regio_%28Parma%29_2014-09-16.jpg/1280px-Interior_of_Teatro_Regio_%28Parma%29_2014-09-16.jpg",
+      "alt": "The red seats and gilded tiers of boxes inside Teatro Regio di Parma",
+      "credit": "Mazzocato Nicola, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AInterior_of_Teatro_Regio_%28Parma%29_2014-09-16.jpg"
+     },
+     "meta": "Opened 1829",
+     "region": "emilia-romagna",
+     "url": "https://teatroregioparma.it/en/",
+     "url_label": "Teatro Regio"
+    },
+    {
+     "title": "Teatro Olimpico",
+     "subtitle": "Vicenza, Veneto",
+     "desc": "Palladio's last design, completed by Scamozzi and opened in 1585 with Oedipus Rex. It is the oldest surviving indoor theatre with its original stage set: seven streets of Thebes, built in wood and stucco, that seem to run away for hundreds of metres. Plays and concerts still take place here.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg/1280px-Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg",
+      "alt": "Palladio's sculpted stage front in the Teatro Olimpico, with perspective streets beyond the arch",
+      "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AInterior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg"
+     },
+     "meta": "Opened 1585",
+     "region": "veneto",
+     "url": "https://www.teatrolimpicovicenza.it/en/",
+     "url_label": "Teatro Olimpico"
+    }
+   ]
+  },
+  {
+   "heading": "Ancient stages, still in use",
+   "intro": "Summer evenings, ancient stone and live performance. Bring a cushion and a layer for when the sun goes down.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Greek theatre of Syracuse",
+     "subtitle": "Sicily",
+     "desc": "Aeschylus may have staged his plays here in the 5th century BC. Since 1914 the INDA foundation has put on Greek tragedies and comedies every season, from May into early July, cut into the limestone hill with the sea glinting beyond.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Teatro_greco_di_Siracusa_-_aerea.jpg/1280px-Teatro_greco_di_Siracusa_-_aerea.jpg",
+      "alt": "Aerial view of the Greek theatre of Syracuse cut into the limestone hillside",
+      "credit": "Michele Ponzio, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATeatro_greco_di_Siracusa_-_aerea.jpg"
+     },
+     "meta": "INDA season: May-July",
+     "region": "sicily",
+     "url": "https://www.indafondazione.org/en/",
+     "url_label": "INDA tickets"
+    },
+    {
+     "title": "Ancient theatre of Taormina",
+     "subtitle": "Sicily",
+     "desc": "Greek in origin and rebuilt by the Romans, it frames the Ionian coast and the cone of Etna in one view. Each summer it hosts concerts, opera, ballet and the Taormina Film Festival: an unforgettable place to watch the sun set before a show.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Greek_theatre_Taormina.jpg/1280px-The_Greek_theatre_Taormina.jpg",
+      "alt": "The Greek theatre of Taormina with the coast and Mount Etna beyond",
+      "credit": "Solomonn Levi, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_Greek_theatre_Taormina.jpg"
+     },
+     "meta": "Summer concerts and film festival",
+     "region": "sicily"
+    },
+    {
+     "title": "Arena di Verona",
+     "subtitle": "Veneto",
+     "desc": "A Roman amphitheatre from the 1st century AD, staging grand opera since 1913 and rock concerts too. Aida with real-scale sets under the stars is the classic; as dusk falls, the audience lights small candles before the overture.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Italy_-_Verona_-_Arena_aerial_view.jpg/1280px-Italy_-_Verona_-_Arena_aerial_view.jpg",
+      "alt": "Aerial view of the Roman Arena in the centre of Verona",
+      "credit": "Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AItaly_-_Verona_-_Arena_aerial_view.jpg"
+     },
+     "meta": "Opera season: June-Sept",
+     "region": "veneto",
+     "url": "https://www.arena.it/en/",
+     "url_label": "Book the Arena"
+    },
+    {
+     "title": "Baths of Caracalla",
+     "subtitle": "Rome, Lazio",
+     "desc": "Rome's opera company moves outdoors every summer, staging opera and ballet in front of the towering brick ruins of the emperor's baths. Sit with a picnic beforehand in the gardens as the swifts wheel overhead.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Frigidarium_18.jpg/1280px-Frigidarium_18.jpg",
+      "alt": "The towering brick walls of the frigidarium at the Baths of Caracalla in Rome",
+      "credit": "MumblerJamie, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFrigidarium_18.jpg"
+     },
+     "meta": "Summer season",
+     "region": "lazio",
+     "url": "https://www.operaroma.it/en/caracalla/",
+     "url_label": "Caracalla summer season"
+    },
+    {
+     "title": "Segesta's hilltop theatre",
+     "subtitle": "Sicily",
+     "desc": "High on Monte Barbaro, with a view over hills to the sea, Segesta's Greek theatre hosts a summer festival of drama and music. Get there early to walk up past the temple.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Segesta-Theater01.JPG/1280px-Segesta-Theater01.JPG",
+      "alt": "The stone seats of Segesta's Greek theatre looking out over the Sicilian hills",
+      "credit": "Evan Erickson, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASegesta-Theater01.JPG"
+     },
+     "meta": "Summer festival",
+     "region": "sicily"
+    }
+   ]
+  },
+  {
+   "heading": "Masks and marionettes",
+   "intro": "Italy's popular theatre traditions are still performed, and still very funny.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Commedia dell'arte",
+     "subtitle": "Born in the Veneto in the 1500s",
+     "desc": "The first known contract for a professional acting company was signed in Padua in 1545. Masked stock characters, Arlecchino the hungry servant, Pantalone the miser, the pompous Dottore, improvised their way across Europe. See it at Milan's Piccolo Teatro, whose Arlecchino has toured since 1947, or visit Goldoni's house in Venice.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jan_Miel_%E2%80%93_Actors_from_the_Commedia_dell%E2%80%99Arte_on_a_Wagon_in_a_Town_Square.jpg/1280px-Jan_Miel_%E2%80%93_Actors_from_the_Commedia_dell%E2%80%99Arte_on_a_Wagon_in_a_Town_Square.jpg",
+      "alt": "Painting by Jan Miel of commedia dell'arte actors performing from a wagon in a town square",
+      "credit": "Jan Miel, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AJan_Miel_%E2%80%93_Actors_from_the_Commedia_dell%E2%80%99Arte_on_a_Wagon_in_a_Town_Square.jpg"
+     },
+     "meta": "Since 1545",
+     "region": "veneto",
+     "url": "https://www.piccoloteatro.org/en",
+     "url_label": "Piccolo Teatro di Milano"
+    },
+    {
+     "title": "Opera dei Pupi",
+     "subtitle": "Sicily",
+     "desc": "Armoured marionettes re-enact the battles of Charlemagne's paladins, Orlando and Rinaldo, against the Saracens, with clanging swords and stamping feet. Palermo's pupi are light and nimble; Catania's are taller and much heavier. UNESCO-listed in 2008, and still performed by families like the Cuticchio in Palermo.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/PupiSiciliani.jpg/1280px-PupiSiciliani.jpg",
+      "alt": "A row of Sicilian pupi marionettes in armour, crowns and bright robes",
+      "credit": "Dennis G. Jarvis, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APupiSiciliani.jpg"
+     },
+     "meta": "UNESCO-listed 2008",
+     "region": "sicily",
+     "url": "https://www.figlidartecuticchio.com/",
+     "url_label": "Figli d'Arte Cuticchio"
+    },
+    {
+     "title": "Pulcinella and the guarattelle",
+     "subtitle": "Naples, Campania",
+     "desc": "The white-clad, black-masked Pulcinella is Naples' anarchic everyman, half fool, half philosopher. Glove-puppet shows called guarattelle still pop up in the city's squares, with the puppeteer speaking through a reed in his mouth to give Pulcinella his squawk.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/La_maschera_napoletana_di_Pulcinella.jpg/1280px-La_maschera_napoletana_di_Pulcinella.jpg",
+      "alt": "A figure of Pulcinella in white costume and black mask holding a pizza",
+      "credit": "Roberto Barone ph, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALa_maschera_napoletana_di_Pulcinella.jpg"
+     },
+     "meta": "Street shows in the old centre",
+     "region": "campania"
+    },
+    {
+     "title": "Museo delle Marionette",
+     "subtitle": "Palermo, Sicily",
+     "desc": "The Antonio Pasqualino International Puppet Museum holds thousands of puppets from Sicily and around the world, with painted scenery, battle-scarred Sicilian knights and a small theatre where shows are staged. A good rainy-afternoon stop near the Marina.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pupi%2C_Catania.JPG/1280px-Pupi%2C_Catania.JPG",
+      "alt": "Two armoured Sicilian marionettes with painted faces and plumed helmets",
+      "credit": "Lucarelli, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APupi%2C_Catania.JPG"
+     },
+     "meta": "Palermo",
+     "region": "sicily",
+     "url": "https://www.museodellemarionette.it/en/",
+     "url_label": "Puppet museum"
+    }
+   ]
+  },
+  {
+   "heading": "Little theatres with big stories",
+   "intro": "Some of Italy's best nights out are in tiny, perfect theatres in small towns.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "The condominio theatres of central Italy",
+     "subtitle": "World Heritage since 2026",
+     "desc": "Ten 18th- and 19th-century theatres across Emilia-Romagna, Marche and Umbria, paid for by groups of families who each owned a box. The ten include the Pergolesi in Jesi, the Ventidio Basso in Ascoli Piceno, the Lauro Rossi in Macerata, Spoleto's Teatro Nuovo and the tiny Teatro Mariani in Sant'Agata Feltria.",
+     "meta": "Inscribed July 2026",
+     "region": "marche"
+    },
+    {
+     "title": "Teatro della Concordia",
+     "subtitle": "Monte Castello di Vibio, Umbria",
+     "desc": "Built in 1808 by nine local families, with just 99 seats, it calls itself the smallest theatre in the world. The painted ceiling and miniature boxes are pure delight.",
+     "meta": "99 seats",
+     "region": "umbria"
+    },
+    {
+     "title": "Teatro Bibiena",
+     "subtitle": "Mantua, Lombardy",
+     "desc": "A bell-shaped theatre of tiered wooden boxes opened in 1769. A few weeks later, on 16 January 1770, a 13-year-old Mozart gave a concert here.",
+     "meta": "Opened 1769",
+     "region": "lombardy"
+    },
+    {
+     "title": "Teatro Farnese",
+     "subtitle": "Parma, Emilia-Romagna",
+     "desc": "A vast wooden theatre built in 1618 inside the Pilotta palace, one of the first with a movable stage. Badly bombed in 1944 and rebuilt; it is now part of the Pilotta museum visit.",
+     "meta": "Built 1618",
+     "region": "emilia-romagna",
+     "url": "https://complessopilotta.it/en/",
+     "url_label": "Complesso della Pilotta"
+    },
+    {
+     "title": "Ca' Goldoni",
+     "subtitle": "Venice, Veneto",
+     "desc": "The Gothic birthplace of Carlo Goldoni, the playwright who swapped commedia's masks for real Venetian characters. A small museum with an 18th-century puppet theatre.",
+     "meta": "Venice",
+     "region": "veneto",
+     "url": "https://carlogoldoni.visitmuve.it/en/home/",
+     "url_label": "Ca' Goldoni"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Most opera houses sell discounted last-minute or gallery seats on the day of the performance; ask at the box office.",
+  "Book big houses through the official sites linked here; resale sites often charge double.",
+  "In ancient theatres the stone gets hard after an hour: bring or rent a cushion, and a jacket for after dark.",
+  "Day tours of the opera houses are often cheaper and easier than a performance, and you may catch a rehearsal."
+ ],
+ "links": [
+  {
+   "label": "Teatro alla Scala",
+   "url": "https://www.teatroallascala.org/en/season.html",
+   "desc": "Season programme and ticket sales"
+  },
+  {
+   "label": "INDA, Syracuse",
+   "url": "https://www.indafondazione.org/en/",
+   "desc": "Classical drama season at the Greek theatre"
+  },
+  {
+   "label": "Teatro dell'Opera di Roma",
+   "url": "https://www.operaroma.it/en/",
+   "desc": "Rome's opera company, including the summer season at Caracalla"
+  }
+ ]
+}

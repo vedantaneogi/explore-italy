@@ -1,0 +1,304 @@
+{
+ "slug": "friuli-venezia-giulia",
+ "name": "Friuli-Venezia Giulia",
+ "italian_name": "Friuli-Venezia Giulia",
+ "area": "north",
+ "capital": "Trieste",
+ "tagline": "Habsburg coffeehouses, Roman mosaics and white wines where Italy meets Central Europe.",
+ "intro": [
+  "Italy's north-eastern corner is where the Latin, Slavic and Germanic worlds overlap, and you can hear it in the place names. Trieste, the old Habsburg port, is all grand neoclassical façades, literary cafés and the gusty bora wind off the Karst plateau. Inland, Friulian-speaking Udine feels like a Venetian town that never had to pose for tourists, and the Collio hills along the Slovenian border make some of Italy's best white wines.",
+  "In a short drive, the region climbs from lagoon islands at Grado to the limestone walls of the Julian Alps and the wooden villages of Carnia. On the way you pass Roman Aquileia, whose mosaic floors are among the finest anywhere, Lombard Cividale and star-shaped Palmanova. Few foreign visitors come, so prices stay fair. Eat frico, drink Friulano and order your coffee in Triestine."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Trieste_-_castello_di_Miramare_-_202209132345.jpeg/1280px-Trieste_-_castello_di_Miramare_-_202209132345.jpeg",
+  "alt": "White Miramare Castle and its gardens on a point above the Gulf of Trieste",
+  "credit": "Gmarell, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATrieste_-_castello_di_Miramare_-_202209132345.jpeg"
+ },
+ "known_for": [
+  "Trieste's coffeehouses",
+  "Collio white wines",
+  "Prosciutto di San Daniele",
+  "Roman Aquileia",
+  "Julian Alps",
+  "Frico",
+  "The Barcolana regatta"
+ ],
+ "best_time": "May to June and September to October are ideal for the vineyards, the coast and the cities. October brings the Barcolana regatta and the grape harvest. Come to the mountains in July and August, or for skiing at Tarvisio and on the Zoncolan in winter. Expect the bora to blow hard in Trieste from November to March.",
+ "getting_there": "Trieste airport, at Ronchi dei Legionari, has a rail station with trains to Trieste and Udine. Venice airports are about 1h15 away by car. Trains link Venice with Udine and Trieste, and regional buses and trains reach Cividale, Gorizia and Grado. A car helps for the Collio, Carnia and the mountains. Slovenia and Austria are both minutes away.",
+ "places": [
+  {
+   "name": "Trieste",
+   "desc": "Piazza Unità d'Italia opens straight onto the sea, the largest seafront square in Europe. Walk the Molo Audace at sunset, sit in the Joyce-haunted cafés, and climb to San Giusto's cathedral and castle. Head up to the Karst at Opicina for the views, and eat boiled pork with horseradish at a buffet.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Canal_Grande_di_Trieste_2023-06-29.jpg/1280px-Canal_Grande_di_Trieste_2023-06-29.jpg",
+    "alt": "Trieste's Canal Grande lined with boats and neoclassical palazzi, ending at Sant'Antonio Nuovo",
+    "credit": "Lrexie, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACanal_Grande_di_Trieste_2023-06-29.jpg"
+   }
+  },
+  {
+   "name": "Miramare Castle",
+   "desc": "The white castle Archduke Maximilian built on a rocky point in the Gulf of Trieste has ship's-cabin rooms and a park of exotic trees that slopes down to a marine reserve. Go late in the afternoon, when the light hits the façade and the sea turns silver.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Miramare_castle_04.jpg/1280px-Miramare_castle_04.jpg",
+    "alt": "Miramare Castle beyond a wooded point and clear green water",
+    "credit": "Mihael Grmek, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMiramare_castle_04.jpg"
+   }
+  },
+  {
+   "name": "Udine",
+   "desc": "Piazza della Libertà is often called the most beautiful Venetian square on the mainland. Climb to the castle hill, see the Tiepolo frescoes in the Galleries of the Archbishop's Palace, and join the evening tajut, a glass of Friulano with friends, in the osterie along Via Mercatovecchio.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UdinePiazzaLibert%C3%A0eLoggiaSanGiovanni.jpg/1280px-UdinePiazzaLibert%C3%A0eLoggiaSanGiovanni.jpg",
+    "alt": "Udine's Piazza della Libertà with the Loggia di San Giovanni and clock tower",
+    "credit": "Sebi1, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AUdinePiazzaLibert%C3%A0eLoggiaSanGiovanni.jpg"
+   }
+  },
+  {
+   "name": "Aquileia",
+   "desc": "Once one of the Roman Empire's greatest cities, Aquileia is now a quiet village with a UNESCO-listed basilica. Its fourth-century mosaic floor, some 760 square metres of fish, birds, shepherds and Jonah's whale, is among the largest early Christian mosaics in the West.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg/1280px-Basilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg",
+    "alt": "Aquileia's Romanesque basilica and bell tower framed by cypresses",
+    "credit": "ThePhotografer, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABasilica_Patriarcale_%28Aquileia%29_-_Exterior.jpg"
+   }
+  },
+  {
+   "name": "Cividale del Friuli",
+   "desc": "Founded by Julius Caesar and later capital of the first Lombard duchy in Italy, Cividale sits above the emerald Natisone gorge. Cross the Devil's Bridge and see the eighth-century Lombard Temple, with its stucco saints. Then taste gubana, the region's spiral pastry, in a local bakery.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cividale_in_panoramic.jpg/1280px-Cividale_in_panoramic.jpg",
+    "alt": "The Devil's Bridge over the green Natisone river at Cividale del Friuli",
+    "credit": "Ewgohl, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACividale_in_panoramic.jpg"
+   }
+  },
+  {
+   "name": "Grado",
+   "desc": "An old island town of narrow calli and early Christian basilicas, with long sandy beaches and a lagoon of fishermen's reed huts called casoni. Take a boat to the island sanctuary of Barbana, and eat boreto a la graisana, a peppery fish stew made without tomato.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aerial_image_of_Grado_%28view_from_the_west%29.jpg/1280px-Aerial_image_of_Grado_%28view_from_the_west%29.jpg",
+    "alt": "Aerial view of Grado's old town and beach between the lagoon and the sea",
+    "credit": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAerial_image_of_Grado_%28view_from_the_west%29.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Order coffee like a Triestino",
+   "desc": "Trieste has its own coffee vocabulary: a 'nero' is an espresso, a 'capo' is a macchiato and a 'capo in b' is served in a glass. Practise at the counter of a historic café."
+  },
+  {
+   "title": "Eat at a Karst osmiza",
+   "desc": "Farm families on the Karst open their homes for a few days at a time, as in Habsburg times, to sell their own wine, eggs and cured meats. Look for the leafy branch hung at a crossroads, or check osmize.com."
+  },
+  {
+   "title": "Taste wine in the Collio",
+   "desc": "Visit small cellars around Cormons and Oslavia for Friulano, Ribolla Gialla and skin-contact orange wines. Some of the vineyard rows run right up to the Slovenian border."
+  },
+  {
+   "title": "Hike in the Julian Alps",
+   "desc": "From Tarvisio, walk around the Fusine lakes under Mount Mangart, or take the cable car up to the Monte Lussari sanctuary village for views over three countries."
+  },
+  {
+   "title": "Tour San Daniele del Friuli",
+   "desc": "Visit a prosciuttificio to see hams curing in airy halls, then eat paper-thin, hand-sliced prosciutto with a glass of Friulano in one of the town's prosciutterie."
+  },
+  {
+   "title": "Walk the Napoleonic Trail",
+   "desc": "This flat cliff-top path from Opicina's Obelisco runs along the Karst edge, with the whole Gulf of Trieste below. It's best at sunset with an ice cream."
+  },
+  {
+   "title": "Learn about mosaics in Spilimbergo",
+   "desc": "The Scuola Mosaicisti del Friuli trains mosaicists for the whole world. Its corridors and courtyards are covered in student work, and guided visits explain the craft."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Frico",
+   "type": "dish",
+   "desc": "Montasio cheese fried with potatoes and onion into a crisp, golden pancake. It's the classic Friulian comfort food, served with polenta."
+  },
+  {
+   "name": "Cjarsons",
+   "type": "dish",
+   "desc": "Carnia's sweet-savoury ravioli, filled with potato, herbs, raisins, cinnamon and sometimes chocolate, and served with smoked ricotta and melted butter."
+  },
+  {
+   "name": "Prosciutto di San Daniele DOP",
+   "type": "cured meat",
+   "desc": "Air-cured ham from the hills where Alpine and sea breezes meet: silky, sweet and recognisable by its guitar shape with the trotter left on."
+  },
+  {
+   "name": "Montasio DOP",
+   "type": "cheese",
+   "desc": "A cheese from the Julian Alps and the Friulian plain, sweet when young and sharper with age. It is the soul of frico."
+  },
+  {
+   "name": "Jota",
+   "type": "dish",
+   "desc": "Trieste's hearty soup of beans, sauerkraut, potatoes and pork. It's Central European comfort food in a bowl."
+  },
+  {
+   "name": "Gubana",
+   "type": "sweet",
+   "desc": "A spiral pastry from the Natisone valleys, filled with walnuts, raisins, pine nuts and grappa. Locals sprinkle a slice with slivovitz."
+  },
+  {
+   "name": "Friulano",
+   "type": "wine",
+   "desc": "The region's signature white: almond-scented and dry, ordered as a 'tajut' at the bar. It was formerly called Tocai."
+  },
+  {
+   "name": "Ramandolo and Picolit",
+   "type": "wine",
+   "desc": "Two rare sweet whites from the Colli Orientali. Ramandolo is golden and gently tannic, and Picolit is honeyed and scarce."
+  },
+  {
+   "name": "Caffè triestino",
+   "type": "coffee",
+   "desc": "Trieste is Italy's coffee port, and illy started here. Order a 'capo in b', a small macchiato served in a glass."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Antico Caffè San Marco",
+   "city": "Trieste",
+   "since": "1914",
+   "desc": "A Viennese-style coffeehouse full of mirrors, dark wood and coffee-leaf motifs, with a bookshop at the back. Writers have worked here for a century. Linger over a capo in b and a slice of strudel.",
+   "url": "https://www.caffesanmarco.com/"
+  },
+  {
+   "name": "Antico Caffè Tommaseo",
+   "city": "Trieste",
+   "since": "1830",
+   "desc": "Trieste's oldest café, on the waterfront near the Canal Grande. Its Viennese mirrors and stucco are still in place, and it is now a café-restaurant serving breakfast, lunch and dinner.",
+   "url": "https://www.anticoristorantetommaseo.it/"
+  },
+  {
+   "name": "Antica Trattoria Suban",
+   "city": "Trieste",
+   "since": "1865",
+   "desc": "A family trattoria on the edge of the Karst, run by the Suban family since 1865. Order jota, meat grilled on the open hearth, and palacinke for dessert.",
+   "url": "https://www.suban.it/"
+  },
+  {
+   "name": "Buffet da Pepi",
+   "city": "Trieste",
+   "since": "1897",
+   "desc": "The classic Triestine buffet near Piazza della Borsa. Point at the steaming pot for boiled pork, cotechino and sausages with mustard, freshly grated horseradish and sauerkraut, and have a beer at the counter."
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "Albergo Diffuso Sauris",
+   "desc": "The 'scattered hotel' was born in Friuli, and in Sauris its rooms are spread through restored wooden Alpine houses in the hamlets. Breakfast is Sauris ham and smoked ricotta, and there's a lake view.",
+   "url": "https://www.albergodiffusosauris.com/"
+  },
+  {
+   "title": "A Collio winery stay",
+   "desc": "Family estates around Cormons, San Floriano and Dolegna rent rooms among the vines. Taste in the cellar, cycle the quiet border roads into Slovenia's Brda hills, and eat frico in a local trattoria."
+  },
+  {
+   "title": "A Karst farmhouse",
+   "desc": "Stone farmhouses on the plateau above Trieste offer simple rooms close to the osmize. Expect Karst prosciutto and honey at breakfast, a glass of red Terrano in the evening, and the sea just below the cliffs."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Trieste",
+   "to": "Miramare and Duino",
+   "how": "About 20 min by bus or car",
+   "desc": "Tour Maximilian's castle, then walk the Rilke Path along the cliffs to Duino Castle, where the poet began his Duino Elegies."
+  },
+  {
+   "from": "Udine",
+   "to": "Cividale del Friuli",
+   "how": "About 20 min by train",
+   "desc": "See the Lombard Temple and the Devil's Bridge, buy a gubana from a bakery, and have lunch in the green Natisone valleys."
+  },
+  {
+   "from": "Trieste",
+   "to": "Aquileia and Grado",
+   "how": "About 1h by car or bus",
+   "desc": "Spend the morning with the Roman mosaics, and the afternoon on the beach and lagoon at Grado, with fish stew for dinner."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Palmanova",
+   "desc": "A perfect nine-pointed star of a town, built by Venice in 1593 as a fortress. From the air it looks like a snowflake. Walk the ramparts and the moat paths, then drink a spritz in the huge hexagonal piazza.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Palmanova_Piazza_Grande_06.JPG/1280px-Palmanova_Piazza_Grande_06.JPG",
+    "alt": "Palmanova's vast central piazza with the cathedral façade",
+    "credit": "Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APalmanova_Piazza_Grande_06.JPG"
+   }
+  },
+  {
+   "name": "Venzone",
+   "desc": "A walled medieval town destroyed in the 1976 earthquake and rebuilt stone by numbered stone. Its Gothic cathedral, crypt mummies and moats feel even more moving once you know the story.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Venzone.jpg/1280px-Venzone.jpg",
+    "alt": "Venzone's rebuilt Gothic cathedral and bell tower behind its medieval walls",
+    "credit": "Nazzarenoagostinelli, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVenzone.jpg"
+   }
+  },
+  {
+   "name": "Sauris",
+   "desc": "A German-speaking enclave high in Carnia, with wooden houses, an emerald lake and a famous smoked ham. In winter it's snowbound and peaceful, and in summer it's a hiker's dream.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sauris_di_sotto_07102007_44.jpg/1280px-Sauris_di_sotto_07102007_44.jpg",
+    "alt": "Wooden houses and church tower of Sauris di Sotto among autumn forest",
+    "credit": "Johann Jaritz, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASauris_di_sotto_07102007_44.jpg"
+   }
+  },
+  {
+   "name": "Laghi di Fusine",
+   "desc": "Two glacial lakes in the forest near Tarvisio, mirroring the north face of Mount Mangart. An easy path circles both. Come at dawn in October, when the beeches turn gold.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Laghi_Di_Fusine_%28210396055%29.jpeg/1280px-Laghi_Di_Fusine_%28210396055%29.jpeg",
+    "alt": "Upper Fusine lake reflecting forest and the snowy Mangart group",
+    "credit": "Thomas Fabian, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALaghi_Di_Fusine_%28210396055%29.jpeg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Barcolana",
+   "when": "Second Sunday of October",
+   "where": "Gulf of Trieste",
+   "desc": "One of the world's largest sailing regattas: around two thousand boats crowd the gulf at the start, after a week of waterfront parties.",
+   "url": "https://www.barcolana.it/"
+  },
+  {
+   "name": "Mittelfest",
+   "when": "July",
+   "where": "Cividale del Friuli",
+   "desc": "A festival of theatre, music and dance from Central Europe and the Balkans, held in the town's squares, churches and courtyards.",
+   "url": "https://www.mittelfest.org/"
+  },
+  {
+   "name": "Friuli DOC",
+   "when": "September",
+   "where": "Udine",
+   "desc": "Udine's streets fill with stalls of frico, San Daniele ham, Montasio and regional wines for a long weekend of eating and music."
+  },
+  {
+   "name": "Messa dello Spadone",
+   "when": "6 January",
+   "where": "Cividale del Friuli",
+   "desc": "On Epiphany, a deacon in a plumed helmet blesses the congregation with a medieval sword during mass. A costume parade follows, and bonfires called pignarûl are lit across Friuli."
+  }
+ ],
+ "culture": "Friulian, furlan, is a Rhaeto-Romance language spoken by around half a million people, with its own poetry. Pasolini wrote his first poems in it. Slovenian is spoken along the eastern border, and German in Sauris and Timau. Trieste was Austria-Hungary's great port, and James Joyce, Italo Svevo and Umberto Saba gave it a literary myth built in cafés. Crafts include mosaic in Spilimbergo, knife-making in Maniago, and wood carving in Carnia. The Val Resia keeps a unique Slavic dialect and dances to the zitira fiddle.",
+ "official_site": "https://www.turismofvg.it/"
+}

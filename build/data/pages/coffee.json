@@ -1,0 +1,334 @@
+{
+ "slug": "coffee",
+ "section": "taste",
+ "title": "Coffee & cafés",
+ "headline": "Espresso, aperitivo and the art of the bar",
+ "tagline": "How to order like a regular, the coffee rituals that change from city to city, the grand cafés still pouring after two centuries, and the sweet, cold things in between.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Interno_Bicerin.jpg/1280px-Interno_Bicerin.jpg",
+  "alt": "The wood-panelled interior of a historic Turin café with marble tables",
+  "credit": "Ivan Ruggiero, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AInterno_Bicerin.jpg"
+ },
+ "intro": [
+  "In Italy, 'the bar' means the café on the corner, and most people visit it several times a day. Breakfast is a cappuccino and a cornetto taken standing up; mid-morning is a quick espresso with colleagues; evening is a Spritz with salty crisps and olives. The coffee costs about €1.30 at the counter, it's gone in three sips, and it comes with a running commentary on football and politics at no extra charge.",
+  "Every city bends the rules a little. Naples pays for a stranger's coffee, Trieste has its own vocabulary, Turin layers chocolate, coffee and cream in a glass, and Venice serves you to an orchestra in Piazza San Marco. Here's how the bar works, a city-by-city guide to Italy's coffee rituals, the aperitivo that follows, and the gelato and granita that fill the hours in between."
+ ],
+ "sections": [
+  {
+   "heading": "How the bar works",
+   "intro": "Ten seconds of etiquette that will make every coffee in Italy easier.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Stand at the counter, pay the counter price",
+     "desc": "Drinking 'al banco' is the norm and it's cheap: an espresso averages around €1.30 nationally in 2026, a little more in the north, less in the south. Sit at a table and you pay for service, which in a grand café on a famous square can mean five times as much. Both prices must be displayed.",
+     "meta": "About €1.30 al banco"
+    },
+    {
+     "title": "In busy bars, pay first",
+     "desc": "In stations and city-centre bars you often pay at the cassa first, then hand your receipt (scontrino) to the barista and repeat your order. In quieter bars you simply order, drink and pay on the way out.",
+     "meta": "Keep the scontrino"
+    },
+    {
+     "title": "'Un caffè' is an espresso",
+     "desc": "Ask for 'un caffè' and you get an espresso. Ristretto is shorter and stronger; lungo is longer; doppio is a double. An Americano is espresso topped with hot water. A caffè macchiato is espresso 'stained' with a spot of milk foam.",
+     "meta": "Short and strong"
+    },
+    {
+     "title": "Latte means milk",
+     "desc": "Order a 'latte' and you'll get a glass of milk. You want a caffè latte, or more likely a cappuccino. Latte macchiato is hot milk 'stained' with coffee, served in a glass.",
+     "meta": "Say 'caffè latte'"
+    },
+    {
+     "title": "Milk in the morning",
+     "desc": "Cappuccino is a breakfast drink, and many Italians wouldn't touch one after about 11am, least of all after a meal. Nobody will refuse to make you one; you'll just be easy to spot.",
+     "meta": "Before 11am"
+    },
+    {
+     "title": "Drinks for every hour",
+     "desc": "Try a caffè corretto, 'corrected' with grappa or sambuca, after a heavy lunch; a shakerato, espresso shaken with ice and sugar, in summer; a marocchino with cocoa and foam in Piedmont; or caffè d'orzo, barley 'coffee', if you're off caffeine.",
+     "meta": "Shakerato in summer"
+    },
+    {
+     "title": "A glass of water comes free",
+     "desc": "Many bars serve a small glass of water with espresso, especially in the south, to cleanse the palate. Drink it first. In Naples, if it isn't offered, it's fine to ask.",
+     "meta": "Drink it before"
+    },
+    {
+     "title": "Don't linger at the bar",
+     "desc": "Counter coffee is fast. Drink, chat, say 'grazie, buona giornata', and make room. If you want to sit for an hour with a book, take a table and enjoy it: that's what you're paying for.",
+     "meta": "Three sips and go"
+    }
+   ]
+  },
+  {
+   "heading": "A coffee map of Italy",
+   "intro": "City by city, the rituals and historic cafés worth going out of your way for.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Naples: caffè sospeso and Gambrinus",
+     "subtitle": "Campania",
+     "desc": "Neapolitan coffee is dense, sweet and served scalding in a pre-warmed cup. The city's kindest custom is the caffè sospeso, the 'suspended coffee': pay for two, drink one, and the second waits for someone who can't afford it. Gran Caffè Gambrinus, a gilded Belle Époque salon on Piazza del Plebiscito since 1860, keeps the tradition alive.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Il_gambrinus_A.jpg/1280px-Il_gambrinus_A.jpg",
+      "alt": "The entrance and terrace of Gran Caffè Gambrinus in Naples",
+      "credit": "gennaro fusco, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIl_gambrinus_A.jpg"
+     },
+     "region": "campania",
+     "meta": "Gran Caffè Gambrinus, since 1860"
+    },
+    {
+     "title": "Trieste: a language of its own",
+     "subtitle": "Friuli-Venezia Giulia",
+     "desc": "Italy's coffee port, home of illy and old Habsburg coffee houses, speaks a code. A 'nero' is an espresso, a 'capo' is an espresso with a little foamed milk, a 'capo in b' is the same in a small glass (bicchiere), and a 'goccia' gets just a drop of foam. Order one at the Antico Caffè San Marco, a 1914 Viennese-style hall that doubles as a bookshop, or at Caffè degli Specchi on Piazza Unità.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Piazza_Unit%C3%A0_d%27Italia_-_caff%C3%A9_degli_Specchi.jpg/1280px-Piazza_Unit%C3%A0_d%27Italia_-_caff%C3%A9_degli_Specchi.jpg",
+      "alt": "Café tables on Trieste's Piazza Unità d'Italia facing the sea under a stormy sky",
+      "credit": "dani7c3, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APiazza_Unit%C3%A0_d%27Italia_-_caff%C3%A9_degli_Specchi.jpg"
+     },
+     "region": "friuli-venezia-giulia",
+     "meta": "Order a 'capo in b'",
+     "url": "https://www.caffesanmarco.com/",
+     "url_label": "Antico Caffè San Marco"
+    },
+    {
+     "title": "Turin: bicerin and chocolate",
+     "subtitle": "Piedmont",
+     "desc": "The bicerin is Turin in a glass: hot chocolate, espresso and cold cream in three layers, never stirred. It was born at Caffè Al Bicerin, a tiny wood-panelled room opposite the Consolata sanctuary, open since 1763. Turin is also the city of gianduja and of the grand arcaded cafés, Baratti & Milano and Mulassano among them.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Torino_Caff%C3%A8_Al_Bicerin_%2852738271224%29.jpg/1280px-Torino_Caff%C3%A8_Al_Bicerin_%2852738271224%29.jpg",
+      "alt": "Café umbrellas outside Caffè Al Bicerin, opposite the Consolata sanctuary in Turin",
+      "credit": "Jorge Franganillo, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATorino_Caff%C3%A8_Al_Bicerin_%2852738271224%29.jpg"
+     },
+     "region": "piedmont",
+     "meta": "Caffè Al Bicerin, since 1763",
+     "url": "https://bicerin.it/",
+     "url_label": "Caffè Al Bicerin"
+    },
+    {
+     "title": "Venice: an orchestra on the square",
+     "subtitle": "Veneto",
+     "desc": "Caffè Florian has served coffee under the arcades of Piazza San Marco since 1720, making it Italy's oldest café still in business. The mirrored, frescoed rooms are tiny jewel boxes, and on summer evenings a small orchestra plays on the square. Yes, the table price includes a music supplement. Pay it once; it's theatre.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Procuratie_nuove_e_Campanile_di_San_Marco_a_Venezia.jpg/1280px-Procuratie_nuove_e_Campanile_di_San_Marco_a_Venezia.jpg",
+      "alt": "The arcades of the Procuratie and the campanile on Piazza San Marco, home of Caffè Florian",
+      "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AProcuratie_nuove_e_Campanile_di_San_Marco_a_Venezia.jpg"
+     },
+     "region": "veneto",
+     "meta": "Caffè Florian, since 1720",
+     "url": "https://caffeflorian.com/",
+     "url_label": "Caffè Florian"
+    },
+    {
+     "title": "Rome: wood-roasted beans and granita",
+     "subtitle": "Lazio",
+     "desc": "Near the Pantheon, two roasters face off. Sant'Eustachio Il Caffè, open since 1938, still roasts over wood and whips its 'gran caffè' with sugar behind a screen so nobody can see how. Tazza d'Oro, roasting since 1944, is the place for granita di caffè con panna, coffee ice layered with whipped cream, on a hot afternoon.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Caff%C3%A8_Sant%27Eustachio.JPG/1280px-Caff%C3%A8_Sant%27Eustachio.JPG",
+      "alt": "The blue neon sign and counter of Sant'Eustachio Il Caffè in Rome",
+      "credit": "LPLT, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACaff%C3%A8_Sant%27Eustachio.JPG"
+     },
+     "region": "lazio",
+     "meta": "Sant'Eustachio, since 1938",
+     "url": "https://www.tazzadorocoffeeshop.com/",
+     "url_label": "Tazza d'Oro"
+    },
+    {
+     "title": "Padua: the café without doors",
+     "subtitle": "Veneto",
+     "desc": "Caffè Pedrocchi opened in 1831 in a neoclassical palazzo and stayed open day and night for so long that it was nicknamed the café without doors. Its rooms are named by colour: red, white and green. Order the caffè Pedrocchi, espresso under a cool mint cream dusted with cocoa; the rule is no sugar and no stirring.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Caff%C3%A9_Pedrocchi_-_Padova.jpg/1280px-Caff%C3%A9_Pedrocchi_-_Padova.jpg",
+      "alt": "The neoclassical loggia of Caffè Pedrocchi in Padua",
+      "credit": "Capricornis crispus, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACaff%C3%A9_Pedrocchi_-_Padova.jpg"
+     },
+     "region": "veneto",
+     "meta": "Caffè Pedrocchi, since 1831",
+     "url": "https://www.caffepedrocchi.it/",
+     "url_label": "Caffè Pedrocchi"
+    },
+    {
+     "title": "Milan: pastry and the Galleria",
+     "subtitle": "Lombardy",
+     "desc": "Milan takes its coffee quickly and its pastry seriously. Pasticceria Marchesi has been baking since 1824, its original shop on Via Santa Maria alla Porta, with an elegant outpost in the Galleria. Across the arcade, Camparino in Galleria has poured Campari since 1915. Come at Christmas for panettone from the old pasticcerie.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Galleria_Vittorio_Emanuele_II_Post_Restauro.jpg/1280px-Galleria_Vittorio_Emanuele_II_Post_Restauro.jpg",
+      "alt": "The glass-vaulted arcade of the Galleria Vittorio Emanuele II in Milan",
+      "credit": "Alessandro Perazzoli, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGalleria_Vittorio_Emanuele_II_Post_Restauro.jpg"
+     },
+     "region": "lombardy",
+     "meta": "Marchesi, since 1824",
+     "url": "https://www.marchesi1824.com/ww/en.html",
+     "url_label": "Pasticceria Marchesi"
+    }
+   ]
+  },
+  {
+   "heading": "Aperitivo hour",
+   "intro": "Between work and dinner, roughly 6pm to 8pm, Italy has a bitter, fizzy drink and a nibble. Here's what to order, and where it was born.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Spritz",
+     "subtitle": "Venice and Padua, Veneto",
+     "desc": "The drink of the Veneto: prosecco, a bitter liqueur and a splash of soda, with an olive or an orange slice. Aperol was created in Padua in 1919; Venetians often prefer Select, born in Venice a year later, or a Campari spritz. In a Venetian bacaro it comes with cicchetti on the side.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aperol_Spritz_-_Santa_Ynez_Kitchen_-_Sarah_Stierch.jpg/1280px-Aperol_Spritz_-_Santa_Ynez_Kitchen_-_Sarah_Stierch.jpg",
+      "alt": "Two Aperol spritzes over ice with slices of orange",
+      "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAperol_Spritz_-_Santa_Ynez_Kitchen_-_Sarah_Stierch.jpg"
+     },
+     "region": "veneto",
+     "meta": "Aperol since 1919",
+     "url": "https://www.aperol.com/",
+     "url_label": "Aperol"
+    },
+    {
+     "title": "Negroni",
+     "subtitle": "Florence, Tuscany",
+     "desc": "Equal parts gin, Campari and red vermouth. The story goes that around 1919 Count Camillo Negroni asked the bartender at Florence's Caffè Casoni to stiffen his Americano with gin instead of soda. The bar, later Caffè Giacosa, reopened in 2023 in Via della Spada with a menu built around the drink.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Negroni_on_the_Rocks.jpg/1280px-Negroni_on_the_Rocks.jpg",
+      "alt": "A Negroni on the rocks with a twist of lemon",
+      "credit": "Will Shenton, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANegroni_on_the_Rocks.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Born around 1919"
+    },
+    {
+     "title": "Campari at the Camparino",
+     "subtitle": "Milan, Lombardy",
+     "desc": "Davide Campari opened the Camparino in 1915 at the entrance to the Galleria Vittorio Emanuele II, with a view of the Duomo. Stand at the Art Nouveau mosaic bar for a Campari seltz, chilled bitter shot with soda from a tap, the way Milanese have drunk it for a century.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Galleria_di_Milano%2C_dettagli_interno.jpg/1280px-Galleria_di_Milano%2C_dettagli_interno.jpg",
+      "alt": "Gilded and decorated facades inside Milan's Galleria Vittorio Emanuele II, home of the Camparino",
+      "credit": "Paolobon140, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGalleria_di_Milano%2C_dettagli_interno.jpg"
+     },
+     "region": "lombardy",
+     "meta": "Since 1915",
+     "url": "https://www.camparino.com/",
+     "url_label": "Camparino in Galleria"
+    },
+    {
+     "title": "Vermouth di Torino",
+     "subtitle": "Turin, Piedmont",
+     "desc": "Turin gave the world vermouth: in 1786 Antonio Benedetto Carpano sold his aromatised wine near Piazza Castello, and the city's bars have mixed it ever since. Vermouth di Torino now has a protected geographical indication; order it neat over ice with a twist, alongside the city's generous aperitivo buffets.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rob_Roy_%2826-366%29_%2824361900490%29.jpg/1280px-Rob_Roy_%2826-366%29_%2824361900490%29.jpg",
+      "alt": "Sweet vermouth cocktail being poured into a coupe glass",
+      "credit": "Tim Sackton from Somerville, MA, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARob_Roy_%2826-366%29_%2824361900490%29.jpg"
+     },
+     "region": "piedmont",
+     "meta": "Since 1786",
+     "url": "https://www.vermouthditorino.org/",
+     "url_label": "Vermouth di Torino consortium"
+    }
+   ]
+  },
+  {
+   "heading": "Gelato and granita",
+   "intro": "Two kinds of cold comfort, with very different rules.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "How to spot good gelato",
+     "subtitle": "Everywhere",
+     "desc": "Skip the towering, neon mounds. Good gelaterie keep their gelato in covered steel tubs (pozzetti) or low trays, in natural colours: pistachio should be olive-brown, banana greyish-white. Ask for a 'cono' or 'coppetta', choose two or three flavours, and say yes when they offer panna on top.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gelateria_italiana.jpg/1280px-Gelateria_italiana.jpg",
+      "alt": "Trays of gelato in many flavours behind the counter of an Italian gelateria",
+      "credit": "Lasagnolo9, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGelateria_italiana.jpg"
+     },
+     "meta": "Look for covered tubs"
+    },
+    {
+     "title": "Sicilian granita",
+     "subtitle": "Sicily",
+     "desc": "Sicily's summer breakfast: granita, coarse or creamy depending on the town, with a soft brioche col tuppo for dunking. Catania favours almond, pistachio and black mulberry; Messina swears by coffee with whipped cream. Have one in Noto at Caffè Sicilia, open since 1892.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Almonds_granita_and_brioche_of_Syracuse.jpg/1280px-Almonds_granita_and_brioche_of_Syracuse.jpg",
+      "alt": "An almond granita with a sugar-dusted brioche for breakfast in Syracuse",
+      "credit": "Stella, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAlmonds_granita_and_brioche_of_Syracuse.jpg"
+     },
+     "region": "sicily",
+     "meta": "With brioche, for breakfast",
+     "url": "https://www.caffesicilia.it/",
+     "url_label": "Caffè Sicilia"
+    },
+    {
+     "title": "Historic gelaterie",
+     "subtitle": "Rome and Florence",
+     "desc": "Giolitti, a short walk from the Pantheon, has scooped since 1900 under Belle Époque mirrors. In Florence, Vivoli in the Santa Croce quarter started as a dairy in 1929 and still serves its gelato in cups only. Florentines claim Bernardo Buontalenti invented gelato for the Medici; order the custard flavour named after him.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GiolittiCafeRoma.jpg/1280px-GiolittiCafeRoma.jpg",
+      "alt": "Customers outside Giolitti's café and gelateria in central Rome",
+      "credit": "Chino at en.wikipedia, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGiolittiCafeRoma.jpg"
+     },
+     "region": "lazio",
+     "meta": "Giolitti since 1900",
+     "url": "https://www.giolitti.it/",
+     "url_label": "Giolitti"
+    },
+    {
+     "title": "Carpigiani Gelato Museum",
+     "subtitle": "Anzola dell'Emilia, near Bologna",
+     "desc": "A whole museum devoted to gelato, run by the company that builds the machines most Italian gelaterie use. Tour centuries of ice-making history, then make your own in a hands-on workshop. Book ahead.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Piccoli_coni_gelato.jpg/1280px-Piccoli_coni_gelato.jpg",
+      "alt": "Small gelato cones lined up in an Italian ice-cream parlour",
+      "credit": "Giacomo Alessandroni, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APiccoli_coni_gelato.jpg"
+     },
+     "region": "emilia-romagna",
+     "meta": "Booking required",
+     "url": "https://www.gelatomuseum.com/it",
+     "url_label": "Gelato Museum"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Most bars open early, around 6-7am, and many close by 8 or 9pm; Sunday hours are shorter.",
+  "At a grand café, check the table prices before you sit: they are always posted, but it's easy not to look.",
+  "Decaf is 'deca' or 'decaffeinato'; plant milk is increasingly common, so ask for 'latte di soia' or 'd'avena'.",
+  "Coffee to go (da portare via) is possible but uncommon; Italians drink it on the spot in a few seconds.",
+  "In Naples, the cuccuma (a flip-over coffee pot) and in the rest of Italy, the moka pot are how coffee is made at home: buy one as a souvenir."
+ ],
+ "links": [
+  {
+   "label": "Locali Storici d'Italia",
+   "url": "https://www.localistorici.it/",
+   "desc": "Association and guide to Italy's historic cafés, restaurants and hotels"
+  },
+  {
+   "label": "Caffè Florian",
+   "url": "https://caffeflorian.com/",
+   "desc": "Italy's oldest café, on Piazza San Marco since 1720"
+  },
+  {
+   "label": "Consorzio del Vermouth di Torino",
+   "url": "https://www.vermouthditorino.org/",
+   "desc": "History of vermouth and member producers in Turin"
+  },
+  {
+   "label": "Carpigiani Gelato Museum",
+   "url": "https://www.gelatomuseum.com/it",
+   "desc": "Tours and workshops on the history and making of gelato"
+  }
+ ]
+}

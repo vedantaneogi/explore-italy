@@ -1,0 +1,323 @@
+{
+ "slug": "campania",
+ "name": "Campania",
+ "italian_name": "Campania",
+ "area": "south",
+ "capital": "Naples",
+ "tagline": "Pizza, volcanoes, lemon terraces and a city that never lowers its voice.",
+ "intro": [
+  "Campania runs from the loud, glorious tangle of Naples to cliffs stacked with pastel houses and lemon pergolas. Vesuvius sits over everything, the volcano that buried Pompeii and still frames every view across the bay. Within an hour you can go from a wood-fired margherita on Via dei Tribunali to a Roman street rutted by cart wheels, then to a ferry deck with Capri rising out of the haze.",
+  "It is a region of extremes and appetites. Mornings start with a short, sweet espresso and a sfogliatella still crackling from the oven; afternoons drift by on a pebble beach under Positano's dome of green and yellow majolica. Go south and it quietens: Greek temples stand in buffalo pasture at Paestum, and the Cilento coast is all wild headlands and fishing villages where the anchovies come in at dawn."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg/1280px-Amalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg",
+  "alt": "The Amalfi Coast seen from the heights above Ravello, with green terraced slopes dropping to a deep blue sea",
+  "credit": "Bruno Rijsman, CC BY-SA 2.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AAmalfi_Coast_%28Italy%2C_October_2020%29_-_75_%2850558355441%29.jpg"
+ },
+ "known_for": [
+  "Neapolitan pizza",
+  "Pompeii and Herculaneum",
+  "Amalfi Coast",
+  "Buffalo mozzarella",
+  "Capri and the islands",
+  "Limoncello",
+  "Neapolitan song"
+ ],
+ "best_time": "April to early June and September to October bring warm sea, open ferries and fewer crowds; July and August are hot and busy on the coast, while Naples itself is lively all year.",
+ "getting_there": "Naples Capodichino airport has flights across Europe, and Napoli Centrale is about 70 minutes from Rome by high-speed train. The Circumvesuviana railway runs to Pompeii, Herculaneum and Sorrento, SITA buses and summer ferries link the Amalfi Coast towns, and hydrofoils leave Naples' Molo Beverello for Capri, Ischia and Procida. A car is useful only in the Cilento.",
+ "places": [
+  {
+   "name": "Naples",
+   "desc": "Italy's most theatrical city. Walk Spaccanapoli and Via dei Tribunali through the UNESCO-listed historic centre, see the marble Veiled Christ in Cappella Sansevero, and give a full morning to the Farnese sculptures and Pompeii mosaics at the National Archaeological Museum. Ride the funicular up to Vomero at dusk and watch the lights come on below Castel Sant'Elmo.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg/1280px-Naples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg",
+    "alt": "Naples spread out below the Certosa di San Martino, with the port and Vesuvius on the horizon",
+    "credit": "This Photo was taken by Wolfgang Moroder...., CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ANaples_from_the_Castello_Sant_Elmo_with_Abbazia_San_Martino_the_port_and_the_Vesuv.jpg"
+   }
+  },
+  {
+   "name": "Pompeii and Herculaneum",
+   "desc": "Two Roman towns stopped mid-sentence by the eruption of 79 AD. Pompeii is vast: arrive at opening, walk the rutted Via dell'Abbondanza and find the painted Villa of the Mysteries. Smaller Herculaneum, buried deeper, keeps carbonised wooden beams, upper floors and mosaics so fresh they look recently swept.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pompeii_-_Via_dell%27Abbondanza.jpg/1280px-Pompeii_-_Via_dell%27Abbondanza.jpg",
+    "alt": "The stone-paved Via dell'Abbondanza in Pompeii lined with ruined Roman house fronts under a blue sky",
+    "credit": "Lord Pheasant at English Wikipedia, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APompeii_-_Via_dell%27Abbondanza.jpg"
+   }
+  },
+  {
+   "name": "Positano",
+   "desc": "The vertical town of a thousand postcards, poured down a ravine to the sea. Climb its stairways past linen shops and bougainvillea, have a granita by the majolica-domed church of Santa Maria Assunta, then swim off Spiaggia Grande or take a boat to quieter Fornillo. Evenings, when the day-trippers leave, are when it feels like a village again.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Positano_Sunset.JPG/1280px-Positano_Sunset.JPG",
+    "alt": "Positano's houses lit up at dusk, stacked on the cliff above the bay",
+    "credit": "JeCCo, CC BY 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APositano_Sunset.JPG"
+   }
+  },
+  {
+   "name": "Ravello",
+   "desc": "Perched 350 metres above Amalfi, Ravello trades beaches for gardens and silence. Walk the long avenue of Villa Cimbrone to the Terrace of Infinity, where marble busts look out over the whole coast, then visit the Moorish cloister and terraces of Villa Rufolo, which inspired a scene in Wagner's Parsifal. Summer concerts there are unforgettable.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ravello_-_Villa_Cimbrone_03.jpg/1280px-Ravello_-_Villa_Cimbrone_03.jpg",
+    "alt": "A classical statue framed by a stone arch on the terrace of Villa Cimbrone in Ravello",
+    "credit": "Mihael Grmek, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARavello_-_Villa_Cimbrone_03.jpg"
+   }
+  },
+  {
+   "name": "Capri",
+   "desc": "Glamorous, yes, but also a limestone island made for walking. Skip the funicular queue and follow Via Krupp's hairpins or the path to the Arco Naturale, look down on the Faraglioni sea stacks from the Giardini di Augusto, and ride the chairlift up Monte Solaro from Anacapri. Stay overnight to have the lanes almost to yourself.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Faraglioni%2C_Capri%2C_Italy.jpg/1280px-Faraglioni%2C_Capri%2C_Italy.jpg",
+    "alt": "The three Faraglioni rock stacks rising from the sea off Capri, seen through pines on the cliff",
+    "credit": "sneakerdog, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFaraglioni%2C_Capri%2C_Italy.jpg"
+   }
+  },
+  {
+   "name": "Paestum",
+   "desc": "Three Doric temples, among the best-preserved Greek temples anywhere, standing in open meadows south of Salerno. Walk among the honey-coloured columns of the Temple of Neptune, then see the painted Tomb of the Diver in the museum. Lunch at a nearby buffalo farm on mozzarella made that morning.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Paestum_BW_2013-05-17_15-01-57.jpg/1280px-Paestum_BW_2013-05-17_15-01-57.jpg",
+    "alt": "The Doric columns of the Temple of Hera II at Paestum standing on a green lawn under a cloudy sky",
+    "credit": "Berthold Werner, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APaestum_BW_2013-05-17_15-01-57.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Hike the Path of the Gods",
+   "desc": "Start at Bomerano above Agerola and follow the Sentiero degli Dei along the cliffs to Nocelle, with Positano and the Li Galli islets far below. Allow three hours, then descend the 1,700-odd steps or catch the bus."
+  },
+  {
+   "title": "Eat pizza on Via dei Tribunali",
+   "desc": "Join the queue at one of the historic pizzerias in the old centre and order a margherita or marinara, folded 'a portafoglio' if you take it to go. The art of the Neapolitan pizzaiuolo is on UNESCO's intangible heritage list."
+  },
+  {
+   "title": "Go underground in Naples",
+   "desc": "Descend 40 metres into Napoli Sotterranea, a maze of Greek quarries, Roman cisterns and wartime shelters beneath the historic centre, or tour the skull-lined Fontanelle Cemetery in the Rione Sanità."
+  },
+  {
+   "title": "Walk the rim of Vesuvius",
+   "desc": "A bus or shuttle climbs to about 1,000 metres; from there a 30-minute gravel path leads to the crater's edge, with the whole Bay of Naples spread below. Tickets must be booked online in advance."
+  },
+  {
+   "title": "Swim in the Fiordo di Furore",
+   "desc": "Climb down the steps from the coast road to a tiny beach wedged in a gorge under a high arched bridge. Come in the morning before the sun leaves the cove."
+  },
+  {
+   "title": "Visit a buffalo mozzarella dairy",
+   "desc": "Farms around Paestum and Battipaglia let you watch the curd being stretched by hand and taste mozzarella still warm. Many also make buffalo-milk yoghurt and gelato."
+  },
+  {
+   "title": "Soak in Ischia's thermal gardens",
+   "desc": "Ischia is a volcanic island full of hot springs. Spend a day moving between the terraced pools of a thermal park above Citara bay, then watch the sunset from Sant'Angelo."
+  },
+  {
+   "title": "Buy ceramics in Vietri sul Mare",
+   "desc": "At the eastern end of the Amalfi Coast, Vietri has made bright hand-painted majolica for centuries. Look for the tiled dome of San Giovanni Battista and the small workshops along Via Madonna degli Angeli."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Pizza napoletana",
+   "type": "dish",
+   "desc": "Soft, blistered, thin in the middle with a puffy cornicione, cooked in about 90 seconds in a wood-fired oven. Margherita and marinara are the classics."
+  },
+  {
+   "name": "Mozzarella di Bufala Campana DOP",
+   "type": "cheese",
+   "desc": "Made from water-buffalo milk in the plains around Caserta and Paestum. Eat it the day it is made, at room temperature, ideally with nothing at all."
+  },
+  {
+   "name": "Sfogliatella",
+   "type": "sweet",
+   "desc": "A shell of crisp, many-layered pastry filled with semolina, ricotta and candied citrus. The softer 'frolla' version uses shortcrust instead."
+  },
+  {
+   "name": "Babà",
+   "type": "sweet",
+   "desc": "A mushroom-shaped yeast cake soaked in rum syrup, sold in every Neapolitan pastry shop and sometimes split and filled with cream."
+  },
+  {
+   "name": "Limoncello",
+   "type": "spirit",
+   "desc": "A bright lemon liqueur made from the thick-skinned Sfusato Amalfitano and Sorrento lemons, served ice-cold after dinner."
+  },
+  {
+   "name": "Colatura di alici di Cetara",
+   "type": "dish",
+   "desc": "An amber anchovy extract descended from Roman garum, made in the fishing village of Cetara. A few drops on spaghetti with garlic and parsley is a Christmas Eve tradition."
+  },
+  {
+   "name": "Ragù napoletano",
+   "type": "dish",
+   "desc": "A Sunday sauce simmered for hours with whole cuts of beef and pork until dark and glossy, served over ziti or candele."
+  },
+  {
+   "name": "Taurasi DOCG",
+   "type": "wine",
+   "desc": "A powerful, long-lived red from Aglianico grapes grown on the hills of Irpinia, often called the Barolo of the south."
+  },
+  {
+   "name": "Fiano di Avellino and Greco di Tufo",
+   "type": "wine",
+   "desc": "Two of Italy's finest native whites from Irpinia: Fiano nutty and honeyed, Greco mineral and taut. Both are DOCG."
+  },
+  {
+   "name": "Neapolitan espresso",
+   "type": "coffee",
+   "desc": "Short, dense and usually pre-sweetened, served with a glass of water first. Leave a 'caffè sospeso', a paid-forward coffee, for the next person."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Gran Caffè Gambrinus",
+   "city": "Naples",
+   "since": "1860",
+   "desc": "The grand café on the corner of Piazza del Plebiscito, with Liberty-style mirrored salons once frequented by Oscar Wilde and Gabriele D'Annunzio. Stand at the bar for an espresso and a sfogliatella.",
+   "url": "https://grancaffegambrinus.com/"
+  },
+  {
+   "name": "Antica Pizzeria da Michele",
+   "city": "Naples",
+   "since": "1870",
+   "desc": "The Condurro family's pizzeria in Forcella, famous for keeping things simple: marble tables, a fast queue and essentially just margherita and marinara, both superb.",
+   "url": "https://www.damichele.net/"
+  },
+  {
+   "name": "Scaturchio",
+   "city": "Naples",
+   "since": "1905",
+   "desc": "A pastry shop on Piazza San Domenico Maggiore, in the heart of the old town. Come for the ministeriale, a chocolate medallion with a liqueur cream filling, and a hot sfogliatella.",
+   "url": "https://www.scaturchio.it/"
+  },
+  {
+   "name": "Pasticceria Pansa",
+   "city": "Amalfi",
+   "since": "1830",
+   "desc": "Run by the same family at the foot of Amalfi's cathedral steps, with its 19th-century fittings intact. Order the delizia al limone and take home a box of candied lemon peel.",
+   "url": "https://www.pasticceriapansa.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "A buffalo-farm agriturismo near Paestum",
+   "desc": "Tenuta Seliano, run by the Bellelli Baratta family, is a historic estate of stone barns and towers a short ride from the temples. Guests can walk out to the buffalo herd, eat dinners built on farm produce and book cooking lessons."
+  },
+  {
+   "title": "A hillside organic farm above Sorrento",
+   "desc": "Agriturismo Le Tore sits among olive and lemon groves at Sant'Agata sui Due Golfi, between the Bay of Naples and the Amalfi Coast. Rooms are in a 19th-century farmhouse and breakfast comes from the farm.",
+   "url": "https://www.letore.com/"
+  },
+  {
+   "title": "A palazzo B&B in the centro storico",
+   "desc": "Many of the grand old palazzi around Spaccanapoli now hide family-run B&Bs up marble staircases. You'll hear the neighbourhood wake up below and be steps from the pastry shops and pizzerias."
+  },
+  {
+   "title": "Fishermen's rooms on Procida",
+   "desc": "Skip the bigger islands and rent rooms from a local family in Marina Corricella or Chiaiolella, where boats are still hauled up between the houses and the evening passeggiata is unhurried."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Naples",
+   "to": "Pompeii",
+   "how": "35 min by Circumvesuviana train",
+   "desc": "Trains from Napoli Garibaldi stop at Pompei Scavi, right by the entrance. Combine with Herculaneum (Ercolano Scavi) on the same line if you start early."
+  },
+  {
+   "from": "Naples",
+   "to": "Royal Palace of Caserta",
+   "how": "40 min by regional train",
+   "desc": "The Bourbon kings' answer to Versailles: 1,200 rooms and a three-kilometre park of fountains and cascades ending in an English garden. Rent a bike for the grounds."
+  },
+  {
+   "from": "Sorrento",
+   "to": "Capri",
+   "how": "20-25 min by fast ferry",
+   "desc": "Frequent boats cross from Marina Piccola. Take the first ferry, walk to the Faraglioni lookout before the crowds, and return at sunset."
+  },
+  {
+   "from": "Salerno",
+   "to": "Paestum",
+   "how": "35 min by regional train",
+   "desc": "Trains on the line to Sapri stop at Paestum station, a short walk from the temples through the ancient walls."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Procida",
+   "desc": "The smallest island in the bay, and the most lived-in. Marina Corricella's ice-cream-coloured houses tumble to a harbour of fishing boats; climb to Terra Murata for the view, then eat lemon salad and fresh pasta with octopus at the water's edge. Il Postino was filmed here.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Procida2.jpg/1280px-Procida2.jpg",
+    "alt": "The pastel houses and small boats of Marina Corricella on Procida seen from above",
+    "credit": "Jamiethearcher at English Wikipedia, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AProcida2.jpg"
+   }
+  },
+  {
+   "name": "Furore",
+   "desc": "Called 'the town that doesn't exist' because its houses are scattered across the slopes instead of gathered in a centre. Its fjord is a narrow cleft in the cliffs crossed by a single high bridge, with old paper mills and a tiny beach at the bottom.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fiordo_di_Furore_bridge%2C_as_seen_from_the_sea%2C_Furore%2C_2010.jpg/1280px-Fiordo_di_Furore_bridge%2C_as_seen_from_the_sea%2C_Furore%2C_2010.jpg",
+    "alt": "The arched road bridge spanning the narrow rocky gorge of the Fiordo di Furore",
+    "credit": "DimiTalen, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFiordo_di_Furore_bridge%2C_as_seen_from_the_sea%2C_Furore%2C_2010.jpg"
+   }
+  },
+  {
+   "name": "Certosa di Padula",
+   "desc": "A Carthusian monastery in the Vallo di Diano so big it has its own cloister of 84 columns, among the largest in Europe. Its kitchens, monks' cells and a spiral marble staircase are part of the Cilento UNESCO site, and you'll often have them nearly alone.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aerial_image_of_Certosa_di_Padula_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_Certosa_di_Padula_%28view_from_the_southeast%29.jpg",
+    "alt": "Aerial view of the Certosa di Padula showing its huge rectangular cloister among green fields",
+    "credit": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAerial_image_of_Certosa_di_Padula_%28view_from_the_southeast%29.jpg"
+   }
+  },
+  {
+   "name": "Sant'Agata de' Goti",
+   "desc": "A medieval town in the Sannio built right to the edge of a tuff cliff above two streams, its houses rising straight out of the rock. Wander between the Romanesque cathedral and the frescoed church of the Annunziata, then taste local Falanghina.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Santagatadeigoti03.jpg/1280px-Santagatadeigoti03.jpg",
+    "alt": "The tall old houses of Sant'Agata de' Goti rising straight from a tuff cliff above a green ravine",
+    "credit": "Kris De Curtis from Maddaloni, Italy, CC BY 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASantagatadeigoti03.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Festa di San Gennaro",
+   "when": "19 September (also early May and 16 December)",
+   "where": "Naples Cathedral",
+   "desc": "The city crowds into the Duomo to watch for the liquefaction of its patron saint's blood, taken as a good omen for the year ahead. Street stalls and processions follow."
+  },
+  {
+   "name": "Ravello Festival",
+   "when": "July to early September",
+   "where": "Ravello",
+   "desc": "Concerts on a stage cantilevered over the cliff in the gardens of Villa Rufolo, with the coast as a backdrop. The dawn concert is legendary.",
+   "url": "https://www.fondazioneravello.com/"
+  },
+  {
+   "name": "Processione dei Misteri",
+   "when": "Good Friday",
+   "where": "Procida",
+   "desc": "Islanders carry elaborate floats depicting biblical scenes, many built by local families, from Terra Murata down to Marina Grande in a solemn morning procession."
+  },
+  {
+   "name": "Festa dei Gigli",
+   "when": "Sunday after 22 June",
+   "where": "Nola",
+   "desc": "Teams of men shoulder eight 25-metre wooden towers and a ship and dance them through the streets to brass bands. It is listed by UNESCO as intangible heritage."
+  }
+ ],
+ "culture": "Naples sings. Neapolitan song, from 'O sole mio' to 'Funiculì, Funiculà', written in 1880 for the new Vesuvius funicular, is the city's lingua franca, still heard from street guitarists and at the Festival di Piedigrotta. The tarantella pulses at village feasts, and Pulcinella, the black-masked, white-smocked commedia dell'arte clown, is the city's spirit. Neapolitan is a language with its own literature. Crafts run deep too: nativity figures are carved year-round on Via San Gregorio Armeno, Torre del Greco carves coral cameos, and Vietri and Capodimonte make ceramics and porcelain.",
+ "official_site": "https://www.italia.it/en/campania"
+}

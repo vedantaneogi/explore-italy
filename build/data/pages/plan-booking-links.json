@@ -1,0 +1,913 @@
+{
+ "slug": "plan-booking-links",
+ "section": "plan",
+ "title": "Book & links",
+ "headline": "The official links worth bookmarking",
+ "tagline": "A curated directory of official tourism boards, transport operators, museum ticket offices, local-stay networks, food experiences, festivals and apps for planning and booking Italy.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Milan_CentralStation_016_4294.jpg/1280px-Milan_CentralStation_016_4294.jpg",
+  "alt": "The monumental stone facade of Milano Centrale railway station under a blue sky",
+  "credit": "Ludvig14, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AMilan_CentralStation_016_4294.jpg"
+ },
+ "intro": [
+  "Italy's travel web is crowded with resellers, lookalike ticket sites and inflated 'skip the line' offers, some of which charge double for a ticket you could book yourself in two minutes. This page collects the official sources: the national and regional tourism boards, the train, ferry and bus operators themselves, and the museums' own ticket offices, where prices are lowest and your booking is guaranteed.",
+  "Where an independent platform is genuinely the best tool, such as a ferry comparison site, a farm-stay portal or a home-cooking network, we include it and say so. Everything is grouped by what you are trying to do, from planning a route to booking a dinner. Links were checked in October 2026; if one has moved, the organisation's name is the best search term."
+ ],
+ "sections": [
+  {
+   "heading": "National tourism and official information",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Italia.it",
+     "desc": "Italy's official tourism portal, run by the Ministry of Tourism and ENIT, with ideas, events and itineraries for every region.",
+     "url": "https://www.italia.it/en",
+     "url_label": "italia.it"
+    },
+    {
+     "title": "ENIT",
+     "desc": "The Italian National Tourist Board, with news and offices abroad.",
+     "url": "https://www.enit.it/en",
+     "url_label": "enit.it"
+    },
+    {
+     "title": "Visa for Italy",
+     "desc": "Ministry of Foreign Affairs tool to check whether you need a visa and how to apply.",
+     "url": "https://vistoperitalia.esteri.it/",
+     "url_label": "vistoperitalia.esteri.it"
+    },
+    {
+     "title": "EU Entry/Exit System (EES)",
+     "desc": "How the biometric border registration works for non-EU visitors.",
+     "url": "https://travel-europe.europa.eu/en/ees",
+     "url_label": "EES official site"
+    },
+    {
+     "title": "ETIAS",
+     "desc": "The only official site for the future ETIAS travel authorisation, not yet in operation.",
+     "url": "https://travel-europe.europa.eu/en/etias",
+     "url_label": "ETIAS official site"
+    },
+    {
+     "title": "Schengen short-stay calculator",
+     "desc": "Count the days left in your 90-day allowance.",
+     "url": "https://ec.europa.eu/assets/home/visa-calculator/calculator.htm",
+     "url_label": "European Commission calculator"
+    },
+    {
+     "title": "Venice access fee",
+     "desc": "Official portal to pay the day-tripper fee or register for an exemption.",
+     "url": "https://www.cda.ve.it/en/",
+     "url_label": "cda.ve.it"
+    }
+   ]
+  },
+  {
+   "heading": "Regional tourism boards",
+   "intro": "Each region runs its own official tourism website, usually with an English version, event calendars and lists of licensed accommodation.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Valle d'Aosta",
+     "region": "valle-daosta",
+     "desc": "Mont Blanc, castles and ski resorts.",
+     "url": "https://www.lovevda.it/en",
+     "url_label": "lovevda.it"
+    },
+    {
+     "title": "Piedmont",
+     "region": "piedmont",
+     "desc": "Turin, the Langhe wine hills and the Alps.",
+     "url": "https://www.visitpiemonte.com/en",
+     "url_label": "visitpiemonte.com"
+    },
+    {
+     "title": "Liguria",
+     "region": "liguria",
+     "desc": "The Italian Riviera, Genoa and the Cinque Terre.",
+     "url": "https://lamialiguria.it/en/",
+     "url_label": "lamialiguria.it"
+    },
+    {
+     "title": "Lombardy",
+     "region": "lombardy",
+     "desc": "Milan, the great lakes and the Valtellina.",
+     "url": "https://www.in-lombardia.it/en",
+     "url_label": "in-lombardia.it"
+    },
+    {
+     "title": "Trentino",
+     "region": "trentino-alto-adige",
+     "desc": "Dolomites, Lake Garda's northern tip and mountain lakes.",
+     "url": "https://www.visittrentino.info/en",
+     "url_label": "visittrentino.info"
+    },
+    {
+     "title": "South Tyrol (Alto Adige)",
+     "region": "trentino-alto-adige",
+     "desc": "German-speaking Dolomites, farms and Christmas markets.",
+     "url": "https://www.suedtirol.info/en",
+     "url_label": "suedtirol.info"
+    },
+    {
+     "title": "Veneto",
+     "region": "veneto",
+     "desc": "Venice, Verona, the Prosecco hills and the Dolomites of Cortina.",
+     "url": "https://www.veneto.eu/",
+     "url_label": "veneto.eu"
+    },
+    {
+     "title": "Friuli Venezia Giulia",
+     "region": "friuli-venezia-giulia",
+     "desc": "Trieste, Aquileia, the Collio wine country and the Julian Alps.",
+     "url": "https://www.turismofvg.it/en",
+     "url_label": "turismofvg.it"
+    },
+    {
+     "title": "Emilia-Romagna",
+     "region": "emilia-romagna",
+     "desc": "Bologna, Parma, Modena, Ravenna and the Adriatic Riviera.",
+     "url": "https://emiliaromagnaturismo.it/en",
+     "url_label": "emiliaromagnaturismo.it"
+    },
+    {
+     "title": "Tuscany",
+     "region": "tuscany",
+     "desc": "Florence, Siena, the Val d'Orcia and the coast.",
+     "url": "https://www.visittuscany.com/en/",
+     "url_label": "visittuscany.com"
+    },
+    {
+     "title": "Umbria",
+     "region": "umbria",
+     "desc": "Assisi, Perugia, Orvieto and the green hills between.",
+     "url": "https://www.umbriatourism.it/en",
+     "url_label": "umbriatourism.it"
+    },
+    {
+     "title": "Marche",
+     "region": "marche",
+     "desc": "Urbino, the Conero Riviera and the Sibillini mountains.",
+     "url": "https://letsmarche.it/en/home",
+     "url_label": "letsmarche.it"
+    },
+    {
+     "title": "Lazio",
+     "region": "lazio",
+     "desc": "Rome and beyond: Tivoli, the Etruscan towns and the Pontine islands.",
+     "url": "https://www.visitlazio.com/en/",
+     "url_label": "visitlazio.com"
+    },
+    {
+     "title": "Abruzzo",
+     "region": "abruzzo",
+     "desc": "National parks, hill villages and the trabocchi coast.",
+     "url": "https://abruzzoturismo.it/en",
+     "url_label": "abruzzoturismo.it"
+    },
+    {
+     "title": "Molise",
+     "region": "molise",
+     "desc": "Italy's least-visited region: transhumance trails, Termoli and mountain villages.",
+     "url": "https://www.visitmolise.eu/en/",
+     "url_label": "visitmolise.eu"
+    },
+    {
+     "title": "Campania",
+     "region": "campania",
+     "desc": "Naples, Pompeii, the Amalfi Coast and the islands.",
+     "url": "https://www.incampania.com/",
+     "url_label": "incampania.com"
+    },
+    {
+     "title": "Puglia",
+     "region": "puglia",
+     "desc": "Trulli, Baroque Lecce, masserie and two coastlines.",
+     "url": "https://www.viaggiareinpuglia.it/en",
+     "url_label": "viaggiareinpuglia.it"
+    },
+    {
+     "title": "Basilicata",
+     "region": "basilicata",
+     "desc": "Matera, Maratea and the Lucanian Dolomites.",
+     "url": "https://www.basilicataturistica.it/en/",
+     "url_label": "basilicataturistica.it"
+    },
+    {
+     "title": "Calabria",
+     "region": "calabria",
+     "desc": "Tropea, Scilla, the Sila and Aspromonte mountains.",
+     "url": "https://calabriastraordinaria.it/en",
+     "url_label": "calabriastraordinaria.it"
+    },
+    {
+     "title": "Sicily",
+     "region": "sicily",
+     "desc": "Palermo, Etna, Greek temples and the small islands.",
+     "url": "https://www.visitsicily.info/en/",
+     "url_label": "visitsicily.info"
+    },
+    {
+     "title": "Sardinia",
+     "region": "sardinia",
+     "desc": "Beaches, nuraghi and the wild interior.",
+     "url": "https://www.sardegnaturismo.it/en",
+     "url_label": "sardegnaturismo.it"
+    }
+   ]
+  },
+  {
+   "heading": "City tourism offices",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Rome",
+     "desc": "Turismo Roma, the city's official tourism site, including the Trevi Fountain ticket.",
+     "url": "https://www.turismoroma.it/en",
+     "url_label": "turismoroma.it"
+    },
+    {
+     "title": "Milan",
+     "desc": "YesMilano, the city's official tourism and events portal.",
+     "url": "https://www.yesmilano.it/en",
+     "url_label": "yesmilano.it"
+    },
+    {
+     "title": "Venice",
+     "desc": "Venezia Unica for public transport passes, museum tickets and city services.",
+     "url": "https://www.veneziaunica.it/en",
+     "url_label": "veneziaunica.it"
+    },
+    {
+     "title": "Trieste",
+     "desc": "Official tourism information for Trieste.",
+     "url": "https://www.discovertrieste.it/en/",
+     "url_label": "discovertrieste.it"
+    },
+    {
+     "title": "Bergamo",
+     "desc": "VisitBergamo, the official guide to the city and province.",
+     "url": "https://www.visitbergamo.net/en/",
+     "url_label": "visitbergamo.net"
+    },
+    {
+     "title": "Ferrara",
+     "desc": "Official tourism information for Ferrara and its province.",
+     "url": "https://www.ferrarainfo.com/en",
+     "url_label": "ferrarainfo.com"
+    }
+   ]
+  },
+  {
+   "heading": "Trains, buses and flights",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Trenitalia",
+     "desc": "Frecciarossa high-speed, Intercity, night and regional trains.",
+     "url": "https://www.trenitalia.com/en.html",
+     "url_label": "trenitalia.com"
+    },
+    {
+     "title": "Italo",
+     "desc": "Private high-speed trains and Italobus connections.",
+     "url": "https://www.italotreno.com/en",
+     "url_label": "italotreno.com"
+    },
+    {
+     "title": "Trenord",
+     "desc": "Lombardy's regional trains and the Malpensa Express.",
+     "url": "https://www.trenord.it/en/",
+     "url_label": "trenord.it"
+    },
+    {
+     "title": "Rhaetian Railway",
+     "desc": "The Bernina Express from Tirano into Switzerland.",
+     "url": "https://www.rhb.ch/en/",
+     "url_label": "rhb.ch"
+    },
+    {
+     "title": "Fondazione FS",
+     "desc": "Historic trains on scenic lines, including the Transiberiana d'Italia.",
+     "url": "https://www.fondazionefs.it/content/fondazionefs/en.html",
+     "url_label": "fondazionefs.it"
+    },
+    {
+     "title": "RFI Sala Blu",
+     "desc": "Free assistance at stations for travellers with reduced mobility.",
+     "url": "https://www.rfi.it/it/stazioni/pagine-stazioni/accessibilita/le-informazioni-sull-assistenza-delle-sale-blu-in-un-click.html",
+     "url_label": "rfi.it"
+    },
+    {
+     "title": "FlixBus",
+     "desc": "Low-cost intercity coaches across Italy and Europe.",
+     "url": "https://www.flixbus.it/",
+     "url_label": "flixbus.it"
+    },
+    {
+     "title": "Itabus",
+     "desc": "Italian intercity coaches.",
+     "url": "https://www.itabus.it/en",
+     "url_label": "itabus.it"
+    },
+    {
+     "title": "Marozzi",
+     "desc": "Coaches between Rome, Campania, Puglia and Basilicata.",
+     "url": "https://www.marozzivt.it/",
+     "url_label": "marozzivt.it"
+    },
+    {
+     "title": "SITA Sud",
+     "desc": "Buses on the Amalfi Coast and in southern Italy.",
+     "url": "https://sitasudtrasporti.it/",
+     "url_label": "sitasudtrasporti.it"
+    },
+    {
+     "title": "ITA Airways",
+     "desc": "Italy's national airline, with domestic routes from Rome and Milan.",
+     "url": "https://www.ita-airways.com/",
+     "url_label": "ita-airways.com"
+    },
+    {
+     "title": "Volotea",
+     "desc": "Low-cost domestic flights linking regional airports and islands.",
+     "url": "https://www.volotea.com/en/",
+     "url_label": "volotea.com"
+    },
+    {
+     "title": "Autostrade per l'Italia",
+     "desc": "Motorway tolls, live traffic and roadworks.",
+     "url": "https://www.autostrade.it/",
+     "url_label": "autostrade.it"
+    },
+    {
+     "title": "ACI",
+     "desc": "The Italian automobile club; roadside assistance on 803 116.",
+     "url": "https://www.aci.it/",
+     "url_label": "aci.it"
+    }
+   ]
+  },
+  {
+   "heading": "Ferries",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Direct Ferries",
+     "desc": "Independent comparison and booking site covering most Italian ferry operators.",
+     "url": "https://www.directferries.com/",
+     "url_label": "directferries.com"
+    },
+    {
+     "title": "Caronte & Tourist",
+     "desc": "Strait of Messina crossings and Sicilian routes.",
+     "url": "https://www.carontetourist.it/en",
+     "url_label": "carontetourist.it"
+    },
+    {
+     "title": "Siremar",
+     "desc": "Ferries to Sicily's smaller islands.",
+     "url": "https://www.siremar.it/",
+     "url_label": "siremar.it"
+    },
+    {
+     "title": "Liberty Lines",
+     "desc": "Hydrofoils to the Aeolian, Egadi and Pelagie islands, Ustica and Pantelleria.",
+     "url": "https://www.libertylines.it/en/",
+     "url_label": "libertylines.it"
+    },
+    {
+     "title": "Tirrenia",
+     "desc": "Ferries to Sardinia and Sicily.",
+     "url": "https://www.tirrenia.it/",
+     "url_label": "tirrenia.it"
+    },
+    {
+     "title": "Moby",
+     "desc": "Ferries to Sardinia, Elba and Corsica.",
+     "url": "https://www.moby.it/",
+     "url_label": "moby.it"
+    },
+    {
+     "title": "GNV",
+     "desc": "Overnight cruise-ferries to Sicily and Sardinia.",
+     "url": "https://www.gnv.it/en",
+     "url_label": "gnv.it"
+    },
+    {
+     "title": "Grimaldi Lines",
+     "desc": "Ferries to Sicily, Sardinia, Spain and Greece.",
+     "url": "https://www.grimaldi-lines.com/",
+     "url_label": "grimaldi-lines.com"
+    },
+    {
+     "title": "Caremar",
+     "desc": "Ferries and hydrofoils to Capri, Ischia and Procida.",
+     "url": "https://www.caremar.it/",
+     "url_label": "caremar.it"
+    },
+    {
+     "title": "NLG",
+     "desc": "Fast boats in the Bay of Naples.",
+     "url": "https://www.nlg.it/",
+     "url_label": "nlg.it"
+    },
+    {
+     "title": "SNAV",
+     "desc": "Hydrofoils to the Bay of Naples islands and the Aeolians in summer.",
+     "url": "https://www.snav.it/",
+     "url_label": "snav.it"
+    },
+    {
+     "title": "Alilauro",
+     "desc": "Fast boats from Naples and Sorrento to Capri, Ischia and the Amalfi Coast.",
+     "url": "https://www.alilauro.it/",
+     "url_label": "alilauro.it"
+    },
+    {
+     "title": "Toremar",
+     "desc": "Ferries to Elba and the Tuscan islands.",
+     "url": "https://www.toremar.it/en/",
+     "url_label": "toremar.it"
+    },
+    {
+     "title": "Laziomar",
+     "desc": "Ferries to Ponza and Ventotene.",
+     "url": "https://www.laziomar.it/",
+     "url_label": "laziomar.it"
+    },
+    {
+     "title": "Delcomar",
+     "desc": "Ferries to La Maddalena and Sardinia's smaller islands.",
+     "url": "https://delcomar.it/",
+     "url_label": "delcomar.it"
+    }
+   ]
+  },
+  {
+   "heading": "Museums and sights (official ticket offices)",
+   "intro": "Always book on the official site. Third-party sellers often charge double for the same timed ticket.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Colosseum, Roman Forum and Palatine",
+     "region": "lazio",
+     "desc": "Parco archeologico del Colosseo, official tickets and timed entries.",
+     "url": "https://colosseo.it/en/",
+     "url_label": "colosseo.it"
+    },
+    {
+     "title": "Vatican Museums and Sistine Chapel",
+     "region": "lazio",
+     "desc": "Official Vatican Museums site and ticket office.",
+     "url": "https://www.museivaticani.va/content/museivaticani/en.html",
+     "url_label": "museivaticani.va"
+    },
+    {
+     "title": "Galleria Borghese",
+     "region": "lazio",
+     "desc": "Rome's Bernini and Caravaggio collection; entry by timed booking only.",
+     "url": "https://galleriaborghese.cultura.gov.it/",
+     "url_label": "galleriaborghese.cultura.gov.it"
+    },
+    {
+     "title": "Capitoline Museums and Rome civic museums",
+     "region": "lazio",
+     "desc": "Rome's city-run museums.",
+     "url": "https://www.museiincomuneroma.it/en",
+     "url_label": "museiincomuneroma.it"
+    },
+    {
+     "title": "Uffizi Galleries",
+     "region": "tuscany",
+     "desc": "Uffizi, Palazzo Pitti and the Boboli Gardens.",
+     "url": "https://www.uffizi.it/en/tickets",
+     "url_label": "uffizi.it"
+    },
+    {
+     "title": "Galleria dell'Accademia",
+     "region": "tuscany",
+     "desc": "Florence, home of Michelangelo's David.",
+     "url": "https://www.galleriaaccademiafirenze.it/en/",
+     "url_label": "galleriaaccademiafirenze.it"
+    },
+    {
+     "title": "The Last Supper (Cenacolo Vinciano)",
+     "region": "lombardy",
+     "desc": "Leonardo's mural in Milan; tickets released in batches and sell out fast.",
+     "url": "https://cenacolovinciano.org/en/",
+     "url_label": "cenacolovinciano.org"
+    },
+    {
+     "title": "Pinacoteca di Brera",
+     "region": "lombardy",
+     "desc": "Milan's great picture gallery.",
+     "url": "https://pinacotecabrera.org/en/",
+     "url_label": "pinacotecabrera.org"
+    },
+    {
+     "title": "Venice civic museums",
+     "region": "veneto",
+     "desc": "Doge's Palace, Correr and other city museums.",
+     "url": "https://www.visitmuve.it/en/home/",
+     "url_label": "visitmuve.it"
+    },
+    {
+     "title": "Scrovegni Chapel",
+     "region": "veneto",
+     "desc": "Giotto's frescoes in Padua; timed, booked entry.",
+     "url": "https://www.cappelladegliscrovegni.it/",
+     "url_label": "cappelladegliscrovegni.it"
+    },
+    {
+     "title": "Museo Egizio",
+     "region": "piedmont",
+     "desc": "Turin's Egyptian Museum, one of the world's finest.",
+     "url": "https://museoegizio.it/en/",
+     "url_label": "museoegizio.it"
+    },
+    {
+     "title": "Pompeii",
+     "region": "campania",
+     "desc": "Official site for Pompeii and the Vesuvian archaeological sites.",
+     "url": "https://pompeiisites.org/en/",
+     "url_label": "pompeiisites.org"
+    },
+    {
+     "title": "Herculaneum",
+     "region": "campania",
+     "desc": "Official tickets for the Herculaneum archaeological park.",
+     "url": "https://ercolano.cultura.gov.it/biglietti/",
+     "url_label": "ercolano.cultura.gov.it"
+    },
+    {
+     "title": "Royal Palace of Caserta",
+     "region": "campania",
+     "desc": "The Bourbon palace and its vast gardens.",
+     "url": "https://reggiadicaserta.cultura.gov.it/en/",
+     "url_label": "reggiadicaserta.cultura.gov.it"
+    },
+    {
+     "title": "Valley of the Temples",
+     "region": "sicily",
+     "desc": "Agrigento's Greek temples.",
+     "url": "https://parcovalledeitempli.it/",
+     "url_label": "parcovalledeitempli.it"
+    },
+    {
+     "title": "Musei Italiani",
+     "desc": "The Ministry of Culture's app and site for tickets to state museums nationwide.",
+     "url": "https://www.museiitaliani.it/",
+     "url_label": "museiitaliani.it"
+    },
+    {
+     "title": "Teatro alla Scala",
+     "region": "lombardy",
+     "desc": "Opera and ballet tickets at Milan's opera house.",
+     "url": "https://www.lascala.it/en",
+     "url_label": "lascala.it"
+    },
+    {
+     "title": "Arena di Verona",
+     "region": "veneto",
+     "desc": "Summer opera in the Roman amphitheatre.",
+     "url": "https://www.arena.it/en",
+     "url_label": "arena.it"
+    }
+   ]
+  },
+  {
+   "heading": "Stay like a local",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Agriturismo.it",
+     "desc": "The largest portal for farm stays.",
+     "url": "https://en.agriturismo.it/",
+     "url_label": "agriturismo.it"
+    },
+    {
+     "title": "Agriturist",
+     "desc": "Confagricoltura's network of farm stays.",
+     "url": "https://www.agriturist.it/",
+     "url_label": "agriturist.it"
+    },
+    {
+     "title": "Terranostra",
+     "desc": "Coldiretti's agritourism association.",
+     "url": "https://www.terranostra.it/",
+     "url_label": "terranostra.it"
+    },
+    {
+     "title": "Campagna Amica",
+     "desc": "Farm stays, farm shops and farmers' markets.",
+     "url": "https://www.campagnamica.it/",
+     "url_label": "campagnamica.it"
+    },
+    {
+     "title": "Alberghi Diffusi",
+     "desc": "The national association of scattered village hotels.",
+     "url": "https://www.alberghidiffusi.it/",
+     "url_label": "alberghidiffusi.it"
+    },
+    {
+     "title": "Roter Hahn / Gallo Rosso",
+     "desc": "Farm holidays in South Tyrol.",
+     "url": "https://www.roterhahn.it/en/",
+     "url_label": "roterhahn.it"
+    },
+    {
+     "title": "Monastery Stays",
+     "desc": "Guest rooms in monasteries and convents.",
+     "url": "https://www.monasterystays.com/",
+     "url_label": "monasterystays.com"
+    },
+    {
+     "title": "CAI rifugi",
+     "desc": "Mountain huts run by the Club Alpino Italiano.",
+     "url": "https://rifugi.cai.it/",
+     "url_label": "rifugi.cai.it"
+    },
+    {
+     "title": "Bed-and-breakfast.it",
+     "desc": "Italian B&B directory.",
+     "url": "https://www.bed-and-breakfast.it/en",
+     "url_label": "bed-and-breakfast.it"
+    },
+    {
+     "title": "WWOOF Italia",
+     "desc": "Volunteer on organic farms in exchange for room and board.",
+     "url": "https://wwoof.it/en/",
+     "url_label": "wwoof.it"
+    },
+    {
+     "title": "HomeExchange",
+     "desc": "Home swaps.",
+     "url": "https://www.homeexchange.com/",
+     "url_label": "homeexchange.com"
+    },
+    {
+     "title": "HomeLink",
+     "desc": "Long-running home-exchange network.",
+     "url": "https://homelink.org/en/",
+     "url_label": "homelink.org"
+    },
+    {
+     "title": "TrustedHousesitters",
+     "desc": "House- and pet-sitting stays.",
+     "url": "https://www.trustedhousesitters.com/",
+     "url_label": "trustedhousesitters.com"
+    },
+    {
+     "title": "Ministry of Tourism accommodation database",
+     "desc": "Look up the national CIN code of a holiday rental.",
+     "url": "https://bdsr.ministeroturismo.gov.it/",
+     "url_label": "bdsr.ministeroturismo.gov.it"
+    }
+   ]
+  },
+  {
+   "heading": "Food and wine experiences",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Le Cesarine",
+     "desc": "Meals and cooking classes in the homes of Italian cooks.",
+     "url": "https://www.cesarine.com/",
+     "url_label": "cesarine.com"
+    },
+    {
+     "title": "Eatwith",
+     "desc": "Dinners and food experiences hosted by locals.",
+     "url": "https://www.eatwith.com/",
+     "url_label": "eatwith.com"
+    },
+    {
+     "title": "Slow Food Italia",
+     "desc": "Presidia, food events and the snail-sticker osterie guide.",
+     "url": "https://www.slowfood.it/",
+     "url_label": "slowfood.it"
+    },
+    {
+     "title": "Movimento Turismo del Vino",
+     "desc": "Wineries open to visitors, and the Cantine Aperte open-cellar days.",
+     "url": "https://movimentoturismovino.it/",
+     "url_label": "movimentoturismovino.it"
+    },
+    {
+     "title": "Città del Vino",
+     "desc": "Association of Italian wine towns, with wine routes and events.",
+     "url": "https://cittadelvino.com/",
+     "url_label": "cittadelvino.com"
+    },
+    {
+     "title": "Il Golosario",
+     "desc": "Respected Italian guide to artisan food shops, producers and trattorie (in Italian).",
+     "url": "https://www.ilgolosario.it/",
+     "url_label": "ilgolosario.it"
+    },
+    {
+     "title": "TheFork",
+     "desc": "Restaurant reservations, widely used in Italian cities.",
+     "url": "https://www.thefork.it/",
+     "url_label": "thefork.it"
+    },
+    {
+     "title": "Terra Madre Salone del Gusto",
+     "desc": "Slow Food's food festival in Turin.",
+     "url": "https://www.salonedelgusto.com/",
+     "url_label": "salonedelgusto.com"
+    },
+    {
+     "title": "Vinitaly",
+     "desc": "Italy's biggest wine fair, held each spring in Verona.",
+     "url": "https://www.vinitaly.com/en/",
+     "url_label": "vinitaly.com"
+    }
+   ]
+  },
+  {
+   "heading": "Festivals and events",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Carnevale di Venezia",
+     "region": "veneto",
+     "desc": "Masks, costumes and balls in the weeks before Lent.",
+     "url": "https://carnevale.venezia.it/en/",
+     "url_label": "carnevale.venezia.it"
+    },
+    {
+     "title": "Carnevale di Viareggio",
+     "region": "tuscany",
+     "desc": "Giant satirical papier-mâché floats on the Tuscan coast.",
+     "url": "https://www.carnevaleviareggio.it/",
+     "url_label": "carnevaleviareggio.it"
+    },
+    {
+     "title": "Carnevale di Ivrea",
+     "region": "piedmont",
+     "desc": "The historic orange battle.",
+     "url": "https://www.carnevalediivrea.it/",
+     "url_label": "carnevalediivrea.it"
+    },
+    {
+     "title": "Palio di Siena",
+     "region": "tuscany",
+     "desc": "The bareback horse race round the Campo, 2 July and 16 August.",
+     "url": "https://www.ilpalio.org/",
+     "url_label": "ilpalio.org"
+    },
+    {
+     "title": "La Biennale di Venezia",
+     "region": "veneto",
+     "desc": "Art and architecture biennales, and the Venice Film Festival.",
+     "url": "https://www.labiennale.org/en",
+     "url_label": "labiennale.org"
+    },
+    {
+     "title": "Umbria Jazz",
+     "region": "umbria",
+     "desc": "Perugia's July jazz festival, plus a winter edition in Orvieto.",
+     "url": "https://www.umbriajazz.it/en/",
+     "url_label": "umbriajazz.it"
+    },
+    {
+     "title": "Festival dei Due Mondi",
+     "region": "umbria",
+     "desc": "Spoleto's summer festival of music, theatre and dance.",
+     "url": "https://www.festivaldispoleto.com/en/",
+     "url_label": "festivaldispoleto.com"
+    },
+    {
+     "title": "Ravenna Festival",
+     "region": "emilia-romagna",
+     "desc": "Summer music among Byzantine mosaics.",
+     "url": "https://www.ravennafestival.org/en/",
+     "url_label": "ravennafestival.org"
+    },
+    {
+     "title": "Rossini Opera Festival",
+     "region": "marche",
+     "desc": "Rossini's operas in his home town of Pesaro, every August.",
+     "url": "https://www.rossinioperafestival.it/en/",
+     "url_label": "rossinioperafestival.it"
+    },
+    {
+     "title": "Puccini Festival",
+     "region": "tuscany",
+     "desc": "Open-air Puccini by the lake at Torre del Lago.",
+     "url": "https://www.puccinifestival.it/en/",
+     "url_label": "puccinifestival.it"
+    },
+    {
+     "title": "Macerata Opera Festival",
+     "region": "marche",
+     "desc": "Summer opera in the Sferisterio arena.",
+     "url": "https://www.sferisterio.it/en/",
+     "url_label": "sferisterio.it"
+    },
+    {
+     "title": "La Notte della Taranta",
+     "region": "puglia",
+     "desc": "Salento's pizzica music festival, ending with a huge concert in Melpignano in August.",
+     "url": "https://www.lanottedellataranta.it/",
+     "url_label": "lanottedellataranta.it"
+    },
+    {
+     "title": "Alba White Truffle Fair",
+     "region": "piedmont",
+     "desc": "Truffle market and food events, October to early December.",
+     "url": "https://www.fieradeltartufo.org/en/",
+     "url_label": "fieradeltartufo.org"
+    },
+    {
+     "title": "Eurochocolate",
+     "region": "umbria",
+     "desc": "Perugia's chocolate festival.",
+     "url": "https://www.eurochocolate.com/",
+     "url_label": "eurochocolate.com"
+    },
+    {
+     "title": "Romaeuropa Festival",
+     "region": "lazio",
+     "desc": "Rome's autumn festival of contemporary performance.",
+     "url": "https://romaeuropa.net/",
+     "url_label": "romaeuropa.net"
+    }
+   ]
+  },
+  {
+   "heading": "Maps and apps",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Trenitalia app",
+     "desc": "Buy and change train tickets, live departures and platform alerts.",
+     "url": "https://www.trenitalia.com/en/information/trenitalia-app.html",
+     "url_label": "Trenitalia app"
+    },
+    {
+     "title": "Italo app",
+     "desc": "Italo tickets, seat changes and live train status.",
+     "url": "https://www.italotreno.com/en/app",
+     "url_label": "Italo app"
+    },
+    {
+     "title": "Moovit",
+     "desc": "Public transport journey planner covering most Italian cities.",
+     "url": "https://moovitapp.com/",
+     "url_label": "moovitapp.com"
+    },
+    {
+     "title": "ATM Milano",
+     "desc": "Milan's metro, tram and bus operator, with tickets and route planner.",
+     "url": "https://www.atm.it/en/",
+     "url_label": "atm.it"
+    },
+    {
+     "title": "Roma Mobilità",
+     "desc": "Rome's public transport and traffic information.",
+     "url": "https://romamobilita.it/",
+     "url_label": "romamobilita.it"
+    },
+    {
+     "title": "Komoot",
+     "desc": "Hiking and cycling route planner with offline maps.",
+     "url": "https://www.komoot.com/",
+     "url_label": "komoot.com"
+    },
+    {
+     "title": "Parks.it",
+     "desc": "Guide to Italy's national and regional parks.",
+     "url": "https://www.parks.it/",
+     "url_label": "parks.it"
+    },
+    {
+     "title": "Il Meteo",
+     "desc": "Weather forecasts across Italy.",
+     "url": "https://www.ilmeteo.it/",
+     "url_label": "ilmeteo.it"
+    },
+    {
+     "title": "Protezione Civile",
+     "desc": "Official weather alerts and emergency information.",
+     "url": "https://www.protezionecivile.gov.it/en/",
+     "url_label": "protezionecivile.gov.it"
+    },
+    {
+     "title": "Dolomiti Superski",
+     "desc": "Ski passes and live lift status in the Dolomites.",
+     "url": "https://www.dolomitisuperski.com/en",
+     "url_label": "dolomitisuperski.com"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Book museum tickets only on the official sites above; if a price looks high, you are probably on a reseller.",
+  "Download the Trenitalia, Italo and Moovit apps before you travel and set up your account on Wi-Fi.",
+  "Ferry operators release summer timetables in spring; book car spaces for July and August early."
+ ]
+}

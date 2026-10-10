@@ -1,0 +1,235 @@
+{
+ "slug": "sicily-grand-loop-12-days",
+ "title": "Sicily grand loop",
+ "headline": "Markets, temples, baroque towns and a volcano",
+ "days": 12,
+ "style": "Islands",
+ "tagline": "From Palermo's street food to Etna's lava fields, the whole of Sicily in twelve unhurried days.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Christ_Pantokrator%2C_Cathedral_of_Cefal%C3%B9%2C_Sicily.jpg/1280px-Christ_Pantokrator%2C_Cathedral_of_Cefal%C3%B9%2C_Sicily.jpg",
+  "alt": "The gold mosaic of Christ Pantocrator in the apse of Cefalù cathedral",
+  "credit": "Gun Powder Ma, CC BY-SA 3.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AChrist_Pantokrator%2C_Cathedral_of_Cefal%C3%B9%2C_Sicily.jpg"
+ },
+ "summary": "Sicily has been Greek, Roman, Arab, Norman and Spanish, and you can taste and see all of it. This loop starts in Palermo, with its markets and golden Arab-Norman mosaics, and follows the north coast to Cefalù before cutting south to the Greek temples of Agrigento. It spends three nights among the honey-coloured baroque towns of the southeast (Ragusa, Modica and Noto), then two in Syracuse's island quarter of Ortigia, before climbing Mount Etna and ending in Taormina above the Ionian Sea. The first days work by train; from Cefalù onward, a car gives you the freedom the interior demands.",
+ "route": [
+  "Palermo",
+  "Monreale",
+  "Cefalù",
+  "Agrigento",
+  "Ragusa",
+  "Modica",
+  "Noto",
+  "Syracuse",
+  "Mount Etna",
+  "Taormina"
+ ],
+ "regions": [
+  "sicily"
+ ],
+ "best_season": "April to June and September to October. Spring brings wildflowers around the temples and comfortable hiking on Etna; autumn has warm sea and the grape and pistachio harvests. July and August are very hot inland.",
+ "getting_around": "Fly into Palermo and out of Catania. Use trains in Palermo and for Cefalù (about 1h). Pick up a rental car in Cefalù or Palermo on day 4 and drop it at Catania airport. The southeast and Etna are hard work by bus, though AST and Interbus coaches do link the main towns, and Catania to Taormina is easy by train or bus.",
+ "budget_note": "Around €140-210 per person per day mid-range including car hire; Taormina and Ortigia hotels push the upper end.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Palermo's markets and Quattro Canti",
+   "base": "Palermo",
+   "desc": "Start at the Quattro Canti crossroads and Piazza Pretoria's fountain, then dive into the Ballarò market, the oldest and loudest in the city, for a street-food lunch. See the Martorana church's Byzantine mosaics and its neighbour San Cataldo with its red domes. In the evening walk Via Maqueda and Via Vittorio Emanuele, both pedestrianised and buzzing. Palermo rewards wandering: duck into any open church door, as baroque oratories such as Santa Cita hide astonishing white stucco work by Giacomo Serpotta.",
+   "highlights": [
+    "Ballarò market",
+    "La Martorana mosaics",
+    "Evening passeggiata on Via Maqueda"
+   ],
+   "eat": "Antica Focacceria San Francesco, open since 1834 on Piazza San Francesco, for pani ca' meusa (spleen sandwich), panelle (chickpea fritters) and arancine.",
+   "stay": "Kalsa or around Via Maqueda in the historic centre."
+  },
+  {
+   "day": "2",
+   "title": "Cappella Palatina and Monreale",
+   "base": "Palermo",
+   "desc": "Visit the Palazzo dei Normanni early for the Cappella Palatina, a 12th-century chapel covered in gold mosaics under an Arab carved wooden ceiling. Walk to the cathedral and climb onto its roof. After lunch take the bus up to Monreale (about 40 minutes) for its cathedral, which has more than 6,000 square metres of mosaics, and its cloister of 228 twin columns. Back in Palermo, catch a performance at the Teatro Massimo or a puppet show at the Opera dei Pupi.",
+   "highlights": [
+    "Cappella Palatina",
+    "Monreale Cathedral and cloister",
+    "Opera dei Pupi puppet theatre"
+   ],
+   "eat": "Cannoli filled to order at a pasticceria, and a granita with brioche for breakfast.",
+   "stay": "Same base in Palermo."
+  },
+  {
+   "day": "3",
+   "title": "Mondello or the Capo market",
+   "base": "Palermo",
+   "desc": "Take a slow day. Swim at Mondello, Palermo's Liberty-era beach suburb under Monte Pellegrino, or walk through the Capo market and visit the Capuchin Catacombs. In the evening, go to Piazza Marina and the Kalsa, where the city's best bars cluster around the Garibaldi garden and its giant ficus trees. If you have energy left, climb Monte Pellegrino to the cave sanctuary of Santa Rosalia, Palermo's patron saint, for a view over the whole bay. Have an early night before the drive east.",
+   "highlights": [
+    "Mondello beach",
+    "Capo market",
+    "Kalsa nights"
+   ],
+   "eat": "Sfincione, Palermo's thick tomato-and-onion pizza, from a street vendor's three-wheeled van.",
+   "stay": "Same base in Palermo."
+  },
+  {
+   "day": "4",
+   "title": "Cefalù",
+   "base": "Cefalù",
+   "desc": "Take the train along the coast to Cefalù (about an hour). Its Norman cathedral holds a towering mosaic of Christ Pantocrator, and the medieval wash-house (Lavatoio) still runs with spring water. Climb La Rocca, the great rock above town, for the ruins of the Temple of Diana and views along the coast; start early or late in summer, as there is little shade. Swim off the town beach and pick up your rental car.",
+   "highlights": [
+    "Cefalù Cathedral's Pantocrator",
+    "La Rocca hike",
+    "The medieval Lavatoio"
+   ],
+   "eat": "Pasta con le sarde (sardines, wild fennel, pine nuts and raisins), Palermo's signature pasta.",
+   "stay": "Cefalù's old town, near the cathedral."
+  },
+  {
+   "day": "5",
+   "title": "Agrigento and the Valley of the Temples",
+   "base": "Agrigento",
+   "desc": "Drive about 2h30 across the island's interior to Agrigento. Enter the Valley of the Temples in the late afternoon, when the stone turns gold: the Temple of Concordia is one of the best-preserved Greek temples anywhere. The park runs some evening openings in summer. Next morning, before leaving, stop at the Scala dei Turchi, a white marl cliff above the sea; you view it from the beach, as the cliff itself is closed to walkers.",
+   "highlights": [
+    "Temple of Concordia at sunset",
+    "Kolymbethra Garden in the valley",
+    "Scala dei Turchi"
+   ],
+   "eat": "Busiate with pesto alla trapanese (tomato, almonds, basil and garlic) and an almond granita.",
+   "stay": "A B&B in Agrigento town or a farm stay near the temples."
+  },
+  {
+   "day": "6",
+   "title": "Ragusa Ibla",
+   "base": "Ragusa or Modica",
+   "desc": "Drive about 2h15 east to Ragusa. After an earthquake in 1693 the whole Val di Noto was rebuilt in baroque style, and the eight towns are now a UNESCO site. Walk down the long stairway from Ragusa Superiore to Ragusa Ibla, past the domes of Santa Maria delle Scale, to the Duomo di San Giorgio and the Giardino Ibleo. Ibla is quiet and car-free in the evening.",
+   "highlights": [
+    "The staircase down to Ragusa Ibla",
+    "Duomo di San Giorgio",
+    "Giardino Ibleo"
+   ],
+   "eat": "Scacce ragusane (folded flatbreads stuffed with tomato and cheese) and Ragusano DOP cheese.",
+   "stay": "A palazzo B&B in Ragusa Ibla or Modica Bassa for two nights."
+  },
+  {
+   "day": "7",
+   "title": "Modica and Scicli",
+   "base": "Ragusa or Modica",
+   "desc": "Spend the morning in Modica, a town in a gorge, climbing to the church of San Giorgio. Modica makes its chocolate cold, without conching, so it keeps a grainy texture; taste it flavoured with chilli or cinnamon. In the afternoon drive 25 minutes to Scicli, a small baroque town used as a set for the Inspector Montalbano TV series, and continue to the beaches of Sampieri or Marina di Ragusa for a swim.",
+   "highlights": [
+    "San Giorgio in Modica",
+    "Chocolate tasting",
+    "Scicli's Via Mormino Penna"
+   ],
+   "eat": "Antica Dolceria Bonajuto on Corso Umberto in Modica, Sicily's oldest working chocolate maker, dating to 1880, for chocolate and 'mpanatigghi (beef and chocolate pastries).",
+   "stay": "Same base."
+  },
+  {
+   "day": "8",
+   "title": "Noto and Marzamemi",
+   "base": "Syracuse (Ortigia)",
+   "desc": "Drive 50 minutes to Noto, the most theatrical of the baroque towns, built in honey-coloured stone along Corso Vittorio Emanuele. See the cathedral and the curving balconies of Palazzo Nicolaci on Via Corrado Nicolaci. Head south to the fishing village of Marzamemi for lunch by the old tuna fishery, and swim at the Vendicari nature reserve, where flamingos stop on the lagoons. Drive on to Syracuse (about 40 minutes).",
+   "highlights": [
+    "Noto Cathedral and Palazzo Nicolaci",
+    "Marzamemi's piazza",
+    "Vendicari reserve beaches"
+   ],
+   "eat": "Caffè Sicilia on Corso Vittorio Emanuele in Noto, run by pastry chef Corrado Assenza, for almond granita and cassata.",
+   "stay": "Ortigia, Syracuse's island old town, for two nights."
+  },
+  {
+   "day": "9",
+   "title": "Syracuse",
+   "base": "Syracuse (Ortigia)",
+   "desc": "Visit the Neapolis archaeological park in the morning: the Greek theatre, where classical plays are still staged each summer, and the Ear of Dionysius quarry cave. Return to Ortigia for the market, the Fonte Aretusa freshwater spring with papyrus, and the cathedral, which is built around the columns of a Greek temple of Athena. Swim from the rocks off Ortigia's seafront. In the evening, join the crowds strolling along the Lungomare di Levante.",
+   "highlights": [
+    "Greek theatre of Syracuse",
+    "Ortigia Cathedral's Doric columns",
+    "Fonte Aretusa"
+   ],
+   "eat": "A sandwich from Caseificio Borderi in the Ortigia market, built to order with their own ricotta and caciocavallo.",
+   "stay": "Same base in Ortigia."
+  },
+  {
+   "day": "10",
+   "title": "Mount Etna",
+   "base": "Etna slopes or Taormina",
+   "desc": "Drive about 1h30 to Rifugio Sapienza on Etna's south side. Walk the Silvestri craters, then take the Funivia dell'Etna cable car to 2,500 metres. Above about 2,900 metres the summit area is open only with a licensed volcanological guide, and access shifts with the volcano's activity, so book a guided trip and check the day's status. In the afternoon, taste Etna Rosso and Etna Bianco at a winery on the north slope around Castiglione di Sicilia or Passopisciaro.",
+   "highlights": [
+    "Silvestri craters",
+    "Funivia dell'Etna",
+    "Etna wine tasting"
+   ],
+   "eat": "Pistachio from Bronte, in granita, pesto or cake, on the volcano's western slope.",
+   "stay": "A wine estate on Etna's north slope, or go straight on to Taormina."
+  },
+  {
+   "day": "11",
+   "title": "Taormina",
+   "base": "Taormina",
+   "desc": "Taormina sits on a terrace high above the sea with Etna on the horizon. Visit the Greek-Roman theatre early, before the cruise groups, for the view framed by its brick stage. Walk Corso Umberto to Piazza IX Aprile and the gardens of Villa Comunale. Take the cable car down to Mazzarò and walk to Isola Bella, a tiny island nature reserve joined to the shore by a sandbar.",
+   "highlights": [
+    "Teatro Antico at opening",
+    "Isola Bella",
+    "Villa Comunale gardens"
+   ],
+   "eat": "Granita with brioche at Bam Bar on Via Di Giovanni, made with almonds, pistachio or mulberries.",
+   "stay": "Taormina, near Corso Umberto, or Mazzarò below for the beach."
+  },
+  {
+   "day": "12",
+   "title": "Castelmola and departure",
+   "base": "Taormina",
+   "desc": "Walk the old mule path up to Castelmola, 200 metres above Taormina, for a coffee and the widest view on the coast. Return for a last swim, then drive or take the bus to Catania airport (about 1h). If you have a few hours, stop at Catania's La Pescheria fish market behind the cathedral. Allow plenty of time for airport traffic on the Catania ring road, and fill the rental car's tank before you return it.",
+   "highlights": [
+    "Castelmola viewpoint",
+    "Last swim at Mazzarò",
+    "Catania fish market"
+   ],
+   "eat": "Arancini al ragù at a Catania bar before your flight.",
+   "stay": "Depart from Catania."
+  }
+ ],
+ "tips": [
+  "Pick up your rental car after Palermo, not before: the city has strict ZTL zones and chaotic traffic.",
+  "Etna's summit access and the cable car depend on volcanic activity; check the INGV alerts and confirm with your guide on the day.",
+  "Bring a scarf or covered shoulders for Monreale, the Cappella Palatina and other churches.",
+  "Many baroque churches close from about 1pm to 4pm; see them in the morning or late afternoon.",
+  "Sicilian granita with a brioche is a legitimate summer breakfast; order it everywhere and compare."
+ ],
+ "book": [
+  {
+   "label": "Valley of the Temples",
+   "url": "https://parcovalledeitempli.it/",
+   "desc": "Tickets, evening openings and the Kolymbethra garden"
+  },
+  {
+   "label": "Palazzo dei Normanni and Cappella Palatina",
+   "url": "https://www.federicosecondo.org/",
+   "desc": "Tickets and opening times"
+  },
+  {
+   "label": "Funivia dell'Etna",
+   "url": "https://www.funiviaetna.com/",
+   "desc": "Cable car, 4x4 and guided summit excursions"
+  },
+  {
+   "label": "Parco dell'Etna",
+   "url": "https://www.parcoetna.it/",
+   "desc": "Rules for hiking on the volcano"
+  },
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Palermo to Cefalù and Catania to Taormina trains"
+  },
+  {
+   "label": "Interbus",
+   "url": "https://www.interbus.it/",
+   "desc": "Buses between Catania, Syracuse, Noto and Taormina"
+  },
+  {
+   "label": "Visit Sicily",
+   "url": "https://www.visitsicily.info/en/",
+   "desc": "Official regional tourism site"
+  }
+ ]
+}

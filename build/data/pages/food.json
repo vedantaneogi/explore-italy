@@ -1,0 +1,354 @@
+{
+ "slug": "food",
+ "section": "taste",
+ "title": "Food",
+ "headline": "Italy cooks by region, not by recipe",
+ "tagline": "Twenty regions, twenty kitchens: where butter gives way to olive oil, where to shop at dawn, and how to sit at the table like you belong there.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bologna_amazing_hams_sausages_mortadella.jpg/1280px-Bologna_amazing_hams_sausages_mortadella.jpg",
+  "alt": "Hams, sausages and mortadella hanging in rows above the counter of a Bologna delicatessen",
+  "credit": "Ian Alexander, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ABologna_amazing_hams_sausages_mortadella.jpg"
+ },
+ "intro": [
+  "There is no such thing as Italian food, an old joke goes, only the food of somewhere. Cross a river and the ravioli change shape; cross a mountain and butter turns into olive oil. Italy only became a country in 1861, and its kitchens still remember the duchies, republics and kingdoms they grew up in. That is the best news a hungry traveller can get: every train ride ends somewhere with its own pasta, its own bread and strong opinions about both.",
+  "This page is your field guide. Start with the big regional kitchens, then go where the cooks shop: the markets that open before the cafés do. Learn the rhythm of an Italian meal so you never order a cappuccino at 9pm by accident. Then roll up your sleeves with a home cook or a cooking school, because the fastest way into a region's food is through somebody's kitchen."
+ ],
+ "sections": [
+  {
+   "heading": "The great regional kitchens",
+   "intro": "A rough map of what you'll eat, from the Alps to the far south. Every one of these is a reason to plan a trip on its own.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "The north: butter, rice and polenta",
+     "subtitle": "Lombardy, Piedmont, Veneto",
+     "desc": "The Po plain is cattle and rice country, so the north cooks with butter and slow heat. Order risotto alla milanese gold with saffron next to ossobuco in Milan, agnolotti del plin and vitello tonnato in Piedmont, and soft polenta under baccalà mantecato in Venice. In autumn, Alba's white truffles get shaved over plain buttered tajarin.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Risotto_giallo_%286954045202%29.jpg/1280px-Risotto_giallo_%286954045202%29.jpg",
+      "alt": "A bowl of golden saffron risotto alla milanese",
+      "credit": "Michele Ursino, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARisotto_giallo_%286954045202%29.jpg"
+     },
+     "region": "lombardy",
+     "meta": "Try: risotto alla milanese"
+    },
+    {
+     "title": "Emilia-Romagna and the Food Valley",
+     "subtitle": "Bologna, Modena, Parma",
+     "desc": "Fresh egg pasta rolled thin with a long pin: tortellini in broth, tagliatelle al ragù, green lasagne. Around Parma, the 'Food Valley' makes Parmigiano Reggiano, Prosciutto di Parma and culatello, and Modena ages traditional balsamic for decades. Parma is a UNESCO Creative City of Gastronomy, and its Musei del Cibo cover cheese, ham, pasta, tomatoes and more.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tortellini_Bolognesi.jpg/1280px-Tortellini_Bolognesi.jpg",
+      "alt": "Freshly folded tortellini bolognesi on a wooden board",
+      "credit": "Angelo.Muratore, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATortellini_Bolognesi.jpg"
+     },
+     "region": "emilia-romagna",
+     "meta": "Try: tortellini in brodo",
+     "url": "https://www.museidelcibo.it/",
+     "url_label": "Musei del Cibo, Parma"
+    },
+    {
+     "title": "Liguria: basil, focaccia and the sea",
+     "subtitle": "Genoa and the Riviera",
+     "desc": "A thin strip of coast between mountains and sea gave Liguria a light, green cooking. Pesto genovese is pounded from small-leaf basil, pine nuts, garlic, Parmigiano and pecorino and tossed with trofie or trenette. Have oily, salty focaccia for breakfast, dipped in cappuccino if you're Genoese, and chickpea farinata hot from a wood oven.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ingredienti_per_il_pesto.jpg/1280px-Ingredienti_per_il_pesto.jpg",
+      "alt": "Basil, pine nuts, garlic, olive oil and Parmigiano laid out for making pesto genovese",
+      "credit": "Betti1955, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIngredienti_per_il_pesto.jpg"
+     },
+     "region": "liguria",
+     "meta": "Try: trofie al pesto"
+    },
+    {
+     "title": "Tuscany: bread, beans and the grill",
+     "subtitle": "Florence, Siena, the countryside",
+     "desc": "Tuscan cooking is thrifty and proud of it. Stale saltless bread goes into ribollita and pappa al pomodoro, beans go into everything, and the bistecca alla fiorentina is a thick T-bone of Chianina beef, grilled over embers and served rare, no arguments. In Florence, eat lampredotto (tripe) in a roll from a street cart.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bistecca_alla_Fiorentina_%40_Firenze_02.jpg/1280px-Bistecca_alla_Fiorentina_%40_Firenze_02.jpg",
+      "alt": "A thick raw T-bone for bistecca alla fiorentina displayed with Tuscan greens and lemons in Florence",
+      "credit": "Thomas Oboe Lee, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABistecca_alla_Fiorentina_%40_Firenze_02.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Try: bistecca alla fiorentina"
+    },
+    {
+     "title": "Rome: the fifth quarter and four pastas",
+     "subtitle": "Lazio",
+     "desc": "Rome's four pastas are cacio e pepe, gricia, amatriciana and carbonara, all built on pecorino and guanciale. The working-class quinto quarto, the offal left after the noble cuts were sold, gave the city coda alla vaccinara (oxtail stew), trippa alla romana and rigatoni con la pajata. Testaccio, by the old slaughterhouse, is still where to eat it.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1280px-Espaguetis_carbonara.jpg",
+      "alt": "Spaghetti carbonara with guanciale, egg and grated pecorino",
+      "credit": "Javier Somoza, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEspaguetis_carbonara.jpg"
+     },
+     "region": "lazio",
+     "meta": "Try: carbonara, no cream"
+    },
+    {
+     "title": "Naples: the city that made pizza",
+     "subtitle": "Campania",
+     "desc": "A soft, blistered Neapolitan pizza, eaten with a knife and fork or folded 'a portafoglio' on the street, is UNESCO-listed intangible heritage. Order a margherita or a marinara and judge the place on that. Then move on to ragù napoletano simmered for hours, fried pizza, and a sfogliatella with your morning coffee.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pizza_Napoletana_Contemporanea.jpg/1280px-Pizza_Napoletana_Contemporanea.jpg",
+      "alt": "A Neapolitan pizza with a puffy, charred crust, tomatoes, mozzarella and basil",
+      "credit": "CDibisceglia, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APizza_Napoletana_Contemporanea.jpg"
+     },
+     "region": "campania",
+     "meta": "Try: pizza margherita"
+    },
+    {
+     "title": "Puglia: orecchiette and burrata",
+     "subtitle": "Bari, Valle d'Itria, Salento",
+     "desc": "In the old town of Bari, women still roll orecchiette by hand at tables on the street and sell them by the bag. Eat them with cime di rapa (turnip tops), anchovy and chilli. Puglia's olive oil, burrata from Andria, raw seafood in Bari and the custard-filled pasticciotto of Lecce add up to some of Italy's most generous eating.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Orecchiette_on_the_road.jpg/1280px-Orecchiette_on_the_road.jpg",
+      "alt": "Handmade orecchiette drying on trays in a street of Bari's old town",
+      "credit": "Isa De Santis, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AOrecchiette_on_the_road.jpg"
+     },
+     "region": "puglia",
+     "meta": "Try: orecchiette con cime di rapa"
+    },
+    {
+     "title": "Sicily: street food and Arab-Norman sweets",
+     "subtitle": "Palermo, Catania, the island",
+     "desc": "Arabs brought sugar cane, citrus, almonds and saffron to Sicily, and you taste them a thousand years later. Palermo snacks on arancine, chickpea panelle, sfincione and pani ca' meusa (spleen sandwich); Catania calls its rice balls arancini. Then the sweets: ricotta cannoli, green-iced cassata and marzipan fruit, all born in convents.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Arancini_002.jpg/1280px-Arancini_002.jpg",
+      "alt": "A plate of golden fried Sicilian arancini on a checked tablecloth",
+      "credit": "Gmelfi, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AArancini_002.jpg"
+     },
+     "region": "sicily",
+     "meta": "Try: arancina and a cannolo"
+    }
+   ]
+  },
+  {
+   "heading": "Markets worth an early alarm",
+   "intro": "Go in the morning, on a weekday if you can, with cash and a tote bag. Look before you touch: in most stalls the vendor picks for you.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Rialto Market",
+     "subtitle": "Venice, Veneto",
+     "desc": "Venice has shopped here for a thousand years. The fish market under the neo-Gothic Pescheria loggia is a morning show of spider crabs, cuttlefish still in their ink and moeche (soft-shell crabs) in season; the produce stalls alongside sell purple artichokes and radicchio from the lagoon islands. Follow it with cicchetti and an ombra of wine in the bacari nearby.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Venezia_targ_2.jpg/1280px-Venezia_targ_2.jpg",
+      "alt": "Produce stalls piled with artichokes and vegetables at the Rialto market in Venice",
+      "credit": "Andrzej Otrębski, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVenezia_targ_2.jpg"
+     },
+     "region": "veneto",
+     "meta": "Fish market Tue-Sat mornings"
+    },
+    {
+     "title": "Mercato Centrale",
+     "subtitle": "Florence, Tuscany",
+     "desc": "A great iron-and-glass hall from the 1870s in San Lorenzo. Downstairs the butchers, tripe sellers, cheesemongers and greengrocers keep the old market alive; upstairs, a modern food hall serves everything from pizza to truffle pasta until late. Have a lampredotto panino at the counter and buy dried porcini to take home.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Verkaufstand_im_Mercato_Centrale_Florenz-03.jpg/1280px-Verkaufstand_im_Mercato_Centrale_Florenz-03.jpg",
+      "alt": "A greengrocer's stall hung with garlic and chillies inside Florence's Mercato Centrale",
+      "credit": "Rufus46, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVerkaufstand_im_Mercato_Centrale_Florenz-03.jpg"
+     },
+     "region": "tuscany",
+     "meta": "Food hall open daily",
+     "url": "https://www.mercatocentrale.it/",
+     "url_label": "Mercato Centrale"
+    },
+    {
+     "title": "Ballarò",
+     "subtitle": "Palermo, Sicily",
+     "desc": "Palermo's oldest and loudest street market winds through the Albergheria district like an Arab souk. Vendors bellow their prices in dialect, the abbanniata, over heaps of blood oranges, swordfish, wild fennel and long cucuzza squash. Stop for panelle or grilled artichokes cooked right on the street.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mercato_di_Ballar%C3%B2_-_panoramio.jpg/1280px-Mercato_di_Ballar%C3%B2_-_panoramio.jpg",
+      "alt": "Stalls under red awnings along a lane of Ballarò market in Palermo",
+      "credit": "ildirettore, CC BY 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMercato_di_Ballar%C3%B2_-_panoramio.jpg"
+     },
+     "region": "sicily",
+     "meta": "Mornings, Mon-Sat"
+    },
+    {
+     "title": "Porta Palazzo",
+     "subtitle": "Turin, Piedmont",
+     "desc": "Often called Europe's largest open-air market, it fills Piazza della Repubblica every morning except Sunday. Farmers from the hills sell under the 'contadini' canopy, while the covered halls hold fish, meat and cheese, and the Moroccan, Romanian and Chinese stalls show how today's Turin eats. Saturday is busiest and best.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Torino-_Mercato_della_Frutta_di_Porta_Palazzo_-_52755235105.jpg/1280px-Torino-_Mercato_della_Frutta_di_Porta_Palazzo_-_52755235105.jpg",
+      "alt": "Fruit and vegetable stalls with handwritten prices at Porta Palazzo market in Turin",
+      "credit": "Jorge Franganillo, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATorino-_Mercato_della_Frutta_di_Porta_Palazzo_-_52755235105.jpg"
+     },
+     "region": "piedmont",
+     "meta": "Mon-Sat, all day Saturday"
+    },
+    {
+     "title": "Campo de' Fiori and Testaccio",
+     "subtitle": "Rome, Lazio",
+     "desc": "Campo de' Fiori's morning market under the hooded statue of Giordano Bruno is beautiful, but its stalls lean towards souvenirs these days. For the real thing, ride to the covered Mercato di Testaccio, where Romans buy puntarelle and artichokes and queue for sandwiches stuffed with braised meat.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Campo_dei_Fiori.jpg/1280px-Campo_dei_Fiori.jpg",
+      "alt": "Market umbrellas filling Piazza Campo de' Fiori in Rome on a sunny morning",
+      "credit": "Myrabella, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACampo_dei_Fiori.jpg"
+     },
+     "region": "lazio",
+     "meta": "Mornings, Mon-Sat",
+     "url": "https://www.mercatoditestaccio.it/",
+     "url_label": "Mercato di Testaccio"
+    },
+    {
+     "title": "Mercato di Mezzo and the Quadrilatero",
+     "subtitle": "Bologna, Emilia-Romagna",
+     "desc": "Bologna's medieval market lanes, Via Pescherie Vecchie, Via Drapperie and Via Clavature, are still packed with delis hung with mortadella and wheels of Parmigiano. The covered Mercato di Mezzo in the middle is now a casual food hall: grab a glass of Pignoletto and a board of salumi and watch the lanes go by.",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bologna_Via_Pescherie_Vecchie_01.jpg/1280px-Bologna_Via_Pescherie_Vecchie_01.jpg",
+      "alt": "Fruit and vegetable stalls spilling into Via Pescherie Vecchie in Bologna's Quadrilatero",
+      "credit": "https://www.flickr.com/photos/121083587@N03/, CC BY-SA 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ABologna_Via_Pescherie_Vecchie_01.jpg"
+     },
+     "region": "emilia-romagna",
+     "meta": "Daily, late hours",
+     "url": "https://www.bolognawelcome.com/en/places/shopping-places/mercato-di-mezzo-the-middle-market",
+     "url_label": "Bologna Welcome"
+    }
+   ]
+  },
+  {
+   "heading": "How to eat like an Italian",
+   "intro": "A few unwritten rules that make every meal easier, and a few that are just good fun to know.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Breakfast is small and sweet",
+     "desc": "Colazione is a cappuccino and a cornetto (croissant) at the bar counter, done in five minutes. Savoury breakfasts are rare outside hotels. In Sicily, summer breakfast is granita with a soft brioche.",
+     "meta": "7-10am"
+    },
+    {
+     "title": "The full meal has a shape",
+     "desc": "Antipasto, primo (pasta, rice or soup), secondo (meat or fish) with a contorno (vegetable side), then dolce, coffee and maybe a digestivo. Nobody expects you to eat all of it: two courses is normal, and sharing an antipasto is fine.",
+     "meta": "Lunch 12:30-2:30, dinner from 7:30-8:30pm"
+    },
+    {
+     "title": "Aperitivo before dinner",
+     "desc": "Between about 6pm and 8pm, Italians meet for a Spritz, a Campari or a glass of wine with something salty to nibble. In Milan and Turin the buffet can be generous; in Venice it's cicchetti at the bar.",
+     "meta": "6-8pm"
+    },
+    {
+     "title": "Coperto, pane and servizio",
+     "desc": "Many restaurants charge a coperto (cover), usually €1-4 per person, for bread and the table. It has to be on the menu. In Lazio a separate coperto isn't allowed, so Roman bills often show a bread charge instead. Tipping isn't expected; rounding up for good service is kind.",
+     "meta": "Check the menu"
+    },
+    {
+     "title": "Cappuccino is a morning drink",
+     "desc": "Milky coffee after a meal is thought heavy on the stomach, so after lunch or dinner order un caffè (an espresso). Nobody will refuse you a cappuccino at 4pm, but you'll be the only one.",
+     "meta": "Before 11am"
+    },
+    {
+     "title": "Pasta rules are real",
+     "desc": "Most regions frown on Parmigiano over seafood pasta, carbonara has no cream, spaghetti bolognese is something Bologna doesn't make (it's tagliatelle al ragù), and you don't cut long pasta. Bread is for mopping up sauce, the 'scarpetta', not dipping in oil before the meal.",
+     "meta": "House rules vary"
+    },
+    {
+     "title": "Eat with the calendar",
+     "desc": "Menus change with the season and the saint's day: artichokes in spring, porcini and truffles in autumn, frittelle in Venice at Carnival, maritozzi in Rome in Lent. If a dish isn't on the menu, it's probably not the moment, and that's a good sign.",
+     "meta": "Seasonal"
+    },
+    {
+     "title": "Ask for the bill",
+     "desc": "Nobody brings the check until you ask: lingering is the point. Say 'il conto, per favore', or catch the waiter's eye and mime writing. Splitting by item is unusual; groups usually divide equally ('alla romana').",
+     "meta": "'Il conto, per favore'"
+    }
+   ]
+  },
+  {
+   "heading": "Cook with the people who know",
+   "intro": "Pasta made with your own hands in somebody's kitchen tells you more about a region than any restaurant. Book a few days ahead.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Le Cesarine",
+     "subtitle": "Home cooks across Italy",
+     "desc": "Founded in Bologna in 2004 to protect home cooking, this network now links travellers with hand-picked home cooks in more than 450 Italian towns. Book a market tour, a pasta class or simply dinner in a family dining room, from Langhe farmhouses to Neapolitan apartments.",
+     "meta": "Since 2004",
+     "url": "https://www.cesarine.com/en",
+     "url_label": "Book a home cook"
+    },
+    {
+     "title": "Casa Artusi",
+     "subtitle": "Forlimpopoli, Emilia-Romagna",
+     "desc": "A food centre built around Pellegrino Artusi, whose 1891 cookbook first gathered Italy's regional dishes into one national kitchen. The cooking school teaches rolling-pin pasta and piadina at proper workstations, and the town throws the Festa Artusiana every summer.",
+     "meta": "Rolling-pin pasta classes",
+     "region": "emilia-romagna",
+     "url": "https://www.casartusi.it/",
+     "url_label": "Casa Artusi"
+    },
+    {
+     "title": "Badia a Coltibuono",
+     "subtitle": "Gaiole in Chianti, Tuscany",
+     "desc": "An eleventh-century abbey turned wine estate in Chianti Classico, with a long-running cooking school that pairs Tuscan country cooking with the estate's wine and olive oil. Stay on to walk the cloister and the cellars.",
+     "meta": "Wine estate cooking school",
+     "region": "tuscany",
+     "url": "https://www.coltibuono.com/",
+     "url_label": "Badia a Coltibuono"
+    },
+    {
+     "title": "Anna Tasca Lanza Cooking School",
+     "subtitle": "Case Vecchie, Sicily",
+     "desc": "On the Regaleali estate in the hills of inland Sicily, this school founded by Anna Tasca Lanza and now run by her daughter Fabrizia teaches the island's farmhouse cooking: wild greens, sheep's ricotta, preserved tomatoes and almond sweets.",
+     "meta": "Residential courses",
+     "region": "sicily",
+     "url": "https://annatascalanza.com/",
+     "url_label": "Anna Tasca Lanza"
+    },
+    {
+     "title": "Eataly and Grand Tour Italia",
+     "subtitle": "Turin and Bologna",
+     "desc": "Eataly began in a former vermouth factory in Turin's Lingotto in 2007 and is now a grocery-and-restaurant chain with Italian branches in most big cities. In Bologna, its theme park FICO closed in 2024 and was relaunched as Grand Tour Italia, a free-entry hall with an osteria and shop for each of the twenty regions. Handy, but no substitute for a market.",
+     "meta": "Free entry in Bologna",
+     "url": "https://www.grandtouritalia.it/",
+     "url_label": "Grand Tour Italia"
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Restaurant kitchens close between lunch and dinner; from about 3pm to 7pm, look for a bar, bakery or pizza al taglio instead.",
+  "Sunday lunch is the big family meal of the week, so book ahead and expect many places to close on Sunday evening and Monday.",
+  "Tap water is safe; ask for 'acqua del rubinetto' or order a bottle of naturale or frizzante.",
+  "A menu translated into six languages with photos, and a man outside inviting you in, is usually the place to skip.",
+  "In August many family restaurants close for two or three weeks for Ferragosto holidays; check before you travel across town."
+ ],
+ "links": [
+  {
+   "label": "Le Cesarine",
+   "url": "https://www.cesarine.com/en",
+   "desc": "Book home-cooking classes and dinners with local cooks across Italy"
+  },
+  {
+   "label": "Casa Artusi",
+   "url": "https://www.casartusi.it/",
+   "desc": "Cooking school, library and museum devoted to Pellegrino Artusi in Forlimpopoli"
+  },
+  {
+   "label": "Musei del Cibo",
+   "url": "https://www.museidelcibo.it/",
+   "desc": "Parma's network of food museums: Parmigiano, prosciutto, culatello, pasta, tomato, wine"
+  },
+  {
+   "label": "Slow Food Italia",
+   "url": "https://www.slowfood.it/",
+   "desc": "Presidia, events and the Osterie d'Italia guide to traditional cooking"
+  },
+  {
+   "label": "Grand Tour Italia",
+   "url": "https://www.grandtouritalia.it/",
+   "desc": "Bologna's regional food hall, the successor to FICO Eataly World"
+  }
+ ]
+}

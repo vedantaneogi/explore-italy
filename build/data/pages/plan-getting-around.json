@@ -1,0 +1,557 @@
+{
+ "slug": "plan-getting-around",
+ "section": "plan",
+ "title": "Getting around",
+ "headline": "Trains, ferries, roads and paths across Italy",
+ "tagline": "How to move between cities, islands and villages: fast trains and slow scenic lines, ferries and hydrofoils, buses, hire cars, bikes and long-distance walking routes.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trenitalia_ETR_600_02_FR_8527_Brescia_20230320.jpg/1280px-Trenitalia_ETR_600_02_FR_8527_Brescia_20230320.jpg",
+  "alt": "A red Frecciarossa high-speed train waiting at the platform in Brescia station",
+  "credit": "Moliva, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATrenitalia_ETR_600_02_FR_8527_Brescia_20230320.jpg"
+ },
+ "intro": [
+  "Italy is one of the easiest countries in Europe to explore without a car. High-speed trains link the big cities centre to centre in a few hours, regional trains and buses reach most towns, and ferries and hydrofoils serve dozens of islands. A car comes into its own in the countryside, from Tuscany's hill towns to inland Sicily and Sardinia.",
+  "The best trips mix it up: a fast train between cities, a ferry to an island, a hire car for a few days in the hills, and at least one day on foot or by bike. Here is how each option works, what it costs roughly, and the rules that catch visitors out, from stamping regional train tickets to the camera-controlled traffic zones in old towns, with the official booking sites for each."
+ ],
+ "sections": [
+  {
+   "heading": "Trains",
+   "intro": "Rail is the backbone of travel in Italy. Fares on fast trains rise as the date approaches, while regional fares are fixed and cheap.",
+   "layout": "list",
+   "items": [
+    {
+     "title": "High-speed trains: Frecciarossa and Italo",
+     "subtitle": "Turin, Milan, Venice, Bologna, Florence, Rome, Naples, Salerno and beyond",
+     "desc": "Trenitalia's Frecciarossa and private rival Italo run at up to 300 km/h: Rome to Florence takes about 1h30, Rome to Milan about 3h, Rome to Naples about 1h10. Both sell assigned seats on a specific train, with cheap advance fares that sell out, so book a few weeks ahead for the best prices. Compare both; they share the same lines and stations in most cities.",
+     "url": "https://www.trenitalia.com/en.html",
+     "url_label": "Trenitalia"
+    },
+    {
+     "title": "Italo",
+     "subtitle": "Private high-speed operator",
+     "desc": "Italo's red trains serve the main high-speed corridor plus extensions to places like Bolzano, Trieste and Reggio Calabria, with connecting Italobus coaches to towns off the line. Its fares are often cheaper on popular routes, and the app is excellent.",
+     "url": "https://www.italotreno.com/en",
+     "url_label": "Italo"
+    },
+    {
+     "title": "Intercity and night trains",
+     "subtitle": "The long way round, at lower prices",
+     "desc": "Intercity trains cover routes without high-speed lines, such as the Adriatic and the Tyrrhenian coasts. Intercity Notte sleepers run overnight from Milan, Turin and Rome to Calabria and Sicily, where the carriages are shunted onto a ferry across the Strait of Messina, a journey worth taking once."
+    },
+    {
+     "title": "Regional trains and validation",
+     "subtitle": "Regionale and Regionale Veloce",
+     "desc": "Slower regional trains reach almost every town, at fixed prices and with no seat reservations. Paper regional tickets must be stamped in the green or white machines on the platform before you board, or you can be fined. Digital regional tickets bought on the Trenitalia app or website activate automatically at the time you chose, so you can change them until then. Lombardy's regional trains are run by Trenord, with its own app.",
+     "url": "https://www.trenord.it/en/tickets/",
+     "url_label": "Trenord tickets"
+    },
+    {
+     "title": "Station tips",
+     "desc": "Check the departure boards for the platform (binario), which may change at the last minute. Big stations have several names in one city, such as Roma Termini and Roma Tiburtina, or Firenze Santa Maria Novella and Firenze Campo di Marte, so check which one your ticket uses."
+    }
+   ]
+  },
+  {
+   "heading": "Scenic rail routes",
+   "intro": "Some of Italy's most beautiful journeys are on slow trains. Make the ride the day's main event.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Bernina Express",
+     "subtitle": "Tirano (Lombardy) to St. Moritz and Chur, Switzerland",
+     "desc": "The Rhaetian Railway's red trains climb from the vineyards of Valtellina over the Bernina Pass at 2,253 metres, past glaciers and over the famous spiral viaduct at Brusio, on a UNESCO-listed line. Reserve panoramic-car seats ahead in summer, or ride the ordinary regional trains on the same tracks for less.",
+     "meta": "About 2h30 from Tirano to St. Moritz",
+     "region": "lombardy",
+     "url": "https://www.rhb.ch/en/",
+     "url_label": "Rhaetian Railway",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/RhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg/1280px-RhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg",
+      "alt": "The red Bernina Express train running beside Lago Bianco below the Bernina Pass",
+      "credit": "Kabelleger / David Gubler, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARhB_ABe_4-4_III_56_and_51_Lago_Bianco.jpg"
+     }
+    },
+    {
+     "title": "Vigezzina-Centovalli",
+     "subtitle": "Domodossola (Piedmont) to Locarno, Switzerland",
+     "desc": "A narrow-gauge line that crosses dozens of bridges through the Valle Vigezzo, the 'valley of painters', and the wooded gorges of the Swiss Centovalli. Combine it with a boat on Lake Maggiore and a train back to Milan for a perfect circular day out.",
+     "meta": "About 2 hours each way",
+     "region": "piedmont",
+     "url": "https://www.vigezzinacentovalli.com/en/",
+     "url_label": "Vigezzina-Centovalli",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Centovalli_Railway_ABe_4-6.jpg/1280px-Centovalli_Railway_ABe_4-6.jpg",
+      "alt": "A blue and cream Vigezzina-Centovalli train at a small station in the valley",
+      "credit": "Ed Webster, CC BY 2.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACentovalli_Railway_ABe_4-6.jpg"
+     }
+    },
+    {
+     "title": "Trenino Verde",
+     "subtitle": "Sardinia's tourist narrow-gauge lines",
+     "desc": "In summer, little diesel trains crawl through Sardinia's remotest interior on old narrow-gauge lines, past nuraghi, cork forests and lakes, stopping at stations miles from any village. Current routes include Macomer to Bosa Marina, Mandas to Laconi and Sadali, Arbatax to Lanusei and Tempio to Luras. It is slow by design.",
+     "meta": "Seasonal, mostly June to September",
+     "region": "sardinia",
+     "url": "https://www.treninoverde.com/",
+     "url_label": "Trenino Verde",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/FCS_400_auf_dem_Viadukt_bei_Belvi-Aritzo.JPG/1280px-FCS_400_auf_dem_Viadukt_bei_Belvi-Aritzo.JPG",
+      "alt": "A vintage steam train crossing a stone viaduct near Belvì in the Sardinian interior",
+      "credit": "Manfred Kopka, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFCS_400_auf_dem_Viadukt_bei_Belvi-Aritzo.JPG"
+     }
+    },
+    {
+     "title": "Circumetnea",
+     "subtitle": "Around Mount Etna, Sicily",
+     "desc": "A slow narrow-gauge railway that loops around the lower slopes of Etna through lava fields, pistachio groves at Bronte and vineyards near Randazzo. Services are infrequent and some sections may run by bus during works, so check the timetable before you set off.",
+     "meta": "Allow a full day",
+     "region": "sicily",
+     "url": "https://www.circumetnea.it/",
+     "url_label": "Circumetnea",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Trein_Ferrovia_Circumetnea_station_Randazzo.jpg/1280px-Trein_Ferrovia_Circumetnea_station_Randazzo.jpg",
+      "alt": "A green and white Circumetnea railcar at Randazzo station on the slopes of Etna",
+      "credit": "Myuktrains80, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATrein_Ferrovia_Circumetnea_station_Randazzo.jpg"
+     }
+    },
+    {
+     "title": "Transiberiana d'Italia",
+     "subtitle": "Sulmona to Castel di Sangro, Abruzzo",
+     "desc": "Fondazione FS runs vintage trains on this mountain line across the snowy plateaus of Abruzzo, one of the highest railways in the Apennines. Trips run on selected dates with stops for village food festivals, Christmas markets and walks.",
+     "meta": "Selected dates, book through Fondazione FS",
+     "region": "abruzzo",
+     "url": "https://www.fondazionefs.it/content/fondazionefs/en.html",
+     "url_label": "Fondazione FS historic trains",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/La_Transiberiana_d%27Italia.jpg/1280px-La_Transiberiana_d%27Italia.jpg",
+      "alt": "A train crossing a stone viaduct over green Apennine meadows on the Sulmona line",
+      "credit": "Nadioska79, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALa_Transiberiana_d%27Italia.jpg"
+     }
+    },
+    {
+     "title": "Cinque Terre line",
+     "subtitle": "La Spezia to Levanto, Liguria",
+     "desc": "Regional trains link the five villages in a few minutes each, ducking in and out of tunnels with flashes of sea between. The Cinque Terre Train MS card covers unlimited rides plus the trails. Trains get packed in summer; go early.",
+     "meta": "Trains every 15 to 30 minutes in season",
+     "region": "liguria",
+     "url": "https://card.parconazionale5terre.it/",
+     "url_label": "Cinque Terre cards",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1_vernazza_2012.jpg/1280px-1_vernazza_2012.jpg",
+      "alt": "Vernazza's colourful houses and harbour on a headland in the Cinque Terre",
+      "credit": "chensiyuan, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3A1_vernazza_2012.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Buses",
+   "layout": "list",
+   "items": [
+    {
+     "title": "Long-distance coaches",
+     "desc": "FlixBus and Itabus run cheap intercity coaches between dozens of cities, often with routes trains do not cover well, such as Rome to the Gargano or Naples to inland Basilicata. Marozzi links Rome with Puglia.",
+     "url": "https://www.flixbus.it/",
+     "url_label": "FlixBus"
+    },
+    {
+     "title": "Itabus",
+     "desc": "Italian intercity coach operator with modern buses and frequent offers, strong on north-south routes.",
+     "url": "https://www.itabus.it/en",
+     "url_label": "Itabus"
+    },
+    {
+     "title": "Regional and local buses",
+     "desc": "Regional buses reach the villages trains miss: SITA Sud on the Amalfi Coast, Cotral in Lazio, ARST in Sardinia, AST and others in Sicily. Buy tickets before boarding at a tabaccheria, bar or app, and validate them on board. Timetables thin out on Sundays and in school holidays.",
+     "url": "https://sitasudtrasporti.it/",
+     "url_label": "SITA Sud"
+    },
+    {
+     "title": "City transport",
+     "desc": "Milan, Rome, Florence, Bologna and many other cities now let you tap a contactless card or phone at metro gates and on many buses. Otherwise buy tickets at tabaccherie, machines or apps, and stamp paper tickets when you board.",
+     "url": "https://moovitapp.com/",
+     "url_label": "Moovit journey planner"
+    }
+   ]
+  },
+  {
+   "heading": "Ferries and hydrofoils",
+   "intro": "Slow ferries (traghetti) carry cars and are cheaper; fast hydrofoils (aliscafi) are passengers only and cancel more readily in rough seas. Book ahead for cars in July and August.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Sicily",
+     "subtitle": "Strait of Messina and overnight routes",
+     "desc": "Caronte & Tourist ferries cross the Strait of Messina from Villa San Giovanni around the clock in about 20 minutes; just turn up. From the north, overnight ferries run to Palermo from Genoa, Civitavecchia, Naples and Livorno with GNV, Grimaldi and Tirrenia, saving a long drive and a hotel night.",
+     "meta": "Strait crossing ~20 min; Naples to Palermo overnight",
+     "region": "sicily",
+     "url": "https://www.carontetourist.it/en",
+     "url_label": "Caronte & Tourist",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Traghetto_Caronte_%26_Tourist_Tremestieri.jpg/1280px-Traghetto_Caronte_%26_Tourist_Tremestieri.jpg",
+      "alt": "A Caronte & Tourist ferry crossing the blue Strait of Messina",
+      "credit": "Marinaio56, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATraghetto_Caronte_%26_Tourist_Tremestieri.jpg"
+     }
+    },
+    {
+     "title": "Sardinia",
+     "subtitle": "From Genoa, Livorno, Civitavecchia and Naples",
+     "desc": "Moby, Tirrenia, GNV and Grimaldi sail to Olbia, Porto Torres, Golfo Aranci, Arbatax and Cagliari, mostly overnight. Book a cabin and arrive rested with your own car, which you will want on the island. Summer car spaces sell out early.",
+     "meta": "Livorno to Olbia about 7 to 10 hours",
+     "region": "sardinia",
+     "url": "https://www.moby.it/",
+     "url_label": "Moby",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Porto_istana_e_isola_di_tavolara_-_panoramio.jpg/1280px-Porto_istana_e_isola_di_tavolara_-_panoramio.jpg",
+      "alt": "The island of Tavolara rising from turquoise water off Porto Istana near Olbia",
+      "credit": "fadda domenico ange…, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3APorto_istana_e_isola_di_tavolara_-_panoramio.jpg"
+     }
+    },
+    {
+     "title": "Capri, Ischia and Procida",
+     "subtitle": "Bay of Naples",
+     "desc": "Hydrofoils and fast ferries leave Naples' Molo Beverello and Calata Porta di Massa, and Sorrento, for the islands with Caremar, NLG, SNAV and Alilauro. Buy at the port or online, and in summer aim for the first boats of the day to beat the crowds.",
+     "meta": "Naples to Capri about 50 minutes by hydrofoil",
+     "region": "campania",
+     "url": "https://www.nlg.it/",
+     "url_label": "NLG",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Habour_of_Capri.JPG/1280px-Habour_of_Capri.JPG",
+      "alt": "Ferries and fishing boats in the harbour of Marina Grande on Capri, below limestone cliffs",
+      "credit": "JonathanHeu, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AHabour_of_Capri.JPG"
+     }
+    },
+    {
+     "title": "Aeolian and Egadi Islands",
+     "subtitle": "Sicily's small islands",
+     "desc": "Liberty Lines hydrofoils link Milazzo and Messina with Lipari, Vulcano, Salina, Panarea and Stromboli, and Trapani with Favignana, Levanzo and Marettimo. Siremar ferries are slower but carry cars and run in rough weather more often.",
+     "meta": "Milazzo to Lipari about 1 hour",
+     "region": "sicily",
+     "url": "https://www.libertylines.it/en/",
+     "url_label": "Liberty Lines",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aerial_image_of_Lipari_%28view_from_the_southwest%29.jpg/1280px-Aerial_image_of_Lipari_%28view_from_the_southwest%29.jpg",
+      "alt": "Aerial view of Lipari, the largest of the Aeolian Islands, in a calm blue sea",
+      "credit": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAerial_image_of_Lipari_%28view_from_the_southwest%29.jpg"
+     }
+    },
+    {
+     "title": "Elba",
+     "subtitle": "Tuscan Archipelago",
+     "desc": "Toremar, Moby and Blu Navy ferries cross from Piombino to Portoferraio in about an hour, with smaller routes to Rio Marina and Cavo. Outside August you can often book the day before. Pair it with a few days in the Maremma.",
+     "meta": "Piombino to Portoferraio about 1 hour",
+     "region": "tuscany",
+     "url": "https://www.toremar.it/en/",
+     "url_label": "Toremar",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aerial_image_of_Fetovaia_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_Fetovaia_%28view_from_the_southeast%29.jpg",
+      "alt": "Aerial view of the turquoise bay and beach of Fetovaia on Elba",
+      "credit": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAerial_image_of_Fetovaia_%28view_from_the_southeast%29.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Car hire and driving",
+   "layout": "list",
+   "items": [
+    {
+     "title": "When a car makes sense",
+     "desc": "Hire a car for rural Tuscany, Umbria, Puglia, Basilicata, Sicily, Sardinia and the Dolomites, and leave it behind in the cities, where parking is hard and centres are closed to traffic. Pick up and drop off at airports or edge-of-town offices to avoid driving into a historic centre."
+    },
+    {
+     "title": "ZTL zones",
+     "desc": "Historic centres are zone a traffico limitato, watched by cameras. Driving past a 'varco attivo' sign without a permit means a fine of roughly €80 to €335 for every entry, plus a fee from your rental company. Park outside and walk in, or ask your hotel to register your plate."
+    },
+    {
+     "title": "Motorway tolls",
+     "desc": "Most autostrade are tolled: take a ticket on entry and pay on exit. Use lanes marked with a cash symbol or 'Carte' for cards, and avoid the yellow Telepass-only lanes. Rome to Florence costs roughly €20 for a car.",
+     "url": "https://www.autostrade.it/",
+     "url_label": "Autostrade per l'Italia"
+    },
+    {
+     "title": "Licences and rules",
+     "desc": "Non-EU drivers need an International Driving Permit with their licence. Headlights must be on outside towns, phones are hands-free only, and the alcohol limit is 0.5 g/l (zero for drivers with under three years' experience)."
+    },
+    {
+     "title": "Fuel and parking",
+     "desc": "Fai da te (self-service) pumps are cheaper than servito (attended). Blue lines mean paid parking, white lines free parking, yellow lines are for residents or disabled badge holders."
+    },
+    {
+     "title": "Breakdowns",
+     "desc": "Call your rental company's assistance number first; ACI, the Italian automobile club, provides roadside help on 803 116.",
+     "url": "https://www.aci.it/",
+     "url_label": "ACI"
+    }
+   ]
+  },
+  {
+   "heading": "Domestic flights",
+   "layout": "list",
+   "items": [
+    {
+     "title": "When to fly",
+     "desc": "Flying makes sense for long hops from the north to Sicily, Sardinia, Puglia and Calabria: Milan to Catania takes under two hours, against eleven or more by train. Elsewhere, the train is usually faster door to door."
+    },
+    {
+     "title": "ITA Airways",
+     "desc": "Italy's national airline, now part-owned by Lufthansa, flies from Rome Fiumicino and Milan Linate to most Italian cities and islands.",
+     "url": "https://www.ita-airways.com/",
+     "url_label": "ITA Airways"
+    },
+    {
+     "title": "Low-cost carriers",
+     "desc": "Aeroitalia, Volotea, Ryanair, easyJet and Wizz Air connect regional airports such as Bergamo, Pisa, Bologna, Bari, Palermo and Cagliari. Watch baggage fees, and the distance from the airport to where you are going.",
+     "url": "https://www.volotea.com/en/",
+     "url_label": "Volotea"
+    }
+   ]
+  },
+  {
+   "heading": "Cycling",
+   "intro": "Italy is building a national network of cycle routes, many on old railway lines, riverbanks and aqueducts.",
+   "layout": "rows",
+   "items": [
+    {
+     "title": "Bicitalia and EuroVelo",
+     "subtitle": "National and European long-distance routes",
+     "desc": "Bicitalia, promoted by the cycling federation FIAB, maps a national network of long-distance routes, and three EuroVelo routes cross Italy: EV5 (Via Romea Francigena), EV7 (the Sun Route from the Brenner Pass to Sicily) and EV8 (the Mediterranean Route). The Adige valley path and Lake Garda's cliff-hanging stretch near Limone are favourite starters. Many regional trains carry bikes; look for the bike symbol on the timetable.",
+     "meta": "Best April to June, September to October",
+     "url": "https://en.eurovelo.com/",
+     "url_label": "EuroVelo routes",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Limone_sul_Garda_Blick_auf_den_Lago_di_Garda_%26_Limone_sul_Garda_10.jpg/1280px-Limone_sul_Garda_Blick_auf_den_Lago_di_Garda_%26_Limone_sul_Garda_10.jpg",
+      "alt": "The bell tower of Limone sul Garda above the lake and steep cliffs of Lake Garda",
+      "credit": "Zairon, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALimone_sul_Garda_Blick_auf_den_Lago_di_Garda_%26_Limone_sul_Garda_10.jpg"
+     }
+    },
+    {
+     "title": "Ciclovia dell'Acquedotto Pugliese",
+     "subtitle": "Puglia and Basilicata",
+     "desc": "A gravel path that follows the route of the great Apulian Aqueduct through the Murge hills and the Valle d'Itria, past trulli, masserie and dry-stone walls, with almost no cars. Ride a section between Locorotondo and Martina Franca, then stop for capocollo and a glass of white.",
+     "meta": "Easy to moderate, mostly unpaved",
+     "region": "puglia",
+     "url": "https://bicitalia.it/",
+     "url_label": "Bicitalia",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Valle_d%27Itria_Locorotondo.jpg/1280px-Valle_d%27Itria_Locorotondo.jpg",
+      "alt": "Farmland, vineyards and trulli of the Valle d'Itria seen from Locorotondo",
+      "credit": "Adbar, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AValle_d%27Itria_Locorotondo.jpg"
+     }
+    },
+    {
+     "title": "Alpe Adria Cycle Path",
+     "subtitle": "Tarvisio to Grado, Friuli Venezia Giulia",
+     "desc": "The Italian half of the Salzburg to Grado route mostly follows a disused railway, through tunnels and over viaducts in the Julian Alps, then rolls down through Udine and Palmanova to the lagoon at Grado. It is gently downhill heading south, and well served by bike-carrying trains.",
+     "meta": "Tarvisio to Grado in 3 to 4 easy days",
+     "region": "friuli-venezia-giulia",
+     "url": "https://www.alpe-adria-radweg.com/",
+     "url_label": "Alpe Adria Cycle Path",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ciclovia_Alpe_Adria_in_Tarvisio.jpg/1280px-Ciclovia_Alpe_Adria_in_Tarvisio.jpg",
+      "alt": "The Alpe Adria cycle path on a former railway line beside an old station near Tarvisio",
+      "credit": "Herzi Pinki, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACiclovia_Alpe_Adria_in_Tarvisio.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "heading": "Walking routes",
+   "intro": "From a morning on a cliff path to a month-long pilgrimage, Italy is wonderful on foot.",
+   "layout": "cards",
+   "items": [
+    {
+     "title": "Via Francigena",
+     "subtitle": "Great St Bernard Pass to Rome, and on to Puglia",
+     "desc": "The medieval pilgrim road from Canterbury enters Italy over the Alps and runs about 1,000 kilometres to Rome. The Tuscan stretch through Lucca, San Gimignano, Siena and the Val d'Orcia is the most popular. Collect stamps in a pilgrim credential for your certificate in Rome.",
+     "meta": "Stages of 15 to 25 km; spring and autumn",
+     "region": "tuscany",
+     "url": "https://www.viefrancigene.org/en/",
+     "url_label": "Via Francigena",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Via_Francigena_-_Ariano_Irpino%2C_localit%C3%A0_Sprinia.jpeg/1280px-Via_Francigena_-_Ariano_Irpino%2C_localit%C3%A0_Sprinia.jpeg",
+      "alt": "A Via Francigena waymark beside a gravel track through green highlands near Ariano Irpino",
+      "credit": "ALC, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVia_Francigena_-_Ariano_Irpino%2C_localit%C3%A0_Sprinia.jpeg"
+     }
+    },
+    {
+     "title": "Cammino di San Benedetto",
+     "subtitle": "Norcia to Subiaco and Montecassino",
+     "desc": "About 300 kilometres in 16 stages, linking the birthplace of St Benedict in Umbria with the monasteries he founded in Lazio. Quiet Apennine villages, beech woods and monastery guest houses; you will meet few other walkers.",
+     "meta": "16 stages; May to June, September to October",
+     "region": "lazio",
+     "url": "https://www.camminodibenedetto.it/",
+     "url_label": "Cammino di San Benedetto",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Subiaco_-_Monastero_di_San_Benedetto_%28Subiaco%29_-_2026-09-18_18-23-01_001.JPG/1280px-Subiaco_-_Monastero_di_San_Benedetto_%28Subiaco%29_-_2026-09-18_18-23-01_001.JPG",
+      "alt": "The monastery of San Benedetto built into the cliffs above Subiaco",
+      "credit": "Vinicio62, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASubiaco_-_Monastero_di_San_Benedetto_%28Subiaco%29_-_2026-09-18_18-23-01_001.JPG"
+     }
+    },
+    {
+     "title": "Sentiero degli Dei (Path of the Gods)",
+     "subtitle": "Agerola to Nocelle, Amalfi Coast",
+     "desc": "A cliffside path high above Positano with the whole coast spread below. Start at Bomerano in Agerola so the walk is mostly level or downhill, and allow about three hours to Nocelle, then descend the steps to Positano and take a boat back.",
+     "meta": "About 7 km, 3 hours; avoid midday in summer",
+     "region": "campania",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sentiero_degli_Dei_26_sopra_Positano_Campania.jpg/1280px-Sentiero_degli_Dei_26_sopra_Positano_Campania.jpg",
+      "alt": "The Sentiero degli Dei path high on the cliffs above the Amalfi Coast",
+      "credit": "Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASentiero_degli_Dei_26_sopra_Positano_Campania.jpg"
+     }
+    },
+    {
+     "title": "Via degli Dei",
+     "subtitle": "Bologna to Florence",
+     "desc": "Not to be confused with the Amalfi path: this one crosses the Apennines from Bologna to Florence in five or six days, on old Roman and medieval tracks, past mountain villages and stretches of original Roman paving. Easy logistics make it a great first long walk.",
+     "meta": "About 130 km in 5 to 6 days",
+     "region": "emilia-romagna",
+     "url": "https://www.viadeglidei.it/",
+     "url_label": "Via degli Dei",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Via_degli_Dei%2C_Monzuno%2C_panorama_da_Monte_Adone_02.jpg/1280px-Via_degli_Dei%2C_Monzuno%2C_panorama_da_Monte_Adone_02.jpg",
+      "alt": "Green Apennine hills seen from Monte Adone on the Via degli Dei",
+      "credit": "Mongolo1984, CC BY-SA 4.0, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVia_degli_Dei%2C_Monzuno%2C_panorama_da_Monte_Adone_02.jpg"
+     }
+    },
+    {
+     "title": "Alta Via 1",
+     "subtitle": "Lago di Braies to Belluno, Dolomites",
+     "desc": "The classic Dolomites hut-to-hut trek, about 120 kilometres over high passes, past the Lagazuoi and Civetta, sleeping in rifugi. No climbing skills needed, but book huts months ahead for July and August.",
+     "meta": "About 10 to 12 days; late June to mid-September",
+     "region": "veneto",
+     "url": "https://rifugi.cai.it/",
+     "url_label": "CAI rifugi",
+     "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lagazuoi1.JPG/1280px-Lagazuoi1.JPG",
+      "alt": "Pale rock peaks of the Lagazuoi and Fanis group along the Alta Via 1 in the Dolomites",
+      "credit": "Clemens Stockner, Public domain, via Wikimedia Commons",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALagazuoi1.JPG"
+     }
+    }
+   ]
+  }
+ ],
+ "tips": [
+  "Book high-speed trains early for the cheapest fares; regional train prices never change, so there is no need to buy ahead.",
+  "Stamp paper regional train and bus tickets before you board.",
+  "Strikes (sciopero) are announced in advance and usually guarantee some services; check the news before travel days.",
+  "Island ferries and hydrofoils run far less often from November to March, and are cancelled in rough seas.",
+  "Never drive into a historic centre unless your hotel has registered your plate for the ZTL.",
+  "Download the Trenitalia, Italo and Moovit apps before you go."
+ ],
+ "links": [
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Frecciarossa, Intercity and regional trains"
+  },
+  {
+   "label": "Italo",
+   "url": "https://www.italotreno.com/en",
+   "desc": "Private high-speed trains and Italobus connections"
+  },
+  {
+   "label": "Trenord",
+   "url": "https://www.trenord.it/en/",
+   "desc": "Regional trains in Lombardy, including Malpensa Express"
+  },
+  {
+   "label": "FlixBus",
+   "url": "https://www.flixbus.it/",
+   "desc": "Low-cost intercity coaches"
+  },
+  {
+   "label": "Itabus",
+   "url": "https://www.itabus.it/en",
+   "desc": "Italian intercity coaches"
+  },
+  {
+   "label": "Direct Ferries",
+   "url": "https://www.directferries.com/",
+   "desc": "Compare and book ferries across operators"
+  },
+  {
+   "label": "Caronte & Tourist",
+   "url": "https://www.carontetourist.it/en",
+   "desc": "Strait of Messina and Sicilian ferries"
+  },
+  {
+   "label": "Tirrenia",
+   "url": "https://www.tirrenia.it/",
+   "desc": "Ferries to Sardinia and Sicily"
+  },
+  {
+   "label": "GNV",
+   "url": "https://www.gnv.it/en",
+   "desc": "Overnight ferries to Sicily and Sardinia"
+  },
+  {
+   "label": "Moby",
+   "url": "https://www.moby.it/",
+   "desc": "Ferries to Sardinia, Elba and Corsica"
+  },
+  {
+   "label": "Grimaldi Lines",
+   "url": "https://www.grimaldi-lines.com/",
+   "desc": "Ferries to Sicily, Sardinia and beyond"
+  },
+  {
+   "label": "Liberty Lines",
+   "url": "https://www.libertylines.it/en/",
+   "desc": "Hydrofoils to the Aeolian, Egadi and other Sicilian islands"
+  },
+  {
+   "label": "NLG",
+   "url": "https://www.nlg.it/",
+   "desc": "Fast boats in the Bay of Naples"
+  },
+  {
+   "label": "Caremar",
+   "url": "https://www.caremar.it/",
+   "desc": "Ferries and hydrofoils to Capri, Ischia and Procida"
+  },
+  {
+   "label": "ITA Airways",
+   "url": "https://www.ita-airways.com/",
+   "desc": "Domestic and international flights"
+  },
+  {
+   "label": "Autostrade per l'Italia",
+   "url": "https://www.autostrade.it/",
+   "desc": "Motorway tolls, traffic and roadworks"
+  },
+  {
+   "label": "Bicitalia",
+   "url": "https://bicitalia.it/",
+   "desc": "Italy's national cycle route network"
+  },
+  {
+   "label": "EuroVelo",
+   "url": "https://en.eurovelo.com/",
+   "desc": "European long-distance cycle routes through Italy"
+  },
+  {
+   "label": "Via Francigena",
+   "url": "https://www.viefrancigene.org/en/",
+   "desc": "Official guide to the Via Francigena"
+  }
+ ]
+}

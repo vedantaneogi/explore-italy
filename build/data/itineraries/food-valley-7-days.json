@@ -1,0 +1,168 @@
+{
+ "slug": "food-valley-7-days",
+ "title": "Italy's food valley",
+ "headline": "Tortellini, Parmigiano, balsamic and Barolo",
+ "days": 7,
+ "style": "Food & wine",
+ "tagline": "A week eating your way along the Via Emilia, then into Piedmont's Langhe hills for Barolo and white truffles.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Portici_di_Bologna_-_San_Luca_Walk_-_Portici_di_San_Luca%2C_Bologna.jpg/1280px-Portici_di_Bologna_-_San_Luca_Walk_-_Portici_di_San_Luca%2C_Bologna.jpg",
+  "alt": "The endless arcade of the San Luca portico climbing out of Bologna",
+  "credit": "Serenapaliria, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APortici_di_Bologna_-_San_Luca_Walk_-_Portici_di_San_Luca%2C_Bologna.jpg"
+ },
+ "summary": "Some of Italy's best-known foods come from a single stretch of flat land along the old Roman Via Emilia: mortadella and tortellini in Bologna, aged balsamic vinegar in Modena, Parmigiano Reggiano and Parma ham around Parma. This trip spends five days there, visiting a cheese dairy at dawn, an attic of balsamic barrels and the markets and trattorie where locals eat. It then crosses to Piedmont's Langhe, a UNESCO wine landscape of Nebbiolo vineyards, hilltop castles and, from October, white truffles. Trains link the Emilian cities in under an hour; hire a car for the countryside days.",
+ "route": [
+  "Bologna",
+  "Modena",
+  "Parma",
+  "Alba",
+  "Barolo",
+  "La Morra",
+  "Bra"
+ ],
+ "regions": [
+  "emilia-romagna",
+  "piedmont"
+ ],
+ "best_season": "September to November: grape harvest, porcini, and Alba's white truffle fair (10 October to 6 December in 2026). Spring is also good, with Parmigiano dairies working at full tilt and green vineyards. August is hot and many family restaurants close.",
+ "getting_around": "Regional and fast trains link Bologna to Modena (about 25 minutes) and Parma (about 1h). Dairy and acetaia visits are outside the towns, so book a taxi or hire a car for those mornings. Parma to Alba is about 2h45 by car, or 3h30-4h by train via Milan or Turin. In the Langhe you need a car or a driver, especially if you plan to taste wine.",
+ "budget_note": "Allow €160-250 per person per day mid-range; tastings, a truffle dinner or a dairy tour each add €20-100.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Bologna's Quadrilatero",
+   "base": "Bologna",
+   "desc": "Start in Piazza Maggiore and walk into the Quadrilatero, the medieval market streets behind it, where delis hang with mortadella and prosciutto. Buy salumi, cheese and bread, and carry them into Osteria del Sole, a wine bar trading since 1465 where you bring your own food and buy only the drinks. In the afternoon see the Archiginnasio's anatomical theatre and walk under the city's UNESCO-listed porticoes, which run for roughly 40 kilometres in the old centre alone.",
+   "highlights": [
+    "The Quadrilatero market streets",
+    "Osteria del Sole",
+    "Archiginnasio anatomical theatre"
+   ],
+   "eat": "Trattoria Anna Maria on Via Belle Arti for tortellini in brodo, the benchmark version in a city of tortellini. Book a few days ahead.",
+   "stay": "Within the old city walls, near Piazza Maggiore or the university quarter."
+  },
+  {
+   "day": "2",
+   "title": "Pasta and the San Luca portico",
+   "base": "Bologna",
+   "desc": "Book a morning class with a sfoglina, one of Bologna's professional pasta makers, and learn to roll a sheet of egg pasta by hand and fold tortellini. In the afternoon walk the 666 arches of the San Luca portico, nearly 4 kilometres and uphill all the way, to the sanctuary overlooking the Apennines. Return for an aperitivo of Pignoletto sparkling wine and crescentine (fried dough puffs) with salumi.",
+   "highlights": [
+    "Hand-rolled pasta class",
+    "Portico di San Luca walk",
+    "Crescentine and Pignoletto"
+   ],
+   "eat": "Tagliatelle al ragù, the real thing that inspired spaghetti bolognese, at any old-town trattoria.",
+   "stay": "Same base in Bologna."
+  },
+  {
+   "day": "3",
+   "title": "Modena: balsamic vinegar",
+   "base": "Bologna or Modena",
+   "desc": "Take the train to Modena (about 25 minutes). Taxi to Acetaia Giusti, a family producer of balsamic vinegar since 1605, for a free guided tour of its attic barrels and a tasting of vinegars aged up to decades (book ahead). Back in town, browse the Mercato Albinelli covered market and see the Romanesque Duomo and Ghirlandina tower, a UNESCO site. If you are a car fan, the Ferrari museum in Maranello is 30 minutes away.",
+   "highlights": [
+    "Acetaia Giusti tour and tasting",
+    "Mercato Albinelli",
+    "Modena's Duomo and Ghirlandina"
+   ],
+   "eat": "Trattoria Aldina, up a staircase opposite the Mercato Albinelli: a lunch-only, no-bookings dining room for tortellini, bollito and home cooking since 1973.",
+   "stay": "Bologna, or Modena's centre if you want a quieter night."
+  },
+  {
+   "day": "4",
+   "title": "Parma: Parmigiano at dawn",
+   "base": "Parma",
+   "desc": "Take an early train to Parma (about 1h from Bologna) and a taxi to a Parmigiano Reggiano dairy for 8am, when cheesemakers lift curds from the copper vats with linen cloths. Book through the consortium's dairy list or directly with a caseificio. In the afternoon see Correggio's dome fresco in the Duomo and the pink marble Baptistery, then walk across the river to the Oltretorrente district for dinner.",
+   "highlights": [
+    "Parmigiano Reggiano dairy visit",
+    "Correggio's Assumption in the Duomo",
+    "Parma Baptistery"
+   ],
+   "eat": "Anolini in brodo (small stuffed pasta in broth), torta fritta with Prosciutto di Parma, and a glass of Lambrusco.",
+   "stay": "Parma's centro storico."
+  },
+  {
+   "day": "5",
+   "title": "Prosciutto hills, then on to the Langhe",
+   "base": "Alba",
+   "desc": "Pick up a hire car and drive 30 minutes south to Langhirano for a tour of a Prosciutto di Parma curing house, where hams hang in tall rooms with windows opened to the valley breeze. Then drive about 2h45 west to Alba, a market town of red-brick towers. In season, walk through the truffle market and smell the white truffles in the Cortile della Maddalena before dinner.",
+   "highlights": [
+    "Prosciutto di Parma curing house",
+    "Alba's towers and old town",
+    "White truffle market (October to early December)"
+   ],
+   "eat": "Osteria dell'Arco on Piazza Michele Ferrero in Alba, run by the team behind Bra's Boccondivino, for tajarin (fine egg pasta) with butter and, in season, shaved white truffle.",
+   "stay": "Alba's old town, or a vineyard agriturismo just outside."
+  },
+  {
+   "day": "6",
+   "title": "Barolo country",
+   "base": "Alba",
+   "desc": "Drive the loop of Barolo villages, each on its own hill. Start at the belvedere in La Morra for the view over the vineyards, visit the WiMu wine museum in Barolo castle, and see the fortress of Serralunga d'Alba. Book two winery visits, one large and one small family cellar, and appoint a driver or share driving between tastings. Hazelnuts from these hills go into the region's gianduja chocolate; look for torta di nocciole.",
+   "highlights": [
+    "La Morra belvedere",
+    "WiMu wine museum in Barolo",
+    "Serralunga d'Alba castle"
+   ],
+   "eat": "Vitello tonnato, carne cruda all'albese (hand-chopped raw veal) and a plate of agnolotti del plin.",
+   "stay": "Same base in Alba."
+  },
+  {
+   "day": "7",
+   "title": "Bra, Pollenzo and home",
+   "base": "Bra",
+   "desc": "Drive 20 minutes to Bra, where the Slow Food movement began in the 1980s. Visit the Banca del Vino wine library at the University of Gastronomic Sciences in nearby Pollenzo, then have a long final lunch in Bra. Afterwards, drop the car in Turin (about 1h) or at an airport. Bra's old centre has baroque churches and a lively Friday market, and the town's butchers still make its raw veal sausage to a recipe once granted by royal permission. Buy hazelnuts, cheese and a bottle of Barolo to take home.",
+   "highlights": [
+    "Bra, home of Slow Food",
+    "Pollenzo's Banca del Vino",
+    "Salsiccia di Bra"
+   ],
+   "eat": "Osteria del Boccondivino in Bra, the original Slow Food osteria, for raw salsiccia di Bra, tajarin and bonet (chocolate and amaretti pudding). Book; it fills even at lunch.",
+   "stay": "Depart via Turin or Milan."
+  }
+ ],
+ "tips": [
+  "Parmigiano dairies work from early morning; visits usually start at 8am and production is over by late morning.",
+  "Many Emilian trattorie close on Sunday evening and Monday; plan your big meals for Tuesday to Saturday.",
+  "In the Langhe, book cellar visits a week or more ahead in autumn, and do not drive after tasting.",
+  "Alba's truffle prices are set daily and posted at the market; buy from licensed sellers inside the fair.",
+  "Balsamic labelled 'Aceto Balsamico Tradizionale DOP' is aged at least 12 years and comes in a standard small bottle; anything else is the everyday version."
+ ],
+ "book": [
+  {
+   "label": "Parmigiano Reggiano dairy visits",
+   "url": "https://www.parmigianoreggiano.com/",
+   "desc": "Consortium site with dairies that welcome visitors"
+  },
+  {
+   "label": "Acetaia Giusti",
+   "url": "https://giusti.com/",
+   "desc": "Tours and tastings at the Modena acetaia"
+  },
+  {
+   "label": "Alba White Truffle Fair",
+   "url": "https://www.fieradeltartufo.org/en/",
+   "desc": "Fair dates, market days and tickets"
+  },
+  {
+   "label": "WiMu wine museum, Barolo",
+   "url": "https://www.wimubarolo.it/",
+   "desc": "Tickets for the wine museum in Barolo castle"
+  },
+  {
+   "label": "Langhe Monferrato Roero tourism",
+   "url": "https://www.visitlmr.it/en",
+   "desc": "Wineries, villages and events"
+  },
+  {
+   "label": "Bologna Welcome",
+   "url": "https://www.bolognawelcome.com/en/",
+   "desc": "Official Bologna tourism, including food tours"
+  },
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Bologna, Modena and Parma trains"
+  }
+ ]
+}

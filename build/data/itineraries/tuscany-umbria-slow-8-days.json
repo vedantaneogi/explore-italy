@@ -1,0 +1,182 @@
+{
+ "slug": "tuscany-umbria-slow-8-days",
+ "title": "Tuscany & Umbria hill towns",
+ "headline": "Cypress roads, hill towns and long lunches",
+ "days": 8,
+ "style": "Slow travel",
+ "tagline": "A road trip from Chianti to Orvieto that leaves time for the wine, the views and a second espresso.",
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vista_da_Pienza.jpg/1280px-Vista_da_Pienza.jpg",
+  "alt": "Golden wheat fields and cypresses rolling away from Pienza across the Val d'Orcia",
+  "credit": "LuiRossini, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3AVista_da_Pienza.jpg"
+ },
+ "summary": "Central Italy's hill country is made for a car and a loose schedule. This loop starts in Chianti's vineyards, takes in the towers of San Gimignano and the Gothic splendour of Siena, then slows right down in the Val d'Orcia, a UNESCO-listed landscape of cypress avenues, pecorino and Brunello. It crosses into Umbria for Cortona's views, Giotto's frescoes in Assisi and the cathedral facade of Orvieto, finishing at Civita di Bagnoregio. Drives are short, rarely over 90 minutes, so most days are about one or two towns, a winery and a proper lunch.",
+ "route": [
+  "Chianti",
+  "San Gimignano",
+  "Volterra",
+  "Siena",
+  "Montalcino",
+  "Pienza",
+  "Montepulciano",
+  "Cortona",
+  "Assisi",
+  "Spello",
+  "Orvieto",
+  "Civita di Bagnoregio"
+ ],
+ "regions": [
+  "tuscany",
+  "umbria",
+  "lazio"
+ ],
+ "best_season": "Late April to June for green hills, wildflowers and Spello's flower festival; September and October for the grape harvest, mushrooms and truffles. July and August are hot and busy.",
+ "getting_around": "Rent a small car (pick up at Florence airport to avoid the city's ZTL traffic zone) and drive on the Chiantigiana SR222, the Cassia SR2 and minor roads. Every historic centre is a ZTL: park in the signed car parks outside the walls and walk in, because cameras fine rental cars automatically.",
+ "budget_note": "Expect around €160-240 per person per day mid-range, including car hire, fuel, agriturismo stays and a wine tasting or two.",
+ "days_plan": [
+  {
+   "day": "1",
+   "title": "Into Chianti",
+   "base": "Chianti (Greve or Panzano)",
+   "desc": "Collect the car at Florence airport and take the SR222 Chiantigiana south. Stop in Greve in Chianti for its funnel-shaped arcaded piazza, then continue to Panzano for a long butcher's lunch. In the afternoon book a tasting at a Chianti Classico estate near Castellina or Radda, where the black rooster on the bottle neck is your guarantee of the real thing. Sleep among the vines.",
+   "highlights": [
+    "Driving the Chiantigiana",
+    "Greve's market square",
+    "A Chianti Classico estate tasting"
+   ],
+   "eat": "Antica Macelleria Cecchini in Panzano, the butcher's shop of Dario Cecchini, whose set-menu dining rooms (Solociccia and Officina della Bistecca) serve beef and pork in every form. Book.",
+   "stay": "A wine-estate agriturismo between Panzano and Radda."
+  },
+  {
+   "day": "2",
+   "title": "San Gimignano and Volterra",
+   "base": "Chianti (Greve or Panzano)",
+   "desc": "Arrive in San Gimignano before 10am, when the tour buses pull in. Climb the Torre Grossa for the view over its medieval towers and taste the local white, Vernaccia. Drive 40 minutes west to Volterra, an Etruscan town on a windswept ridge, for the Roman theatre, the alabaster workshops and the Guarnacci Etruscan museum. Return through the hills at golden hour. If you prefer something slower, swap Volterra for a walk on the white roads around Monteriggioni's walls.",
+   "highlights": [
+    "San Gimignano's towers before the crowds",
+    "Vernaccia di San Gimignano",
+    "Volterra's alabaster workshops"
+   ],
+   "eat": "Gelato in Piazza della Cisterna in San Gimignano, then pappardelle al cinghiale (wild boar) in Volterra.",
+   "stay": "Same agriturismo."
+  },
+  {
+   "day": "3",
+   "title": "Siena",
+   "base": "Siena",
+   "desc": "Park at one of the car parks with escalators up into town (Santa Caterina or the Fagiolone) and spend a full day in Siena. Start at the Duomo complex, where the inlaid marble floor is uncovered for part of each year, and the Piccolomini Library. Walk down to the shell-shaped Piazza del Campo, climb the Torre del Mangia and see Lorenzetti's Allegory of Good and Bad Government in the Palazzo Pubblico. In the evening, wander the contrade, each with its own fountain and flag.",
+   "highlights": [
+    "Siena Duomo and Piccolomini Library",
+    "Lorenzetti's Good Government frescoes",
+    "Piazza del Campo at dusk"
+   ],
+   "eat": "Pici all'aglione (thick hand-rolled pasta with garlic tomato sauce) and a slice of panforte.",
+   "stay": "A small hotel inside the walls, with parking arranged in advance."
+  },
+  {
+   "day": "4",
+   "title": "Montalcino and Bagno Vignoni",
+   "base": "Val d'Orcia (Pienza or San Quirico)",
+   "desc": "Drive south on the Cassia into the Val d'Orcia. In Montalcino, visit the fortress enoteca and book a Brunello tasting at a family estate. Drive to the Romanesque abbey of Sant'Antimo, ideally when the monks sing the office. Finish in Bagno Vignoni, where a thermal pool fills the village square; soak your feet in the free hot streams below the village at the Parco dei Mulini.",
+   "highlights": [
+    "Brunello di Montalcino tasting",
+    "Abbey of Sant'Antimo",
+    "Hot springs at Bagno Vignoni"
+   ],
+   "eat": "Brunello with pici al ragù, or a picnic of pecorino and finocchiona from a Montalcino deli.",
+   "stay": "An agriturismo between San Quirico d'Orcia and Pienza, for the classic views from your window."
+  },
+  {
+   "day": "5",
+   "title": "Pienza, Monticchiello and Montepulciano",
+   "base": "Val d'Orcia (Pienza or San Quirico)",
+   "desc": "Pienza was rebuilt in the 1460s by Pope Pius II as an ideal Renaissance town; walk its walls at breakfast and buy aged pecorino di Pienza. Drive the white road to Monticchiello, then on to Montepulciano for Vino Nobile in the old cellars beneath the town. Detour on the way home to the cypress-lined bends below Monticchiello and the chapel of the Madonna di Vitaleta near San Quirico for sunset.",
+   "highlights": [
+    "Pienza's Renaissance piazza",
+    "Vino Nobile cellars in Montepulciano",
+    "Sunset at the Vitaleta chapel"
+   ],
+   "eat": "Osteria Acquacheta in Montepulciano: a small, loud, much-loved osteria famous for bistecca alla fiorentina sliced at the table. Booking is essential.",
+   "stay": "Same Val d'Orcia base."
+  },
+  {
+   "day": "6",
+   "title": "Cortona into Umbria",
+   "base": "Assisi",
+   "desc": "Drive an hour east to Cortona, an Etruscan hill town with steep lanes and wide views over the Valdichiana. See Fra Angelico's Annunciation in the Diocesan Museum. Follow the shore of Lake Trasimeno, stopping at Passignano or Castiglione del Lago, and arrive in Assisi for the evening, when the day visitors have left and the pink stone glows. Leave time to wander Cortona's Via Nazionale, the only flat street in town, and to stop at a roadside farm shop for Chianina beef or local olive oil.",
+   "highlights": [
+    "Cortona's views",
+    "Lake Trasimeno shoreline",
+    "Assisi in the evening"
+   ],
+   "eat": "Lake fish at Trasimeno, or torta al testo (Umbrian griddle bread) stuffed with sausage and greens.",
+   "stay": "Inside the walls of Assisi, near Piazza del Comune."
+  },
+  {
+   "day": "7",
+   "title": "Assisi and Spello",
+   "base": "Assisi",
+   "desc": "Visit the Basilica of San Francesco early: the upper church has Giotto's cycle of the saint's life, and the lower church has frescoes by Cimabue, Lorenzetti and Simone Martini. Walk up to the Rocca Maggiore for the view over the Umbrian plain. In the afternoon drive 15 minutes to Spello, whose flower-filled lanes become carpets of petals for the Infiorata in June, and see Pinturicchio's frescoes in Santa Maria Maggiore.",
+   "highlights": [
+    "Giotto's frescoes in the Basilica of San Francesco",
+    "Rocca Maggiore",
+    "Spello's flower-lined lanes"
+   ],
+   "eat": "Trattoria Pallotta off Piazza del Comune, Assisi, for strangozzi (Umbrian hand-cut pasta) with black truffle or mushrooms.",
+   "stay": "Same base in Assisi."
+  },
+  {
+   "day": "8",
+   "title": "Orvieto and Civita di Bagnoregio",
+   "base": "Orvieto",
+   "desc": "Drive about 1h15 to Orvieto, perched on a cliff of volcanic tuff. The cathedral's gold-mosaic facade is astonishing, and inside, Signorelli's Last Judgement frescoes in the San Brizio chapel are worth the ticket alone. Take an underground tour through the town's Etruscan caves. Then drive 30 minutes to Civita di Bagnoregio, the crumbling village reached only by a long footbridge, ideally late in the day. Finish by driving on to Rome (about 1h45) or back to Florence.",
+   "highlights": [
+    "Orvieto Duomo and the San Brizio chapel",
+    "Orvieto Underground",
+    "Civita di Bagnoregio footbridge"
+   ],
+   "eat": "Trattoria del Moro Aronne in Orvieto, for wild boar and Umbrian pasta, with a glass of Orvieto Classico.",
+   "stay": "Orvieto's old town for a last night, or drop the car and continue to Rome."
+  }
+ ],
+ "tips": [
+  "Every walled town is a ZTL: never follow the satnav through a gate marked 'Zona Traffico Limitato'. Fines arrive months later via the rental company.",
+  "Book winery tastings ahead, especially on weekends; many family estates do not take walk-ins.",
+  "Lunch is the main meal in the countryside and kitchens close by 2:30pm; plan driving around it.",
+  "In Siena the Duomo floor is only fully uncovered for part of the year, usually late summer to autumn; check the cathedral's site.",
+  "Civita di Bagnoregio charges a small entry fee to cross the bridge; arrive after 5pm in summer for softer light and fewer people."
+ ],
+ "book": [
+  {
+   "label": "Siena Cathedral (Opera della Metropolitana)",
+   "url": "https://operaduomo.siena.it/en/",
+   "desc": "Tickets and floor uncovering dates"
+  },
+  {
+   "label": "Consorzio del Vino Brunello di Montalcino",
+   "url": "https://www.consorziobrunellodimontalcino.it/en/",
+   "desc": "Find Brunello producers that take visitors"
+  },
+  {
+   "label": "Basilica of San Francesco, Assisi",
+   "url": "https://www.sanfrancescoassisi.org/",
+   "desc": "Opening times and guided visits"
+  },
+  {
+   "label": "Orvieto Cathedral",
+   "url": "https://www.duomodiorvieto.it/",
+   "desc": "Cathedral and San Brizio chapel tickets"
+  },
+  {
+   "label": "Visit Tuscany",
+   "url": "https://www.visittuscany.com/en/",
+   "desc": "Official regional tourism site"
+  },
+  {
+   "label": "Trenitalia",
+   "url": "https://www.trenitalia.com/en.html",
+   "desc": "Trains from Orvieto to Rome or Florence if you drop the car early"
+  }
+ ]
+}

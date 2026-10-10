@@ -1,0 +1,318 @@
+{
+ "slug": "calabria",
+ "name": "Calabria",
+ "italian_name": "Calabria",
+ "area": "south",
+ "capital": "Catanzaro",
+ "tagline": "The toe of Italy: two seas, wild mountains and plenty of chilli.",
+ "intro": [
+  "Calabria is the toe of the boot, almost all mountain and almost all coastline: some 800 kilometres of it, Tyrrhenian on one side and Ionian on the other. Towns like Tropea sit on sandstone cliffs above beaches of white sand and clear water, while inland the Sila and Aspromonte ranges hide forests of giant larch pines, lakes and villages where Albanian and Greek are still spoken.",
+  "This was Magna Graecia, where Pythagoras taught at Kroton and the Riace Bronzes were pulled from the sea in 1972. It is also Italy's spice cupboard: 'nduja spread on bread, red onions sweet enough to eat raw, bergamot, licorice and chilli in nearly everything. Tourism is still low-key, prices are kind, and hospitality is generous to the point of overwhelming."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tropea_-_Santa_Maria_dell%27Isola_-_5.jpg/1280px-Tropea_-_Santa_Maria_dell%27Isola_-_5.jpg",
+  "alt": "The sanctuary of Santa Maria dell'Isola on its rocky promontory above the turquoise sea at Tropea, in morning light",
+  "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3ATropea_-_Santa_Maria_dell%27Isola_-_5.jpg"
+ },
+ "known_for": [
+  "Tropea",
+  "'Nduja",
+  "Riace Bronzes",
+  "Red onions of Tropea",
+  "Peperoncino",
+  "Sila forests",
+  "Bergamot"
+ ],
+ "best_time": "June and September are perfect for the coast, with warm sea and fewer crowds than August. Spring brings wildflowers in the Aspromonte and Sila, and the mountains stay cool in high summer.",
+ "getting_there": "Lamezia Terme is the main airport, with smaller ones at Reggio Calabria and Crotone. High-speed trains run from Rome and Naples down the Tyrrhenian coast to Lamezia and Reggio, and a local line serves Pizzo and Tropea. Ferries cross from Villa San Giovanni to Messina in about 20 minutes. Rent a car for the interior and the Ionian coast.",
+ "places": [
+  {
+   "name": "Tropea",
+   "desc": "Calabria's prettiest town, its palazzi built right to the edge of a cliff above a long white beach. Climb the steps to the sanctuary of Santa Maria dell'Isola on its rock, eat red-onion everything along Corso Vittorio Emanuele, and watch the sunset with Stromboli smoking on the horizon.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tropea_-_Veduta_da_Via_Carmine_-_3.jpg/1280px-Tropea_-_Veduta_da_Via_Carmine_-_3.jpg",
+    "alt": "Tropea's honey-coloured old town built on the edge of a cliff above the sea",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATropea_-_Veduta_da_Via_Carmine_-_3.jpg"
+   }
+  },
+  {
+   "name": "Scilla",
+   "desc": "The home of Homer's sea monster, now a fishing town below a castle on a rocky spur. Its Chianalea quarter has houses rising straight out of the water, with boats moored between them. Eat swordfish caught by the tall passerelle boats in the Strait of Messina.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Scilla_-_Chianalea_-_1.jpg/1280px-Scilla_-_Chianalea_-_1.jpg",
+    "alt": "The houses of Scilla's Chianalea quarter rising straight from the clear sea",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AScilla_-_Chianalea_-_1.jpg"
+   }
+  },
+  {
+   "name": "Reggio Calabria",
+   "desc": "The city at the tip of the toe, facing Sicily across the Strait. The National Archaeological Museum holds the Riace Bronzes, two 5th-century BC Greek warriors of breathtaking realism. Then walk the palm-lined Lungomare Falcomatà with an ice cream from Cesare.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Reggio_Calabria_-_Lungomare_Falcomat%C3%A0_-_6.jpg/1280px-Reggio_Calabria_-_Lungomare_Falcomat%C3%A0_-_6.jpg",
+    "alt": "The palm-lined Lungomare Falcomatà promenade in Reggio Calabria, with the Strait of Messina beyond",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AReggio_Calabria_-_Lungomare_Falcomat%C3%A0_-_6.jpg"
+   }
+  },
+  {
+   "name": "Pizzo",
+   "desc": "A small town on a cliff overlooking the Gulf of Sant'Eufemia, famous for the tartufo, a hazelnut-and-chocolate gelato bomb. Have one in Piazza della Repubblica, see the castle where Joachim Murat was executed, and visit the Chiesetta di Piedigrotta, a church carved into a seaside cave.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pizzo_-_Vista_della_citt%C3%A0_vecchia.jpg/1280px-Pizzo_-_Vista_della_citt%C3%A0_vecchia.jpg",
+    "alt": "Pizzo's old town and castle on a rocky cliff above a small beach and calm sea",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APizzo_-_Vista_della_citt%C3%A0_vecchia.jpg"
+   }
+  },
+  {
+   "name": "Gerace",
+   "desc": "A medieval hill town above the Ionian coast, called the 'city of a hundred churches'. Its Norman cathedral, the largest in Calabria, is built with columns taken from ancient Locri. Walk the lanes to the ruined castle and Largo delle Tre Chiese.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gerace_-_Basilica_concattedrale_di_Santa_Maria_Assunta_-_Esteriore_-_2.jpg/1280px-Gerace_-_Basilica_concattedrale_di_Santa_Maria_Assunta_-_Esteriore_-_2.jpg",
+    "alt": "The stone apses of Gerace's Norman cathedral under a blue sky",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGerace_-_Basilica_concattedrale_di_Santa_Maria_Assunta_-_Esteriore_-_2.jpg"
+   }
+  },
+  {
+   "name": "Sila National Park",
+   "desc": "A high plateau of pine and beech forest, lakes and pastures, sometimes called the 'great forest of Italy'. See the 'Giants of the Sila', Calabrian black pines around 350 years old at Fallistro, and canoe on Lake Arvo. Camigliatello Silano is the base, with mushroom stalls in autumn.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lago_Arvo%2C_Sila%2C_localit%C3%A0_Lorica.jpg/1280px-Lago_Arvo%2C_Sila%2C_localit%C3%A0_Lorica.jpg",
+    "alt": "The calm waters of Lake Arvo surrounded by green meadows and forested hills in the Sila",
+    "credit": "Koushee, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALago_Arvo%2C_Sila%2C_localit%C3%A0_Lorica.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "See the Riace Bronzes",
+   "desc": "In Reggio's National Archaeological Museum of Magna Graecia, the two Greek warriors stand in their own climate-controlled room. Allow time for the rest of the collection, from Locri's terracottas to the Philosopher's head."
+  },
+  {
+   "title": "Boat along the Costa degli Dei",
+   "desc": "From Tropea, small boats run to the coves around Capo Vaticano, including the Grotticelle beaches and Praia di Fuoco, with stops to snorkel in very clear water."
+  },
+  {
+   "title": "Taste 'nduja in Spilinga",
+   "desc": "The village above Tropea is the home of the soft, fiery spreadable pork salami. Visit a producer, and come in August for the 'nduja festival."
+  },
+  {
+   "title": "Visit the Amarelli licorice museum",
+   "desc": "In Rossano, the Amarelli family has made licorice since 1731. The free museum shows old equipment and documents, and the shop sells pure licorice in tins. In town, see the 6th-century Codex Purpureus Rossanensis."
+  },
+  {
+   "title": "Raft or hike the Raganello gorge",
+   "desc": "On the Pollino side, the river Raganello cuts a deep canyon below Civita. Cross the Devil's Bridge and walk into the gorge with a local guide."
+  },
+  {
+   "title": "Walk the Lungomare Falcomatà at sunset",
+   "desc": "Reggio's seafront promenade looks straight at Etna across the Strait. Join the evening passeggiata and look for the Fata Morgana mirage on hot, calm days."
+  },
+  {
+   "title": "See the Cattolica di Stilo",
+   "desc": "A tiny 10th-century Byzantine church with five little brick domes, perched on a slope below Monte Consolino above the town of Stilo. The frescoes inside are faded but beautiful."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "'Nduja",
+   "type": "cured meat",
+   "desc": "A soft, spicy pork salami from Spilinga, red with Calabrian chilli. Spread it on bread, melt it into pasta sauce or stir it into beans."
+  },
+  {
+   "name": "Cipolla rossa di Tropea IGP",
+   "type": "dish",
+   "desc": "Sweet, mild red onions grown along the coast near Tropea, eaten raw in salads, in frittata, in jam and even in gelato."
+  },
+  {
+   "name": "Peperoncino",
+   "type": "dish",
+   "desc": "Calabrian chilli is in everything: dried, crushed, preserved in oil and in pasta sauces. Diamante holds a whole festival for it."
+  },
+  {
+   "name": "Fileja with 'nduja",
+   "type": "dish",
+   "desc": "Hand-rolled pasta twisted around a knitting needle, from the Vibo Valentia area, usually served in a tomato sauce with 'nduja."
+  },
+  {
+   "name": "Caciocavallo Silano DOP",
+   "type": "cheese",
+   "desc": "A pear-shaped stretched-curd cheese, hung in pairs to mature. Mild when young, sharp with age, and wonderful grilled."
+  },
+  {
+   "name": "Soppressata di Calabria DOP",
+   "type": "cured meat",
+   "desc": "A pressed salami of lean pork and lard, flavoured with chilli and black pepper. Some versions are mild, others very hot."
+  },
+  {
+   "name": "Liquirizia di Calabria DOP",
+   "type": "sweet",
+   "desc": "Licorice root grows wild along the Ionian coast. The pure black extract is intense and slightly salty; try it in Rossano."
+  },
+  {
+   "name": "Bergamot",
+   "type": "sweet",
+   "desc": "Almost all the world's bergamot grows on the coast near Reggio. Its oil scents Earl Grey tea and perfume; locally it goes into marmalade, gelato and liqueur."
+  },
+  {
+   "name": "Tartufo di Pizzo IGP",
+   "type": "sweet",
+   "desc": "A ball of hazelnut and chocolate gelato with a liquid chocolate heart, rolled in cocoa. Invented in Pizzo in the 1950s."
+  },
+  {
+   "name": "Cirò",
+   "type": "wine",
+   "desc": "The region's best-known red, made from Gaglioppo grapes on the Ionian coast near Crotone. Light in colour but firm and spicy."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Gran Caffè Renzelli",
+   "city": "Cosenza",
+   "since": "1803",
+   "desc": "Run by the same family for seven generations and among the oldest cafés in Italy, on Corso Telesio near Cosenza's cathedral. It began as a sorbet maker; order coffee and one of the traditional cakes and sweets."
+  },
+  {
+   "name": "Bar Gelateria Dante",
+   "city": "Pizzo",
+   "since": "1940",
+   "desc": "The bar in Piazza della Repubblica where, according to local tradition, the gelato maker Don Pippo shaped the first tartufo by hand in 1952 when he ran out of moulds. Eat one at a table in the square."
+  },
+  {
+   "name": "Gelato Cesare",
+   "city": "Reggio Calabria",
+   "since": "1940",
+   "desc": "A kiosk on the Lungomare Falcomatà, run by the Destefano family for three generations and among Italy's most acclaimed gelaterie. Try bergamot, then walk the promenade.",
+   "url": "https://www.gelatocesare.com/"
+  },
+  {
+   "name": "Amarelli",
+   "city": "Rossano",
+   "since": "1731",
+   "desc": "The family firm that has turned Calabrian licorice root into black pastilles for nearly three centuries. Its museum and shop sit in the family's 15th-century palazzo.",
+   "url": "https://www.amarelli.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "An organic farm with a Michelin-starred kitchen",
+   "desc": "Dattilo, near Strongoli on the Ionian side, is the Ceraudo family's organic farm, with simple rooms, a pool under old olive trees and a restaurant run by chef Caterina Ceraudo using the farm's own produce.",
+   "url": "https://www.dattilo.it/"
+  },
+  {
+   "title": "A bergamot farm in the Greek-speaking Aspromonte",
+   "desc": "Agriturismo Il Bergamotto, in a restored mill at Amendolea near Condofuri, grows bergamot and serves dishes made with it. It is a perfect base for walking in the Grecanica area."
+  },
+  {
+   "title": "A fisherman's house in Chianalea",
+   "desc": "In Scilla's waterfront quarter, small guesthouses and B&Bs occupy old fishermen's homes, some with balconies right over the sea. Fall asleep to the sound of the waves and eat swordfish a few steps away."
+  },
+  {
+   "title": "A mountain agriturismo in the Sila",
+   "desc": "Farm stays around Camigliatello Silano and Lorica serve wild mushrooms, potatoes of the Sila, caciocavallo and lamb, with forest walks and lake views from the door. In winter there is skiing nearby."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Tropea",
+   "to": "Pizzo",
+   "how": "30 min by train or car",
+   "desc": "Have a tartufo in the main square, visit the cave church of Piedigrotta, and take in the views over the gulf."
+  },
+  {
+   "from": "Reggio Calabria",
+   "to": "Scilla",
+   "how": "25 min by train",
+   "desc": "Walk through the fishermen's quarter of Chianalea, climb to Castello Ruffo for the view of the Strait, and lunch on a swordfish panino by the sea."
+  },
+  {
+   "from": "Reggio Calabria",
+   "to": "Messina and Taormina",
+   "how": "20 min ferry, then 1h by train",
+   "desc": "Cross the Strait to Sicily for the day; Taormina's Greek theatre and the view of Etna are worth the trip."
+  },
+  {
+   "from": "Cosenza",
+   "to": "Sila National Park",
+   "how": "45 min by car",
+   "desc": "Climb to Camigliatello Silano, walk among the giant pines of the Fallistro reserve, and eat porcini and caciocavallo in season."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Pentedattilo",
+   "desc": "An almost-abandoned village built into a rock formation shaped like a five-fingered hand, in the Aspromonte above Melito di Porto Salvo. A few artisans and a film festival bring it back to life in summer.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Melito_di_Porto_Salvo_-_Pentedattilo_Vecchio_-_1.jpg/1280px-Melito_di_Porto_Salvo_-_Pentedattilo_Vecchio_-_1.jpg",
+    "alt": "The old village of Pentedattilo beneath its jagged hand-shaped rock spires",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMelito_di_Porto_Salvo_-_Pentedattilo_Vecchio_-_1.jpg"
+   }
+  },
+  {
+   "name": "Stilo",
+   "desc": "A town on the slopes of Monte Consolino, birthplace of the philosopher Tommaso Campanella. Its jewel is the Cattolica, a perfect miniature Byzantine church with five domes, and the old town has Norman ruins and fine views of the Ionian.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Stilo_-_Cattolica_di_Stilo.JPG/1280px-Stilo_-_Cattolica_di_Stilo.JPG",
+    "alt": "The brick Byzantine church of the Cattolica di Stilo with its small tiled domes, on a slope above the town",
+    "credit": "Bearbil2, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AStilo_-_Cattolica_di_Stilo.JPG"
+   }
+  },
+  {
+   "name": "Civita",
+   "desc": "An Arbëreshë village founded by Albanian refugees in the 15th century, with 'talking houses' whose chimneys and facades seem to have faces. Below it, the Devil's Bridge spans the Raganello gorge.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Raganello_%28Torrent%29_Civita.jpg/1280px-Raganello_%28Torrent%29_Civita.jpg",
+    "alt": "The Raganello river winding through its gorge below Civita, with the Ionian Sea on the horizon",
+    "credit": "Asia, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARaganello_%28Torrent%29_Civita.jpg"
+   }
+  },
+  {
+   "name": "Le Castella",
+   "desc": "A 15th-century Aragonese fortress on a small island joined to the shore by a strip of land, near Isola di Capo Rizzuto. Swim and snorkel in the protected marine area around it, and eat fish in the village.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Le_Castella_-_Castello_Aragonese_-_06.jpg/1280px-Le_Castella_-_Castello_Aragonese_-_06.jpg",
+    "alt": "The Aragonese fortress of Le Castella standing on its islet in the sea",
+    "credit": "Benjamin Smith, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALe_Castella_-_Castello_Aragonese_-_06.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Peperoncino Festival",
+   "when": "Early to mid-September",
+   "where": "Diamante",
+   "desc": "Five days of chilli everything: tastings, a chilli-eating contest, cookery shows and music in the streets of a seaside town covered in murals.",
+   "url": "https://www.peperoncinofestival.org/"
+  },
+  {
+   "name": "Festa della Madonna della Consolazione",
+   "when": "Second Saturday of September",
+   "where": "Reggio Calabria",
+   "desc": "The city's patron is carried down from her hilltop basilica to the cathedral by porters at a run, cheered by crowds, followed by days of celebrations."
+  },
+  {
+   "name": "L'Affruntata",
+   "when": "Easter Sunday",
+   "where": "Vibo Valentia and nearby villages",
+   "desc": "Statues of the risen Christ, the Virgin and Saint John are carried at a run to 'meet' in the town square, as the Virgin's black veil is dropped."
+  },
+  {
+   "name": "Kaulonia Tarantella Festival",
+   "when": "August",
+   "where": "Caulonia",
+   "desc": "A week of tarantella, organetto, lira calabrese and bagpipe music in a hilltop town on the Ionian coast, with concerts, workshops and dancing in the streets until late.",
+   "url": "https://www.kauloniatarantellafestival.it/"
+  }
+ ],
+ "culture": "Calabria's folk music is the tarantella: fast, circular dances driven by organetto, tambourine, the zampogna bagpipe and the three-string lira calabrese, alive at village festivals and the Kaulonia Tarantella Festival. The region holds minorities with ancient roots: Arbëreshë villages like Civita and Lungro, founded by Albanian refugees in the 15th century, keep Byzantine-rite churches and their own language, while in the Aspromonte a handful of villages around Bova still speak Greko. Easter rites like the Affruntata are powerful theatre, and crafts include the woven blankets of Tiriolo and ceramics of Seminara.",
+ "official_site": "https://calabriastraordinaria.it/en"
+}

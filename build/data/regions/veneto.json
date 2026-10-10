@@ -1,0 +1,298 @@
+{
+ "slug": "veneto",
+ "name": "Veneto",
+ "italian_name": "Veneto",
+ "area": "north",
+ "capital": "Venice",
+ "tagline": "From lagoon to Dolomites: Venice, Palladio's villas and the Prosecco hills.",
+ "intro": [
+  "The Veneto runs from the lagoon to the Dolomites, and for centuries it was the mainland of the Most Serene Republic of Venice. That inheritance is everywhere: winged lions over city gates, Palladio's villas among the maize fields, and arcaded squares in Padua, Vicenza and Treviso where the spritz is the excuse to sit down. Venice itself needs no introduction, but it rewards anyone who stays the night, after the day-trippers leave.",
+  "Beyond Venice, Verona has its Roman arena and Shakespearean balconies, Padua has Giotto's blue chapel, and the steep Prosecco hills of Conegliano and Valdobbiadene are a UNESCO landscape. To the north rise Cortina and some of the most famous peaks in the Dolomites. The cooking moves from cicchetti and creamy baccalà in the lagoon to radicchio from Treviso, risotto, polenta and grappa in the foothills."
+ ],
+ "hero_image": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ponte_di_Rialto_Venice_1.jpg/1280px-Ponte_di_Rialto_Venice_1.jpg",
+  "alt": "Boats on the Grand Canal before the Rialto Bridge in warm evening light, Venice",
+  "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+  "page": "https://commons.wikimedia.org/wiki/File%3APonte_di_Rialto_Venice_1.jpg"
+ },
+ "known_for": [
+  "Venice and its lagoon",
+  "Palladian villas",
+  "Prosecco",
+  "Verona's Arena",
+  "Cortina and the Dolomites",
+  "Spritz and cicchetti",
+  "Giotto in Padua"
+ ],
+ "best_time": "April to June and September to October are best, with mild weather, the Biennale on and fewer crowds. Carnival in February and the Regata Storica in September are peak times in Venice. Come to Cortina from December to March for skiing or July to September for hiking, and to the Prosecco hills for the September harvest.",
+ "getting_there": "Venice Marco Polo and Treviso airports serve the lagoon, and Verona Villafranca serves the west. Fast trains link Venezia Santa Lucia, Padua, Vicenza and Verona in under 90 minutes, and regional trains reach Treviso, Conegliano and Bassano. In Venice you walk or take the vaporetto. Cortina is reached by direct coaches from Venice and its airport, or you can drive into the mountains.",
+ "places": [
+  {
+   "name": "Venice",
+   "desc": "Stay at least two nights. Cross the Rialto at dawn when the fish market opens, see Tintoretto at the Scuola Grande di San Rocco, and get lost in Cannaregio and Castello, where washing still hangs over the canals. Eat cicchetti standing up, and ride vaporetto line 1 down the Grand Canal at sunset.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DSC_0617_%2849258233932%29.jpg/1280px-DSC_0617_%2849258233932%29.jpg",
+    "alt": "San Giorgio Maggiore's church and bell tower on its island across the Venetian lagoon",
+    "credit": "Ekaterina Valinakova, CC0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ADSC_0617_%2849258233932%29.jpg"
+   }
+  },
+  {
+   "name": "Verona",
+   "desc": "Pink-marble Piazza delle Erbe and the Roman Arena, where opera plays under the stars in summer. Skip Juliet's balcony crowds, then climb to Castel San Pietro for the river view, explore San Zeno's bronze doors, and drink Valpolicella or a glass of Soave in an old osteria.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Italy_-_Verona_-_Arena.jpg/1280px-Italy_-_Verona_-_Arena.jpg",
+    "alt": "Aerial view of Verona's Roman Arena amid the terracotta roofs of the old town",
+    "credit": "Arne Müseler, Public domain, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AItaly_-_Verona_-_Arena.jpg"
+   }
+  },
+  {
+   "name": "Padua",
+   "desc": "Giotto covered the Scrovegni Chapel in deep-blue frescoes around 1305, and timed slots keep visits magical. Padua is also home to one of Europe's oldest universities, with its anatomical theatre, and to the Basilica of Sant'Antonio. Have a spritz under the arcades of Piazza delle Erbe and Piazza della Frutta.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Prato_della_Valle.JPG/1280px-Prato_della_Valle.JPG",
+    "alt": "The oval canal and statues of Prato della Valle in Padua, with domes beyond",
+    "credit": "Hannelore, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3APrato_della_Valle.JPG"
+   }
+  },
+  {
+   "name": "Vicenza",
+   "desc": "Palladio's city: the Basilica Palladiana's loggias on the main square, the Teatro Olimpico with its trompe-l'oeil streets, and, just outside town, the domed Villa La Rotonda. Climb to Monte Berico's sanctuary for the city view, and eat baccalà alla vicentina with soft polenta.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Basilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg/1280px-Basilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg",
+    "alt": "Palladio's white double-arcaded Basilica Palladiana on Vicenza's Piazza dei Signori",
+    "credit": "Didier Descouens, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABasilica_Palladiana_%28Vicenza%29_-_facade_on_Piazza_dei_signori.jpg"
+   }
+  },
+  {
+   "name": "Cortina d'Ampezzo",
+   "desc": "The elegant capital of the Dolomites, ringed by the Tofane, Cristallo and Cinque Torri. Ski the Olympia slopes in winter. In summer, take the cable car up Lagazuoi to the First World War tunnels, or drive to the Tre Cime di Lavaredo for the classic loop walk around the three peaks.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Faloria_Cortina_d%27Ampezzo_10.jpg/1280px-Faloria_Cortina_d%27Ampezzo_10.jpg",
+    "alt": "Cortina d'Ampezzo in its green valley below the pale walls of the Tofane",
+    "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFaloria_Cortina_d%27Ampezzo_10.jpg"
+   }
+  },
+  {
+   "name": "Bassano del Grappa",
+   "desc": "A handsome town on the Brenta river, crossed by Palladio's covered wooden bridge, the Ponte degli Alpini. Taste grappa at Nardini's riverside bar, which has been pouring since 1779, eat white asparagus in spring, and see the Monte Grappa memorials from the First World War.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bassano_del_Grappa_Abendstimmung.jpg/1280px-Bassano_del_Grappa_Abendstimmung.jpg",
+    "alt": "The covered wooden Ponte degli Alpini and Bassano's old town reflected in the Brenta at golden hour",
+    "credit": "Museshare, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABassano_del_Grappa_Abendstimmung.jpg"
+   }
+  }
+ ],
+ "things_to_do": [
+  {
+   "title": "Go on a bacaro crawl in Venice",
+   "desc": "Hop between wine bars around Rialto and Cannaregio for an ombra, a small glass of wine, and cicchetti: baccalà mantecato on polenta, sarde in saor and fried meatballs. Most close by early evening."
+  },
+  {
+   "title": "Row a gondola yourself",
+   "desc": "Take a voga alla veneta lesson with Row Venice in Cannaregio, standing to row a traditional batellina like a Venetian. It's quieter, cheaper and more fun than a gondola ride."
+  },
+  {
+   "title": "See opera in the Arena di Verona",
+   "desc": "Unreserved stone-step seats are cheap. Bring a cushion, and buy a candle to light as the overture starts. The summer season runs from June to early September."
+  },
+  {
+   "title": "Visit the outer lagoon islands",
+   "desc": "Take the vaporetto to Burano's painted houses and lace shops, then cross to Torcello's Byzantine mosaics and its almost empty meadows. Mazzorbo has a walled vineyard, where you can have lunch."
+  },
+  {
+   "title": "Drive the Prosecco road",
+   "desc": "Follow the Strada del Prosecco between Conegliano and Valdobbiadene. Stop at the Cartizze hill, eat at an osteria senza oste, and taste at family cantine."
+  },
+  {
+   "title": "Cycle the Brenta Riviera",
+   "desc": "Follow the Brenta canal from Padua towards the lagoon past the Venetian villas, including the Villa Pisani with its hedge maze and Palladio's Villa Foscari 'La Malcontenta'."
+  },
+  {
+   "title": "Walk the Tre Cime loop",
+   "desc": "From Rifugio Auronzo, an easy 10-km circuit goes around the three great walls of the Tre Cime via Rifugio Locatelli. Start early in summer, as the toll road and car park fill fast."
+  }
+ ],
+ "flavours": [
+  {
+   "name": "Baccalà mantecato",
+   "type": "dish",
+   "desc": "Dried cod whipped with olive oil into a fluffy cream and spread on grilled polenta. It is the king of Venetian cicchetti."
+  },
+  {
+   "name": "Sarde in saor",
+   "type": "dish",
+   "desc": "Fried sardines marinated with sweet-sour onions, vinegar, pine nuts and raisins. It was a sailors' dish designed to keep."
+  },
+  {
+   "name": "Risotto al nero di seppia",
+   "type": "dish",
+   "desc": "Inky-black risotto made with cuttlefish and its ink, a classic of the lagoon. Order it in spring, when the cuttlefish are in season."
+  },
+  {
+   "name": "Bigoli in salsa",
+   "type": "dish",
+   "desc": "Thick wholewheat spaghetti in a slow-cooked sauce of onions and anchovies, traditionally eaten on fast days."
+  },
+  {
+   "name": "Radicchio Rosso di Treviso IGP",
+   "type": "dish",
+   "desc": "Tight, crimson-and-white winter radicchio, grilled, folded into risotto or baked. The late tardivo variety looks like a flower."
+  },
+  {
+   "name": "Asiago DOP",
+   "type": "cheese",
+   "desc": "A cheese from the Asiago plateau, sold fresh and mild or aged and crumbly. Taste it with honey and a glass of Valpolicella."
+  },
+  {
+   "name": "Amarone della Valpolicella",
+   "type": "wine",
+   "desc": "A rich, dry red made from grapes dried for months before pressing. Drink it with braised meat or a hard cheese."
+  },
+  {
+   "name": "Prosecco Superiore DOCG",
+   "type": "wine",
+   "desc": "From the steep hills of Conegliano and Valdobbiadene, finer and drier than the everyday stuff. Try a cloudy col fondo version."
+  },
+  {
+   "name": "Tiramisù",
+   "type": "sweet",
+   "desc": "Treviso claims the original: savoiardi soaked in coffee, mascarpone, eggs and cocoa. There's no alcohol in the classic recipe."
+  },
+  {
+   "name": "Spritz",
+   "type": "spirit",
+   "desc": "Prosecco, a bitter liqueur such as Aperol, Select or Campari, and a splash of soda, with an olive or orange slice. Venetians drink it from late afternoon."
+  }
+ ],
+ "legacy_restaurants": [
+  {
+   "name": "Caffè Florian",
+   "city": "Venice",
+   "since": "1720",
+   "desc": "Italy's oldest café, with mirrored and frescoed salons under the Procuratie of Piazza San Marco. Casanova and Dickens took coffee here. Pay the music surcharge and enjoy the orchestra.",
+   "url": "https://caffeflorian.com/"
+  },
+  {
+   "name": "Cantina Do Mori",
+   "city": "Venice",
+   "since": "1462",
+   "desc": "Said to be Venice's oldest bacaro, a dark wooden bar near Rialto hung with copper pots. Stand at the counter for an ombra and francobolli, tiny 'stamp' sandwiches. Closed on Sundays."
+  },
+  {
+   "name": "Caffè Pedrocchi",
+   "city": "Padua",
+   "since": "1831",
+   "desc": "The neoclassical 'café without doors' was once open day and night, and students and patriots met here in 1848. Order the caffè Pedrocchi with mint cream, and don't stir it.",
+   "url": "https://www.caffepedrocchi.it/"
+  },
+  {
+   "name": "Antica Bottega del Vino",
+   "city": "Verona",
+   "since": "1890",
+   "desc": "A dark-panelled osteria off Via Mazzini with a legendary cellar of Amarone and Valpolicella. Order the risotto all'Amarone, or a Veronese classic such as pastissada de caval, a slow horse stew.",
+   "url": "https://bottegavini.it/"
+  }
+ ],
+ "stay_local": [
+  {
+   "title": "A Prosecco hills agriturismo",
+   "desc": "Family wineries around Valdobbiadene, Follina and Refrontolo rent rooms among the steep vineyard 'hogbacks'. Breakfast includes soppressa salami and local cheese, and at harvest time you can lend a hand among the vines."
+  },
+  {
+   "title": "A rifugio in the Dolomites",
+   "desc": "Sleep at Rifugio Lagazuoi at 2,752 metres or Rifugio Locatelli below the Tre Cime, with a dinner of canederli and a dawn view across a sea of peaks. Book early for July and August."
+  },
+  {
+   "title": "An apartment in residential Venice",
+   "desc": "Stay in Cannaregio, Castello or on the Giudecca, where Venetians still live. You'll shop at the Rialto market, drink at the local bacaro, and have quiet canals to yourself at night."
+  }
+ ],
+ "day_trips": [
+  {
+   "from": "Venice",
+   "to": "Padua",
+   "how": "About 30 min by train",
+   "desc": "Book a slot at the Scrovegni Chapel, walk to the Basilica of Sant'Antonio, and have a spritz in the market squares before heading back for dinner in Venice."
+  },
+  {
+   "from": "Venice",
+   "to": "Burano and Torcello",
+   "how": "About 45 min by vaporetto",
+   "desc": "Visit colourful Burano for lace and fish risotto, then quiet Torcello for the golden Last Judgement mosaic in its cathedral."
+  },
+  {
+   "from": "Verona",
+   "to": "Lake Garda and Valpolicella",
+   "how": "About 40 min by car or bus",
+   "desc": "Taste Amarone in a Valpolicella cantina, then swim and have dinner at Lazise or Garda on the lake's eastern shore."
+  }
+ ],
+ "hidden_gems": [
+  {
+   "name": "Asolo",
+   "desc": "The 'city of a hundred horizons' is a hilltop town of arcades and frescoed façades above the Prosecco and olive country. Explorer Freya Stark and actress Eleonora Duse lived here. Walk up to the Rocca at sunset.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Fortress_of_Asolo%2C_TV%2C_Italy.jpg/1280px-The_Fortress_of_Asolo%2C_TV%2C_Italy.jpg",
+    "alt": "Asolo's medieval Rocca fortress on its wooded hilltop under a blue sky",
+    "credit": "Tonchino, CC BY-SA 3.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AThe_Fortress_of_Asolo%2C_TV%2C_Italy.jpg"
+   }
+  },
+  {
+   "name": "Arquà Petrarca",
+   "desc": "A medieval village in the volcanic Euganean Hills, where the poet Petrarch spent his last years. Visit his house, taste brodo di giuggiole, a jujube liqueur, and walk the olive-covered slopes.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arqua_Petrarca_14_%288186982793%29.jpg/1280px-Arqua_Petrarca_14_%288186982793%29.jpg",
+    "alt": "Arquà Petrarca's stone houses and red roofs on a green slope of the Euganean Hills",
+    "credit": "Alain Rouiller, CC BY-SA 2.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AArqua_Petrarca_14_%288186982793%29.jpg"
+   }
+  },
+  {
+   "name": "The Prosecco hills",
+   "desc": "The steep 'hogback' hills between Conegliano and Valdobbiadene are patterned with vineyards, little churches and osterie. Visit the Molinetto della Croda, a seventeenth-century mill built against a waterfall at Refrontolo, or stand on the slopes of Cartizze at harvest time.",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vista_da_Santo_Stefano_Valdobbiadene.jpg/1280px-Vista_da_Santo_Stefano_Valdobbiadene.jpg",
+    "alt": "Steep terraced Prosecco vineyards near Santo Stefano di Valdobbiadene",
+    "credit": "Civvì, CC BY-SA 4.0, via Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVista_da_Santo_Stefano_Valdobbiadene.jpg"
+   }
+  }
+ ],
+ "festivals": [
+  {
+   "name": "Carnevale di Venezia",
+   "when": "About two weeks before Lent, February",
+   "where": "Venice",
+   "desc": "Masks and costumes fill the calli. Highlights include the Flight of the Angel from the Campanile and the water parade in Cannaregio. Book rooms early.",
+   "url": "https://www.carnevale.venezia.it/"
+  },
+  {
+   "name": "Festa del Redentore",
+   "when": "Third weekend of July",
+   "where": "Venice",
+   "desc": "A pontoon bridge spans the Giudecca Canal to Palladio's Redentore church, and on Saturday night Venetians eat dinner on boats before a huge fireworks display over the basin."
+  },
+  {
+   "name": "Regata Storica",
+   "when": "First Sunday of September",
+   "where": "Grand Canal, Venice",
+   "desc": "A parade of Renaissance-style boats with costumed rowers, followed by fiercely contested races between Venetian rowing clubs down the Grand Canal."
+  },
+  {
+   "name": "Arena di Verona Opera Festival",
+   "when": "June to early September",
+   "where": "Verona",
+   "desc": "Aida, Carmen and Turandot are staged on a grand scale in the Roman amphitheatre. Bring a cushion and a light jacket.",
+   "url": "https://www.arena.it/"
+  }
+ ],
+ "culture": "The Venetian Republic left behind a language as much as a style. Venetian dialect is still spoken with pride, from Goldoni's comedies to the cries of the market. Murano glassblowing, Burano lace, the squeri where gondolas are built and Venice's Carnival masks all remain living crafts. Palladio's buildings defined Western architecture, and Vivaldi, Venetian by birth, taught at the Pietà. In the hills, Marostica's living chess game and the Alpini mountain troops' choirs show off the mainland's own traditions.",
+ "official_site": "https://www.veneto.eu/"
+}
